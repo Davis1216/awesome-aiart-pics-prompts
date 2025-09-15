@@ -148,6 +148,31 @@ GPT 4O生成封面提示词（要把这个空白图一同发给GPT控制图像�
 
 ---
 
+## Pierrick Chevallier | IA
+
+### [Back to NIJI Mode: Pencil Sketch of Dynamic Muscle Character](https://aiart.pics/prompt/back-to-niji-mode-pencil-sketch-of-dynamic-muscle-character)
+
+**Author**: [@Pierrick Chevallier | IA](https://x.com/CharaspowerAI)
+
+**Source**: [X](https://x.com/CharaspowerAI/status/1895481600592269400)
+
+<img src="https://img1.aiart.pics/images/prompts/20251205/back-to-niji-mode-pencil-sketch-of-dynamic-muscle-character-1.jpg" width="500" alt="Back to NIJI Mode: Pencil Sketch of Dynamic Muscle Character">
+
+<img src="https://img1.aiart.pics/images/prompts/20251205/back-to-niji-mode-pencil-sketch-of-dynamic-muscle-character-2.jpg" width="500" alt="Back to NIJI Mode: Pencil Sketch of Dynamic Muscle Character">
+
+<img src="https://img1.aiart.pics/images/prompts/20251205/back-to-niji-mode-pencil-sketch-of-dynamic-muscle-character-3.jpg" width="500" alt="Back to NIJI Mode: Pencil Sketch of Dynamic Muscle Character">
+
+<img src="https://img1.aiart.pics/images/prompts/20251205/back-to-niji-mode-pencil-sketch-of-dynamic-muscle-character-4.jpg" width="500" alt="Back to NIJI Mode: Pencil Sketch of Dynamic Muscle Character">
+
+```
+🚨#PromptShare🚨
+Lately, I’ve been diving back into NIJI mode on #Midjourney, and honestly, it’s pure fun! 🎨🔥
+A pencil drawing of [Your character], with detailed lines and shading on white paper, capturing the energy and strength in his muscular body [with element effects] around  the character, in a dynamic pose,   tattoo design on paper, manga art style, dark background, high contrast, strong shadows, light and shadow effects, black ink drawing,  dynamic pose
+💡 Like & share if you love this prompt as much as I do! 🚀
+```
+
+---
+
 ## Ev
 
 ### [Odeo Thoughts Capture](https://aiart.pics/prompt/odeo-thoughts-capture)
