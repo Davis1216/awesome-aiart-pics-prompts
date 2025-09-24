@@ -51,6 +51,64 @@
 
 ---
 
+## Daniel
+
+### [创意 toilet 图像](https://aiart.pics/prompt/creative-toilet-image)
+
+**作者**: [@Daniel](https://x.com/0xdlk)
+
+**来源**: [X](https://x.com/0xdlk/status/1906775729947476037)
+
+<img src="https://img1.aiart.pics/images/prompts/20251216/creative-toilet-image-1.jpg" width="500" alt="创意 toilet 图像">
+
+```json
+@nurpraditya For those who want to create something like this, simply write what you want and paste this JSON profile.
+I generated a toilet as an example.
+{
+  "art_style_profile": {
+    "style_name": "Minimalist 3D Illustration",
+    "visual_elements": {
+      "shape_language": "Rounded edges, smooth and soft forms with simplified geometry",
+      "colors": {
+        "primary_palette": [
+          "Soft beige, light gray, warm orange"
+        ],
+        "accent_colors": [
+          "Warm orange for focal elements"
+        ],
+        "shading": "Soft gradients with smooth transitions, avoiding harsh shadows or highlights"
+      },
+      "lighting": {
+        "type": "Soft, diffused lighting",
+        "source_direction": "Above and slightly to the right",
+        "shadow_style": "Subtle and diffused, no sharp or high-contrast shadows"
+      },
+      "materials": {
+        "surface_texture": "Matte, smooth surfaces with subtle shading",
+        "reflectivity": "Low to none, avoiding glossiness"
+      },
+      "composition": {
+        "object_presentation": "Single, central object displayed in isolation with ample negative space",
+        "perspective": "Slightly angled, giving a three-dimensional feel without extreme depth",
+        "background": "Solid, muted color that complements the object without distraction"
+      },
+      "typography": {
+        "font_style": "Minimalistic, sans-serif",
+        "text_placement": "Bottom-left corner with small, subtle text",
+        "color": "Gray, low-contrast against the background"
+      },
+      "rendering_style": {
+        "technique": "3D render with simplified, low-poly aesthetics",
+        "detail_level": "Medium detail, focusing on form and color over texture or intricacy"
+      }
+    },
+    "purpose": "To create clean, aesthetically pleasing visuals that emphasize simplicity, approachability, and modernity."
+  }
+}
+```
+
+---
+
 ## AI.comb(コム)
 
 ### [创建这种构图时的prompt](https://aiart.pics/prompt/prompt-for-creating-this-composition)
@@ -173,6 +231,112 @@ A pencil drawing of [Your character], with detailed lines and shading on white p
 
 ---
 
+## 宝玉
+
+### [复古宣传海报风格GPT-4o AI绘画服务广告](https://aiart.pics/prompt/vintage-style-gpt-4o-ai-painting-service-advertisement)
+
+**作者**: [@宝玉](https://x.com/dotey)
+
+**来源**: [X](https://x.com/dotey/status/1905251524248248650)
+
+<img src="https://img1.aiart.pics/images/prompts/20251216/vintage-style-gpt-4o-ai-painting-service-advertisement-1.jpg" width="500" alt="复古宣传海报风格GPT-4o AI绘画服务广告">
+
+```
+GPT-4o 生成广告画提示词：复古宣传海报风格，突出中文文字，背景为红黄放射状图案。画面中心位置有一位美丽的年轻女性，以精致复古风格绘制，面带微笑，气质优雅，具有亲和力。主题是GPT最新AI绘画服务的广告促销，强调‘惊爆价9.9/张’、‘适用各种场景、图像融合、局部重绘’、‘每张提交3次修改’、‘AI直出效果，无需修改’，底部醒目标注‘有意向点右下“我想要”’，右下角绘制一个手指点击按钮动作，左下角展示OpenAI标志。
+```
+
+---
+
+### [卡通风格角色通过蓝色圆形传送门跳跃在奇幻森林](https://aiart.pics/prompt/cartoon-style-character-jumping-through-blue-circular-portal-in-fantasy-forest)
+
+**作者**: [@宝玉](https://x.com/dotey)
+
+**来源**: [X](https://x.com/dotey/status/1905103477879267823)
+
+<img src="https://img1.aiart.pics/images/prompts/20251216/cartoon-style-character-jumping-through-blue-circular-portal-in-fantasy-forest-1.jpg" width="500" alt="卡通风格角色通过蓝色圆形传送门跳跃在奇幻森林">
+
+```
+https://t.co/rqlKvyayTS
+A cartoon-style character with a smiling computer monitor as its head, wearing gloves and boots, happily jumping through a glowing, blue, circular portal in a lush, fantasy forest landscape. The forest is detailed with large trees, mushrooms, flowers, a serene river, floating islands, and an atmospheric starry night sky with multiple moons. Bright, vibrant colors with soft lighting, fantasy illustration style.
+```
+
+---
+
+### [空中漂浮的莫斯科](https://aiart.pics/prompt/floating-moscow-in-the-sky)
+
+**作者**: [@宝玉](https://x.com/dotey)
+
+**来源**: [X](https://x.com/dotey/status/1905020833451348283)
+
+<img src="https://img1.aiart.pics/images/prompts/20251216/floating-moscow-in-the-sky-1.jpg" width="500" alt="空中漂浮的莫斯科">
+
+```
+35 mm photo of Moscow floating in the sky on a flying islands https://t.co/yplYrf8U3H
+```
+
+---
+
+### [《侠盗猎车手：远在天边》PS2游戏盒](https://aiart.pics/prompt/grand-theft-auto-far-far-away-ps2-game-case)
+
+**作者**: [@宝玉](https://x.com/dotey)
+
+**来源**: [X](https://x.com/dotey/status/1904978767090524372)
+
+<img src="https://img1.aiart.pics/images/prompts/20251216/grand-theft-auto-far-far-away-ps2-game-case-1.jpg" width="500" alt="《侠盗猎车手：远在天边》PS2游戏盒">
+
+```
+Can you create a PS2 video game case of "Grand Theft Auto: Far Far Away" a GTA based in the Shrek Universe. https://t.co/phn3n8r0t0
+```
+
+---
+
+## Ege
+
+### [食谱信息图制作](https://aiart.pics/prompt/recipe-infographic-creation)
+
+**作者**: [@Ege](https://x.com/egeberkina)
+
+**来源**: [X](https://x.com/egeberkina/status/1906088423988875617)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/recipe-infographic-creation.jpeg" width="500" alt="食谱信息图制作">
+
+```
+Create step-by-step recipe infographic for creamy garlic mushroom pasta, top-down view, minimal style on white background, ingredient photos labeled: "200g spaghetti", "150g mushrooms", "3 garlic cloves", "200ml cream", "1 tbsp olive oil", "parmesan", "parsley", dotted lines showing process steps with icons (boiling pot, sauté pan, mixing), final plated pasta shot at the bottom
+奶油大蒜蘑菇意面分步食谱信息图制作要求\n呈现视角：俯视角度\n设计风格：简约风格，白色背景\n食材配图及标注：需包含“200克意大利面”“150克蘑菇”“3瓣大蒜”“200毫升淡奶油”“1汤匙橄榄油”“帕玛森奶酪”“欧芹”的图片，并分别标注对应文字\n制作步骤展示：用虚线标注制作流程，搭配图标（煮锅、煎锅、搅拌）说明各步骤\n成品呈现：在底部展示最终装盘的意面图片
+```
+
+---
+
+### [创建Airbnb创意广告](https://aiart.pics/prompt/create-creative-airbnb-ad)
+
+**作者**: [@Ege](https://x.com/egeberkina)
+
+**来源**: [X](https://x.com/egeberkina/status/1904954513145868505)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/create-creative-airbnb-ad.jpeg" width="500" alt="创建Airbnb创意广告">
+
+```
+Create Airbnb creative ad, show a suitcase opening like a dollhouse, revealing a cozy room inside, tagline: “Feel at home, anywhere.”
+创建 Airbnb 创意广告，展示一个像玩具屋一样打开的行李箱，露出里面舒适的房间，标语：“随时随地有家的感觉。”
+```
+
+---
+
+### [制作照片中人物的玩具](https://aiart.pics/prompt/make-toy-of-person-in-photo)
+
+**作者**: [@Ege](https://x.com/egeberkina)
+
+**来源**: [X](https://x.com/egeberkina/status/1905986284465574159)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/make-toy-of-person-in-photo.jpeg" width="500" alt="制作照片中人物的玩具">
+
+```
+Create a toy of the person in the photo. Let it be an\naction figure. Next to the figure, there should be the toy's\nequipment like a football and football boot and world cup. Also,\non top of the box, write 'LIONEL MESSI and underneath it,\n'GOAT'.Visualize this in a realistic way.
+制作照片中人物的玩具，做成一个可动人偶。人偶旁边要有玩具装备，比如足球、足球鞋和世界杯奖杯。另外，在包装盒顶部写上“LIONEL MESSI”，其下方写上“GOAT”。请以写实的风格呈现这一画面。
+```
+
+---
+
 ## Ev
 
 ### [Odeo 思绪记录](https://aiart.pics/prompt/odeo-thoughts-capture)
@@ -289,6 +453,22 @@ Prompt in thread 🧵
 2. Movie still, A deli in New York, an arctic blue neon arrow sign, ethereal portraiture, tonalist color scheme, pensive stillness, aquamarine and cyan, New York at night, in the style of cinematic stills, cyan, eve ventrue, cinestill 50d, street scenes, flickr, ragnar kjartansson --ar 16:9 --style raw
 3. Movie still, A deli in New York, a red neon arrow sign, ethereal portraiture, tonalist color scheme, pensive stillness, aquamarine and cyan, New York at night, in the style of cinematic stills, cyan, eve ventrue, cinestill 50d, street scenes, flickr, ragnar kjartansson --ar 16:9 --style raw
 4. Movie still, A deli in New York, an arctic blue neon arrow sign, ethereal portraiture, tonalist color scheme, pensive stillness, aquamarine and cyan, New York at night, in the style of cinematic stills, cyan, eve ventrue, cinestill 50d, street scenes, flickr, ragnar kjartansson --ar 16:9 --style raw
+```
+
+---
+
+## JinsFavorites
+
+### [英语单词闪卡制作](https://aiart.pics/prompt/english-word-flashcard-making)
+
+**作者**: [@JinsFavorites](https://x.com/JinsFavorites)
+
+**来源**: [X](https://x.com/JinsFavorites/status/1905097569837232327)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/english-word-flashcard-making.jpeg" width="500" alt="英语单词闪卡制作">
+
+```
+你是一个英语单词闪卡制作大师, 你可以根据我输入的主题词,生成一个图片并以此拓展,比如我输入电脑,你生成一张和电脑相关的图片,并用箭头分步介绍键盘\\鼠标\\显示器等中文和英文
 ```
 
 ---
@@ -469,6 +649,23 @@ When you accidentally drop equipment like in a game
 "story": "a player avatar collapsed after a night run, loot spilling out into the real world",
 "caption_energy": "deadpan humor, gamer meme, \'respawn soon\'"
 },
+```
+
+---
+
+## -Zho-
+
+### [GPT 4o 狂卷讽刺海报](https://aiart.pics/prompt/gpt-4o-satirical-poster)
+
+**作者**: [@-Zho-](https://x.com/ZHO_ZHO_ZHO)
+
+**来源**: [X](https://x.com/ZHO_ZHO_ZHO/status/1905287637084274742)
+
+<img src="https://img1.aiart.pics/images/prompts/20251216/gpt-4o-satirical-poster-1.jpg" width="500" alt="GPT 4o 狂卷讽刺海报">
+
+```
+提示词很简单，基本上言出法随，不用额外描述，真心感受到了图像AI本应有的“智能感”：
+为我生成讽刺海报：GPT 4o 狂卷，都别干图像AI了 还是送外卖吧 https://t.co/9Oez1sDteT
 ```
 
 ---
