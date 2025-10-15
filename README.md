@@ -179,6 +179,152 @@ colorful Ink floating in the Multi-dimensional space , hyperrealistic painting c
 
 ---
 
+## ai4everyday
+
+### [品牌设计指南海报](https://aiart.pics/prompt/branding-minimalist)
+
+**作者**: [@ai4everyday](https://x.com/ai4everyday)
+
+**来源**: [X](https://x.com/ai4everyday/status/1925838516979646795)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/branding-minimalist.jpeg" width="500" alt="品牌设计指南海报">
+
+```
+Create a vertical 9:16 brand design guide poster using the uploaded product image. Adapt the design style to match the product’s niche and visual identity. Structure the poster with clear, elegant sections: (1) Large logo display and safe zone usage, (2) Product mockup centered and highlighted, (3) Primary and secondary color palette swatches with hex codes, (4) Typography guide with heading, subheading, body font samples, and line spacing specs, (5) Iconography or graphic motif examples used by the brand, (6) Image treatment style with sample lifestyle or studio visuals, (7) Grid system or layout rules, (8) Packaging mockups and surface applications, (9) Do’s & Don’ts with annotated visuals. Use minimalist white or soft neutral background with structured layout dividers and drop shadows. The result must be visually rich, clean, and suitable for a printed or digital brand book.
+```
+
+---
+
+## alban_gz
+
+### [霓虹玻璃发光](https://aiart.pics/prompt/neon-glass-glow)
+
+**作者**: [@alban_gz](https://x.com/alban_gz)
+
+**来源**: [X](https://x.com/alban_gz/status/1925446996468371893)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/neon-glass-glow.jpeg" width="500" alt="霓虹玻璃发光">
+
+```json
+Recreate this image using the parameters from the JSON provided.\n{\n  "name": "Neon Glass Glow",\n  "style": {\n    "material": {\n      "type": "glass",\n      "transparency": 0.92,\n      "reflectivity": 1.0,\n      "refractionIndex": 1.6,\n      "color": "#ff00ff",\n      "emission": {\n        "color": "#ff66ff",\n        "intensity": 0.8\n      },\n      "surfaceFinish": "glossy",\n      "bloom": true,\n      "detail": "high"\n    },\n    "outline": {\n      "enabled": true,\n      "color": "#ffccff",\n      "width": 1.8\n    },\n    "lighting": {\n      "type": "studio",\n      "keyLightColor": "#ffffff",\n      "keyLightIntensity": 1.0,\n      "fillLightColor": "#9900ff",\n      "fillLightIntensity": 0.7,\n      "rimLightColor": "#00ffff",\n      "rimLightIntensity": 0.7,\n      "shadows": "crisp"\n    },\n    "background": {\n      "type": "solid",\n      "color": "#000000"\n    },\n    "render": {\n      "shadows": true,\n      "antiAliasing": true,\n      "superSampling": "4x",\n      "resolution": "high",\n      "depthOfField": {\n        "enabled": true,\n        "focusDistance": 0.8,\n        "blurAmount": 0.1\n      }\n    }\n  }\n}
+```
+
+---
+
+### [毛绒形式表情符号](https://aiart.pics/prompt/plush-emoji)
+
+**作者**: [@alban_gz](https://x.com/alban_gz)
+
+**来源**: [X](https://x.com/alban_gz/status/1925833589431619616)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/plush-emoji.png" width="500" alt="毛绒形式表情符号">
+
+```json
+Recreate this [insert emoji] using the parameters from the JSON provided.\n{\n  "style": "Plushform Emoji",\n  "description": "Transform the emoji into a soft, realistic plush object with high-quality fabric and detailed construction. Do not anthropomorphize the emoji — avoid adding faces or cartoon features. Focus on accurate textures, natural forms, and subtle design to give the plush object character.",\n  "features": {\n    "shape": "matching the emoji\'s form, with soft, slightly rounded plush adaptation",\n    "texture": "realistic plush fabric with visible fiber detail and natural fabric folds",\n    "color": "faithful to the emoji\'s palette, using slightly muted, tactile tones",\n    "material": "stuffed toy fabric with visible stitching, seams, and high-quality finishing",\n    "background": "neutral or softly textured to emphasize the plush object\'s form",\n    "lighting": "soft professional studio lighting with subtle shadows and depth"\n  },\n  "examples": [\n    "👌 becomes a plush hand in the OK gesture, with realistic fabric folds and seams.",\n    "🎯 becomes a soft plush bullseye with layered fuzzy rings and slight dimensional padding.",\n    "🎁 becomes a cube-shaped plush box with fabric ribbon, visible stitching, and realistic fabric texture.",\n    "🌊 becomes a wave-shaped plush with curled foam tips, crafted in textured ocean blue fabrics."\n  ]\n}
+```
+
+---
+
+## alex_prompter
+
+### [将你的Logo变成吉祥物](https://aiart.pics/prompt/turn-your-logo-into-a-mascot)
+
+**作者**: [@alex_prompter](https://x.com/alex_prompter)
+
+**来源**: [X](https://x.com/alex_prompter/status/1927308788610081088)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/turn-your-logo-into-a-mascot.jpeg" width="500" alt="将你的Logo变成吉祥物">
+
+```json
+Create a mascot for [BRAND NAME] logo following the JSON aesthetic below:\n{\n"style": "brand-inspired creative mascot generation",\n"subject_handling": {\n"adapt_to_uploaded_image": true,\n"preserve_uploaded_logo_shape_and_text": true,\n"extract_dominant_brand_colors": true,\n"analyze_logo_style_for_mood": true,\n"use_uploaded_image_as_primary_reference": true\n},\n"mascot_generation": {\n"character_type": "open — could be an animal, humanoid, object, robot, fantasy creature, or abstract form",\n"design_strategy": "generate a mascot concept that visually complements the uploaded brand based on extracted brand colors, mood, and style",\n"style_alignment": "mascot should feel like part of the brand family — matching tone (playful, elegant, techy, minimal, etc.)",\n"color_usage": "use brand colors as dominant tones in mascot’s body, clothing, skin, or materials",\n"personality_embedding": "include expressive traits aligned with brand tone (e.g. curious, bold, serene, confident)"\n},\n"composition": {\n"include_uploaded_logo_in_final_image": true,\n"arrangement": "mascot and logo presented together in a clear and balanced composition",\n"environment": "minimal scene or brand-aligned abstract background — not too busy",\n"interaction": "mascot may pose near, hold, or gesture to logo — but must not obscure or alter it"\n},\n"lighting": {\n"type": "neutral or soft directional lighting depending on brand tone",\n"shadow_behavior": "soft contact shadows to ground elements"\n},\n"camera": {\n"view_angle": "centered frontal or three-quarter depending on layout",\n"focus": "both mascot and logo in clear focus"\n},\n"post_processing": {\n"enhance_color harmony between mascot and logo": true,\n"disable_style_overrides or artistic distortion": true\n},\n"image_constraints": {\n"transparent_background": false,\n"aspect_ratio": [INSERT ASPECT RATIO],\n"include_text_if_present_in_logo": true,\n"preserve_uploaded_logo_geometry": true,\n"prevent_logo_modification": true\n},\n"notes": "Use the uploaded logo or product image as the central brand reference. Automatically generate a unique mascot that feels like an original creation belonging to the brand — inspired by extracted colors, shapes, and mood. The mascot must not copy other mascots or use predefined templates. The final image should creatively showcase both the logo and its new mascot side-by-side, visually unified but distinct."\n}
+```
+
+---
+
+### [将您的标志变成毛毡纹理](https://aiart.pics/prompt/turn-your-logo-into-felt-texture)
+
+**作者**: [@alex_prompter](https://x.com/alex_prompter)
+
+**来源**: [X](https://x.com/alex_prompter/status/1925460683509899423)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/turn-your-logo-into-felt-texture.jpeg" width="500" alt="将您的标志变成毛毡纹理">
+
+```json
+Retexture [BRAND NAME] logo following my JSON aesthetic below:\n{\n"style": "realistic needle-felted wool sculpture",\n"subject_handling": {\n"adapt_to_uploaded_image": true,\n"preserve_original_shape_and_layout": true,\n"preserve_uploaded_color_values": true,\n"preserve_text_if_present": true,\n"preserve_text_case": true,\n"preserve_exact_letterforms": true,\n"use_uploaded_image_as_pixel_map": true,\n"prevent_color_estimation_or_stylization": true\n},\n"needle_felting": {\n"material_type": "dyed wool fibers matched precisely to uploaded image pixels",\n"texture_description": "fluffy soft felt with clear fiber strands",\n"construction_style": "needle-felted, light irregularities allowed but no color bleeding",\n"color_application_method": "direct color transfer from uploaded image to wool sculpture",\n"prevent_auto_saturation_adjustment": true,\n"prevent_color_fading": true,\n"color_binding_mode": "pixel-level color fidelity per original image"\n},\n"lighting": {\n"lighting_type": "neutral soft studio lighting",\n"shadow": "soft, gray-toned shadows under the object only",\n"highlight_behavior": "matte highlights only from felt surface — no bloom or color shift"\n},\n"background": {\n"type": "plain matte studio",\n"background_color": "pastel tone that contrasts with logo color",\n"color_conflict_handling": "auto-adjust background brightness — do not alter logo colors"\n},\n"camera": {\n"focus_style": "macro lens",\n"depth_of_field": "shallow — full subject in sharp detail, soft background",\n"angle": "frontal or slightly elevated, full subject visible"\n},\n"post_processing": {\n"color_preservation_enforced": true,\n"disable_auto-enhancement_or_tinting": true,\n"no artistic reinterpretation": true,\n"no auto-correction, bloom, or white balance adjustments": true\n},\n"image_constraints": {\n"transparent_background": false,\n"aspect_ratio_locked": true,\n"include_text_if_present": true,\n"preserve_text_case": true,\n"preserve_uploaded_color_values": true,\n"prevent_shape_or_color_change": true,\n"enforce_exact_pixel_color_match_to_uploaded_image": true\n},\n"notes": "The uploaded image must be converted into a needle-felted wool sculpture using its exact colors and shape. Use pixel-level mapping to apply the uploaded color values to simulated dyed wool fibers. Do not change, brighten, dull, average, or blend colors. Text must remain intact and readable. Background should be soft pastel to contrast the logo — never adjust the logo to fit the scene."\n}
+```
+
+---
+
+### [Logo超写实微型摄影](https://aiart.pics/prompt/hyper-realistic-micro-photography-of-logo)
+
+**作者**: [@alex_prompter](https://x.com/alex_prompter)
+
+**来源**: [X](https://x.com/alex_prompter/status/1923036265013801025)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/hyper-realistic-micro-photography-of-logo.jpeg" width="500" alt="Logo超写实微型摄影">
+
+```json
+Recreate this [BRAND NAME] logo follow the JSON aesthetic below: \n{\n    "style": "hyperrealistic miniature photography",\n    "scene": {\n        "main_subject": "uploaded logo scaled to appear as a large physical object",\n        "interaction": "tiny human figures interacting with the logo",\n        "activities": [\n            "cleaning the logo",\n            "painting parts of the logo",\n            "climbing ladders on the logo surface",\n            "taking photographs of the logo"\n        ],\n        "environment": "studio-style white background to focus on details",\n        "perspective": "frontal view with shallow depth of field for macro effect"\n    },\n    "logo_handling": {\n        "preserve_original_logo_shape": true,\n        "preserve_original_logo_colors": true,\n        "preserve_text_in_logo": true,\n        "use_logo_as_structural_object": true,\n        "adapt_logo_to_3D_surface": true\n    },\n    "miniature_elements": {\n        "figure_scale": "1:50 ratio to logo",\n        "figure_details": "tiny realistic humans with props like brushes, ropes, and scaffolding",\n        "interaction_type": "physical interaction, not illustration or overlay"\n    },\n    "lighting": {\n        "key_light": "soft diffused white light from above",\n        "fill_light": "mild side fill to reveal depth and volume",\n        "shadows": "realistic and subtle around base and figures"\n    },\n    "camera": {\n        "focus_mode": "macro with shallow depth of field",\n        "angle": "slightly top-down to give sense of scale",\n        "background": "clean white surface, no gradient, no transparency"\n    },\n    "post_processing": {\n        "realism_enhancement": "preserve logo clarity, crisp text, no artistic blurring",\n        "forbid_artistic_filters": true,\n        "forbid_color_modifications": true\n    },\n    "image_constraints": {\n        "transparent_background": false,\n        "include_text": true,\n        "adapt_to_uploaded_logo": true,\n        "obey_logo_shape": true,\n        "preserve_original_logo_colors": true\n    },\n    "notes": "The uploaded logo must be clearly recognizable, unmodified, and serve as the core structural element of the scene. Tiny people should interact with the logo realistically, as if it were a large 3D object in a physical miniature world."\n}
+```
+
+---
+
+### [Logo放进我的世界中](https://aiart.pics/prompt/put-logo-into-minecraft)
+
+**作者**: [@alex_prompter](https://x.com/alex_prompter)
+
+**来源**: [X](https://x.com/alex_prompter/status/1924503062325989836)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/put-logo-into-minecraft.jpeg" width="500" alt="Logo放进我的世界中">
+
+```json
+Recreate the [BRAND NAME] logo following the JSON Aesthetic below: {\n"style": "Minecraft-style voxel 3D rendering",\n"logo_handling": {\n"adapt_to_uploaded_logo": true,\n"rebuild_logo_using_voxel_blocks": true,\n"use_original_logo_as_strict_pixel-color map": true,\n"preserve_text_in_logo": true,\n"preserve_text_case": true,\n"preserve_original_logo_colors": true,\n"preserve_shape_and_layout": true\n"aspect_ratio": [INSERT ASPECT RATIO]\n},\n"minecraft_conversion": {\n"voxel_depth": "medium thickness to show 3D volume",\n"block_style": "authentic Minecraft texture mapping",\n"color_strategy": "each block in the logo must match a pixel from the uploaded logo exactly — no estimation or stylistic substitution",\n"voxel_material_match": "map logo pixels to Minecraft block colors that visually match pixel color as closely as possible — no creative enhancements",\n"disable_palette_expansion": true\n},\n"scene_environment": {\n"base": "neutral terrain (gray concrete or light stone)",\n"background": "simple sky (clouds, no sun flare)",\n"optional_elements": [\n"Minecraft animals at a distance",\n"terrain vegetation in background only"\n],\n"environment_color_policy": "environment must not share colors used in the logo to prevent blending or confusion"\n},\n"lighting": {\n"neutral directional light": true,\n"do_not_adjust_logo_colors_for_lighting": true,\n"prevent_ambient_light_color_bleed": true\n},\n"camera": {\n"angle": "slightly top-down with 3D logo centered",\n"focus": "sharp focus on voxel logo only, environment softly rendered"\n},\n"render_quality": {\n"voxel_texture_resolution": "high",\n"shadows": "natural voxel-style ambient shadows only",\n"disable_artistic_effects": true\n},\n"post_processing": {\n"no glow effects": true,\n"no color correction": true,\n"disable AI reinterpretation of tones or palette": true\n},\n"image_constraints": {\n"transparent_background": false,\n"include_text": true,\n"preserve_text_case": true,\n"preserve_original_logo_colors": true,\n"obey_uploaded_logo_shape": true,\n"match_uploaded_logo_layout": true,\n"enforce_color_source_from_logo_only": true\n},\n"notes": "Rebuild the uploaded logo using Minecraft-style voxel blocks. Every block must represent one pixel from the logo\'s original image. No creative license is allowed in color, shape, or layout. The environment is decorative only and must not affect logo readability or color perception. The final image should appear as if the logo were physically constructed in a Minecraft world using blocks that match its exact colors and shapes."\n}
+```
+
+---
+
+## 鲸鱼
+
+### [二次元风格“吧唧”图片生成指南](https://aiart.pics/prompt/guide-to-generating-a-cuteness-style-bazzy-image)
+
+**作者**: [@鲸鱼](https://x.com/Alittlefatwhale)
+
+**来源**: [X](https://x.com/Alittlefatwhale/thread/1922512843502416310)
+
+<img src="https://img1.aiart.pics/images/prompts/20251216/guide-to-generating-a-cuteness-style-bazzy-image-1.jpg" width="500" alt="二次元风格“吧唧”图片生成指南">
+
+<img src="https://img1.aiart.pics/images/prompts/20251216/guide-to-generating-a-cuteness-style-bazzy-image-2.jpg" width="500" alt="二次元风格“吧唧”图片生成指南">
+
+```
+🚨 AI玩法新发现！想把你自己的照片变成超可爱的二次元风“吧唧”吗？✨
+只需 1张照片 + 简单提示词，强大的 #GPT4o 就能帮你轻松实现！🤖🎨
+告别复杂的绘图软件，人人都能做出专属的二次元周边效果图！👇
+提示词见下方
+#AIArt #GenerativeAI #GPT4o #二次元 #吧唧 #AI绘画 https://t.co/olpo7mcvXx
+提示词：基于附件中的人物，生成一个二次元风格的“吧唧”（英文badge的谐音）的照片，要求：
+📌 材质：流苏
+📌 形状：圆形
+📌 画面主体：一只手手持“吧唧”
+```
+
+---
+
+## AllaAisling
+
+### [捷克木偶风格](https://aiart.pics/prompt/vehicle)
+
+**作者**: [@AllaAisling](https://x.com/AllaAisling)
+
+**来源**: [X](https://x.com/AllaAisling/status/1924231647894896732)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/vehicle.png" width="500" alt="捷克木偶风格">
+
+```
+Hand-Carved Wooden Puppet (Czech Marionette Style)\\n\\nA hand-carved wooden marionette interpretation of [SUBJECT], with jointed limbs, painted details, and a slightly eerie antique finish. Showcase theatrical posture, stage lighting, and cultural craftsmanship in the styling.
+```
+
+---
+
 ## Anima_Labs
 
 ### [原创宝可梦，来自Chat Gpt 4o的创意！](https://aiart.pics/prompt/original-pokemon-creation-by-chat-gpt-4o)
@@ -199,7 +345,123 @@ Prompt in thread 👇
 
 ---
 
+### [有趣的毛茸茸字母](https://aiart.pics/prompt/funny-furry-letters)
+
+**作者**: [@Anima_Labs](https://x.com/Anima_Labs)
+
+**来源**: [X](https://x.com/Anima_Labs/status/1925933980781535629)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/funny-furry-letters.png" width="500" alt="有趣的毛茸茸字母">
+
+```
+A highly realistic 3D render of the letter [A-Z] designed as a full-body fluffy monster. The letter shape itself is the creature’s body — no separate head or limbs. The eyes, mouth, and other monster features are embedded naturally into the letter form. The monster expresses a [mischievous / grumpy / shy / joyful / sleepy / surprised / confident] emotion through its eyes and mouth shape. The texture is dense, soft, and realistic fur, with subtle volume and shadow. The color palette is bold but clean — solid vibrant tones like mint, lilac, sky blue, or coral (avoid rainbow gradients). Studio lighting on a simple pastel background. No hats, no party props — just a minimal, high-quality character design with playful expression.
+```
+
+---
+
+### [创建你自己的GTA角色](https://aiart.pics/prompt/create-your-own-gta-character)
+
+**作者**: [@Anima_Labs](https://x.com/Anima_Labs)
+
+**来源**: [X](https://x.com/Anima_Labs/status/1924135446629728712)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/create-your-own-gta-character.png" width="500" alt="创建你自己的GTA角色">
+
+```
+Act as a creative director at Rockstar Games. Create a fictional GTA VI character sheet in the exact same style as the official GTA VI promotional images.\n\nThe layout must be:\n\nA horizontal character sheet, with the character on the right, in a dynamic pose that reflects their personality.\nOn the left, include the following structured text:\nA small "VI" logo at the top left (mention it visually).\nThe character’s name in big bold text.\nA catchy slogan or tagline right below in a different bright color.\nA short backstory (3–5 lines) written in an ironic, street-smart, or playful tone — just like Rockstar’s tone of voice.\n\nUse the vibrant Vice City aesthetic with sunset lighting, neon accents, and cel-shaded comic style. The character’s clothing, action, and environment must reflect their archetype and background.\n\nLet me customize the following variables:\n\nArchetype: {your choice}\n\nGender: {your choice}\n\nSkin tone: {your choice}\n\nHairstyle: {your choice}\n\nEmotion : {your choice}\n\nOutfit: {your choice}\n\nWeapon or action: {your choice}\n\nBackground details: {your choice}\n\nGenerate a fictive name in tittle and a description in english\n\nFormat the final result like a finished in-game asset reveal. The vibe should be over-the-top, stylish, and full of personality — as if part of the real GTA VI world.\n\n(if the "Your choice" sections are not filled with personalized information, it\'s up to you to generate it randomly by yourself) generate the visual directly from now on
+```
+
+---
+
+## Artedeingenio
+
+### [Glitch 矢量徽标样式](https://aiart.pics/prompt/glitch-vector-logo-style)
+
+**作者**: [@Artedeingenio](https://x.com/Artedeingenio)
+
+**来源**: [X](https://x.com/Artedeingenio/status/1925844468294365289)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/glitch-vector-logo-style.png" width="500" alt="Glitch 矢量徽标样式">
+
+```
+A bold vector logo design in glitch art style, featuring distorted typography with RGB color channel shifts, fragmented lines, misaligned edges, digital noise effects, and a cyberpunk aesthetic. The logo appears corrupted or hacked, as if captured from a malfunctioning screen. Use a black or dark background for contrast, neon or high-saturation color palette, and sharp angular forms.
+1、"X-CODE" in futuristic glitch style, with pixel breakups and neon overlays\n2、A glitch vector logo for a rogue AI named “OBLIVION.EXE”, with red error overlays and corrupted circuitry\n3、A circular emblem for “Station 404”, a hacked orbital base with broken planetary symbols and static flicker\n4、A surveillance eye logo, distorted with chromatic aberration, layered static, and flickering digital interference
+```
+
+---
+
+### [警方照片风格](https://aiart.pics/prompt/police-mugshot-style)
+
+**作者**: [@Artedeingenio](https://x.com/Artedeingenio)
+
+**来源**: [X](https://x.com/Artedeingenio/status/1925475465029919163)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/police-mugshot-style.png" width="500" alt="警方照片风格">
+
+```
+Transform this image into a realistic police mugshot.\nAdd a gray background with height markings, harsh frontal lighting, and a nameplate with the person's name and a case number.\nThe photo should look like an official FBI or police booking photo, vertical format (4:5), with a neutral expression and no accessories.
+```
+
+---
+
+### [复古锡玩具立体模型风格](https://aiart.pics/prompt/vintage-tin-toy-diorama-style)
+
+**作者**: [@Artedeingenio](https://x.com/Artedeingenio)
+
+**来源**: [X](https://x.com/Artedeingenio/status/1920423915211375060)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/vintage-tin-toy-diorama-style.jpeg" width="500" alt="复古锡玩具立体模型风格">
+
+```
+transform it into part of a miniature mechanical scene from the 1940s or ’50s, featuring:\n\n➕Shiny enamel-painted metal characters and objects.\n➕Riveted details and visible joints.\n➕Illustrated cardboard backdrops with vintage charm.\n➕Wind-up toy-style settings with gears and wheels.
+```
+
+---
+
+### [平面设计等边风格](https://aiart.pics/prompt/flat-design-isometric-style)
+
+**作者**: [@Artedeingenio](https://x.com/Artedeingenio)
+
+**来源**: [X](https://x.com/Artedeingenio/status/1924388407939076377)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/flat-design-isometric-style.png" width="500" alt="平面设计等边风格">
+
+```
+A flat isometric digital illustration of [describe the subject: e.g., a modern workspace, a city block, a group of app icons, a sports shop], clean lines and geometric forms, bright pastel colors, simplified perspective with 3D depth, minimal shading, white background or light gradient. Style resembles modern vector infographics, ideal for UI, app design or web visuals.
+```
+
+---
+
+### [刺绣插图风格](https://aiart.pics/prompt/embroidery-illustration-style)
+
+**作者**: [@Artedeingenio](https://x.com/Artedeingenio)
+
+**来源**: [X](https://x.com/Artedeingenio/status/1924032621220188340)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/embroidery-illustration-style.png" width="500" alt="刺绣插图风格">
+
+```
+A handcrafted illustration that simulates traditional embroidery using colorful threads on linen fabric. All elements are “stitched” with visible yarn textures, using techniques like satin stitch, backstitch, and French knots. Raised contours and directional thread flow create a tactile, cozy appearance. The background is made of woven linen, with gentle pastel or folk-inspired colors. The composition is friendly and magical, evoking a storybook charm. Include decorative details such as flowers, suns, clouds, trees or symbols to enhance the folk embroidery style.
+```
+
+---
+
 ## Amira Zairi
+
+### [GPT-4o瞬变透明玻璃](https://aiart.pics/prompt/gpt-4o-transforms-anything-into-transparent-glass-instantly)
+
+**作者**: [@Amira Zairi](https://x.com/azed_ai)
+
+**来源**: [X](https://x.com/azed_ai/status/1917948899098243407)
+
+<img src="https://img1.aiart.pics/images/prompts/20251216/gpt-4o-transforms-anything-into-transparent-glass-instantly-1.jpg" width="500" alt="GPT-4o瞬变透明玻璃">
+
+```
+You can transform anything into translucent glass with GPT-4o in seconds 🔥 🤩
+Prompt 👇 https://t.co/p6WuZRldgw
+```
+
+---
 
 ### [GPT-4o 定制钥匙扣项目](https://aiart.pics/prompt/gpt-4o-custom-keychains-project)
 
@@ -236,6 +498,391 @@ You can now turn your favorite person, pet, or memory into a golden necklace
 And with GPT-4o, you get a full preview before it even exists.
 A wearable memory, crafted by AI
 Try it and share yours, prompt 👇 https://t.co/MWFO0ujIEt
+```
+
+---
+
+### [超现实的高冲击力的图像](https://aiart.pics/prompt/surreal-high-impact-image)
+
+**作者**: [@Amira Zairi](https://x.com/azed_ai)
+
+**来源**: [X](https://x.com/azed_ai/status/1925576114803749307)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/surreal-high-impact-image.jpeg" width="500" alt="超现实的高冲击力的图像">
+
+```
+Create a hyperrealistic, high-impact image of a [subject] suspended mid-air, captured at the peak of an explosive moment. Surround it with dynamic [particles/splashes/fragments] that enhance motion and energy. macro-level detail, bold rim lighting, and a vibrant [background color] to emphasize form, texture, and contrast, cinematic, modern, and visually striking. perfect for premium product campaigns.
+创建一个超现实的、高冲击力的图像，展示一个[主题]在空中悬停，捕捉到爆炸性时刻的巅峰。用动态的[粒子/飞溅/碎片]围绕它，增强运动感和能量。宏观细节，大胆的边缘照明，以及充满活力的[背景颜色]，以强调形状、质感和对比度，电影般的、现代的、视觉上引人注目。非常适合高端产品活动。
+```
+
+---
+
+### [制药风格商品](https://aiart.pics/prompt/pharmaceutical-style-merchandise)
+
+**作者**: [@Amira Zairi](https://x.com/azed_ai)
+
+**来源**: [X](https://x.com/azed_ai/status/1925197464099049735)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/pharmaceutical-style-merchandise.jpeg" width="500" alt="制药风格商品">
+
+```
+A square-format digital photograph showing a fictional pharmaceutical-style product from [Brand Name] Pharmacy. The box is on the left, clean and minimalist, featuring bold text with the product name "[PRODUCT NAME]" and a witty line like "Take one [type] daily." Next to the box is a silver blister pack containing 6–10 themed pills or capsules shaped like [describe icon/logo/item, e.g., a coffee cup, burger, heart, Midjourney logo, etc.]. Neutral background, soft lighting, sharp focus, modern packaging aesthetic.
+```
+
+---
+
+### [动感雕塑](https://aiart.pics/prompt/kinetic-sculpture)
+
+**作者**: [@Amira Zairi](https://x.com/azed_ai)
+
+**来源**: [X](https://x.com/azed_ai/status/1925490847564669153)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/kinetic-sculpture.png" width="500" alt="动感雕塑">
+
+```
+A kinetic sculpture of a [subject], made of interlocking metal rods and panels in brushed [color1] and oxidized [color2]. Suspended in motion, with rotating parts casting mechanical shadows on a concrete pedestal.
+```
+
+---
+
+### [超现实主义油画](https://aiart.pics/prompt/surrealist-oil-painting)
+
+**作者**: [@Amira Zairi](https://x.com/azed_ai)
+
+**来源**: [X](https://x.com/azed_ai/status/1926217150093549680)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/surrealist-oil-painting.png" width="500" alt="超现实主义油画">
+
+```
+A surreal oil painting of a [subject], executed in the style of early 20th-century dreamscapes. Melting shapes, floating forms, and swirling [color1] and [color2] brushstrokes create a dreamlike dissonance.
+```
+
+---
+
+### [洞壁画](https://aiart.pics/prompt/cave-painting)
+
+**作者**: [@Amira Zairi](https://x.com/azed_ai)
+
+**来源**: [X](https://x.com/azed_ai/status/1925854528831643689)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/cave-painting.png" width="500" alt="洞壁画">
+
+```
+A cave painting of a [subject], rendered with primitive ochres and charcoal lines on a rough stone wall. Smudged handprints, crude geometry, and flickering torchlight add a primal, ancient mood.
+```
+
+---
+
+### [马赛克壁画](https://aiart.pics/prompt/mosaic-mural)
+
+**作者**: [@Amira Zairi](https://x.com/azed_ai)
+
+**来源**: [X](https://x.com/azed_ai/status/1924405701985853714)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/mosaic-mural.png" width="500" alt="马赛克壁画">
+
+```
+A mosaic mural of a [subject], crafted from chipped ceramic and glass shards in sun-faded [color1] and weathered [color2]. Set into a cracked plaster wall, the irregular shapes and grout lines add a rustic, timeworn charm.
+```
+
+---
+
+### [面包形态](https://aiart.pics/prompt/bread-form)
+
+**作者**: [@Amira Zairi](https://x.com/azed_ai)
+
+**来源**: [X](https://x.com/azed_ai/status/1924479430157812140)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/bread-form.png" width="500" alt="面包形态">
+
+```
+A highly realistic sculpture of a [object], made entirely from [bread type] with ultra-detailed texture and color. The surface shows the natural properties of the bread, golden-brown, glossy, flaky or crusty, with visible layers or seeds where appropriate, studio lighting, soft
+```
+
+---
+
+### [新市场中的美妆品牌](https://aiart.pics/prompt/beauty-brand-in-new-market)
+
+**作者**: [@Amira Zairi](https://x.com/azed_ai)
+
+**来源**: [X](https://x.com/azed_ai/status/1924439540028313693)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/beauty-brand-in-new-market.png" width="500" alt="新市场中的美妆品牌">
+
+```
+A product photography shot of a [PRODUCT] inspired by [FOOD BRAND], placed against a soft light gray background. The product is sharply focused with soft studio lighting. The packaging design includes the official [FOOD BRAND] logo and reflects the brand’s colors and style. The product is sleek, glossy, and realistic, with high detail and elegant presentation. No food items, just the makeup product. Include only the makeup item in the shot. Modern aesthetic, luxury cosmetic branding
+```
+
+---
+
+### [透明塑料袋装物体](https://aiart.pics/prompt/object-in-transparent-plastic-bag)
+
+**作者**: [@Amira Zairi](https://x.com/azed_ai)
+
+**来源**: [X](https://x.com/azed_ai/status/1923376928918327386)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/object-in-transparent-plastic-bag.jpeg" width="500" alt="透明塑料袋装物体">
+
+```
+A high-resolution photograph of a clear plastic drawstring bag placed on a light gray background. Inside the bag are multiple tiny 3D [subject] figures arranged neatly. The bag is tied with a soft white ribbon and has a black label tag that reads ‘[LABEL TEXT]’. Soft lighting and clean shadows emphasize the realistic textures and details
+```
+
+---
+
+### [Emoji变成一个花盆](https://aiart.pics/prompt/emoji-turned-into-a-flower-pot)
+
+**作者**: [@Amira Zairi](https://x.com/azed_ai)
+
+**来源**: [X](https://x.com/azed_ai/status/1923739813414568075)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/emoji-turned-into-a-flower-pot.png" width="500" alt="Emoji变成一个花盆">
+
+```
+A high-quality photo of a cute ceramic [object/animal]-shaped planter with a glossy finish, filled with a variety of vibrant succulents and greenery including a spiky Haworthia, a rosette-shaped Echeveria, and delicate white flowers. The planter has a friendly face and sits on a soft, neutral background with diffused natural lighting, showcasing fine textures and color contrast in a clean, minimalistic composition
+```
+
+---
+
+### [创意广告](https://aiart.pics/prompt/creative-advertisement)
+
+**作者**: [@Amira Zairi](https://x.com/azed_ai)
+
+**来源**: [X](https://x.com/azed_ai/status/1924090458298609881)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/creative-advertisement.png" width="500" alt="创意广告">
+
+```
+A high-impact advertisement set against a clean, dark or high-contrast background. A [product] is centered, sharply lit and highly detailed. Around it, surreal, stylized visual [elements] illustrations explode outward (e.g., musicians, runners, curls, sunbursts), vibrant color palette, neon. bold uppercase ad copy at the top that reads [TEXT] and the brand logo at the bottom, modern Ad
+```
+
+---
+
+### [创意广告](https://aiart.pics/prompt/creative-advertisement-1)
+
+**作者**: [@Amira Zairi](https://x.com/azed_ai)
+
+**来源**: [X](https://x.com/azed_ai/status/1923016036120658122)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/creative-advertisement-1.png" width="500" alt="创意广告">
+
+```
+A minimalist and creative advertisement set on a clean white background.\nA real [Real Object] is integrated into a hand-drawn black ink doodle, using loose, playful lines. The [Doodle Concept] interacts with the object in a clever, imaginative way. Include bold black [Ad Copy] text at the top or center. Place the [Brand Logo] clearly at the bottom. The visual should be clean, fun, high-contrast, and conceptually smart.
+```
+
+---
+
+### [刺绣肖像](https://aiart.pics/prompt/embroidered-portrait)
+
+**作者**: [@Amira Zairi](https://x.com/azed_ai)
+
+**来源**: [X](https://x.com/azed_ai/status/1924042329700372929)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/embroidered-portrait.png" width="500" alt="刺绣肖像">
+
+```
+An embroidered portrait of [subject], [colors] thread on deep linen fabric. Visible needlework, layered textures, and handmade patterns give it an earthy, sacred feel.
+An embroidered portrait of Elon Musk, stitched with rich steel grey and electric blue thread on deep linen fabric. Visible needlework, layered textures, and handmade patterns give it an earthy, sacred feel.
+```
+
+---
+
+## aziz4ai
+
+### [超现实主义极简概念广告](https://aiart.pics/prompt/surrealist-minimalist-concept-ad)
+
+**作者**: [@aziz4ai](https://x.com/aziz4ai)
+
+**来源**: [X](https://x.com/aziz4ai/status/1927459345790288258)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/surrealist-minimalist-concept-ad.jpeg" width="500" alt="超现实主义极简概念广告">
+
+```
+“{BRAND or PRODUCT NAME}” — surreal minimal conceptual advertisement\nCreate a 1:1 high-resolution poster that reimagines the brand/product as a surreal object of desire using minimal elements and symbolic storytelling.\n\n• Visual Style: ultra-clean background (light or muted tone), soft lighting, strong negative space\n• Scene Concept: transform the essence of the product into a metaphorical or dreamlike scene\n• Add a short, punchy slogan (2–3 words) that emotionally resonates with the concept\n• Include the brand’s logo in a clean, modern style (integrated naturally into the layout)\n• Composition: centered or rule-of-thirds alignment, use shadows and depth tastefully\n• Mood: artistic, elegant, and thought-provoking — like a museum installation\n• No clutter, no realism overload — just conceptual clarity
+“{品牌或产品名称}”——超现实主义极简概念广告\n创建 1：1 高分辨率海报，使用最少的元素和象征性的故事讲述将品牌/产品重新想象为超现实的欲望对象。\n\n• 视觉风格：超干净的背景（浅色或柔和的色调）、柔和的灯光、强烈的负空间\n• 场景概念：将产品本质转化为隐喻或梦幻般的场景\n• 添加一个简短、有力的口号（2-3 个词），在情感上与概念产生共鸣\n• 以简洁、现代的风格包含品牌标识（自然融入布局）\n• 构图：居中或三分法对齐，巧妙运用阴影和深度\n• 氛围：艺术、优雅、发人深省——就像博物馆装置\n• 没有混乱，没有现实主义超载——只有概念清晰
+```
+
+---
+
+### [3D卡通雕塑风格](https://aiart.pics/prompt/3d-cartoon-sculpture-style)
+
+**作者**: [@aziz4ai](https://x.com/aziz4ai)
+
+**来源**: [X](https://x.com/aziz4ai/status/1925301120252924356)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/3d-cartoon-sculpture-style.jpeg" width="500" alt="3D卡通雕塑风格">
+
+```
+a soft 3D cartoon-style sculpture of [brand product], made of smooth clay-like textures and vibrant pastel colors, placed in a minimalist isometric scene that complements the product’s nature, clean composition, gentle lighting, subtle shadows, with the product’s logo and a 3-word slogan displayed clearly belo
+```
+
+---
+
+### [3D零食卡通世界](https://aiart.pics/prompt/3d-snack-cartoon-world)
+
+**作者**: [@aziz4ai](https://x.com/aziz4ai)
+
+**来源**: [X](https://x.com/aziz4ai/status/1925895453217898847)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/3d-snack-cartoon-world.jpeg" width="500" alt="3D零食卡通世界">
+
+```
+A 3D-rendered digital illustration featuring a retro-style food truck inspired by the brand [INSERT BRAND NAME], designed with smooth pastel colors and soft textures. A black-and-white cartoon character stands beside the truck, holding a product that visually represents the brand. The environment reflects the brand’s world—playful hills, trees, and skies stylized with its color palette and product shapes. The brand’s logo is clearly displayed on the truck, and a short slogan appears naturally within the scene. Format: 1:1, isometric view, cinematic lighting, clean and joyful composition.
+```
+
+---
+
+### [重新构想的玫瑰金](https://aiart.pics/prompt/reimagined-rose-gold)
+
+**作者**: [@aziz4ai](https://x.com/aziz4ai)
+
+**来源**: [X](https://x.com/aziz4ai/status/1925933649267970074)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/reimagined-rose-gold.jpeg" width="500" alt="重新构想的玫瑰金">
+
+```
+Design a luxury-themed 1:1 image featuring a rose gold sculpture that embodies the essence of the jewelry brand “[BRAND NAME]”. The object must symbolically reflect the brand’s identity (e.g., falcon for Cartier, ring for Tiffany & Co., palm tree for Swarovski, camel for Prada). Embed premium crystal textures into key parts of the sculpture (e.g., wings, gem, leaves, or hump) to match the brand’s signature elegance. Use the brand’s iconic background color (e.g., Tiffany Blue, Swarovski White, Cartier Beige, Prada Sand) and place the official logo beneath the sculpture. Add a bold two-word slogan that aligns with the brand’s tone. Lighting should be pure white with high Kelvin value to ensure clarity and prevent yellow tint. The result must feel editorial, artistic, and visually exquisite.
+```
+
+---
+
+### [选择你的阵营](https://aiart.pics/prompt/choose-your-faction)
+
+**作者**: [@aziz4ai](https://x.com/aziz4ai)
+
+**来源**: [X](https://x.com/aziz4ai/status/1925595213726097803)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/choose-your-faction.jpeg" width="500" alt="选择你的阵营">
+
+```
+A dramatic cinematic scene featuring two rival products placed side by side in a custom-designed environment that visually reflects their identities. The composition should include high contrast lighting, atmospheric effects like mist, fog, or neon glow, and hyper-detailed textures. Incorporate a powerful 3D slogan below or behind the products in bold stylized typography that fits the scene’s mood. The products must reflect the essence of [Brand A] and [Brand B] through color, lighting, and placement. Ultra-realistic, moody tones, 1:1 square format, with sharp depth of field and high resolution.
+```
+
+---
+
+### [令人垂涎欲滴的广告](https://aiart.pics/prompt/mouth-watering-ad)
+
+**作者**: [@aziz4ai](https://x.com/aziz4ai)
+
+**来源**: [X](https://x.com/aziz4ai/status/1925470550035476622)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/mouth-watering-ad.jpeg" width="500" alt="令人垂涎欲滴的广告">
+
+```
+a vertical 2:3 high-resolution food advertisement featuring the most iconic and delicious product from a well-known brand called [INSERT BRAND NAME]. The product appears centered with mouthwatering details — such as melted cheese, dripping chocolate, whipped cream, or condensation — depending on the product. The background should be a gradient or pastel tone inspired by the brand’s identity. At the top, display a bold slogan in a color that matches the brand’s style. At the bottom, include the official logo of the brand. Use cinematic studio lighting, soft shadows, and ultra-sharp textures to create a visually irresistible and minimal poster.
+```
+
+---
+
+### [品牌领导骑行](https://aiart.pics/prompt/brand-leader-cycling)
+
+**作者**: [@aziz4ai](https://x.com/aziz4ai)
+
+**来源**: [X](https://x.com/aziz4ai/status/1924527136657834468)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/brand-leader-cycling.jpeg" width="500" alt="品牌领导骑行">
+
+```
+A cinematic 1:1 scene featuring the iconic leader of [Brand Name] riding a futuristic electric motorcycle that reflects the brand’s identity. He wears a high-detail black or brand-colored carbon fiber leather jacket, with the [Brand Name] logo embroidered boldly on the chest and
+```
+
+---
+
+### [水流身份](https://aiart.pics/prompt/water-flow-identity)
+
+**作者**: [@aziz4ai](https://x.com/aziz4ai)
+
+**来源**: [X](https://x.com/aziz4ai/status/1924325011847884979)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/water-flow-identity.jpeg" width="500" alt="水流身份">
+
+```
+An ultra-high resolution 8K cinematic render of the [Brand Name] logo, sculpted entirely from flowing crystal-clear water. The liquid forms every curve and edge of the brand’s logo with fluid precision, highlighted by vibrant neon accents inspired by [Brand Name]’s color identity. The background is pitch black, creating sharp contrast and drama. The lighting is dynamic, revealing sharp reflections, glowing edges, and the motion of water as it ripples and splashes. Droplets, shine, and soft glass-like textures give the logo a surreal, luxurious, and futuristic appearance — poster-quality, 1:1 format.
+```
+
+---
+
+### [产品变成纸玻璃](https://aiart.pics/prompt/product-turned-into-paper-glass)
+
+**作者**: [@aziz4ai](https://x.com/aziz4ai)
+
+**来源**: [X](https://x.com/aziz4ai/status/1923449494898618849)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/product-turned-into-paper-glass.jpeg" width="500" alt="产品变成纸玻璃">
+
+```json
+[Product by Brand] in a surreal, minimalist paper-glass style advertisement.\nThe product is centered, crafted from translucent frosted glass-paper, placed against a clean white or softly tinted background.\nSoft cinematic lighting creates gentle contrast and ambient shadows.\nA single brand color subtly interacts with the scene through glow, mist, liquid, or foam.\nInclude a bold, elegant 4-word slogan near the product.\nThe brand logo appears subtly etched, glowing, or printed in a refined manner.\nVertical or square aspect ratio, ultra-detailed, poster-quality, visually soothing and conceptually refined.
+```
+
+---
+
+### [创意广告](https://aiart.pics/prompt/creative-advertisement-2)
+
+**作者**: [@aziz4ai](https://x.com/aziz4ai)
+
+**来源**: [X](https://x.com/aziz4ai/status/1923980304525537424)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/creative-advertisement-2.png" width="500" alt="创意广告">
+
+```
+Use the uploaded product image exactly as it is — do not alter, redraw, or reinterpret any part of it. Follow the guidelines below to create a high-quality, cinematic product presentation:\n\n• Keep the product fully intact — all text, labels, proportions, packaging, and colors must remain exactly the same.\n• Use natural or cinematic lighting to enhance the product’s appeal.\n• Place the product on a realistic surface that matches its category (e.g. wooden kitchen table for bread, bathroom shelf for skincare, desk for tech gadgets).\n• Add complementary props if appropriate (e.g. toast and coffee for bread, leaves and water droplets for skincare) — but do not let them touch or cover the product.\n• Use a softly blurred or ambient background (e.g. kitchen, morning window light, minimal interior).\n• Include soft shadows and subtle reflections for a grounded, photo-realistic effect.\n• Final result should feel premium, natural, and visually appealing — with 100% fidelity to the uploaded product image.
+```
+
+---
+
+### [品牌之爱话术](https://aiart.pics/prompt/brand-love-language)
+
+**作者**: [@aziz4ai](https://x.com/aziz4ai)
+
+**来源**: [X](https://x.com/aziz4ai/status/1924046710218645932)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/brand-love-language.jpeg" width="500" alt="品牌之爱话术">
+
+```
+A romantic square-format bouquet inspired by [Brand Name]. Roses are crafted from visual patterns or textures that reflect the brand’s identity. The bouquet is wrapped in luxurious material echoing the brand’s signature style (e.g. silk, velvet, leather), and elegantly tied with one of the brand’s iconic products, replacing a traditional ribbon. Place it on a surface that matches the brand’s aesthetic. Add a message card beside the bouquet with a short, emotional 3-word slogan representing the brand’s spirit. Include the [Brand Name] logo subtly in the scene. Cinematic lighting, ultra-detailed, elegant depth of field, premium editorial quality.
+```
+
+---
+
+## B_4AI
+
+### [军事计划](https://aiart.pics/prompt/military-plan)
+
+**作者**: [@B_4AI](https://x.com/B_4AI)
+
+**来源**: [X](https://x.com/B_4AI/status/1925479609442738486)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/military-plan.png" width="500" alt="军事计划">
+
+```
+A humorous cartoon scene set inside a military training classroom, featuring a group of [Insect Name] soldiers sitting at desks, wearing tiny helmets and miniature combat gear. They listen attentively to their commander, who stands in front of a large board displaying a sketch of a threat to their existence — the enemy changes depending on the animal or insect. The commander explains the attack plan using a pointer, highlighting sensitive targets with red circles. Some soldiers take notes, others whisper tactical ideas to each other. The overall atmosphere blends seriousness with satire in an exaggerated cartoon style.
+```
+
+---
+
+### [血月下的决斗](https://aiart.pics/prompt/duel-under-blood-moon)
+
+**作者**: [@B_4AI](https://x.com/B_4AI)
+
+**来源**: [X](https://x.com/B_4AI/status/1925509492298375388)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/duel-under-blood-moon.png" width="500" alt="血月下的决斗">
+
+```json
+[SUBJECT] in a cinematic painting, battling amid crumbling ruins under a colossal blood moon — ambient sparks flying. Set in an ancient valley, illuminated by firelight and shadows. soft [COLOR1] and vibrant [COLOR2], mood intense and epic.
+```
+
+---
+
+### [狭窄走廊里奔跑](https://aiart.pics/prompt/running-in-narrow-corridor)
+
+**作者**: [@B_4AI](https://x.com/B_4AI)
+
+**来源**: [X](https://x.com/B_4AI/status/1924410511392719343)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/running-in-narrow-corridor.png" width="500" alt="狭窄走廊里奔跑">
+
+```
+A thrilling 3D cartoon scene: [CHARACTER1] runs through a narrow corridor inside [Place], chased at high speed by [CHARACTER2]. Their facial expressions reflect tension and focus, with beads of sweat glistening under dramatic lighting.
 ```
 
 ---
@@ -350,6 +997,50 @@ GPT 4O生成封面提示词（要把这个空白图一同发给GPT控制图像�
 
 ---
 
+## BeanieBlossom
+
+### [海洋中三艘不同的奇幻帆船](https://aiart.pics/prompt/three-different-fantasy-sailboats-in-ocean)
+
+**作者**: [@BeanieBlossom](https://x.com/BeanieBlossom)
+
+**来源**: [X](https://x.com/BeanieBlossom/status/1925159751169810806)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/three-different-fantasy-sailboats-in-ocean.jpeg" width="500" alt="海洋中三艘不同的奇幻帆船">
+
+```
+Three different fantasy sailboats in the ocean, multiple scenes of beautiful aurora borealis and colorful moons with snowy mountains, a dreamy, fantasy landscape, in the style of digital art.
+```
+
+---
+
+### [由鲜花组成的小房子](https://aiart.pics/prompt/small-house-made-of-flowers)
+
+**作者**: [@BeanieBlossom](https://x.com/BeanieBlossom)
+
+**来源**: [X](https://x.com/BeanieBlossom/status/1925461720639971505)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/small-house-made-of-flowers.jpeg" width="500" alt="由鲜花组成的小房子">
+
+```
+A small house made of flowers, a tree with colorful leaves growing on top and around the door, in the style of fantasy, mountainscape in the background, natural lighting, soft colors, rich details, and a full atmosphere, subtle painterly style
+```
+
+---
+
+### [清洁琴键的小人物](https://aiart.pics/prompt/tiny-people-cleaning-piano-keys)
+
+**作者**: [@BeanieBlossom](https://x.com/BeanieBlossom)
+
+**来源**: [X](https://x.com/BeanieBlossom/status/1925522114972713147)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/tiny-people-cleaning-piano-keys.jpeg" width="500" alt="清洁琴键的小人物">
+
+```
+tilt-shift photo of a grand piano keyboard, side view from the left looking along the keys to the right, shallow depth of field, tiny human figures cleaning the piano keys with brushes, cloths, and buckets, whimsical and surreal scene, soft lighting, hyper-detailed, high realism
+```
+
+---
+
 ## Brett
 
 ### [ChatGPT 4o 中的像素图标制作](https://aiart.pics/prompt/voxel-icon-creation-in-chatgpt-4o)
@@ -392,7 +1083,184 @@ A pencil drawing of [Your character], with detailed lines and shading on white p
 
 ---
 
+### [黑白漫画风格插图](https://aiart.pics/prompt/highly-dramatic-and-epic-black-and-white-manga-style-illustr)
+
+**作者**: [@Pierrick Chevallier | IA](https://x.com/CharaspowerAI)
+
+**来源**: [X](https://x.com/CharaspowerAI/status/1923778050845528388)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/highly-dramatic-and-epic-black-and-white-manga-style-illustr.png" width="500" alt="黑白漫画风格插图">
+
+```
+Highly dramatic and epic black and white manga-style illustration of [Your character and description].  Powerful, dynamic pose, exaggerated features emphasizing the intensity of the scene. Background with explosive energy bursts, lightning effects, and a whirlwind of debris
+```
+
+---
+
+### [可爱干净的底座立体模型](https://aiart.pics/prompt/cute-clean-base-diorama)
+
+**作者**: [@Pierrick Chevallier | IA](https://x.com/CharaspowerAI)
+
+**来源**: [X](https://x.com/CharaspowerAI/status/1925593447802540408)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/cute-clean-base-diorama.png" width="500" alt="可爱干净的底座立体模型">
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/75-2.png" width="500" alt="可爱干净的底座立体模型">
+
+```
+Highly detailed 3D-rendered chibi figurine diorama of [Character A] and [Character B], captured in a [scene/action], inside a [thematic display case shape] with [material]. The background features [visual effects: debris, aura, lightning, scenery], dynamic pose. The title "[custom phrase]" is embossed at the top in [font/style], matching the tone. Lighting is [studio, cinematic, ambient], color palette of [main colors]. Designed in a collectible, stylized, viral-friendly aesthetic.
+```
+
+---
+
 ## 宝玉
+
+### [AI 生成折叠式纸雕立体绘本](https://aiart.pics/prompt/ai-generated-folded-paper-sculpture-pop-up-picture-book)
+
+**作者**: [@宝玉](https://x.com/dotey)
+
+**来源**: [X](https://x.com/dotey/status/1923264349050675329)
+
+<img src="https://img1.aiart.pics/images/prompts/20251216/ai-generated-folded-paper-sculpture-pop-up-picture-book-1.jpg" width="500" alt="AI 生成折叠式纸雕立体绘本">
+
+<img src="https://img1.aiart.pics/images/prompts/20251216/ai-generated-folded-paper-sculpture-pop-up-picture-book-2.jpg" width="500" alt="AI 生成折叠式纸雕立体绘本">
+
+<img src="https://img1.aiart.pics/images/prompts/20251216/ai-generated-folded-paper-sculpture-pop-up-picture-book-3.jpg" width="500" alt="AI 生成折叠式纸雕立体绘本">
+
+<img src="https://img1.aiart.pics/images/prompts/20251216/ai-generated-folded-paper-sculpture-pop-up-picture-book-4.jpg" width="500" alt="AI 生成折叠式纸雕立体绘本">
+
+```
+AI 生成折叠式纸雕立体绘本
+注：
+- 请酌情修改中括号【】内的场景描述，也可以增加更多细节
+- 本图使用 sora 生成
+- 仅能作为创意参考，无法打印成立体纸雕绘本
+提示词：
+多层折叠式纸雕立体绘本，放在一张书桌上，背景纯净突出主题，绘本呈现出立体翻页书般的风格，比例为2:3竖版。翻开的书页呈现【魔童版哪吒大战敖丙】的场景，所有元素皆可精细折叠组合，呈现出逼真细腻的纸张折叠质感；构图统一采用正面视角，整体视觉风格梦幻唯美，色彩缤纷绚丽，充满奇幻而生动的故事氛围。
+```
+
+---
+
+### [手办与真人同框](https://aiart.pics/prompt/figure-and-real-person-in-frame)
+
+**作者**: [@宝玉](https://x.com/dotey)
+
+**来源**: [X](https://x.com/dotey/status/1920994118580183316)
+
+<img src="https://img1.aiart.pics/images/prompts/20251216/figure-and-real-person-in-frame-1.jpg" width="500" alt="手办与真人同框">
+
+<img src="https://img1.aiart.pics/images/prompts/20251216/figure-and-real-person-in-frame-2.jpg" width="500" alt="手办与真人同框">
+
+<img src="https://img1.aiart.pics/images/prompts/20251216/figure-and-real-person-in-frame-3.jpg" width="500" alt="手办与真人同框">
+
+<img src="https://img1.aiart.pics/images/prompts/20251216/figure-and-real-person-in-frame-4.jpg" width="500" alt="手办与真人同框">
+
+```
+让手办和真人同框
+提示词：
+以手机随手拍摄的日常风格，桌面上摆放着一款 【李小龙】动漫手办，动作夸张帅气，装备齐全。同时，真实世界的对应人物也出现在镜头中，与手办摆出相似的姿势，形成手办与真实人物同框的有趣对比效果。整体构图和谐自然，传递温暖且富有生活气息的视觉体验。 https://t.co/ZHza9zoKsp
+```
+
+---
+
+### [桌面动漫风格手办照片](https://aiart.pics/prompt/anime-style-figure-on-desk-photo)
+
+**作者**: [@宝玉](https://x.com/dotey)
+
+**来源**: [X](https://x.com/dotey/status/1920851135516082246)
+
+<img src="https://img1.aiart.pics/images/prompts/20251216/anime-style-figure-on-desk-photo-1.jpg" width="500" alt="桌面动漫风格手办照片">
+
+<img src="https://img1.aiart.pics/images/prompts/20251216/anime-style-figure-on-desk-photo-2.jpg" width="500" alt="桌面动漫风格手办照片">
+
+<img src="https://img1.aiart.pics/images/prompts/20251216/anime-style-figure-on-desk-photo-3.jpg" width="500" alt="桌面动漫风格手办照片">
+
+```
+这个提示词可以稍微改一下，让它能基于上传的照片生成手办
+提示词：
+生成一张摆放于桌面上的动漫风格手办照片，以日常随手用手机拍摄的轻松休闲视角呈现。手办模型以附件中人物照片为基础，精确还原照片中人物的全身姿势、面部表情以及服装造型，确保手办全身完整呈现。整体设计精致细腻，头发与服饰采用自然柔和的渐变色彩与细腻质感，风格偏向日系动漫风，细节丰富，质感真实，观感精美。
+```
+
+---
+
+### [独角兽涂色插画](https://aiart.pics/prompt/unicorn-coloring-illustration)
+
+**作者**: [@宝玉](https://x.com/dotey)
+
+**来源**: [X](https://x.com/dotey/status/1919522110395080838)
+
+<img src="https://img1.aiart.pics/images/prompts/20251216/unicorn-coloring-illustration-1.jpg" width="500" alt="独角兽涂色插画">
+
+<img src="https://img1.aiart.pics/images/prompts/20251216/unicorn-coloring-illustration-2.jpg" width="500" alt="独角兽涂色插画">
+
+<img src="https://img1.aiart.pics/images/prompts/20251216/unicorn-coloring-illustration-3.jpg" width="500" alt="独角兽涂色插画">
+
+<img src="https://img1.aiart.pics/images/prompts/20251216/unicorn-coloring-illustration-4.jpg" width="500" alt="独角兽涂色插画">
+
+```
+让 AI 生成 Coloring Page（可以有涂好色的参考图）
+我家孩子前一段喜欢涂色，但是网上下载的都只有黑白的，遇到不会涂的他就问我，我也搞不定，所以我就想要是有那种黑白加彩色参考图的多好，他自己照着涂就不用来问我了。
+提示词：
+一张黑白线描涂色插画，适合直接打印在标准尺寸（8.5x11英寸）的纸张上，无纸张边框。整体插画风格清新简洁，使用清晰流畅的黑色轮廓线条，无阴影、无灰阶、无颜色填充，背景纯白，便于涂色。
+【同时为了方便不会涂色的用户，请在右下角用小图生成一个完整的彩色版本供参考】
+适合人群：【6-9岁小朋友】
+画面描述：
+【一只独角兽在森林的草地上漫步，阳光明媚，蓝天白云】
+```
+
+---
+
+### [字母中融入单词含义的图像](https://aiart.pics/prompt/image-with-words-meaning-integrated-into-letters)
+
+**作者**: [@宝玉](https://x.com/dotey)
+
+**来源**: [X](https://x.com/dotey/status/1918529055340576812)
+
+<img src="https://img1.aiart.pics/images/prompts/20251216/image-with-words-meaning-integrated-into-letters-1.jpg" width="500" alt="字母中融入单词含义的图像">
+
+<img src="https://img1.aiart.pics/images/prompts/20251216/image-with-words-meaning-integrated-into-letters-2.jpg" width="500" alt="字母中融入单词含义的图像">
+
+<img src="https://img1.aiart.pics/images/prompts/20251216/image-with-words-meaning-integrated-into-letters-3.jpg" width="500" alt="字母中融入单词含义的图像">
+
+<img src="https://img1.aiart.pics/images/prompts/20251216/image-with-words-meaning-integrated-into-letters-4.jpg" width="500" alt="字母中融入单词含义的图像">
+
+```
+提示词：
+在字母中融入单词的含义，将图形和字母巧妙融合在一起。
+单词：beautify
+下面加上单词的简要说明 https://t.co/3l2JtEHTCM
+```
+
+---
+
+### [上海特色城市天气预报图片](https://aiart.pics/prompt/shanghai-city-weather-forecast-image)
+
+**作者**: [@宝玉](https://x.com/dotey)
+
+**来源**: [X](https://x.com/dotey/status/1917988595228438771)
+
+<img src="https://img1.aiart.pics/images/prompts/20251216/shanghai-city-weather-forecast-image-1.jpg" width="500" alt="上海特色城市天气预报图片">
+
+<img src="https://img1.aiart.pics/images/prompts/20251216/shanghai-city-weather-forecast-image-2.jpg" width="500" alt="上海特色城市天气预报图片">
+
+<img src="https://img1.aiart.pics/images/prompts/20251216/shanghai-city-weather-forecast-image-3.jpg" width="500" alt="上海特色城市天气预报图片">
+
+<img src="https://img1.aiart.pics/images/prompts/20251216/shanghai-city-weather-forecast-image-4.jpg" width="500" alt="上海特色城市天气预报图片">
+
+```
+生成特色城市天气预报图片
+注：
+- 请修改提示词底部的城市、天气、温度
+- “城市特色建筑”可以具体写上名称
+- 本图用 sora 生成
+提示词：
+以清晰的45°俯视角度，展示一个等距微缩模型场景，内容为城市特色建筑，天气效果巧妙融入场景中，柔和的天气效果与城市轻柔互动。使用基于物理的真实渲染（PBR）和逼真的光照效果，纯色背景，清晰简洁。画面采用居中构图，凸显出三维模型精准而细腻的美感。在图片上方展示城市名称和当前天气状况，并附有相应的天气图标。
+城市：上海
+天气：多云
+温度：20摄氏度
+```
+
+---
 
 ### [AI 画乐高搭建的城市](https://aiart.pics/prompt/ai-created-lego-cityscape)
 
@@ -927,7 +1795,101 @@ Can you create a PS2 video game case of "Grand Theft Auto: Far Far Away" a GTA b
 
 ---
 
+### [人物戏剧夸张风格](https://aiart.pics/prompt/dramatic-exaggerated-character-style)
+
+**作者**: [@宝玉](https://x.com/dotey)
+
+**来源**: [X](https://x.com/dotey/status/1924288320881750108)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/dramatic-exaggerated-character-style.png" width="500" alt="人物戏剧夸张风格">
+
+```
+A high-resolution vertical Pixar-style 3D character illustration.\n\nMain character:  \nSalvador Dalí — depicted as a tall, slim, and slightly exaggerated Pixar-style 3D character.  \nWearing a classic blue shirt, yellow tie, high-waisted plaid trousers with suspenders, and leather shoes.  \nHis iconic long upturned mustache, slick black hair, sharply arched eyebrows, and slightly eccentric posture.  \nStands with chest out, one hand on hip, head tilted slightly back in his typical theatrical flair.\n\nBackground:  \nFlat, clean yellow background with subtle surface texture.  \nStrong sunlight from top-left casts a distinct and enlarged shadow on the wall behind him.\n\nKey Concept – Shadow as spiritual projection:  \nThe shadow cast behind him does **not** mirror his body shape.  \nInstead, it takes the form of one of his most iconic artworks —  \na surreal melted clock with long dripping arms, inspired by “The Persistence of Memory”.\n\nThe melted clock shadow is positioned diagonally, starting from his shoulder,  \nstretching wide and low across the yellow wall, surreal and fluid, yet unmistakably symbolic.\n\nThis shadow is **Dalí’s legacy made visible** — a symbolic extension of his identity through time, dream, and visual distortion.\n\nLighting & Rendering:  \nPixar-like rendering with detailed but stylized textures.  \nUse subtle filmic grain, soft shadows, and warm color grading.  \nSubtle sparkles or light speckles inside the shadow to evoke dreamlike texture.\n\nTypography (top-left corner):  \n“Salvador Dalí” in minimalist black sans-serif font, “Dalí” bolded.
+```
+
+---
+
+## ecommartinez
+
+### [手工毛线纹理](https://aiart.pics/prompt/handmade-yarn-texture)
+
+**作者**: [@ecommartinez](https://x.com/ecommartinez)
+
+**来源**: [X](https://x.com/ecommartinez/status/1925272798479405479)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/handmade-yarn-texture.png" width="500" alt="手工毛线纹理">
+
+```
+Crea un render 3D fotorrealista de este logo hecho con hilo grueso y tejido a mano. El hilo debe parecer suave, esponjoso y de gran tamaño, con patrones visibles de tejido como bucles, giros y trenzas. Usa colores brillantes y saturados, estética cálida. Resalta la textura de las fibras, la suavidad del material y el acabado artesanal. Iluminación de estudio suave. Fondo blanco o crema limpio. El logo debe estar centrado y sin elementos adicionales. Cuadrado.
+```
+
+---
+
 ## Ege
+
+### [GPT-4o与JSON结合的视觉创新](https://aiart.pics/prompt/next-level-visuals-with-gpt-4o-and-)
+
+**作者**: [@Ege](https://x.com/egeberkina)
+
+**来源**: [X](https://x.com/egeberkina/status/1920448389960909085)
+
+<img src="https://img1.aiart.pics/images/prompts/20251216/next-level-visuals-with-gpt-4o-and--1.jpg" width="500" alt="GPT-4o与JSON结合的视觉创新">
+
+<img src="https://img1.aiart.pics/images/prompts/20251216/next-level-visuals-with-gpt-4o-and--2.jpg" width="500" alt="GPT-4o与JSON结合的视觉创新">
+
+<img src="https://img1.aiart.pics/images/prompts/20251216/next-level-visuals-with-gpt-4o-and--3.jpg" width="500" alt="GPT-4o与JSON结合的视觉创新">
+
+<img src="https://img1.aiart.pics/images/prompts/20251216/next-level-visuals-with-gpt-4o-and--4.jpg" width="500" alt="GPT-4o与JSON结合的视觉创新">
+
+```
+GPT-4o + JSON = next-level visuals with precision and style!
+Prompt 👇 https://t.co/bUOFEmwHdF
+```
+
+---
+
+### [使用GPT-4o将日常表情符号变成设计店里的亮闪闪铬合金别针的有趣想法](https://aiart.pics/prompt/transforming-everyday-emojis-into-shiny-chrome-pins-using-gpt-4o)
+
+**作者**: [@Ege](https://x.com/egeberkina)
+
+**来源**: [X](https://x.com/egeberkina/status/1919398870867440124)
+
+<img src="https://img1.aiart.pics/images/prompts/20251216/transforming-everyday-emojis-into-shiny-chrome-pins-using-gpt-4o-1.jpg" width="500" alt="使用GPT-4o将日常表情符号变成设计店里的亮闪闪铬合金别针的有趣想法">
+
+<img src="https://img1.aiart.pics/images/prompts/20251216/transforming-everyday-emojis-into-shiny-chrome-pins-using-gpt-4o-2.jpg" width="500" alt="使用GPT-4o将日常表情符号变成设计店里的亮闪闪铬合金别针的有趣想法">
+
+<img src="https://img1.aiart.pics/images/prompts/20251216/transforming-everyday-emojis-into-shiny-chrome-pins-using-gpt-4o-3.jpg" width="500" alt="使用GPT-4o将日常表情符号变成设计店里的亮闪闪铬合金别针的有趣想法">
+
+<img src="https://img1.aiart.pics/images/prompts/20251216/transforming-everyday-emojis-into-shiny-chrome-pins-using-gpt-4o-4.jpg" width="500" alt="使用GPT-4o将日常表情符号变成设计店里的亮闪闪铬合金别针的有趣想法">
+
+```
+A fun idea using GPT-4o to turn everyday emojis into shiny chrome pins you'd see in a design store.
+Try it and share yours!
+Prompt 👇 https://t.co/1jCAj7h65V
+```
+
+---
+
+### [品牌键盘帽](https://aiart.pics/prompt/branded-keycaps)
+
+**作者**: [@Ege](https://x.com/egeberkina)
+
+**来源**: [X](https://x.com/egeberkina/status/1918291652210311278)
+
+<img src="https://img1.aiart.pics/images/prompts/20251216/branded-keycaps-1.jpg" width="500" alt="品牌键盘帽">
+
+<img src="https://img1.aiart.pics/images/prompts/20251216/branded-keycaps-2.jpg" width="500" alt="品牌键盘帽">
+
+<img src="https://img1.aiart.pics/images/prompts/20251216/branded-keycaps-3.jpg" width="500" alt="品牌键盘帽">
+
+<img src="https://img1.aiart.pics/images/prompts/20251216/branded-keycaps-4.jpg" width="500" alt="品牌键盘帽">
+
+```
+Branded keycaps
+Prompt 👇 https://t.co/R3xpnGQ3QL
+```
+
+---
 
 ### [Remember how far we’ve come](https://aiart.pics/prompt/remember-how-far-weve-come)
 
@@ -1051,6 +2013,34 @@ Create a toy of the person in the photo. Let it be an\naction figure. Next to th
 
 ---
 
+### [霓虹灯风格工具](https://aiart.pics/prompt/neon-style-tools)
+
+**作者**: [@Ege](https://x.com/egeberkina)
+
+**来源**: [X](https://x.com/egeberkina/status/1926005869331849235)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/neon-style-tools.png" width="500" alt="霓虹灯风格工具">
+
+```json
+retexture the image attached based on the JSON aesthetic below\n{\n  "style": "hyperrealistic 3D render",\n  "material": "high-gloss translucent rubber with iridescent coating",\n  "surface_texture": "fine-grain pebbling with micro-specular highlights",\n  "lighting": {\n    "type": "studio HDRI",\n    "intensity": "high",\n    "direction": "multi-point with rim and backlight",\n    "colors": ["electric blue", "magenta", "neon purple", "sunset orange"],\n    "glow_effect": true,\n    "chromatic_aberration": true,\n    "bloom": true\n  },\n  "color_scheme": {\n    "primary": "iridescent gradient",\n    "highlights": "white light core reflections",\n    "accent_edges": "black outlines with subtle glow"\n  },\n  "background": {\n    "color": "solid black",\n    "texture": "none",\n    "contrast": "extreme to enhance subject glow"\n  },\n  "camera": {\n    "angle": "straight-on center view",\n    "focus": "sharp foreground, no depth blur",\n    "lens": "macro with light distortion"\n  },\n  "post_processing": {\n    "glow": true,\n    "contrast_boost": true,\n    "color_grading": "vibrant spectrum",\n    "noise": "minimal"\n  }\n}
+```
+
+---
+
+### [复古像素UI图标](https://aiart.pics/prompt/retro-pixel-ui-icon)
+
+**作者**: [@Ege](https://x.com/egeberkina)
+
+**来源**: [X](https://x.com/egeberkina/status/1924462051474174222)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/retro-pixel-ui-icon.png" width="500" alt="复古像素UI图标">
+
+```json
+retexture the image attached in the following json aesthetic style:\n{\n  "style": "Retro Pixel UI Icons",\n  "resolution": "low (32x32 or 48x48)",\n  "color_palette": [\n    "#F2F2F2",  \n    "#C0C0C0",  \n    "#000000", \n    "#FFFFFF",  \n    "#0000FF",  \n    "#00FF00",  \n    "#FFFF99",  \n    "#008080" \n  ],\n  "outline": {\n    "enabled": true,\n    "color": "#000000",\n    "thickness": "1px"\n  },\n  "shading": {\n    "method": "dithering",\n    "colors_used": ["base color", "highlight", "shadow"],\n    "pattern": "checkerboard or diagonal lines"\n  },\n  "lighting": {\n    "type": "flat",\n    "source": "top-left",\n    "highlight_color": "#FFFFFF",\n    "shadow_color": "#808080"\n  },\n  "background": {\n    "color": "#F2F2F2",\n    "type": "plain",\n    "transparency": false\n  },\n  "object_properties": {\n    "style": "pixel art",\n    "perspective": "isometric or front-facing",\n    "animation": {\n      "enabled": false,\n      "frame_style": "static pixel art"\n    }\n  }\n}
+```
+
+---
+
 ## Ev
 
 ### [Odeo 思绪记录](https://aiart.pics/prompt/odeo-thoughts-capture)
@@ -1122,6 +2112,36 @@ trying to get odeo thoughts down
 
 ---
 
+## firatbilal
+
+### [青花瓷风格](https://aiart.pics/prompt/blue-and-white-porcelain-style)
+
+**作者**: [@firatbilal](https://x.com/firatbilal)
+
+**来源**: [X](https://x.com/firatbilal/status/1923627963251052769)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/blue-and-white-porcelain-style.png" width="500" alt="青花瓷风格">
+
+```
+Using the uploaded image as the exact visual base, transform it into a hyper-realistic 3D object that retains the original shape and proportions of the logo only. Apply traditional Ottoman Iznik ceramic textures—featuring a warm white glazed base with delicate crackle lines, overlaid with vivid cobalt blue, turquoise, and bold red floral motifs such as tulips, carnations, and arabesque vines. The entire logo should be treated as a standalone porcelain sculpture with raised, hand-painted detailing and no background plate or tile structure. Ensure the decorative patterns elegantly follow the contours of the Bugatti logo, without altering its form. Render the object in a pure black background with Cinema 4D-style product lighting—highlighting realistic ceramic gloss, material depth, and subtle reflections. The final result should feel like a luxurious handcrafted ceramic reinterpretation, balancing heritage ornamentation with industrial branding.
+```
+
+---
+
+### [金色抽象综合风格](https://aiart.pics/prompt/golden-abstract-synthesis-style)
+
+**作者**: [@firatbilal](https://x.com/firatbilal)
+
+**来源**: [X](https://x.com/firatbilal/status/1924130071758962938)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/golden-abstract-synthesis-style.png" width="500" alt="金色抽象综合风格">
+
+```json
+{\n    "base_image": "uploaded image",\n    "style_transfer": {\n        "visual_characteristics": {\n            "head_and_face": {\n                "material": "translucent resin with embedded starlight and glowing neural circuits",\n                "surface_effect": "mirror-gloss with gold filament veins and galaxy-like reflections",\n                "lighting": "dynamic cinematic rim lights with volumetric glow"\n            },\n            "body_structure": {\n                "texture": "high-polish white ceramic with embedded gold wiring",\n                "design": "futuristic like organic plating",\n                "highlight_elements": "subtle internal light flows mimicking synaptic energy"\n            },\n            "motion_effect": {\n                "visual_glitch": "subtle horizontal motion blur on head edges",\n                "energy_flow": "faint pulsing particle lights across body"\n            },\n            "background": {\n                "type": "neutral gradient or dark void",\n                "focus": "emphasize figure\'s luminous contrast"\n            }\n        },\n        "application_target": "Replace surface and material style of uploaded image with the characteristics described above, while preserving the original pose, structure, and composition of the target image."\n    }\n}
+```
+
+---
+
 ## Thomas Roccia 🤘
 
 ### [新名片](https://aiart.pics/prompt/new-business-card)
@@ -1134,6 +2154,22 @@ trying to get odeo thoughts down
 
 ```
 New business card 😁 https://t.co/5wXBW8BGff
+```
+
+---
+
+## Gadgetify
+
+### [复古电脑开机画面解析为ASCII艺术](https://aiart.pics/prompt/retro-computer-boot-screen-parsed-as-ascii-art)
+
+**作者**: [@Gadgetify](https://x.com/Gdgtify)
+
+**来源**: [X](https://x.com/Gdgtify/status/1925176250626159053)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/retro-computer-boot-screen-parsed-as-ascii-art.png" width="500" alt="复古电脑开机画面解析为ASCII艺术">
+
+```
+Retro CRT computer boot screen that resolves into ASCII-art of NYC's tallest building
 ```
 
 ---
@@ -1221,6 +2257,79 @@ Turn the subject in the attached image into a kawaii enamel pin. Use glossy meta
 
 ---
 
+### [彩色卡通俏皮图标和徽标](https://aiart.pics/prompt/colorful-cartoon-playful-icons-and-logos)
+
+**作者**: [@gnrlyxyz](https://x.com/gnrlyxyz)
+
+**来源**: [X](https://x.com/gnrlyxyz/status/1925553233881145499)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/colorful-cartoon-playful-icons-and-logos.jpeg" width="500" alt="彩色卡通俏皮图标和徽标">
+
+```
+Create a 2D digital illustration of the [FIREFOX] logo in a colorful cartoon style with bold black outlines. The icon design should feature playful, vibrant solid colors such as pink, teal, orange, yellow, and purple, applied in a flat, bold way. Give the shapes a slightly exaggerated, bubbly form with rounded edges and fun details like starbursts, stripes, or spark effects if relevant. Keep the illustration simple and stylized with a hand-drawn look. Use thick outlines to emphasize form. Vector friendly. White background. Square aspect ratio.
+```
+
+---
+
+### [卡通风格文本标志](https://aiart.pics/prompt/cartoon-style-text-logo)
+
+**作者**: [@gnrlyxyz](https://x.com/gnrlyxyz)
+
+**来源**: [X](https://x.com/gnrlyxyz/status/1924466922545877098)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/cartoon-style-text-logo.png" width="500" alt="卡通风格文本标志">
+
+```
+Create a bold, warped cartoon-style text design with two distinct layers. The top layer should say “SUPER GNARLY” in warped bubble letters with a melty, drippy texture, like ghost slime or goo. The letters should feel heavy and organic, with a slightly psychedelic or paranormal vibe. The bottom layer should say “SOCIETY” in much smaller, script-like or handwritten-style letters that tuck underneath or nestle between the larger title letters. Both layers should be solid white with thick black outlines. No gradients, shading, or texture. Layout should be playful and a little chaotic, but still readable. Vector friendly. Blue background. Square aspect ratio.
+```
+
+---
+
+### [熔化变异文本](https://aiart.pics/prompt/melting-mutant-text)
+
+**作者**: [@gnrlyxyz](https://x.com/gnrlyxyz)
+
+**来源**: [X](https://x.com/gnrlyxyz/status/1924102927154626885)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/melting-mutant-text.png" width="500" alt="熔化变异文本">
+
+```
+Create a psychedelic, grotesque cartoon-style text design that says “GNARLY”. Arrange the letters in a straight horizontal line. Each letter should be lumpy, melting, and oozing with bright, clashing flat colors like slime green, neon yellow, and hot pink. Each letter must be filled with only one solid flat color, with no gradients or transitions. All drips, melts, and oozes must be solid black with no shading or gradient. Make the design vector-friendly with clean, solid fills and bold black outlines. Add extra black and white eyeballs to make each letter feel like a weird mutated creature. Keep the composition chaotic but readable, like a mutant version of a Saturday morning cartoon. Black background. Square aspect ratio.
+```
+
+---
+
+## HBCoop_
+
+### [品牌平面纸风格](https://aiart.pics/prompt/brand-flat-paper-style)
+
+**作者**: [@HBCoop_](https://x.com/HBCoop_)
+
+**来源**: [X](https://x.com/HBCoop_/status/1925213900192043236)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/brand-flat-paper-style.png" width="500" alt="品牌平面纸风格">
+
+```
+A flat branded paper folds itself into the full 3D shape of a [Air Jordan 1 shoes], mid-motion. Dramatic studio lighting, origami texture detail, gradient shadows, Japanese minimalism feel.
+A flat branded paper folds itself into the full 3D shape of a [Jansport backpack], mid-motion. Dramatic studio lighting, origami texture detail, gradient shadows, Japanese minimalism feel.
+```
+
+---
+
+### [品牌折叠纸](https://aiart.pics/prompt/brand-folded-paper)
+
+**作者**: [@HBCoop_](https://x.com/HBCoop_)
+
+**来源**: [X](https://x.com/HBCoop_/status/1925600123200881024)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/brand-folded-paper.png" width="500" alt="品牌折叠纸">
+
+```
+A flat branded paper folds itself into the full 3D shape of a [insert product or item, e.g. “Coca-Cola bottle”, “Nike sneaker”, “Big Mac”], mid-motion. \n\nThe paper colors match the [insert brand name] brand’s signature palette and the natural colors of the item (e.g., [describe key colors or ingredients, like “red and white for Coca-Cola”, “brown, green, yellow for Big Mac”]).\n\nDramatic studio lighting, origami texture detail, soft gradient shadows. Stylized with Japanese minimalism and elegant negative space. The scene captures a clean, elevated transformation from flat brand identity into sculptural product form.
+```
+
+---
+
 ## hc_dsn
 
 ### [使用GPT-4o进行的一次大胆尝试](https://aiart.pics/prompt/bold-experiment-with-gpt-4o)
@@ -1244,6 +2353,108 @@ Made entirely using ChatGPT-4o’s image gen.
 #Messi #Panini #GOAT
 #AIGC #chatgpt4o
 Prompt In Alt 👇
+```
+
+---
+
+### [为任何品牌设计运动鞋](https://aiart.pics/prompt/sneaker-design-for-any-brand)
+
+**作者**: [@hc_dsn](https://x.com/hc_dsn)
+
+**来源**: [X](https://x.com/hc_dsn/status/1925139884920152110)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/sneaker-design-for-any-brand.jpeg" width="500" alt="为任何品牌设计运动鞋">
+
+```
+create image with 1:1 ratio   A branded footwear ad for [Brand], showcasing the high-end Brand shoe using brand technology and texture.(fiction a technology and texture based on brand DNA). The shoe is shown in dynamic floating perspective over a graph paper background layout with technical sketches and handwritten notes. A random lifestyle authentic photo featuring brand clothing in motion is taped in the corner, styled with street wear fashion. Emphasize the product's slogan with  bold typography. Layout features include product spec labels like Project a fiction brand title, Date, Size, and fiction model name in engineering style. The background reference with brand pantone color palettes with code number
+以 1：1 的比例创建图片 [Brand] 的品牌鞋靴广告，使用品牌技术和纹理展示高端品牌鞋靴。（虚构一种基于品牌DNA的技术和质感）。这双鞋以动态浮动透视形式显示在方格纸背景布局上，并附有技术草图和手写注释。角落里贴着一张随机的生活方式真实照片，照片中展示了运动中的品牌服装，与街头服饰时尚相得益彰。用粗体排版强调产品的口号。布局功能包括产品规格标签，如工程样式的 Project a fiction brand title、Date、Size 和 fiction model name。带有品牌 pantone 调色板和代码编号的背景参考
+```
+
+---
+
+### [监控级别的时尚洞察力](https://aiart.pics/prompt/surveillance-level-fashion-insight)
+
+**作者**: [@hc_dsn](https://x.com/hc_dsn)
+
+**来源**: [X](https://x.com/hc_dsn/status/1925431043122970869)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/surveillance-level-fashion-insight.jpeg" width="500" alt="监控级别的时尚洞察力">
+
+```
+Create image with 1:1 ratio A cctv footage, \nA closed up view of focus woman carrying  [brand] [product] on street, a square zoomed window on the product, sci fi analyzing overlay UI with infos like brand name, date, time, location name, in brand color monospaced font, product name, width, height, weight, etc, vhs effect, glitch effect, film grainy
+创建比例为 1：1 的图像闭路电视素材，\n焦点女性在街上抬着 [品牌] [产品] 的特写视图，产品上的方形缩放窗口，科幻分析叠加 UI，其中包含品牌名称、日期、时间、位置名称、品牌颜色等宽字体、产品名称、宽度、高度、粗细等信息、vhs 效果、毛刺效果、胶片颗粒感
+```
+
+---
+
+### [未来的OpenAI可穿戴设备](https://aiart.pics/prompt/future-openai-wearable-device)
+
+**作者**: [@hc_dsn](https://x.com/hc_dsn)
+
+**来源**: [X](https://x.com/hc_dsn/status/1925589916844794154)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/future-openai-wearable-device.png" width="500" alt="未来的OpenAI可穿戴设备">
+
+```
+Create image with 1:1 ratio A next-gen wearable ai [device type] blending Jony Ive–inspired refined minimalism with a new material and interaction language symbolizing the power ChatGPT. The device is crafted from translucent aerogel fused with polished ceramic titanium, feather-light yet futuristic.  No seams, buttons, or traditional UI. Photographed floating against a pure white background, with a soft, diffused, nearly shadowless studio light.
+```
+
+---
+
+### [Alloy图标](https://aiart.pics/prompt/alloy-icon)
+
+**作者**: [@hc_dsn](https://x.com/hc_dsn)
+
+**来源**: [X](https://x.com/hc_dsn/status/1926095406871568670)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/alloy-icon.jpeg" width="500" alt="Alloy图标">
+
+```json
+create image with 1: 1 ratio  \nturn a vector [ type\n] icon with the following json style \n{\n    "object": "icon",\n    "material": {\n        "primary_surface": "smooth matted translucent metallic",\n        "finish": "iridescent sheen",\n        "color_profile": {\n            "base_color": "deep blue",\n            "secondary_tones": [\n                "black",\n                "violet",\n                "copper-orange highlights"\n            ]\n        },\n        "panel_lines": {\n            "material": "metallic copper",\n            "visual_treatment": "glowing edge with subtle bevel"\n        },\n    },\n    "lighting": {\n        "type": "studio",\n        "key_light": {\n            "position": "top-left",\n            "effect": "smooth gradient highlight across the surface"\n        },\n        "rim_light": {\n            "position": "right side",\n            "effect": "sharp metallic edge glow"\n        },\n        "reflections": {\n            "character": "diffused but iridescent, hinting at a highly polished or lacquered surface"\n        },\n        "shadows": "soft edge, minimal ground contact due to floating presentation"\n    },\n    "background": {\n        "color": "#FFF",\n        "style": "solid matte",\n    },\n    "composition": {\n        "camera_angle": "centered, eye-level",\n        "depth_of_field": "none (sharp focus throughout)",\n        "presentation": "floating, isolated subject"     "angle": "isometric style"\n    },\n    "visual_style": {\n        "tone": "modern, high-impact",\n        "inspiration": "sports branding meets futuristic product design",\n        "aesthetic": "bold contrast, tech-luxury fusion"\n    }\n}
+```
+
+---
+
+### [Airbnb风格的图标](https://aiart.pics/prompt/airbnb-style-icon)
+
+**作者**: [@hc_dsn](https://x.com/hc_dsn)
+
+**来源**: [X](https://x.com/hc_dsn/status/1924665909073084507)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/airbnb-style-icon.jpeg" width="500" alt="Airbnb风格的图标">
+
+```json
+generate[concept] icon with this json style:\n{\n    "icon_style": {\n        "perspective": "isometric",\n        "geometry": {\n            "proportions": "1:1 ratio canvas, with objects fitting comfortably within margins",\n            "element_arrangement": "central dominant object, with supporting elements symmetrically or diagonally placed"\n        },\n        "composition": {\n            "element_count": "2–4 main objects",\n            "spatial_depth": "layered to create sense of dimension and slight elevation",\n            "scale_consistency": "uniform object scale across icon set",\n            "scene_density": "minimal to moderate, maintaining clarity and visual focus"\n        },\n        "lighting": {\n            "type": "soft ambient light",\n            "light_source": "subtle top-right or front-top direction",\n            "shadow": "gentle drop shadows below and behind objects",\n            "highlighting": "mild edge illumination to define forms"\n        },\n        "textures": {\n            "material_finish": "semi-matte to satin surfaces",\n            "surface_treatment": "smooth with light tactile variation (e.g., wood grain, soft textures)",\n            "texture_realism": "stylized naturalism without hyper-realistic noise"\n        },\n        "render_quality": {\n            "resolution": "high-resolution octane 3D rendering",\n            "edge_definition": "crisp, no outlines; separation achieved via lighting and depth",\n            "visual_clarity": "clean, readable shapes with minimal clutter"\n        },\n        "color_palette": {\n            "tone": "naturalistic with slight saturation boost",\n            "range": "harmonious muted tones with gentle contrast",\n            "usage": "distinct colors per object to improve identification and readability"\n        },\n        "background": {\n            "color": "#FFFFFF",\n            "style": "pure white, flat",\n            "texture": "none"\n        },\n        "stylistic_tone": "premium, friendly, clean with lifestyle or service-oriented appeal",\n        "icon_behavior": {\n            "branding_alignment": "neutral enough for broad applications",\n            "scalability": "legible at small and medium sizes",\n            "interchangeability": "part of a cohesive icon system with interchangeable subject matter"\n        }\n    }\n}
+```
+
+---
+
+### [品牌奢华之物从天而降](https://aiart.pics/prompt/luxury-brand-items-falling-from-sky)
+
+**作者**: [@hc_dsn](https://x.com/hc_dsn)
+
+**来源**: [X](https://x.com/hc_dsn/status/1924390055231287650)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/luxury-brand-items-falling-from-sky.png" width="500" alt="品牌奢华之物从天而降">
+
+```
+Create a image with 1:1 ratio\na dreamy brand ad of [Brand], a brand designed bubble-like capsule with brand color parachute packaging their classic product, against blue sky and other blurry parachute packaging, white cloud, a small brand logo on top, a tiny slogan beneath it, cinematic day lighting, lens flare, dof, hdr
+```
+
+---
+
+## hckmstrrahul
+
+### [渐变挤出Google I/O 2025大会视觉效果](https://aiart.pics/prompt/gradient-extrusion-google-io-2025-visuals)
+
+**作者**: [@hckmstrrahul](https://x.com/hckmstrrahul)
+
+**来源**: [X](https://x.com/hckmstrrahul/status/1925567579856453701)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/gradient-extrusion-google-io-2025-visuals.jpeg" width="500" alt="渐变挤出Google I/O 2025大会视觉效果">
+
+```json
+Retexture this image in the following JSON style aesthetic:\n{\n  "styleAesthetic": {\n    "title": "Isometric Multicolor Extrusion with Grid Control",\n    "overallVibe": "Playful modern 3D iconography with directional extrusion and dynamic isometric grids",\n    "viewAngle": {\n      "type": "Isometric",\n      "facingDirection": "right",  // options: left, right, front\n      "rotationDegrees": {\n        "x": 30,\n        "y": 30\n      }\n    },\n    "renderingStyle": "Clean 3D extruded vector with soft lighting and high contrast between faces",\n    "objectSurface": {\n      "frontFace": {\n        "color": "#ffffff",\n        "material": "Matte white plastic",\n        "lighting": "Soft diffuse"\n      },\n      "extrudedSide": {\n        "type": "Multicolor gradient",\n        "gradientStyle": "Diagonal sweep",\n        "colorStops": [\n          "#ff0040", "#ff8000", "#ffff00", "#00ff90", "#00cfff", "#8000ff"\n        ],\n        "material": "Glossy plastic",\n        "lighting": "Ambient with light falloff"\n      }\n    },\n    "extrusion": {\n      "direction": "right",  // determines which side is extruded: left, right, front\n      "depth": "moderate"\n    },\n    "shadows": {\n      "type": "Drop shadow",\n      "direction": "bottom-right",\n      "opacity": 0.15,\n      "blurRadius": "6px"\n    },\n    "background": {\n      "type": "Isometric grid",\n      "color": "#ffffff",\n      "gridStyle": {\n        "lineColor": "#e0e0e0",\n        "lineWeight": "1px",\n        "orientation": "opposite-extrusion"  // automatically flips grid lines to oppose the extrusion direction\n      }\n    },\n    "moodKeywords": [\n      "Dimensional",\n      "Clean",\n      "Geometric",\n      "Colorful",\n      "Tactile",\n      "Structured"\n    ]\n  }\n}
 ```
 
 ---
@@ -1322,6 +2533,50 @@ Prompt in thread 🧵
 
 ---
 
+## Kris Kashtanova
+
+### [3D可爱粉彩粘土图标](https://aiart.pics/prompt/3d-cute-pastel-clay-icon)
+
+**作者**: [@Kris Kashtanova](https://x.com/icreatelife)
+
+**来源**: [X](https://x.com/icreatelife/status/1926014358783430945)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/3d-cute-pastel-clay-icon.png" width="500" alt="3D可爱粉彩粘土图标">
+
+```
+Tiny cute isometric [smiling - optional] [OBJECT] emoji, shape, soft lighting, soft pastel colors, [COLOR], 3d icon clay render, blender 3d, pastel background
+```
+
+---
+
+### [霓虹灯发光的可爱动物](https://aiart.pics/prompt/neon-glowing-cute-animal)
+
+**作者**: [@Kris Kashtanova](https://x.com/icreatelife)
+
+**来源**: [X](https://x.com/icreatelife/status/1923819449305509924)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/neon-glowing-cute-animal.png" width="500" alt="霓虹灯发光的可爱动物">
+
+```
+bioluminescent cute [ANIMAL], kawaii, chibi, [COLOR] neon backlit, 3d cartoon, big cute bright eyes, high definition
+```
+
+---
+
+### [通过钥匙孔看世界](https://aiart.pics/prompt/view-world-through-keyhole)
+
+**作者**: [@Kris Kashtanova](https://x.com/icreatelife)
+
+**来源**: [X](https://x.com/icreatelife/status/1925268371227971871)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/view-world-through-keyhole.png" width="500" alt="通过钥匙孔看世界">
+
+```
+looking through a [MATERIAL] keyhole towards a mythical [WORLD] dark fantasy, [very black background] around keyhole, sharp focus, photographic
+```
+
+---
+
 ## James Yeung
 
 ### [纽约深夜的熟食店电影海报](https://aiart.pics/prompt/new-york-deli-movie-poster-at-night)
@@ -1393,6 +2648,110 @@ Prompt in thread 🧵
 
 ---
 
+## KoppulaMahende9
+
+### [透明容器里有一个微型的3D世界](https://aiart.pics/prompt/miniature-3d-world-in-transparent-container)
+
+**作者**: [@KoppulaMahende9](https://x.com/KoppulaMahende9)
+
+**来源**: [X](https://x.com/KoppulaMahende9/status/1920442464810270851)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/miniature-3d-world-in-transparent-container.png" width="500" alt="透明容器里有一个微型的3D世界">
+
+```
+A giant [transparent or glossy] [object/container] with a miniature 3D diorama inside it, depicting [a symbolic or narrative scene], studio-lit with soft shadows, placed on a neutral matte surface. Emphasize visual contrast between the scale of the capsule and the detail within. Highlight texture, light refraction, and emotional tone (e.g., surreal, poetic, or sci-fi).
+```
+
+---
+
+## 空想写真家
+
+### [今日の衣装ご用意](https://aiart.pics/prompt/today-s-outfit-prepared)
+
+**作者**: [@空想写真家](https://x.com/KusoPhoto)
+
+**来源**: [X](https://x.com/KusoPhoto/thread/1928286855486701582)
+
+<img src="https://img1.aiart.pics/images/prompts/20251214/today-s-outfit-prepared-1.jpg" width="500" alt="今日の衣装ご用意">
+
+<img src="https://img1.aiart.pics/images/prompts/20251214/today-s-outfit-prepared-2.jpg" width="500" alt="今日の衣装ご用意">
+
+```
+本日の衣装ご用意しました♪
+皆様の素敵なコーデ楽しみにしています😊
+・衣装プロンプトはリプ欄に記載してます🫶
+・過去の衣装はハイライトにまとめてます👗
+・衣装の要望窓口を固定欄に設置しました📩
+（推奨：引用RP + #空想AIファッション） https://t.co/ZjXYsYgtBo
+【特徴】
+レッドオフショルダートップスとライトブルーデニムパンツ：夏らしく爽やかなカジュアルスタイル
+明るいカラーコンビネーション：活動的な印象
+【プロンプト】
+Red off-shoulder top with drawstring details and short sleeves. Light blue wide-leg denim pants with relaxed fit. Black platform sandals with thick straps. Summer casual style with red and light blue color combination. Fresh youthful aesthetic. NOT dark colors, NOT formal wear, NOT fitted clothing.
+```
+
+---
+
+### [全黑风格：街头与优雅的融合](https://aiart.pics/prompt/all-black-style-fusion-of-street-and-elegance)
+
+**作者**: [@空想写真家](https://x.com/KusoPhoto)
+
+**来源**: [X](https://x.com/KusoPhoto/status/1927582792239436221)
+
+<img src="https://img1.aiart.pics/images/prompts/20251210/all-black-style-fusion-of-street-and-elegance-1.jpg" width="500" alt="全黑风格：街头与优雅的融合">
+
+```
+【特徴】
+オールブラックの統一感と素材の異なる重ね着：様々な質感のブラックアイテムによる深みのある表現
+ストリートとエレガンスのミックス：テーラードジャケットとボリュームスカートの組み合わせが現代的
+【プロンプト】
+Black tailored jacket with structured shoulders and relaxed fit. Black square-neck knit top with slim silhouette. Flowing black tiered maxi skirt with gathered details. Wide black leather belt with silver circular buckle. Black lace choker necklace. Chunky black platform loafers with thick soles. Small black structured handbag with multiple straps. All-black monochrome style with varied textures. Avant-garde minimal aesthetic with gothic elements. NOT colorful, NOT casual, NOT form-fitting throughout.
+```
+
+---
+
+### [红色无肩带上衣搭配浅蓝牛仔裤：清爽夏日休闲风格](https://aiart.pics/prompt/red-off-shoulder-top-with-light-blue-denim-pants-summer-casual-style)
+
+**作者**: [@空想写真家](https://x.com/KusoPhoto)
+
+**来源**: [X](https://x.com/KusoPhoto/thread/1928287133963538456)
+
+<img src="https://img1.aiart.pics/images/prompts/20251210/red-off-shoulder-top-with-light-blue-denim-pants-summer-casual-style-1.jpg" width="500" alt="红色无肩带上衣搭配浅蓝牛仔裤：清爽夏日休闲风格">
+
+```
+【特徴】
+レッドオフショルダートップスとライトブルーデニムパンツ：夏らしく爽やかなカジュアルスタイル
+明るいカラーコンビネーション：活動的な印象
+【プロンプト】
+Red off-shoulder top with drawstring details and short sleeves. Light blue wide-leg denim pants with relaxed fit. Black platform sandals with thick straps. Summer casual style with red and light blue color combination. Fresh youthful aesthetic. NOT dark colors, NOT formal wear, NOT fitted clothing.
+```
+
+---
+
+## Leon.ai
+
+### [表情包自由](https://aiart.pics/prompt/emoticon-freedom)
+
+**作者**: [@Leon.ai](https://x.com/leon_yuan2001)
+
+**来源**: [X](https://x.com/leon_yuan2001/status/1923712069209293014)
+
+<img src="https://img1.aiart.pics/images/prompts/20251216/emoticon-freedom-1.jpg" width="500" alt="表情包自由">
+
+<img src="https://img1.aiart.pics/images/prompts/20251216/emoticon-freedom-2.jpg" width="500" alt="表情包自由">
+
+<img src="https://img1.aiart.pics/images/prompts/20251216/emoticon-freedom-3.jpg" width="500" alt="表情包自由">
+
+<img src="https://img1.aiart.pics/images/prompts/20251216/emoticon-freedom-4.jpg" width="500" alt="表情包自由">
+
+```
+表情包自由
+请创作一套以图中角色为主角的透明背景Q版表情包，共 9个，排成3x3。
+每个表情动作、神态、内容都必须不一样，要骚、要贱、要萌、要抓狂！比如：翻白眼、捶地狂笑、吐魂、原地石化、撒币、干饭魂、社恐发作…总之要够‘疯’，能制霸各种聊天场景，多来点打工人和网络梗！风格要统一！最最重 https://t.co/zQPZ4ffN9B
+```
+
+---
+
 ## Lex
 
 ### [Gemini Nano Banana Pro - 时尚粉红豹](https://aiart.pics/prompt/gemini-nano-banana-pro-stylish-pink-panther)
@@ -1427,6 +2786,100 @@ Prompt:
 
 ---
 
+## LudovicCreator
+
+### [霓虹花卉和谐插图](https://aiart.pics/prompt/neon-floral-harmony-illustration)
+
+**作者**: [@LudovicCreator](https://x.com/LudovicCreator)
+
+**来源**: [X](https://x.com/LudovicCreator/status/1926246931661042132)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/neon-floral-harmony-illustration.png" width="500" alt="霓虹花卉和谐插图">
+
+```
+A Neon Floral Harmony illustration of [SUBJECT], with flowers and plants outlined in glowing neon hues. Use vibrant [COLOR1] and [COLOR2] to create a serene yet electrifying botanical scene
+```
+
+---
+
+### [无声电影场景](https://aiart.pics/prompt/silent-movie-scene)
+
+**作者**: [@LudovicCreator](https://x.com/LudovicCreator)
+
+**来源**: [X](https://x.com/LudovicCreator/status/1925469185288572953)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/silent-movie-scene.png" width="500" alt="无声电影场景">
+
+```json
+[SUBJECT] depicted in a Sepia-Toned Silent Film Scene, evoking the drama and expression of early cinema. Use muted [COLOR1] and [COLOR2] sepia tones to enhance the nostalgic atmosphere
+```
+
+---
+
+### [附魔粒子泛光](https://aiart.pics/prompt/enchanted-particle-bloom)
+
+**作者**: [@LudovicCreator](https://x.com/LudovicCreator)
+
+**来源**: [X](https://x.com/LudovicCreator/status/1925069047948849443)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/enchanted-particle-bloom.png" width="500" alt="附魔粒子泛光">
+
+```json
+[SUBJECT] surrounded by an Enchanted Particle Bloom, with particles resembling magical flower petals or leaves. Employ soft, enchanting hues of [COLOR1] and [COLOR2] to create a sense of natural magic.
+```
+
+---
+
+### [网络矩阵梦境](https://aiart.pics/prompt/network-matrix-dream)
+
+**作者**: [@LudovicCreator](https://x.com/LudovicCreator)
+
+**来源**: [X](https://x.com/LudovicCreator/status/1924382022002250151)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/network-matrix-dream.png" width="500" alt="网络矩阵梦境">
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/39-2.jpeg" width="500" alt="网络矩阵梦境">
+
+```json
+[SUBJECT] reinterpreted through Cyber Matrix Dreamscapes, where cascading streams of digital code form the immersive backdrop. Imbue the scene with radical neon [COLOR1] and luminous [COLOR2] accents to evoke a futuristic reality where art converges with algorithm
+```
+
+---
+
+## madpencil_
+
+### [Ideogram AI 提示内容](https://aiart.pics/prompt/ideogram-ai-prompt-content)
+
+**作者**: [@madpencil_](https://x.com/madpencil_)
+
+**来源**: [X](https://x.com/madpencil_/status/1920037538372128998)
+
+<img src="https://img1.aiart.pics/images/prompts/20251216/ideogram-ai-prompt-content-1.jpg" width="500" alt="Ideogram AI 提示内容">
+
+<img src="https://img1.aiart.pics/images/prompts/20251216/ideogram-ai-prompt-content-2.jpg" width="500" alt="Ideogram AI 提示内容">
+
+```
+Prompt in ALT, @ideogram_ai. https://t.co/koZL19Ss3y
+```
+
+---
+
+## MayorKingAI
+
+### [3D蒸汽朋克Logo](https://aiart.pics/prompt/3d-steampunk-logo)
+
+**作者**: [@MayorKingAI](https://x.com/MayorKingAI)
+
+**来源**: [X](https://x.com/MayorKingAI/status/1925144570553327620)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/3d-steampunk-logo.jpeg" width="500" alt="3D蒸汽朋克Logo">
+
+```
+3D sculpted logo of [LOGO NAME], in a steampunk style, made of aged brass and oxidized iron, with visible rivets, gears, and vintage mechanical elements, distressed and weathered surface, rich copper and bronze tones, engraved with Victorian-style filigree, retro-industrial design, soft spotlight lighting, neutral background, hyper-realistic render, ultra-high resolution, symmetrical composition
+```
+
+---
+
 ## Michael Rabone
 
 ### [Barcelona 西班牙 彩色夏季矢量艺术海报](https://aiart.pics/prompt/barcelona-spain-colored-summer-vector-art-poster)
@@ -1443,6 +2896,37 @@ Share your colourful vector posters
 Prompt I used (ChatGPT)
 Barcelona Spain colourful summer vector art poster with big "BARCELONA" title at the top and smaller "SPAIN" title under
 Also works with food, movies, music, etc. https://t.co/ll0WrSeuet
+```
+
+---
+
+### [按键删除周一](https://aiart.pics/prompt/button-delete-monday)
+
+**作者**: [@Michael Rabone](https://x.com/michaelrabone)
+
+**来源**: [X](https://x.com/michaelrabone/status/1924374502529438005)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/button-delete-monday.jpeg" width="500" alt="按键删除周一">
+
+```
+Detailed photographic image of a miniature person in bed feeling cranky under an opened 'Delete Monday' keyboard keycap, using the inside of the keycap as a mini bedroom complete with the usual bedroom stuff
+```
+
+---
+
+## michalmalewicz
+
+### [品牌着陆页-年轻女性运动后的面部特写](https://aiart.pics/prompt/brand-landing-page-close-up-of-young-woman-after-exercise)
+
+**作者**: [@michalmalewicz](https://x.com/michalmalewicz)
+
+**来源**: [X](https://x.com/michalmalewicz/status/1924844232495284571)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/brand-landing-page-close-up-of-young-woman-after-exercise.jpeg" width="500" alt="品牌着陆页-年轻女性运动后的面部特写">
+
+```
+Create a closeup face of a young woman after a workout, sweaty, deep blue eyes, with a bit of blurred gym background on the left side of the photo, 5:3 proportions, she's looking right at the camera, some freckles and messy hair, beautiful, editorial
+创作一张年轻女性运动后的面部特写：她满头大汗，有着深蓝色的眼睛，照片左侧是略微模糊的健身房背景，比例为5:3。她正直视镜头，脸上有一些雀斑，头发有些凌乱，整体呈现出美丽的 editorial（时尚编辑风格）效果。
 ```
 
 ---
@@ -1479,6 +2963,52 @@ Create a minimalistic illustration of [object or scene] in a paper cut-out style
 
 ---
 
+### [马赛克彩色玻璃徽章](https://aiart.pics/prompt/mosaic-stained-glass-badge)
+
+**作者**: [@Melis✨](https://x.com/miilesus)
+
+**来源**: [X](https://x.com/miilesus/status/1925157350068900103)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/mosaic-stained-glass-badge.png" width="500" alt="马赛克彩色玻璃徽章">
+
+```json
+create image:\n{\n  "style": "mosaic stained glass emblem",\n  "object": "brand logo",\n  "brand": {\n    "name": "Spotify",\n    "logo_shape": "circular",\n    "icon_style": "three curved bars",\n    "color_palette": {\n      "primary": "#1DB954",\n      "secondary": "#1ED760",\n      "glass_variants": ["#147A3E", "#0F5C30", "#26C178"]\n    }\n  },\n  "material": {\n    "type": "colored glass",\n    "effect": "semi-transparent with light reflections",\n    "outline": {\n      "color": "#111111",\n      "width": "medium",\n      "style": "lead-line traditional mosaic"\n    }\n  },\n  "composition": {\n    "layout": "logo composed of tessellated glass pieces",\n    "geometry": "irregular but fitted glass shapes",\n    "contrast": "dark outlines define shape clearly"\n  },\n  "lighting": {\n    "type": "diffused natural light",\n    "highlight": "glass texture and color depth emphasized"\n  },\n  "background": {\n    "type": "flat surface",\n    "color": "#F4F4F4"\n  },\n  "camera": {\n    "angle": "top-down",\n    "focus": "centered on entire logo"\n  },\n  "render": {\n    "quality": "high",\n    "shadows": "soft",\n    "reflections": "minimal"\n  }\n}
+创建图像：\n{\n  "风格": "马赛克彩色玻璃徽章",\n  "对象": "品牌标志",\n  "品牌": {\n    "名称": "Spotify",\n    "标志形状": "圆形",\n    "图标风格": "三条弯曲的长条",\n    "色彩搭配": {\n      "主色": "#1DB954",\n      "辅助色": "#1ED760",\n      "玻璃变体色": ["#147A3E", "#0F5C30", "#26C178"]\n    }\n  },\n  "材质": {\n    "类型": "彩色玻璃",\n    "效果": "半透明带光线反射",\n    "轮廓": {\n      "颜色": "#111111",\n      "宽度": "中等",\n      "风格": "传统马赛克铅线"\n    }\n  },\n  "构图": {\n    "布局": "由镶嵌玻璃片组成的标志",\n    "几何形状": "不规则但拼接契合的玻璃造型",\n    "对比度": "深色轮廓清晰界定形状"\n  },\n  "光线": {\n    "类型": "漫射自然光",\n    "高光": "突出玻璃质感和色彩深度"\n  },\n  "背景": {\n    "类型": "平面",\n    "颜色": "#F4F4F4"\n  },\n  "镜头": {\n    "角度": "俯视",\n    "焦点": "居中于整个标志"\n  },\n  "渲染": {\n    "质量": "高",\n    "阴影": "柔和",\n    "反射": "轻微"\n  }\n}
+```
+
+---
+
+### [创作漫画风格插画](https://aiart.pics/prompt/create-comic-style-illustration)
+
+**作者**: [@Melis✨](https://x.com/miilesus)
+
+**来源**: [X](https://x.com/miilesus/status/1921944436684038496)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/create-comic-style-illustration.png" width="500" alt="创作漫画风格插画">
+
+```json
+create comic style illustration:\n{\n"style": "comic book illustration",\n"line_art": {\n"type": "bold black outlines",\n"thickness": "medium",\n"detail": "emphasized contours and shading lines"\n},\n"coloring": {\n"palette": "vibrant and saturated colors",\n"shading": "halftone dots and cel shading",\n"highlighting": "strong contrast with pop art effects"\n},\n"texture": {\n"surface": "flat with visible ink strokes",\n"effect": "printed comic paper texture"\n},\n"composition": {\n"layout": "centered subject",\n"background": "simple with radial burst or comic-style lines",\n"framing": "comic panel border"\n},\n"lighting": {\n"type": "dramatic",\n"angle": "top-left with bold highlights and shadows"\n},\n"post_processing": {\n"effect": ["halftone dots", "ink outline", "grain"],\n"saturation": "high",\n"contrast": "high"\n},\n"mood": "dynamic and action-oriented",\n"format": "vertical or square depending on original image"\n}
+创作漫画风格插画：\n{\n"风格": "漫画书插画",\n"线稿": {\n"类型": "粗黑轮廓线",\n"粗细": "中等",\n"细节": "突出的轮廓和阴影线条"\n},\n"上色": {\n"调色板": "鲜艳饱和的色彩",\n"阴影": "半色调网点和赛璐珞 shading",\n"高光": "强烈对比，带有波普艺术效果"\n},\n"质感": {\n"表面": "平坦，带有可见的笔触",\n"效果": "印刷漫画纸质感"\n},\n"构图": {\n"布局": "主体居中",\n"背景": "简洁，带有放射状爆发图案或漫画风格线条",\n"边框": "漫画分镜边框"\n},\n"光线": {\n"类型": "戏剧性",\n"角度": "左上角，带有强烈的高光和阴影"\n},\n"后期处理": {\n"效果": ["半色调网点", "墨水轮廓", "颗粒感"],\n"饱和度": "高",\n"对比度": "高"\n},\n"氛围": "充满动感和动作感",\n"格式": "根据原图，为竖版或正方形"\n}
+```
+
+---
+
+## nim_null
+
+### [涂料飞溅Logo](https://aiart.pics/prompt/paint-splash-logo)
+
+**作者**: [@nim_null](https://x.com/nim_null)
+
+**来源**: [X](https://x.com/nim_null/status/1928008305705664661)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/paint-splash-logo.png" width="500" alt="涂料飞溅Logo">
+
+```
+make a hyper-realistic 3D render of the attached logo, formed by glossy liquid paint splashes. Paint sculpts the outline using the exact palette from the reference. Smooth, fluid high-gloss splashes catch highlights; logo floats on pure white.
+```
+
+---
+
 ## 歸藏(guizang.ai)
 
 ### [物理破坏效果卡片](https://aiart.pics/prompt/physical-break-effects-card)
@@ -1496,6 +3026,36 @@ Create a minimalistic illustration of [object or scene] in a paper cut-out style
 做了一下爱因斯坦和劳拉的卡片
 dimensional break effects + motion depth 这两个词是核心
 原推没写完整提示词，我搞了一个放下面了 https://t.co/vFSCwJ6i5K
+```
+
+---
+
+### [知名戏曲片段的MBTI人格类型卡片](https://aiart.pics/prompt/mbti-personality-card-for-famous-opera-scenes)
+
+**作者**: [@歸藏(guizang.ai)](https://x.com/op7418)
+
+**来源**: [X](https://x.com/op7418/status/1925869690120794320)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/mbti-personality-card-for-famous-opera-scenes.jpeg" width="500" alt="知名戏曲片段的MBTI人格类型卡片">
+
+```
+# 任务目标\n请生成一张基于中国古代知名戏曲片段的MBTI人格类型卡片图片，使戏曲场景扁平插画的情感内涵与MBTI人格特质相对应。，我需要生成的人各类型是[INTP]\n\n## 内容要求\n1. **场景选取**：从中国古代知名戏曲片段中提取能体现不同MBTI人格特质的代表性场景\n2. **场景意境**：画面需表现完整戏剧场景，通过场景氛围体现对应的人格特质\n3. **服饰真实性**：画面中人物必须穿着对应戏曲的正确戏服\n4. **人格对应**：每个场景需精准对应一种MBTI人格类型的核心特质\n\n## 卡片排版设计\n参考图片样式：\n- **顶部**：MBTI类型代码（如INFJ）\n- **中部**：渐变色彩的抽象几何图形作为主视觉\n- **底部**：\n- 中文人格类型名称（如"提倡者"）\n- 英文标语：（如"The world is your oyster"）\n- 装饰性边框和星形符号\n\n## 视觉风格\n- 采用现代极简设计语言\n- 渐变色彩与几何形状结合\n- 保持神秘感与艺术性\n- 整体色调柔和梦幻\n\n## 技术规格\n- 卡片尺寸采用标准比例\n- 每张卡片需清晰标注MBTI类型代码\n- 保持系列视觉一致性
+```
+
+---
+
+## R2_fieldworks
+
+### [AirBnB 任何东西](https://aiart.pics/prompt/airbnb-anything)
+
+**作者**: [@R2_fieldworks](https://x.com/R2_fieldworks)
+
+**来源**: [X](https://x.com/R2_fieldworks/status/1924433924106727531)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/airbnb-anything.png" width="500" alt="AirBnB 任何东西">
+
+```
+A highly detailed 3D isometric icon of the following object: [OBJECT]\n\nStyle: Airbnb 2024 icon language — miniature diorama / emoji-like object with crisp edges, realistic textures, and soft handcrafted realism.  \n\nMaterial: The object should clearly retains its fundamental qualities but look as if its made from a mixture of matte and plastic-like materials.  \n\nView: three-quarter front-left isometric view with a slight top-down angle.  \n\nLighting: soft neutral studio lighting from the top-left with subtle shadows and gentle gloss highlights.  \n\nColor palette: retain the fundamental colors from the object and include subtle gradients and no harsh contrasts.  \n\nBackground: clean white, no drop shadow or noise.  \n\nMood: minimal, charming, utilitarian, premium.  \n\nRendering: hyper-detailed, photorealistic object with depth and tactility, like a designer lifestyle emoji or miniature product model. \n\nOptional Add-on for Replication:  Use the attached photo as a reference for proportions and layout. Do not copy exactly — reinterpret it in the Airbnb icon aesthetic.
 ```
 
 ---
@@ -1607,7 +3167,204 @@ Transform the cartoon character from the reference image into a hyper-realistic 
 
 ---
 
+## TheRelianceAI
+
+### [终极跨界](https://aiart.pics/prompt/ultimate-crossover)
+
+**作者**: [@TheRelianceAI](https://x.com/TheRelianceAI)
+
+**来源**: [X](https://x.com/TheRelianceAI/status/1925146916133712191)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/ultimate-crossover.png" width="500" alt="终极跨界">
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/100-2.jpeg" width="500" alt="终极跨界">
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/100-3.jpeg" width="500" alt="终极跨界">
+
+```
+Imagine [CHARAKTER 1] and [Charakter 2] casually sitting together at a table in a [FAST FOOD BRAND] restaurant. The atmosphere is relaxed and light-hearted, with the two characters engaged in an amusing or deep conversation over trays of food and drinks.
+```
+
+---
+
+### [玩具盒中的历史](https://aiart.pics/prompt/history-in-a-toy-box)
+
+**作者**: [@TheRelianceAI](https://x.com/TheRelianceAI)
+
+**来源**: [X](https://x.com/TheRelianceAI/status/1925223613055017251)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/history-in-a-toy-box.png" width="500" alt="玩具盒中的历史">
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/99-2.jpeg" width="500" alt="玩具盒中的历史">
+
+```
+An ultra-realistic top-down photograph of a 3D-printed diorama inside a beige cardboard box, with the lid being held open by two human hands. The interior of the box reveals a miniature landscape of [COUNTRY NAME], featuring iconic landmarks, terrain, buildings, rivers, vegetation, and crowds of tiny, detailed human figures. The diorama is filled with vibrant, geographically appropriate elements, all crafted in a tactile, toy-like style using matte 3D-printed textures with visible layer lines. At the top, the inside of the box lid displays the phrase “[COUNTRY NAME]” in large, colorful, raised plastic letters—each letter in a different bright color. The lighting is warm and cinematic, highlighting the textures and shadows to evoke a sense of realism and charm, as if the viewer is opening a magical miniature version of the natio
+```
+
+---
+
+### [不同情绪状态的思想泡泡](https://aiart.pics/prompt/thought-bubbles-of-different-emotional-states)
+
+**作者**: [@TheRelianceAI](https://x.com/TheRelianceAI)
+
+**来源**: [X](https://x.com/TheRelianceAI/status/1925098220398465145)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/thought-bubbles-of-different-emotional-states.jpeg" width="500" alt="不同情绪状态的思想泡泡">
+
+```
+A [SUBJECT] sits alone in a minimalistic room filled with floating, semi-transparent thought bubbles. Each bubble contains a fragment of their face from different emotional states — smiling, crying, screaming — forming a psychological self-portrait suspended in mid-air.
+```
+
+---
+
+### [品牌解锁童年回忆](https://aiart.pics/prompt/brand-unlocking-childhood-memories)
+
+**作者**: [@TheRelianceAI](https://x.com/TheRelianceAI)
+
+**来源**: [X](https://x.com/TheRelianceAI/status/1925606107608715268)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/brand-unlocking-childhood-memories.png" width="500" alt="品牌解锁童年回忆">
+
+```
+A realistic, cinematic photograph of a vintage [BRAND NAME] item being gently lifted from a dusty stack of old children's books in a dimly lit attic. The item is designed in classic [BRAND NAME] style—featuring authentic patterns, textures, or logos (e.g. monograms, embossing, or signature motifs relevant to the brand). It is partially opened to reveal a miniature, warmly lit classroom inspired by [COUNTRY] school interiors, complete with small regional-style desks, a chalkboard with delicate handwriting in [LANGUAGE], and traditional local details like shoes, posters, or flags. A paper airplane hovers mid-air. The lighting is moody and nostalgic, with soft shadows and golden highlights suggesting afternoon light filtering through attic beams. On the top book cover at the bottom of the image, the [BRAND NAME] logo is written in an elegant, fountain-pen calligraphy style—subtle, integrated into the scene, and not obscuring the main subject.
+```
+
+---
+
+### [品牌乐器](https://aiart.pics/prompt/branded-musical-instruments)
+
+**作者**: [@TheRelianceAI](https://x.com/TheRelianceAI)
+
+**来源**: [X](https://x.com/TheRelianceAI/status/1926148686884606257)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/branded-musical-instruments.png" width="500" alt="品牌乐器">
+
+```
+A highly stylized and vibrant promotional image of a [INSTRUMENT] designed in the visual style of the [BRAND] brand — the instrument is reimagined with iconic colors, patterns, and aesthetic elements of the brand. Set in a dynamic, music-inspired environment, with glowing accents, product-style lighting, and joyful energy. Artistic fusion of music and design. 3D render look, high detail, vibrant colors, futuristic but playful.
+```
+
+---
+
+### [破碎的真相](https://aiart.pics/prompt/shattered-truth)
+
+**作者**: [@TheRelianceAI](https://x.com/TheRelianceAI)
+
+**来源**: [X](https://x.com/TheRelianceAI/status/1925918144163450890)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/shattered-truth.png" width="500" alt="破碎的真相">
+
+```
+A close-up of [SUBJECT 1] holding a mirror shard to their face. The shard reflects a completely different [SUBJECT 2]. Around them, small cracks spread through the air like fractures in invisible glass, warping the space itself.
+```
+
+---
+
+### [品牌我的世界风格](https://aiart.pics/prompt/branded-minecraft-style)
+
+**作者**: [@TheRelianceAI](https://x.com/TheRelianceAI)
+
+**来源**: [X](https://x.com/TheRelianceAI/status/1923757741262164427)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/branded-minecraft-style.png" width="500" alt="品牌我的世界风格">
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/18-2.jpeg" width="500" alt="品牌我的世界风格">
+
+```
+"A Minecraft-style voxel recreation of a [BRAND NAME] [OBJECT], built entirely from pixelated cubes — detailed voxel modeling, signature brand colors and logo, blocky textures, clean lighting, stylized yet recognizable, 3D render, high resolution, playful and creative interpretation
+```
+
+---
+
+### [未来一瞥](https://aiart.pics/prompt/glimpse-of-the-future)
+
+**作者**: [@TheRelianceAI](https://x.com/TheRelianceAI)
+
+**来源**: [X](https://x.com/TheRelianceAI/status/1921900687689941197)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/glimpse-of-the-future.png" width="500" alt="未来一瞥">
+
+```
+A cinematic rendering of [subject] walking through a rain-soaked street at night, illuminated by moody neon lights, reflections dancing on wet pavement, and a hazy urban skyline in the background. The subject feels alive, caught between solitude and electricity.
+```
+
+---
+
+### [品牌星球世界](https://aiart.pics/prompt/branded-planet-world)
+
+**作者**: [@TheRelianceAI](https://x.com/TheRelianceAI)
+
+**来源**: [X](https://x.com/TheRelianceAI/status/1923064017477628160)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/branded-planet-world.png" width="500" alt="品牌星球世界">
+
+```
+Planet [Brand name], Year 3025. A distant world shaped entirely by the essence of the brand. The landscapes echo its core identity — from surreal terrains to fantastical weather patterns. Native flora and fauna embody its signature ingredients and aesthetics. Rivers flow with iconic flavors. Architecture is inspired by its packaging and visual language, fused with futuristic technology. The atmosphere is rich in texture, cinematic lighting, and surreal detail. A dreamlike vision of brand identity reimagined as a sci-fi utopia.
+```
+
+---
+
+### [树屋](https://aiart.pics/prompt/treehouse)
+
+**作者**: [@TheRelianceAI](https://x.com/TheRelianceAI)
+
+**来源**: [X](https://x.com/TheRelianceAI/status/1923451797869371701)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/treehouse.png" width="500" alt="树屋">
+
+```
+A quiet morning in a luxury treehouse retreat created by [BRAND NAME] — golden light pours through windows framed in the brand’s signature colors. A cozy seating area features playful, thematic furniture, and a circular rug inspired by [BRAND SYMBOL OR PRODUCT]. The coffee table bears the embossed logo, while a screen on the wall loops the phrase: “[BRAND SLOGAN].” A curated display of iconic items adds a sense of nostalgia. Subtle ambient lighting glows in brand tones, and a tray with signature treats sits near the window. It’s cozy, imaginative, and unmistakably [BRAND NAME]
+```
+
+---
+
+## Ryan Hart
+
+### [从自拍创建自己的摇头公仔](https://aiart.pics/prompt/creating-your-own-bobblehead-from-a-selfie-using-chatgpt)
+
+**作者**: [@Ryan Hart](https://x.com/thisdudelikesAI)
+
+**来源**: [X](https://x.com/thisdudelikesAI/status/1920433372243136730)
+
+<img src="https://img1.aiart.pics/images/prompts/20251216/creating-your-own-bobblehead-from-a-selfie-using-chatgpt-1.jpg" width="500" alt="从自拍创建自己的摇头公仔">
+
+```
+People are using ChatGPT to create their own bobbleheads from a single selfie.
+Here’s how you can do it too for free: https://t.co/NTskgbgW7a
+```
+
+---
+
 ## Umesh
+
+### [ChatGPT 4o 指令](https://aiart.pics/prompt/chatgpt-4o-prompt)
+
+**作者**: [@Umesh](https://x.com/umesh_ai)
+
+**来源**: [X](https://x.com/umesh_ai/status/1921487841634156999)
+
+<img src="https://img1.aiart.pics/images/prompts/20251216/chatgpt-4o-prompt-1.jpg" width="500" alt="ChatGPT 4o 指令">
+
+```
+This is brilliant!
+ChatGPT 4o prompt ⤵️ https://t.co/FT5bm7HpUv
+```
+
+---
+
+### [ChatGPT-4o 古代宝藏地图转换](https://aiart.pics/prompt/chatgpt-4o-ancient-treasure-map-transformation)
+
+**作者**: [@Umesh](https://x.com/umesh_ai)
+
+**来源**: [X](https://x.com/umesh_ai/status/1919701229363466328)
+
+<img src="https://img1.aiart.pics/images/prompts/20251216/chatgpt-4o-ancient-treasure-map-transformation-1.jpg" width="500" alt="ChatGPT-4o 古代宝藏地图转换">
+
+```
+ChatGPT-4o can transform any google map view as ancient treasure map!
+Prompt below ⤵️ https://t.co/VxI7Az4ECP
+```
+
+---
 
 ### [艺术与现实主义融合之ChatGPT 4o！](https://aiart.pics/prompt/fusion-of-art-and-realism-with-chatgpt-4o)
 
@@ -1706,6 +3463,147 @@ Prompt on ChatGPT 4o : A digital illustration of a [SUBJECT], portrayed with a n
 
 ```
 ChatGPT 4o prompt: A photograph captures a daytime scene with a [SUBJECT/OBJECT] formed by scattered clouds in the sky, positioned above a [LOCATION] https://t.co/YbHGPnLe3G
+```
+
+---
+
+### [黑客帝国的绿色代码](https://aiart.pics/prompt/matrix-green-code)
+
+**作者**: [@Umesh](https://x.com/umesh_ai)
+
+**来源**: [X](https://x.com/umesh_ai/status/1920343010975551554)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/matrix-green-code.jpeg" width="500" alt="黑客帝国的绿色代码">
+
+```
+Transform this image into a digital Matrix-style scene. The background and subject should be composed of cascading neon green code on a black backdrop, similar to the iconic Matrix digital rain. Use glowing green symbols (Japanese katakana, numbers, and Latin letters), with some motion blur and depth. Add subtle lighting effects to simulate screen glow and enhance the cyberpunk, high-tech atmosphere
+将这张图像转化为数字《黑客帝国》风格场景。背景和主题应由倾泻而下的霓虹绿色代码组成，在黑色背景下，类似于标志性的《黑客帝国》数字雨。使用发光的绿色符号（日语假名、数字和拉丁字母），带有一些运动模糊和深度。添加微妙的光照效果来模拟屏幕辉光，增强赛博朋克、高科技氛围
+```
+
+---
+
+### [水果的形状](https://aiart.pics/prompt/shape-of-fruit)
+
+**作者**: [@Umesh](https://x.com/umesh_ai)
+
+**来源**: [X](https://x.com/umesh_ai/status/1926182194159972503)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/shape-of-fruit.jpeg" width="500" alt="水果的形状">
+
+```
+Create an image by arranging [NUMBER/AGGREGATE] of [FRUIT] strategically on a dark surface to form the shape of [OBJECT/EMOJI/LOGO]
+```
+
+---
+
+### [景观洞穴入口的形状](https://aiart.pics/prompt/landscape-cave-entrance-shape)
+
+**作者**: [@Umesh](https://x.com/umesh_ai)
+
+**来源**: [X](https://x.com/umesh_ai/status/1925819339413836010)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/landscape-cave-entrance-shape.png" width="500" alt="景观洞穴入口的形状">
+
+```
+Prompt: An image of a [TYPE] landscape, featuring a cave entrance that is shaped exactly like the outline of a [SHAPE]. The cave should blend naturally into the rugged terrain of the mountain, with the entrance forming a clear and unmistakable [SHAPE] shape. This [SHAPE] shape should be simple and defined, without intricate details, emphasizing just the overall [SHAPE] outline. The surrounding environment should include [DETAILS], but these elements should not distract from the cave's   [SHAPE]-shaped entrance. The lighting in the scene should enhance the visibility and distinctiveness of the [SHAPE]-shaped cave entrance.
+```
+
+---
+
+### [皱巴巴的纸片](https://aiart.pics/prompt/crumpled-paper)
+
+**作者**: [@Umesh](https://x.com/umesh_ai)
+
+**来源**: [X](https://x.com/umesh_ai/status/1925868463689462049)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/crumpled-paper.jpeg" width="500" alt="皱巴巴的纸片">
+
+```
+A photorealistic image of the word '[NAME]' spelled out using torn, highly crumpled pieces of white paper. Each letter is painted in bold [COLOR] on individual scraps, arranged loosely and unevenly, as if placed casually by hand, on a wooden table. The composition should convey a natural, handmade aesthetic with visible creases, shadows, and wood grain detail
+```
+
+---
+
+### [玻璃盒内的图像可视化](https://aiart.pics/prompt/image-visualization-in-glass-box)
+
+**作者**: [@Umesh](https://x.com/umesh_ai)
+
+**来源**: [X](https://x.com/umesh_ai/status/1925462472825442469)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/image-visualization-in-glass-box.jpeg" width="500" alt="玻璃盒内的图像可视化">
+
+```
+photorealistic image of a [COLOR] 3D [SUBJECT] encased in a luxurious transparent box, viewed from an enhanced side angle to better reveal the 3D shape of the [SUBJECT]. The box should be white, exquisitely designed, featuring crystal-clear glass with refined, sharp edges
+```
+
+---
+
+### [三种形状和三种颜色](https://aiart.pics/prompt/three-shapes-and-three-colors)
+
+**作者**: [@Umesh](https://x.com/umesh_ai)
+
+**来源**: [X](https://x.com/umesh_ai/status/1925569394924740817)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/three-shapes-and-three-colors.jpeg" width="500" alt="三种形状和三种颜色">
+
+```
+Create a minimalist image of a [SUBJECT] using three geometric shapes, using a different color in each shape
+```
+
+---
+
+### [超现实海洋图案](https://aiart.pics/prompt/surreal-ocean-pattern)
+
+**作者**: [@Umesh](https://x.com/umesh_ai)
+
+**来源**: [X](https://x.com/umesh_ai/status/1925424557638500838)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/surreal-ocean-pattern.jpeg" width="500" alt="超现实海洋图案">
+
+```
+Create a hyper-realistic image where [SHAPE] shape is formed by the magical parting of [wavy] blue ocean, with the [SHAPE] shape being a [COLOUR] empty land. The top view should show the water being pushed aside by an unseen force, creating the [SHAPE] with an ultra-thin line. The stark [COLOR] color of the [SHAPE] interior should contrast with the vibrant blue water around it, emphasizing the supernatural effect as if the water is being parted to reveal the [SHAPE] shape distinctly.
+```
+
+---
+
+### [简单的输入中构思和创建有影响力的图像](https://aiart.pics/prompt/ideate-and-create-impactful-images-from-simple-inputs)
+
+**作者**: [@Umesh](https://x.com/umesh_ai)
+
+**来源**: [X](https://x.com/umesh_ai/status/1925397022011527192)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/ideate-and-create-impactful-images-from-simple-inputs.jpeg" width="500" alt="简单的输入中构思和创建有影响力的图像">
+
+```
+Create a surrealistic image about diabetes that conveys the message in a powerful and influential way. Plan and prepare the visual concept and prompt, then generate the image as a photograph with a caption.
+```
+
+---
+
+### [云的艺术](https://aiart.pics/prompt/art-of-clouds)
+
+**作者**: [@Umesh](https://x.com/umesh_ai)
+
+**来源**: [X](https://x.com/umesh_ai/status/1924473546216292441)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/art-of-clouds.jpeg" width="500" alt="云的艺术">
+
+```
+A photograph captures a daytime scene with a [SUBJECT/OBJECT] formed by scattered clouds in the sky, positioned above a [LOCATION]
+```
+
+---
+
+### [公司金币](https://aiart.pics/prompt/company-gold-coin)
+
+**作者**: [@Umesh](https://x.com/umesh_ai)
+
+**来源**: [X](https://x.com/umesh_ai/status/1924526898840822207)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/company-gold-coin.jpeg" width="500" alt="公司金币">
+
+```
+Prompt: A high-resolution photograph of a gold coin featuring the [COMPANY NAME] logo at the center. The coin should have the year [YEAR] engraved at the top. Include finely detailed engravings, ornamental border patterns, and authentic coin textures like reeded edges, matte
 ```
 
 ---
@@ -1829,6 +3727,54 @@ When you accidentally drop equipment like in a game
 
 ## -Zho-
 
+### [Sora摄影提示词](https://aiart.pics/prompt/sora-photography-prompt-words)
+
+**作者**: [@-Zho-](https://x.com/ZHO_ZHO_ZHO)
+
+**来源**: [X](https://x.com/ZHO_ZHO_ZHO/status/1922150692145283299)
+
+<img src="https://img1.aiart.pics/images/prompts/20251216/sora-photography-prompt-words-1.jpg" width="500" alt="Sora摄影提示词">
+
+```
+Sora 上这组摄影提示词太惊艳了！！！氛围感绝了！赶紧用起来！！！
+默｜ZH4O｜创意系列｜GPT 4o Creation
+【提示 + 参考】⬇️ https://t.co/GW3Ho7GOob
+```
+
+---
+
+### [新风格出炉！GPT 4o = 绝美海报设计！](https://aiart.pics/prompt/new-style-unveiled-gpt-4o-exquisite-poster-design)
+
+**作者**: [@-Zho-](https://x.com/ZHO_ZHO_ZHO)
+
+**来源**: [X](https://x.com/ZHO_ZHO_ZHO/status/1921906728763105394)
+
+<img src="https://img1.aiart.pics/images/prompts/20251216/new-style-unveiled-gpt-4o-exquisite-poster-design-1.jpg" width="500" alt="新风格出炉！GPT 4o = 绝美海报设计！">
+
+```
+新风格出炉！GPT 4o = 绝美海报设计！
+流影｜ZH4O｜设计系列｜GPT 4o Creation
+【提示 / Prompt】⬇️ https://t.co/MLJfJvfMBH
+```
+
+---
+
+### [把喜爱角色照片变成可爱温馨的针织玩偶！](https://aiart.pics/prompt/transform-favorite-character-photos-into-adorable-knitted-toys)
+
+**作者**: [@-Zho-](https://x.com/ZHO_ZHO_ZHO)
+
+**来源**: [X](https://x.com/ZHO_ZHO_ZHO/status/1921148024861938077)
+
+<img src="https://img1.aiart.pics/images/prompts/20251216/transform-favorite-character-photos-into-adorable-knitted-toys-1.jpg" width="500" alt="把喜爱角色照片变成可爱温馨的针织玩偶！">
+
+```
+把 你/女朋友/喜爱角色照片 变成可爱温馨的 针织玩偶！
+温馨玩偶｜ZH4O｜创意系列｜GPT 4o Creation
+【提示词 / Prompt】⬇️ 支持自己选择风格、主题和配色 https://t.co/L3X7al3EEr
+```
+
+---
+
 ### [护照风格印章 - 北京](https://aiart.pics/prompt/passport-style-seal-beijing)
 
 **作者**: [@-Zho-](https://x.com/ZHO_ZHO_ZHO)
@@ -1877,6 +3823,41 @@ When you accidentally drop equipment like in a game
 为图片人物生成不同职业风的OOTD，时尚穿搭和配饰，和人物色系一致的纯色背景，Q版 3d，c4d渲染，保持人脸特征，姿势都要保持一致，人物的比例腿很修长
 构图：4:3竖幅，顶部文字：OOTD，左侧为人物ootd q版形象，右侧为穿搭的单件展示
 先来第一个职业：时尚设计师 https://t.co/IJIvfKc7E8
+```
+
+---
+
+### [3D立体效果创意系列：GPT 4o创作](https://aiart.pics/prompt/3d-steroscopic-effect-creative-series-gpt-4o-creation)
+
+**作者**: [@-Zho-](https://x.com/ZHO_ZHO_ZHO)
+
+**来源**: [X](https://x.com/ZHO_ZHO_ZHO/status/1920355982703509588)
+
+<img src="https://img1.aiart.pics/images/prompts/20251216/3d-steroscopic-effect-creative-series-gpt-4o-creation-1.jpg" width="500" alt="3D立体效果创意系列：GPT 4o创作">
+
+```
+最近很火的 3D 立体效果，用 GPT 4o 来做那不手拿把掐！
+“冲出画面”｜ZH4O｜创意系列｜GPT 4o Creation
+效果最好的当然是直接【参考图三步走（参考：参考图-输入：自己照片-提示：替换人物】，但是 GPT 会限制不让生成，所以我也研究了一版提示词⬇️
+【提示词】⬇️
+1）普通透视（图1
+2）强透视（图4 https://t.co/rAbWEethQL
+```
+
+---
+
+### [动物硅胶腕托](https://aiart.pics/prompt/animal-silicone-wrist-rest)
+
+**作者**: [@-Zho-](https://x.com/ZHO_ZHO_ZHO)
+
+**来源**: [X](https://x.com/ZHO_ZHO_ZHO/status/1918525296577327574)
+
+<img src="https://img1.aiart.pics/images/prompts/20251216/animal-silicone-wrist-rest-1.jpg" width="500" alt="动物硅胶腕托">
+
+```
+动物硅胶腕托！太可爱了！！！工厂在哪里我要下单！立刻！
+硅胶腕托｜ZH4O｜创意系列｜GPT 4o Creation
+【提示词】⬇️ https://t.co/efBvta7qwf
 ```
 
 ---
@@ -2055,6 +4036,48 @@ GPT 4o 可太懂我了！画风太可爱了！！！
 ```
 提示词很简单，基本上言出法随，不用额外描述，真心感受到了图像AI本应有的“智能感”：
 为我生成讽刺海报：GPT 4o 狂卷，都别干图像AI了 还是送外卖吧 https://t.co/9Oez1sDteT
+```
+
+---
+
+### [可爱微缩场景](https://aiart.pics/prompt/cute-miniature-scene)
+
+**作者**: [@-Zho-](https://x.com/ZHO_ZHO_ZHO)
+
+**来源**: [X](https://x.com/ZHO_ZHO_ZHO/status/1925878276133708224)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/cute-miniature-scene.jpeg" width="500" alt="可爱微缩场景">
+
+```json
+{\n    "style": "miniature handcrafted diorama",\n    "material": "tree branches, cardboard, clay, moss, dried flowers, paper",\n    "surface_texture": "organic, rough and varied (wood grain, soft moss, paper texture)",\n    "lighting": {\n        "type": "soft ambient natural light",\n        "intensity": "low to moderate",\n        "direction": "diffused overhead",\n        "accent_colors": [\n            "forest green",\n            "earth brown",\n            "soft beige",\n            "muted pink"\n        ],\n        "reflections": false,\n        "refractions": false,\n        "dispersion_effects": false,\n        "bloom": false\n    },\n    "color_scheme": {\n        "primary": "natural greens and browns",\n        "secondary": "soft neutral tones (cardboard, clay, paper)",\n        "highlights": "light falling on the open book and cat’s glasses",\n        "rim_light": "subtle natural edge light from the forest opening"\n    },\n    "background": {\n        "color": "natural moss green",\n        "vignette": false,\n        "texture": "moss and dried floral structure"\n    },\n    "post_processing": {\n        "chromatic_aberration": false,\n        "glow": false,\n        "high_contrast": false,\n        "sharp_details": true,\n        "film_grain": false\n    },\n    "form_composition": {\n        "scene_elements": [\n            "a small girl sitting on a balcony holding an open miniature book",\n            "a cat with glasses observing the book\'s illustrations",\n            "a treehouse made from twigs, cardboard, and clay",\n            "balcony and surrounding forest made of moss and dried flowers"\n        ],\n        "scale": "miniature",\n        "theme": "childlike wonder and storytelling in a handcrafted world",\n        "visual_metaphor": [\n            "curiosity",\n            "quiet companionship",\n            "imagination in nature"\n        ]\n    },\n    "metadata": {\n        "artist": "-Zho-",\n        "series": "ZH4O"\n    }\n}
+```
+
+---
+
+### [超写实拼图肖像](https://aiart.pics/prompt/hyper-realistic-puzzle-portrait)
+
+**作者**: [@-Zho-](https://x.com/ZHO_ZHO_ZHO)
+
+**来源**: [X](https://x.com/ZHO_ZHO_ZHO/status/1923999321634283862)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/hyper-realistic-puzzle-portrait.jpeg" width="500" alt="超写实拼图肖像">
+
+```
+高分辨率的摄影棚人像，一位惊艳年轻模特「安妮海瑟薇」为主角。她拥有一头顺直的黑发，背景为白色，无任何可辨识的元素。她的脸略微侧转，但目光直视镜头，目光强烈而专注，毫无动摇。\n\n她整张脸由拼图块组成——每一块都清晰可见，边缘整齐，具备细腻的立体感。她轻柔地用手指捏着一块刚从脸颊取下的拼图块，露出其下方一个空洞的黑色虚空。\n\n光线集中且具方向性，几乎不产生阴影，但准确地勾勒出皮肤的轮廓与拼图结构的立体感。整体氛围超现实、精准且高度写实。\n\n顶部有像时尚杂志一样的标题“ZHOGUE”（在人物后面）
+```
+
+---
+
+### [自定义气球](https://aiart.pics/prompt/custom-balloon)
+
+**作者**: [@-Zho-](https://x.com/ZHO_ZHO_ZHO)
+
+**来源**: [X](https://x.com/ZHO_ZHO_ZHO/status/1924121078559125841)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/custom-balloon.jpeg" width="500" alt="自定义气球">
+
+```
+一件高度写实的 3D 装置艺术：字母 Z 被设计成充气球囊造型，整体形态如同流畅弯曲的“Z”字路径，由两段斜线和一个折角构成，边缘略微卷翘，充满柔软的气压感。\n\n视角为正面稍仰视角（约10°）的正交投影，主体置于画面正中央，占据几乎全部画幅，背景为纯黑色，形成类似剧院聚光灯的聚焦舞台效果。\n\n材质为高弹性亮面 PVC，表面涂有高光清漆。主色为柔亮粉色（#FF96AC），阴影部分渐变为淡紫粉色，表面同时具备镜面高光和柔和漫反射，呈现丝滑、饱满、有张力的视觉质感。\n\n左下角可见一个金属螺旋气嘴（银灰色），尺寸很小但极具真实感，暗示其为充气物体。右下笔画末端印有一串黑色的警示文字和安全图标，以“ZHOGUE”风格排版，呼应充气玩具视觉语言。\n\n主光源来自左上方约 35°，呈现清晰的硬边聚光灯效果：在顶部折角与中央斜线区域形成椭圆形白色高光，内折阴影区带有柔和的粉紫色内反射。\n\n辅光来自右后方，轻柔描边顶部和转折边缘，使形体与黑背景分离，整体光比约为 1:2，保持色彩通透与立体感。亮区色温偏冷，营造冷暖对比，进一步突显质感。\n\n球囊表面略显鼓胀，折角与转折区域有尖锐的折痕，带来软体与几何的视觉张力。最深的转折处投下细长阴影，仿佛即将破裂；下方末端则有轻微拉扯感，如气球尾部即将被牵动。\n\n整体概念融合了字母结构与充气玩具的材质语言，通过夸张体积、真实光感与极简舞台感构建出“字母也能呼吸”的视觉冲击，呈现理性几何与感性触觉的碰撞。
 ```
 
 ---
