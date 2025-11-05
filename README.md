@@ -181,6 +181,76 @@ colorful Ink floating in the Multi-dimensional space , hyperrealistic painting c
 
 ## branko
 
+### [重塑纹理：将任何事物变成光泽塑料玩具](https://aiart.pics/prompt/retexturing-turn-anything-into-glossy-plastic-toy)
+
+**作者**: [@branko](https://x.com/_abranko_)
+
+**来源**: [X](https://x.com/_abranko_/thread/1942646754970853384)
+
+<img src="https://img1.aiart.pics/images/prompts/20251206/retexturing-turn-anything-into-glossy-plastic-toy-1.jpg" width="500" alt="重塑纹理：将任何事物变成光泽塑料玩具">
+
+<img src="https://img1.aiart.pics/images/prompts/20251206/retexturing-turn-anything-into-glossy-plastic-toy-2.jpg" width="500" alt="重塑纹理：将任何事物变成光泽塑料玩具">
+
+<img src="https://img1.aiart.pics/images/prompts/20251206/retexturing-turn-anything-into-glossy-plastic-toy-3.jpg" width="500" alt="重塑纹理：将任何事物变成光泽塑料玩具">
+
+<img src="https://img1.aiart.pics/images/prompts/20251206/retexturing-turn-anything-into-glossy-plastic-toy-4.jpg" width="500" alt="重塑纹理：将任何事物变成光泽塑料玩具">
+
+```json
+I want to play more with retexturing
+Turn anything into a glossy plastic toy
+GPT-4o + JSON
+Prompt 👇 https://t.co/wFbEHypTss
+prompt:
+retexture this image based on the JSON
+{
+  "retexture_mode": "shape_lock",
+  "object_analysis": {
+    "preserve_silhouette": true,
+    "geometry_sensitive_mapping": true,
+    "detail_retention": "keep contours, folds, and depth variations"
+  },
+  "materials": {
+    "exterior": "glossy candy-coated plastic",
+    "interior": [
+      "hollow injection-molded shells",
+      "snap-fit joints",
+      "peg locks",
+      "rotating axles"
+    ]
+  },
+  "lighting": {
+    "type": "studio spotlight",
+    "direction": "front and overhead",
+    "color": "warm white",
+    "mood": "fun and playful"
+  },
+  "background": {
+    "type": "gradient backdrop",
+    "color": "pastel rainbow fade"
+  },
+  "camera": {
+    "angle": "front view",
+    "focus": "sharp",
+    "depth_of_field": "shallow"
+  },
+  "color_palette": {
+    "dominant": [
+      "bubblegum pink",
+      "sky blue",
+      "lemon yellow"
+    ],
+    "accents": [
+      "mint green",
+      "white",
+      "glossy black"
+    ]
+  },
+  "vibe": "retro toy commercial, collectible figurine"
+}
+```
+
+---
+
 ### [JSON提示：定制纹理的奇妙之旅](https://aiart.pics/prompt/-prompts-a-wonderful-journey-into-custom-textures)
 
 **作者**: [@branko](https://x.com/_abranko_)
@@ -262,6 +332,36 @@ Create a vertical 9:16 brand design guide poster using the uploaded product imag
 ---
 
 ## alban_gz
+
+### [宝石渲染风格](https://aiart.pics/prompt/gemstone-rendering-style)
+
+**作者**: [@alban_gz](https://x.com/alban_gz)
+
+**来源**: [X](https://x.com/alban_gz/status/1944033327767236869)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/gemstone-rendering-style.jpeg" width="500" alt="宝石渲染风格">
+
+```json
+Apply the parameters of the JSON provided to [insert image]\n\n{\n  "name": "Gemstone Render",\n  "object": {\n    "type": "auto",\n    "detected_color": "auto",\n    "form": "realistic, natural form preserved",\n    "material": "crystal or faceted gemstone glass",\n    "surface": "precision-cut facets, sharp reflections",\n    "transparency": "high clarity with light refraction",\n    "internal_features": "color depth, internal shimmer, and light dispersion"\n  },\n  "color_and_light": {\n    "primary_color": "{detected_color}",\n    "highlight_effects": "specular highlights, gemstone brilliance, caustics",\n    "lighting_setup": "studio lighting with white or soft background",\n    "metallic_accents": {\n      "enabled": true,\n      "material": "gold or chrome",\n      "application": "rim, stem, or edge detailing"\n    }\n  },\n  "style": {\n    "artistic_style": [\n      "photorealistic 3D render",\n      "Gemstone Render Style",\n      "luxury object visualization"\n    ],\n    "design_language": [\n      "faceted precision modeling",\n      "jewelry-like rendering",\n      "optical depth and brilliance"\n    ]\n  },\n  "technical_details": {\n    "render_engine": [\n      "Blender with Cycles",\n      "Cinema 4D + Redshift/Octane"\n    ],\n    "rendering_techniques": [\n      "physically-based rendering (PBR)",\n      "ray tracing",\n      "global illumination"\n    ],\n    "resolution": "ultra high-res (4K–8K)",\n    "post_processing": [\n      "subtle glow",\n      "enhanced reflections",\n    "color-preserving contrast boost"\n    ]\n  },\n  "prompt_template": "A 3D-rendered image of a {object} made of {detected_color} crystal, with intricate gemstone-like facets. It sparkles with internal reflections and sits on a clean studio background, blending realism with luxury design."\n}
+将提供的 JSON 参数应用于[插入图片]\n\n{\n  "名称": "宝石渲染",\n  "物体": {\n    "类型": "自动",\n    "检测到的颜色": "自动",\n    "形态": "逼真、自然形态得以保留",\n    "材质": "水晶或多面宝石玻璃",\n    "表面": "精密切割的刻面、清晰的反光",\n    "透明度": "高清晰度，带有光线折射",\n    "内部特征": "色彩深度、内部光泽和光线色散"\n  },\n  "颜色与光线": {\n    "主色调": "{detected_color}",\n    "高光效果": "镜面高光、宝石光泽、焦散效果",\n    "照明设置": "工作室照明，搭配白色或柔和背景",\n    "金属装饰": {\n      "启用": true,\n      "材质": "黄金或铬合金",\n      "应用位置": "边缘、柄部或侧边细节"\n    }\n  },\n  "风格": {\n    "艺术风格": [\n      "照片级写实3D渲染",\n      "宝石渲染风格",\n      "奢华物体可视化"\n    ],\n    "设计语言": [\n      "多面精密建模",\n      "珠宝式渲染",\n      "光学深度与光泽"\n    ]\n  },\n  "技术细节": {\n    "渲染引擎": [\n      "Blender搭配Cycles",\n      "Cinema 4D + Redshift/Octane"\n    ],\n    "渲染技术": [\n      "基于物理的渲染（PBR）",\n      "光线追踪",\n      "全局光照"\n    ],\n    "分辨率": "超高分辨率（4K–8K）",\n    "后期处理": [\n      "柔和光晕",\n      "增强的反光",\n      "保持色彩的对比度提升"\n    ]\n  },\n  "提示模板": "一张{物体}的3D渲染图像，由{detected_color}水晶制成，带有复杂的宝石般刻面。它内部反光闪耀，置于干净的工作室背景上，融合了写实感与奢华设计。"\n}
+```
+
+---
+
+### [钻石镶嵌风格](https://aiart.pics/prompt/diamond-inlay-style)
+
+**作者**: [@alban_gz](https://x.com/alban_gz)
+
+**来源**: [X](https://x.com/alban_gz/status/1944405761439756343)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/diamond-inlay-style.jpeg" width="500" alt="钻石镶嵌风格">
+
+```json
+Recreate this image using the parameters of the JSON provided.\n{\n  "style_name": "Diamond-Encrusted Glamour",\n  "description": "Applies a hyper-realistic diamond-encrusted style to any object, logo, or shape. The surface of the subject is entirely covered with sparkling gemstones that reflect light with intense brilliance, creating a luxurious, eye-catching, and surreal look.",\n  "surface_texture": {\n    "material": "diamond-crystal",\n    "coating": "fully encrusted with multi-faceted diamonds",\n    "sparkle_intensity": "maximum",\n    "reflection_type": "specular and highly refractive",\n    "detail_density": "ultra-fine, micro-gem coverage with no gaps",\n    "light_refraction": "strong rainbow dispersion through facets"\n  },\n  "lighting": {\n    "light_source": "hard directional light",\n    "highlight_effects": "lens flares, sparkle flares on gem edges",\n    "shadow_type": "soft-edged, low-opacity shadows for contrast",\n    "specularity": "very high",\n    "reflection_sources": "ambient and direct highlights across the gem facets"\n  },\n  "background": {\n    "type": "minimalist solid color",\n    "color": "#B0C4DE",\n    "texture": "smooth matte",\n    "contrast_with_subject": "high contrast to enhance sparkle",\n    "depth": "subtle shadow under the object for floating effect"\n  },\n  "color_palette": {\n    "primary": "transparent white (diamond base)",\n    "secondary": "prismatic reflections (rainbow light dispersion)",\n    "accent": "metallic shimmer on edges (optional: gold or silver undertones)"\n  },\n  "camera": {\n    "angle": "slight top-down perspective",\n    "depth_of_field": "shallow (sharp focus on object, blurred background)",\n    "lens_effects": ["macro focus", "sparkle highlights", "light bloom"]\n  },\n  "style_keywords": [\n    "glamorous",\n    "luxury",\n    "crystal-covered",\n    "bling",\n    "hyper-detailed",\n    "sparkling",\n    "futuristic",\n    "eye-catching",\n    "surreal realism",\n    "fashion-inspired"\n  ],\n  "applicability": {\n    "usable_on": ["logos", "icons", "food items", "everyday objects", "fashion accessories", "typography"],\n    "visual_requirements": ["well-defined silhouette", "clean shapes for gem placement"],\n    "scalability": "best results on medium to large subjects for detailed sparkle"\n  }\n}
+使用提供的 JSON 参数重新创建此图像。\n\n{\n"style_name": "钻石镶嵌奢华风格",\n  "description": "将超逼真的钻石镶嵌风格应用于任何物体、标志或形状。主体的表面完全覆盖着闪闪发光的宝石，这些宝石以强烈的亮度反射光线，营造出奢华、引人注目和超现实的效果。",\n  "surface_texture": {\n    "material": "钻石水晶",\n"涂层": "完全镶嵌有多面钻石",\n"闪耀强度": "最大",\n"反射类型": "镜面和高折射率",\n"细节密度": "超精细，微宝石覆盖，无间隙"\n"light_refraction": "通过切面产生强烈的彩虹色散"\n  },\n  "lighting": {\n    "light_source": "硬直射光源",\n"高光效果": "镜头眩光，宝石边缘的闪光眩光",\n    "阴影类型": "柔和边缘，低不透明度的阴影以形成对比",\n    "光泽度": "非常高",\n    "反射源": "宝石切面的环境光和直接高光"\n  },\n"background": {\n    "type": "极简纯色",\n    "color": " #B0C4DE ",\n"纹理": "光滑磨砂质感",\n"与主体对比度": "高对比度以增强闪耀效果",\n"深度": "物体下方微妙阴影以产生悬浮效果"\n  },\n"color_palette": {\n    "primary": "透明白色（钻石基底）",\n    "secondary": "棱镜反射（彩虹光散）",\n    "accent": "边缘金属光泽（可选：金色或银色底色）"\n  },\n"camera": {\n    "angle": "略微俯视角度",\n    "depth_of_field": "浅景深（物体清晰，背景模糊）",\n"镜头效果": ["微距对焦", "闪烁高光", "光晕"]\n  },\n  "风格关键词": [\n    "迷人",\n"奢侈",\n"水晶覆盖的",\n"闪亮",\n"超精细的",\n"闪闪发光的",\n"未来感的",\n"引人注目的",\n"超现实现实主义",\n"受时尚启发的"\n  ],\n  "适用性": {\n    "可用于": ["标志", "图标", "食品项目", "日常用品", "时尚配饰", "字体"],\n"视觉要求": ["轮廓清晰", "宝石放置的形状干净"],\n    "可扩展性": "在中等至大型对象上获得最佳效果，以展现细节闪烁"\n  }\n}
+```
+
+---
 
 ### [棱柱形水晶](https://aiart.pics/prompt/prismatic-crystal)
 
@@ -456,6 +556,21 @@ Prompt in thread 👇
 
 ---
 
+### [形状为生日气球文字](https://aiart.pics/prompt/birthday-balloon-text-shape)
+
+**作者**: [@Anima_Labs](https://x.com/Anima_Labs)
+
+**来源**: [X](https://x.com/Anima_Labs/status/1945050362152427924)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/birthday-balloon-text-shape.png" width="500" alt="形状为生日气球文字">
+
+```
+Create a hyper-realistic 3D rendering of balloon letters forming the word [WOW]. Each letter should look like a shiny, inflatable mylar balloon with a bold printed pattern. Use a mix of textures such as [checkered print, color grids, polka dots, or glossy metallic black]. The balloons should be semi-reflective with realistic air volume, seams, wrinkles, and pressure points. Give each letter a distinct, playful surface design but keep the overall look cohesive. Use a soft pastel background, like [Orange color], to contrast the balloon textures. Lighting should create crisp reflections and soft shadows. The rendering must be photorealistic, fun, and vibrant — like a high-end visual for a creative pop-art birthday installation or fashion campaign.
+创建一个超逼真的 3D 渲染效果，将气球字母组成单词 [WOW]。每个字母看起来都像是一个闪亮的充气镀铝气球，带有大胆印刷的图案。使用多种纹理，例如 [格子印刷、彩色网格、波点或光泽金属黑]。气球应该是半反射的，具有真实的空气体积、接缝、皱纹和压力点。给每个字母一个独特、有趣的表面设计，但保持整体外观协调一致。使用柔和的粉彩色背景，例如 [橙色]，以对比气球的纹理。光线应产生清晰的反射和柔和的阴影。渲染效果必须是照片级的逼真、有趣且充满活力——就像创意波普艺术生日装置或时尚活动的高端视觉效果。
+```
+
+---
+
 ### [用气泡膜覆盖表情符号](https://aiart.pics/prompt/cover-emoji-with-bubble-wrap)
 
 **作者**: [@Anima_Labs](https://x.com/Anima_Labs)
@@ -515,6 +630,23 @@ Act as a creative director at Rockstar Games. Create a fictional GTA VI characte
 ---
 
 ## Artedeingenio
+
+### [卡通现代风格插画](https://aiart.pics/prompt/cartoon-modern-style-illustration)
+
+**作者**: [@Artedeingenio](https://x.com/Artedeingenio)
+
+**来源**: [X](https://x.com/Artedeingenio/status/1942867064378573293)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/cartoon-modern-style-illustration.png" width="500" alt="卡通现代风格插画">
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/217-2.jpeg" width="500" alt="卡通现代风格插画">
+
+```
+Transform this image into a Cartoon Modern Style illustration, inspired by classic UPA animation like Mr. Magoo and The Jetsons.\nRedesign the character using flat, geometric shapes: ovals, rectangles, simple curves and angles. Avoid realistic proportions — the design should be stylized and abstract.\nUse a limited color palette, preferably soft pastels or bold contrasts (e.g. mint green, salmon, sky blue, mustard yellow), with flat tones and no gradients.\nSimplify facial features and body structure to be iconic and minimalist — large heads, small limbs, expressive poses, but with minimal detail.\nThe background should be minimal or symbolic, using basic shapes or abstract scenery (floating stairs, blocky furniture, stylized trees or stars).\nThe final image should look like a frame from a 1950s or 1960s modernist cartoon — playful, graphic, and highly stylized.
+将这张图片转换为卡通现代风格插画，灵感来源于经典的 UPA 动画，如《摩根先生》和《太空家庭》。\n使用扁平的几何形状重新设计角色：椭圆形、矩形、简单的曲线和角度。避免真实比例——设计应该是风格化的和抽象的。\n使用有限的调色板，最好是柔和的粉彩色或鲜明的对比色（例如薄荷绿、三文鱼色、天空蓝、芥末黄），使用扁平色调且没有渐变。\n简化面部特征和身体结构，使其具有标志性且极简——大头、小四肢、富有表现力的姿势，但细节极少。\n背景应极简或象征性，使用基本形状或抽象场景（漂浮的楼梯、积木家具、风格化的树木或星星）。\n最终图像应像 1950 年代或 1960 年代现代主义卡通的一帧——活泼、图形化且高度风格化。
+```
+
+---
 
 ### [后世界末日氛围](https://aiart.pics/prompt/post-apocalyptic-vibe)
 
@@ -777,6 +909,36 @@ Try it and share yours, prompt 👇 https://t.co/MWFO0ujIEt
 
 ---
 
+### [街头顽童（Gorillaz）风格插画](https://aiart.pics/prompt/gorillaz-style-illustration)
+
+**作者**: [@Amira Zairi](https://x.com/azed_ai)
+
+**来源**: [X](https://x.com/azed_ai/status/1942586412920103180)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/gorillaz-style-illustration.png" width="500" alt="街头顽童（Gorillaz）风格插画">
+
+```
+Restyle this image into a gritty Gorillaz-style illustration, bold thick black outlines, sharp angular edges, flat expressive lighting, stylized high-contrast shadows, dirty distressed surface textures, muted color palette: washed-out teals, olive greens, rusty reds, mustard yellows, dusty browns, raw grungy urban atmosphere, comic book flatness mixed with painterly grit, hand-drawn finish with faded gradients, graphic novel aesthetic\nwith a rebellious, animated tone, dark stylish tone, full of attitude.
+将这张图片重新设计成粗粝的街头顽童（Gorillaz）风格插画，采用粗重的黑色轮廓线、锐利的棱角、扁平化的富有表现力的光线、风格化的高对比度阴影、粗糙破旧的表面纹理；色彩搭配柔和暗淡：褪色的蓝绿色、橄榄绿、锈红色、芥末黄、土褐色；营造出原始粗粝的都市氛围，融合漫画的扁平化与绘画的颗粒感，带有褪色渐变效果的手绘质感，呈现出漫画小说的美学风格，整体基调叛逆、生动且时尚暗黑，充满个性。
+```
+
+---
+
+### [惊人的外骨骼图像](https://aiart.pics/prompt/amazing-exoskeleton-image)
+
+**作者**: [@Amira Zairi](https://x.com/azed_ai)
+
+**来源**: [X](https://x.com/azed_ai/status/1944067498187665507)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/amazing-exoskeleton-image.jpeg" width="500" alt="惊人的外骨骼图像">
+
+```
+a futuristic 3D-rendered [object] made of translucent [color] inner structure encased in a smooth white exoskeleton with organic holes and flowing biomorphic patterns, floating in a minimal soft gray background, high contrast lighting, hyperrealistic materials, octane render, modern digital sculpture
+一个未来派的 3D 渲染[物体]，具有半透明的内部结构，被光滑的白色外骨骼包裹，外骨骼上有有机的孔洞和流动的仿生图案，悬浮在极简的浅灰色背景中，高对比度光照，超写实材质，Octane 渲染，现代数字雕塑
+```
+
+---
+
 ### [逼真的产品照片](https://aiart.pics/prompt/realistic-product-photo)
 
 **作者**: [@Amira Zairi](https://x.com/azed_ai)
@@ -803,6 +965,21 @@ A realistic product photo of a [brand name] [bottle or jar] sculpted entirely fr
 ```
 Create a hyperrealistic, high-impact image of a [subject] suspended mid-air, captured at the peak of an explosive moment. Surround it with dynamic [particles/splashes/fragments] that enhance motion and energy. macro-level detail, bold rim lighting, and a vibrant [background color] to emphasize form, texture, and contrast, cinematic, modern, and visually striking. perfect for premium product campaigns.
 创建一个超现实的、高冲击力的图像，展示一个[主题]在空中悬停，捕捉到爆炸性时刻的巅峰。用动态的[粒子/飞溅/碎片]围绕它，增强运动感和能量。宏观细节，大胆的边缘照明，以及充满活力的[背景颜色]，以强调形状、质感和对比度，电影般的、现代的、视觉上引人注目。非常适合高端产品活动。
+```
+
+---
+
+### [创建半透明图标](https://aiart.pics/prompt/create-translucent-icon)
+
+**作者**: [@Amira Zairi](https://x.com/azed_ai)
+
+**来源**: [X](https://x.com/azed_ai/status/1942945882548437243)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/create-translucent-icon.jpeg" width="500" alt="创建半透明图标">
+
+```
+Create a 3D-rendered icon of [Subject] in a dreamy, translucent, glass-like plastic material with soft pink and purple hues. glossy, smooth, rounded edges, glowing highlights, and soft shimmer or sparkle effects. UI, floating against a clean white background with soft shadows and natural lighting, elegant, and modern.
+创建一个以[主题]为原型的 3D 渲染图标，采用梦幻般的、半透明的、类似玻璃的塑料材质，带有柔和的粉红色和紫色色调。表面光亮、边缘圆润、高光闪烁，并带有柔和的闪烁或闪光效果。UI 设计，悬浮在干净的白色背景上，带有柔和的阴影和自然光照，优雅且现代。
 ```
 
 ---
@@ -1171,6 +1348,21 @@ An embroidered portrait of Elon Musk, stitched with rich steel grey and electric
 
 ## aziz4ai
 
+### [品牌字体](https://aiart.pics/prompt/brand-typography)
+
+**作者**: [@aziz4ai](https://x.com/aziz4ai)
+
+**来源**: [X](https://x.com/aziz4ai/status/1940348752969322544)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/brand-typography.jpeg" width="500" alt="品牌字体">
+
+```
+Create a typographic illustration shaped like a {OBJECT}, where the text itself forms the shape — bold and playful lettering style that fills the entire silhouette — letters adapt fluidly to the curves and contours of the object — vibrant and contrasting color palette that fits the theme — background is solid and enhances the focus on the main shape — vector-style, clean, high resolution, poster format, 1:1 aspect ratio.
+创建一个形状像 {OBJECT} 的印刷插图，其中文本本身形成形状 - 大胆而俏皮的字体风格填充整个轮廓 - 字母流畅地适应物体的曲线和轮廓 - 充满活力和对比的调色板适合主题 - 背景是纯色并增强了对主要形状的关注 - 矢量风格，干净，高分辨率，海报格式，1：1 宽高比。
+```
+
+---
+
 ### [超现实主义极简概念广告](https://aiart.pics/prompt/surrealist-minimalist-concept-ad)
 
 **作者**: [@aziz4ai](https://x.com/aziz4ai)
@@ -1492,6 +1684,74 @@ A romantic square-format bouquet inspired by [Brand Name]. Roses are crafted fro
 ---
 
 ## B_4AI
+
+### [讽刺版的你](https://aiart.pics/prompt/satirical-version-of-you)
+
+**作者**: [@B_4AI](https://x.com/B_4AI)
+
+**来源**: [X](https://x.com/B_4AI/status/1944678797128708369)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/satirical-version-of-you.jpeg" width="500" alt="讽刺版的你">
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/235-2.jpeg" width="500" alt="讽刺版的你">
+
+```
+Based on your understanding of my personality and past interactions, create a humorous and satirical image that teases me in a playful way. The image must have comedic features, using exaggerated expressions or surreal visual metaphors. Artistic style: cartoon or caricature with high contrast and expressive details. The goal is to amuse, not insult. Ensure the satire is clever and mindful.
+根据您对我的个性和过去互动的理解，创建一个幽默、讽刺的图像，以俏皮的方式嘲笑我。图像必须具有喜剧特征，使用夸张的表情或超现实的视觉隐喻。艺术风格：具有高对比度和富有表现力的细节的卡通或漫画。目标是笑，而不是侮辱。确保讽刺是聪明和有意识的。
+```
+
+---
+
+### [产品成为霓虹灯下的梦想](https://aiart.pics/prompt/product-becomes-neon-dream)
+
+**作者**: [@B_4AI](https://x.com/B_4AI)
+
+**来源**: [X](https://x.com/B_4AI/status/1944334293297246692)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/product-becomes-neon-dream.jpeg" width="500" alt="产品成为霓虹灯下的梦想">
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/234-2.jpeg" width="500" alt="产品成为霓虹灯下的梦想">
+
+```
+a surreal-realistic digital artwork of a product from the brand [Brand name]. The product should be glowing with neon outlines, stylized like a high-contrast 3D render. Place it in a dreamlike environment inspired by the brand’s identity, color scheme, and culture. Use soft shadows, deep blacks, and intense lighting for dramatic effect.
+[Brand name] 品牌商品的超现实主义写实数字艺术作品。产品应该闪耀着霓虹灯轮廓，像高对比度的3D渲染一样风格化。将其放置在受品牌身份、配色方案和文化启发的梦幻般的环境中。使用柔和的阴影、深黑色和强烈的光照来获得戏剧性的效果。
+```
+
+---
+
+### [超现实鸟类幻想](https://aiart.pics/prompt/surreal-bird-fantasy)
+
+**作者**: [@B_4AI](https://x.com/B_4AI)
+
+**来源**: [X](https://x.com/B_4AI/status/1944700655249068043)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/surreal-bird-fantasy.png" width="500" alt="超现实鸟类幻想">
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/233-2.jpeg" width="500" alt="超现实鸟类幻想">
+
+```
+A highly detailed and surreal depiction of a mythical bird creature. It has the elegant, colorful body of a butterfly, with vibrant symmetrical wing patterns. Its head is that of a majestic elephant, complete with large ears, a long curling trunk, and ivory tusks, giving it a powerful and ancient aura. A long, spotted giraffe neck connects the body and the head, rising high with grace. The wings are enormous eagle wings, fully extended with dramatic feathers in motion. Its tail is an iridescent peacock tail, fanned out in full display like royal plumage. The creature stands in an enchanted misty forest, bathed in ethereal light and surrounded by glowing particles. Ultra-realistic, cinematic lighting, fantasy atmosphere, hyper-detailed concept art
+对神话鸟类生物的高度详细和超现实的描绘。它拥有优雅、多彩的蝴蝶身体，带有充满活力、对称的翅膀图案。它的头是一头雄伟的大象，长着大耳朵、长长的卷曲的鼻子和象牙，赋予它强大而古老的光环。长长的斑点长颈鹿脖子连接身体和头部，优雅地高高耸立。翅膀是巨大的鹰翅膀，完全伸展，羽毛在运动中戏剧性。它的尾巴是一条彩虹色的孔雀尾巴，像皇家羽毛一样呈扇形展开。这个生物站在一片迷人的迷雾森林中，沐浴在空灵的光芒中，周围环绕着发光的粒子。超逼真的电影般的照明、奇幻的氛围、超详细的概念艺术
+```
+
+---
+
+### [穿越梦境迷宫](https://aiart.pics/prompt/traversing-dream-maze)
+
+**作者**: [@B_4AI](https://x.com/B_4AI)
+
+**来源**: [X](https://x.com/B_4AI/status/1942850557548388499)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/traversing-dream-maze.png" width="500" alt="穿越梦境迷宫">
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/216-2.jpeg" width="500" alt="穿越梦境迷宫">
+
+```json
+[Character] sprinting past dream elements, Storybook illustration, Maze of floating doors, clocks, and whispers, Lantern glow and ambient sparkle trails, [Color1] and [Color2], Whimsical and fast-paced, Follow-cam style with trailing POV
+[角色] 冲过梦境元素，故事书插画风格，漂浮的门、时钟和低语组成的迷宫，灯笼光芒和周围闪烁的轨迹，[颜色 1]和[颜色 2]，奇幻且节奏快速，跟随镜头风格，带有轨迹的 POV 视角
+```
+
+---
 
 ### [品牌虚拟人物](https://aiart.pics/prompt/brand-virtual-avatar)
 
@@ -1869,6 +2129,23 @@ A pencil drawing of [Your character], with detailed lines and shading on white p
 
 ---
 
+### [电影镜头拍摄](https://aiart.pics/prompt/cinematic-shot)
+
+**作者**: [@Pierrick Chevallier | IA](https://x.com/CharaspowerAI)
+
+**来源**: [X](https://x.com/CharaspowerAI/status/1944796547587125663)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/cinematic-shot.png" width="500" alt="电影镜头拍摄">
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/237-2.jpeg" width="500" alt="电影镜头拍摄">
+
+```
+Cinematic shot of [detailed character description], shot from [camera angle], [lighting type], [color palette], shot at close range, 35mm film grain, wide angle lens, f2.0 bokeh, shallow depth of field.
+电影镜头拍摄[详细角色描述]，从[相机角度]拍摄，[灯光类型]，[色彩搭配]，近距离拍摄，35mm 胶片颗粒，广角镜头，f2.0 浅景深，浅景深。
+```
+
+---
+
 ### [90年代风格的摔跤人物](https://aiart.pics/prompt/90s-style-wrestler)
 
 **作者**: [@Pierrick Chevallier | IA](https://x.com/CharaspowerAI)
@@ -1989,6 +2266,23 @@ Transform this image into a 90s American cartoon cel-style illustration. Use thi
 
 ---
 
+## Dd41Giant
+
+### [电影场景](https://aiart.pics/prompt/movie-scene)
+
+**作者**: [@Dd41Giant](https://x.com/Dd41Giant)
+
+**来源**: [X](https://x.com/Dd41Giant/status/1944402963855769744)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/movie-scene.png" width="500" alt="电影场景">
+
+```
+Close-up. Overhead shot from an extremely high vantage point, extremely low grain with iso100 film shadows on a Lomo LC-A. Realistic depth of field. Artistic composition. Overall bluish tones. Beautiful light and shadows. The black floor with the projected image of the blue sky that fills the screen. A very beautiful small-faced Japanese film actress with wet showy hair in a black dress shirt sitting cross-legged on the floor. She is wearing a long red skirt. Shiny black hair. Long eyelashes. Bright skin. Beautiful shining eyes. A smiling face. On the floor next to the actress is a white model of Saturn. The picture looks like a scene from a movie.
+特写。从极高视角拍摄的上视图，使用 Lomo LC-A 相机拍摄，ISO100 胶片，颗粒感极低，阴影真实。艺术构图。整体偏蓝色调。光影美丽。黑色地板上投射着充满屏幕的蓝色天空图像。一位非常美丽的日本小脸女演员，穿着黑色衬衫，盘腿坐在地板上，头发湿漉漉地显眼，穿着长红色裙子。闪亮的黑发。长长的睫毛。明亮肌肤。美丽的闪亮眼睛。微笑的面容。女演员旁边的地板上有一个白色的土星模型。这张照片看起来像电影中的一个场景。
+```
+
+---
+
 ## Deshraj4x
 
 ### [色彩缤纷的手工雕塑](https://aiart.pics/prompt/colorful-handmade-sculpture)
@@ -2002,6 +2296,23 @@ Transform this image into a 90s American cartoon cel-style illustration. Use thi
 ```
 A colorful handcrafted sculpture of [insert subject], made from semi-transparent ice blocks in custom shapes. Accents like icing, candy, yarn, or fruit skin enhance facial features, texture, or accessories. Placed on a ceramic plate over a leaf or decorative mat, with a clean, softly lit studio or natural tabletop background. Lighting highlights the glossy ice texture, blending food art, toy design, and photography into a playful, artistic composition.
 一个色彩缤纷的手工雕塑，由[插入主题]制成，使用半透明的冰块，形状定制。装饰如糖霜、糖果、毛线或水果皮增强了面部特征、纹理或配饰。放置在陶瓷盘上，盘上覆盖着叶子或装饰垫，背景是干净、柔和照明的摄影棚或自然桌面。光线突出了冰块的光泽质感，将食品艺术、玩具设计和摄影融合成一种俏皮、艺术性的构图。
+```
+
+---
+
+## diegocabezas01
+
+### [路牌图片](https://aiart.pics/prompt/street-sign-image)
+
+**作者**: [@diegocabezas01](https://x.com/diegocabezas01)
+
+**来源**: [X](https://x.com/diegocabezas01/status/1950693677023535318)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/street-sign-image.jpeg" width="500" alt="路牌图片">
+
+```
+Image of a billboard with the text: “Image of a billboard with the text:”
+路牌图片，上面写着：“路牌图片，上面写着：”
 ```
 
 ---
@@ -2906,6 +3217,51 @@ Create a toy of the person in the photo. Let it be an\naction figure. Next to th
 
 ---
 
+### [漂浮玻璃霓虹3D](https://aiart.pics/prompt/floating-glass-neon-3d)
+
+**作者**: [@Ege](https://x.com/egeberkina)
+
+**来源**: [X](https://x.com/egeberkina/status/1940054985418375269)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/floating-glass-neon-3d.jpeg" width="500" alt="漂浮玻璃霓虹3D">
+
+```json
+retexture the image attached based on the JSON below:\n\n{\n  "style_name": "Floating Glassy Neon 3D",\n  "retexture_mode": "shape_lock",\n  "object_analysis": {\n    "preserve_silhouette": true,\n    "geometry_sensitive_mapping": true,\n    "detail_retention": "maintain contours, volumes, and layering"\n  },\n  "material_properties": {\n    "base_material": "translucent neon glass-gel",\n    "surface_finish": "semi-gloss with soft glow edges",\n    "transparency": "high, with soft light refraction",\n    "refraction": "gentle bend with subtle halo on curves",\n    "embedded_effects": "internal light scatter and edge neon glow",\n    "color_blend": {\n      "primary": ["aqua", "electric blue", "neon violet"],\n      "gradient_direction": "top-left to bottom-right",\n      "transition_smoothness": "very smooth"\n    }\n  },\n  "lighting": {\n    "type": "softbox HDRI",\n    "intensity": "soft and bright",\n    "source_direction": "overhead and slightly front",\n    "highlight_behavior": "gentle bloom with glass sparkle"\n  },\n  "shadow_behavior": {\n    "type": "floating contact shadow",\n    "appearance": "extremely soft, blurred ellipse",\n    "opacity": 0.07,\n    "distance_below_object": "moderate",\n    "color": "neutral gray"\n  },\n  "background": {\n    "type": "solid color",\n    "color": "#ffffff",\n    "glow_effect": "none",\n    "gradient": "none"\n  },\n  "rendering": {\n    "depth_of_field": "subtle with slight vignette",\n    "focus_point": "center of floating object",\n    "ambient_occlusion": "minimal to preserve light feel",\n    "render_engine": "3D stylized with light diffusion and high specular detail",\n    "camera_angle": "slightly above object, frontal",\n    "resolution": "very high for product branding"\n  },\n  "special_effects": {\n    "floating_behavior": true,\n    "visual_weightlessness": true,\n    "shadow_softness": "maximum"\n  }\n}
+根据以下JSON对附加图片进行重新纹理处理：\n\n{\n  "风格名称": "漂浮玻璃霓虹3D",\n  "重纹理模式": "形状锁定",\n  "对象分析": {\n    "保留轮廓": true,\n    "几何敏感映射": true,\n    "细节保留": "维持轮廓、体积和层次感"\n  },\n  "材质属性": {\n    "基础材质": "半透明霓虹玻璃胶",\n    "表面处理": "半光泽，边缘带有柔和光晕",\n    "透明度": "高，带有柔和的光折射",\n    "折射效果": "轻微弯曲，曲线处有微妙光晕",\n    "内置效果": "内部光散射和边缘霓虹发光",\n    "色彩混合": {\n      "主色": ["水绿色", "电蓝色", "霓虹紫"],\n      "渐变方向": "左上角至右下角",\n      "过渡平滑度": "非常平滑"\n    }\n  },\n  "光照": {\n    "类型": "柔光箱HDRI",\n    "强度": "柔和明亮",\n    "光源方向": " overhead 且略微偏前",\n    "高光表现": "柔和光晕，带有玻璃闪光"\n  },\n  "阴影表现": {\n    "类型": "漂浮接触阴影",\n    "外观": "极其柔和、模糊的椭圆形",\n    "不透明度": 0.07,\n    "物体下方距离": "适中",\n    "颜色": "中性灰"\n  },\n  "背景": {\n    "类型": "纯色",\n    "颜色": "#ffffff",\n    "发光效果": "无",\n    "渐变": "无"\n  },\n  "渲染": {\n    "景深": "轻微，带有轻微渐晕",\n    "焦点": "漂浮物体的中心",\n    "环境光遮蔽": "最小化以保持明亮感",\n    "渲染引擎": "3D风格化，带有光扩散和高镜面细节",\n    "相机角度": "略高于物体，正面视角",\n    "分辨率": "极高，适用于产品品牌推广"\n  },\n  "特殊效果": {\n    "漂浮效果": true,\n    "视觉失重感": true,\n    "阴影柔和度": "最大"\n  }\n}
+```
+
+---
+
+### [有趣的块状 3D 世界](https://aiart.pics/prompt/fun-blocky-3d-world)
+
+**作者**: [@Ege](https://x.com/egeberkina)
+
+**来源**: [X](https://x.com/egeberkina/status/1948690449293869081)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/fun-blocky-3d-world.png" width="500" alt="有趣的块状 3D 世界">
+
+```json
+Retexture the image attached based on the JSON below\n{\n  "style_name": "Playful Chunky 3D Aesthetic",\n  "retexture_mode": "stylized_3d_overlay",\n  "object_analysis": {\n    "preserve_silhouette": true,\n    "geometry_sensitive_mapping": true,\n    "detail_retention": "moderate — focus on key forms and proportions"\n  },\n  "material_properties": {\n    "base_material": ["soft matte plastic", "rubbery polymer"],\n    "surface_details": [\n      "rounded edges and inflated volumes",\n      "smooth, toy-like finish",\n      "minimal seam lines"\n    ]\n  },\n  "lighting": {\n    "type": "studio diffused light",\n    "intensity": "medium",\n    "shadows": "soft base shadows",\n    "highlight_behavior": "gentle gloss on curves and raised surfaces"\n  },\n  "color_palette": {\n    "dominant_colors": ["#f6f6f6", "#3a3a3a", "#f05423"],\n    "accent_colors": ["#ff875d", "#b0b0b0", "#f3f3f3"]\n  },\n  "background": {\n    "color": "#f9f9f9",\n    "type": "solid",\n    "texture": "none"\n  },\n  "style_tags": [\n    "3D cartoon realism",\n    "UI icon pack aesthetic",\n    "inflated minimalism",\n    "soft tech look",\n    "playful volume modeling"\n  ]\n}
+根据以下 JSON 对附加的图像进行重新纹理化\n{\n  "style_name": "Playful Chunky 3D Aesthetic",\n  "retexture_mode": "stylized_3d_overlay",\n"对象分析": {\n"保留轮廓": true,\n"几何敏感映射": true,\n"细节保留": "中等 — 侧重于关键形态和比例"\n  },\n"材料属性": {\n    "基础材料": ["柔软磨砂塑料", "弹性聚合物"],\n    "表面细节": [\n"圆润的边缘和膨胀的体积",\n"光滑、玩具般的表面",\n"极少的接缝线"\n    ]\n  },\n"lighting": {\n    "type": "工作室漫射光",\n    "intensity": "中等",\n"阴影": "柔和的基础阴影",\n    "高光行为": "曲线和凸起表面的柔和光泽"\n  },\n  "配色方案": {\n"主色调": [" #f6f6f6 ", " #3a3a3a ", " #f05423 "],\n    "强调色": [" #ff875d ", " #b0b0b0 ", " #f3f3f3 "]\n  },\n  "背景": {\n"color": " #f9f9f9 ",\n    "type": "solid",\n    "texture": "none"\n  },\n"风格标签": []\n"3D 卡通写实风格"\n"UI 图标包美学"\n"膨胀极简主义"\n"柔和科技感",\n"俏皮体积建模"\n  ]\n}
+```
+
+---
+
+### [舒适的周末从这里开始](https://aiart.pics/prompt/cozy-weekend-starts-here)
+
+**作者**: [@Ege](https://x.com/egeberkina)
+
+**来源**: [X](https://x.com/egeberkina/status/1944368117116796955)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/cozy-weekend-starts-here.png" width="500" alt="舒适的周末从这里开始">
+
+```json
+retexture the image attached based on the json below:\n{\n  "style_name": "Soft Minimal 3D Plastic",\n  "retexture_mode": "shape_lock",\n  "object_analysis": {\n    "preserve_silhouette": true,\n    "geometry_sensitive_mapping": true,\n    "detail_retention": "flatten complex details into simplified geometry blocks"\n  },\n  "material_properties": {\n    "base_material": [\n      "smooth matte plastic",\n      "metallic edge trim with satin finish",\n      "semi-reflective black screen surface"\n    ],\n    "surface_details": [\n      "subtle color gradient",\n      "rounded bevels and corners",\n      "soft transition between surfaces"\n    ]\n  },\n  "lighting": {\n    "type": "soft gradient ambient light",\n    "shadows": "minimal, soft-edged shadows",\n    "highlights": "diffused, low-intensity reflections"\n  },\n  "background": {\n    "color": "pastel gradient (blue to cream)",\n    "texture": "smooth and untextured",\n    "elements": "clean background with no added geometry"\n  },\n  "rendering": {\n    "style": "isometric 3D render",\n    "resolution": "high, with slight bloom",\n    "focus": "central object, no depth blur"\n  },\n  "color_palette": {\n    "primary": ["cool grey", "steel blue", "soft charcoal"],\n    "accents": ["light lavender", "pastel yellow"]\n  }\n}
+根据以下 JSON 重新纹理附加的图像：\n{\n"style_name": "柔和极简 3D 塑料风格",\n  "retexture_mode": "形状锁定",\n  "object_analysis": {\n    "preserve_silhouette": true,\n"geometry_sensitive_mapping": true,\n    "detail_retention": "将复杂的细节简化为简化的几何块"\n  },\n  "material_properties": {\n"base_material": [\n"光滑磨砂塑料"，\n"金属边缘饰条，缎面处理"，\n"半反射黑色屏幕表面"\n],\n"表面细节": [\n"微妙的颜色渐变"，\n"圆润的斜角和边角"，\n"表面之间的柔和过渡"\n    ]\n  },\n"lighting": {\n"类型": "柔和渐变环境光",\n    "阴影": "极少，边缘柔和的阴影",\n    "高光": "弥散，低强度的反射"\n  },\n"背景": {\n    "颜色": "柔和渐变（蓝色到奶油色）",\n    "纹理": "光滑无纹理",\n    "元素": "干净背景，无添加几何图形"\n  },\n"渲染": {\n"风格": "等距 3D 渲染",\n"分辨率": "高，略带轻微泛光"\n"focus": "中心对象，无深度模糊"\n  },\n  "color_palette": {\n    "primary": ["冷灰色", "钢蓝色", "柔和的炭黑色"],\n"accents": ["浅薰衣草色", "淡黄色"]\n  }\n}
+```
+
+---
+
 ### [物品纹理处理](https://aiart.pics/prompt/item-texture-processing)
 
 **作者**: [@Ege](https://x.com/egeberkina)
@@ -3109,6 +3465,83 @@ New business card 😁 https://t.co/5wXBW8BGff
 
 ---
 
+## fy360593
+
+### [超现实几何艺术风格的数字插画](https://aiart.pics/prompt/surreal-geometric-art-style-digital-illustration)
+
+**作者**: [@fy360593](https://x.com/fy360593)
+
+**来源**: [X](https://x.com/fy360593/status/1945042543609008235)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/surreal-geometric-art-style-digital-illustration.png" width="500" alt="超现实几何艺术风格的数字插画">
+
+```
+Transform this image into a digital illustration with a surreal, geometric art style. Apply glitch textures, abstract shapes, and cinematic composition. Use the original photo’s lighting and color palette to guide the atmosphere, while reimagining the scene in a stylized, dreamy, retro-futuristic way.
+将这张图片转换为具有超现实几何艺术风格的数字插画。应用故障纹理、抽象形状和电影化构图。以原始照片的光线和色彩为基调来营造氛围，同时以一种风格化、梦幻且复古未来主义的方式重新构想这个场景。
+```
+
+---
+
+### [转换马赛克风格照片](https://aiart.pics/prompt/convert-to-mosaic-style-photo)
+
+**作者**: [@fy360593](https://x.com/fy360593)
+
+**来源**: [X](https://x.com/fy360593/status/1945118291703284152)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/convert-to-mosaic-style-photo.png" width="500" alt="转换马赛克风格照片">
+
+```
+Transform this image into a refined low-poly mosaic style. Preserve the original structure and recognizable details, especially facial features and contours. Use small, high-density polygons to maintain clarity and identity while creating a crystalline, faceted look. Keep the original color palette for a harmonious and natural aesthetic. Avoid altering or adding new elements.
+将此图像转换为精致的低多边形马赛克风格。保留原始结构和可识别的细节，特别是面部特征和轮廓。使用小而高密度的多边形，以保持清晰度和身份，同时创造水晶般、多面体的外观。保留原始调色板，以实现和谐自然的美学。避免更改或添加新元素。
+```
+
+---
+
+### [卡通照片转换](https://aiart.pics/prompt/cartoon-photo-conversion)
+
+**作者**: [@fy360593](https://x.com/fy360593)
+
+**来源**: [X](https://x.com/fy360593/status/1945395833123561930)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/cartoon-photo-conversion.png" width="500" alt="卡通照片转换">
+
+```
+Transform the character into a digital, half-body cartoon-style portrait. Use a playful, vector-friendly style with clean solid lines, rounded face, oversized googly eyes, and minimal facial details. Show the character from chest up, including shoulders and upper torso. Apply smooth gradient fills to both the character and background for a colorful, soft look. Square format.
+将角色转化为数字化的半身卡通风格肖像。使用适合矢量的俏皮风格，线条干净利落，圆润的脸庞，超大号的玻璃眼球，以及极简的面部细节。展示角色胸部以上的部分，包括肩膀和上半身。对角色和背景都应用平滑的渐变填充，营造色彩丰富、柔和的视觉效果。方形格式。
+```
+
+---
+
+### [胶囊从透明的药瓶中倾倒](https://aiart.pics/prompt/capsules-pouring-from-transparent-bottle)
+
+**作者**: [@fy360593](https://x.com/fy360593)
+
+**来源**: [X](https://x.com/fy360593/status/1944782534128419179)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/capsules-pouring-from-transparent-bottle.jpeg" width="500" alt="胶囊从透明的药瓶中倾倒">
+
+```
+Hyper-realistic poster, 1080x1080. Small glossy/glass capsules spilling from a transparent medicine bottle onto a wet surface. Each capsule features [white]/[red] plastic and transparent glass, with [KFC] logo and a floating 3D icon inside. Strong reflections, studio lighting, water droplets, soft elegant background, DSLR photo realism.
+超写实的海报，1080x1080。小型的光亮/玻璃胶囊从透明的药瓶中倾倒在湿润的表面上。每个胶囊都带有[白色]/[红色]塑料和透明玻璃，内有[KFC]标志和一个悬浮的 3D 图标。强烈的反光，工作室灯光，水滴，柔和优雅的背景，DSLR 照片真实性。
+```
+
+---
+
+### [日本搞笑漫画风格插画](https://aiart.pics/prompt/japanese-comedy-manga-style-illustration)
+
+**作者**: [@fy360593](https://x.com/fy360593)
+
+**来源**: [X](https://x.com/fy360593/status/1944708178266259689)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/japanese-comedy-manga-style-illustration.jpeg" width="500" alt="日本搞笑漫画风格插画">
+
+```
+Transform this image into a Japanese gag manga style illustration. Use a high-contrast black-and-white color palette with bold linework and screentone (halftone) shading. Characters should have exaggerated facial expressions, cartoonish proportions (big head, small body), and comedic intensity. Include dynamic action lines or radiating background effects. The overall aesthetic should mimic retro manga from the 80s and 90s with humorous and intense emotion.
+将这张图片转化为日本搞笑漫画风格插画。使用高对比度的黑白色彩搭配，粗犷的线条和网点（半色调）阴影。角色应有夸张的面部表情，卡通化的比例（大头小身），以及喜剧张力。包含动态动作线条或放射状背景效果。整体美学应模仿 80 年代和 90 年代的复古漫画，充满幽默和强烈的情感。
+```
+
+---
+
 ## Gadgetify
 
 ### [鸟类羽毛制成LOGO](https://aiart.pics/prompt/logo-made-of-bird-feathers)
@@ -3219,6 +3652,21 @@ Prompt 👇 https://t.co/WFwtkZFwBb
 Kawaii enamel pins in GPT-4o 💬
 PROMPT:
 Turn the subject in the attached image into a kawaii enamel pin. Use glossy metal outlines and vibrant enamel fill. No extra added features. Square mockup format. White background.
+```
+
+---
+
+### [超现实的黑白彩色页面](https://aiart.pics/prompt/surreal-black-and-white-color-page)
+
+**作者**: [@gnrlyxyz](https://x.com/gnrlyxyz)
+
+**来源**: [X](https://x.com/gnrlyxyz/status/1942942055740678318)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/surreal-black-and-white-color-page.jpeg" width="500" alt="超现实的黑白彩色页面">
+
+```
+Create a psychedelic black and white coloring page featuring melting [SUBJECT] in the center, surrounded by large, playful shapes and smooth flowing patterns. The background includes whimsical and surreal elements such as sunflowers with eyes, melting eyeballs, melting hearts, melting mushrooms, clouds, and stars. Use bold, clean outlines and fully enclosed shapes to create distinct sections for easy coloring. Avoid excessive fine detail or clutter. Keep the composition open, spacious, and fun. Square aspect ratio with a white background. No text or color.
+创建一个超现实的黑白彩色页面，中心是融化的[主题]，周围有大型、有趣的形状和流畅的图案。背景包括诸如带眼睛的向日葵、融化的眼球、融化的心形、融化的蘑菇、云朵和星星等奇幻和超现实元素。使用粗犷、干净的轮廓和完全封闭的形状来创建易于上色的不同区域。避免过多的精细细节或杂乱。保持构图开放、宽敞和有趣。方形长宽比，白色背景。无文字或颜色。
 ```
 
 ---
@@ -3714,6 +4162,23 @@ looking through a [MATERIAL] keyhole towards a mythical [WORLD] dark fantasy, [v
 
 ---
 
+## jimmj1010
+
+### [纸上的小卡通角色](https://aiart.pics/prompt/tiny-cartoon-character-on-paper)
+
+**作者**: [@jimmj1010](https://x.com/jimmj1010)
+
+**来源**: [X](https://x.com/jimmj1010/status/1943040595213324313)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/tiny-cartoon-character-on-paper.jpeg" width="500" alt="纸上的小卡通角色">
+
+```
+Imagine you’re a tiny cartoon character who has come to life on a piece of paper! Draw yourself running away from a giant pencil that’s trying to erase you. Add colorful pencils, a desk, and maybe some flying eraser bits for extra excitement. Use your wildest imagination to make it look like you’re bursting out of the page!
+想象你是一个在纸上活过来的小卡通角色！画自己从一只试图擦掉你的巨大铅笔逃跑。添加彩色铅笔、书桌，也许还有一些飞行的橡皮屑以增加乐趣。用你最狂野的想象力让它看起来像是从页面上爆发出来！
+```
+
+---
+
 ## JinsFavorites
 
 ### [英语单词闪卡制作](https://aiart.pics/prompt/english-word-flashcard-making)
@@ -3745,6 +4210,23 @@ looking through a [MATERIAL] keyhole towards a mythical [WORLD] dark fantasy, [v
 ---
 
 ## Kerroudjm
+
+### [用花朵美化你的产品](https://aiart.pics/prompt/beautify-your-product-with-flowers)
+
+**作者**: [@Kerroudjm](https://x.com/Kerroudjm)
+
+**来源**: [X](https://x.com/Kerroudjm/status/1944730614323671129)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/beautify-your-product-with-flowers.png" width="500" alt="用花朵美化你的产品">
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/238-2.jpeg" width="500" alt="用花朵美化你的产品">
+
+```
+A high-end editorial photo of (PRODUCT NAME OR IMAGE) placed on a white marble pedestal, resting on champagne-colored silk. It is surrounded by pastel flowers whose type and color naturally harmonize with the product’s primary colors (COLOR PALETTE) — complementing and enhancing its tones. Soft natural light from the upper left. 3D realism, luxury product photography, shallow depth of field, 1:1 format.
+(产品名称或图片)放置在白色大理石底座上，休息在香槟色丝绸上，的高端编辑照片。它被淡色花朵环绕，其类型和颜色自然与产品的主要颜色（调色板）协调——补充并增强其色调。来自左上方的柔和自然光。3D 现实主义，奢华产品摄影，浅景深，1:1 格式。
+```
+
+---
 
 ### [以动物为灵感的品牌](https://aiart.pics/prompt/animal-inspired-brand)
 
@@ -3828,6 +4310,33 @@ A giant [transparent or glossy] [object/container] with a miniature 3D diorama i
 ---
 
 ## 空想写真家
+
+### [今日の衣装](https://aiart.pics/prompt/today-s-outfit)
+
+**作者**: [@空想写真家](https://x.com/KusoPhoto)
+
+**来源**: [X](https://x.com/KusoPhoto/thread/1940237526599610600)
+
+<img src="https://img1.aiart.pics/images/prompts/20251216/today-s-outfit-1.jpg" width="500" alt="今日の衣装">
+
+<img src="https://img1.aiart.pics/images/prompts/20251216/today-s-outfit-2.jpg" width="500" alt="今日の衣装">
+
+```
+本日の衣装ご用意しました♪
+皆様の素敵なコーデ楽しみにしています😊
+・衣装プロンプトはリプ欄に記載してます🫶
+・過去の衣装はハイライトにまとめてます👗
+（推奨：引用RP + #空想AIファッション） https://t.co/sraaDk05o3
+【特徴】
+ブラックのキャミソールドレスによるシンプルで洗練されたスタイル。無駄のないミニマルデザインが上品さを演出。
+シルバーアクセサリーが効いたモダンな大人のエレガンス。
+【服装プロンプト】
+Black sleeveless midi slip dress with straight silhouette and spaghetti straps. Silver flat sandals with minimal strappy design. Black structured tote bag with clean lines. Minimalist elegant style with monochrome palette. Modern sophisticated aesthetic with clean silhouettes. NOT casual wear, NOT bright colors, NOT heavy textures.
+【髪型プロンプト】
+Medium-length dark brown hair pulled back in low sleek bun with center part. Polished styling with smooth finish and minimal flyaways. Rich brunette color with natural depth. Professional elegant hairstyle with sophisticated simplicity. NOT loose styles, NOT voluminous looks, NOT light colors.
+```
+
+---
 
 ### [今日の衣装ご用意](https://aiart.pics/prompt/today-s-outfit-prepared)
 
@@ -4520,6 +5029,201 @@ A hyper-realistic, ultra-detailed 3D digital advertisement showcasing a Pepsi ca
 
 ---
 
+## 松果先森
+
+### [GPT-4o卡通幽灵](https://aiart.pics/prompt/gpt-4o-cartoon-ghost)
+
+**作者**: [@松果先森](https://x.com/songguoxiansen)
+
+**来源**: [X](https://x.com/songguoxiansen/status/1945032571114402108)
+
+<img src="https://img1.aiart.pics/images/prompts/20251204/gpt-4o-cartoon-ghost-1.jpg" width="500" alt="GPT-4o卡通幽灵">
+
+<img src="https://img1.aiart.pics/images/prompts/20251204/gpt-4o-cartoon-ghost-2.jpg" width="500" alt="GPT-4o卡通幽灵">
+
+```
+A cute cartoon ghost by GPT-4o
+inspired by Amazon Kiro
+Prompt in ALT
+#GPT4O #Kiro #Prompt #PromptShare #Amazon https://t.co/emGjqIyTwm
+```
+
+---
+
+### [9格Q版风格贴纸](https://aiart.pics/prompt/9-q-fashion-paper-craft)
+
+**作者**: [@松果先森](https://x.com/songguoxiansen)
+
+**来源**: [X](https://x.com/songguoxiansen/status/1950726378342801853)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/9-q-fashion-paper-craft.png" width="500" alt="9格Q版风格贴纸">
+
+```
+Create a 3D kawaii 10-16 canvas featuring nine chibi-style stickers in various outfits, poses, and expressions. Use the uploaded attachment image. Each sticker has a white border and includes a speech bubble with regular use phrases. Set on a soft white-to-pastel blue gradient background for a fun, positive vibe, perfect for WhatsApp app use.
+创建一幅尺寸为 10-16 的 3D 可爱风格画布，其中包含 9 个 Q 版风格贴纸。这些贴纸要采用不同的服装、姿势和表情，使用已经上传的附件图片。每个贴纸都要有白色边框，且包含一个带有日常用语的 speech 气泡。背景设置为柔和的白到淡蓝色渐变，营造出有趣、积极的氛围，非常适合在 WhatsApp 应用中使用。
+```
+
+---
+
+## TechieSA
+
+### [现代设计师玩具美学下的[角色名称]高级3D渲染乙烯基雕像](https://aiart.pics/prompt/premium-3d-rendered-character-name-vinyl-figure-modern-designer-toy-aesthetic)
+
+**作者**: [@TechieSA](https://x.com/TechieBySA)
+
+**来源**: [X](https://x.com/TechieBySA/status/1950605555724108030)
+
+<img src="https://img1.aiart.pics/images/prompts/20251205/premium-3d-rendered-character-name-vinyl-figure-modern-designer-toy-aesthetic-1.jpg" width="500" alt="现代设计师玩具美学下的[角色名称]高级3D渲染乙烯基雕像">
+
+```
+Create a premium 3D rendered [FIGURE NAME] collectible vinyl figure in a modern designer toy aesthetic. The figure should feature glossy translucent vinyl material with subtle light refraction, bold saturated colors true to the character, and simplified geometric forms with smooth curves. Position against a pristine gradient background transitioning from light gray to white. Use professional product photography lighting with soft key light from above and gentle rim lighting to highlight the vinyl’s glossy finish. The character should be posed in a confident standing position, centered perfectly in frame. Apply shallow depth of field with the figure in sharp focus. Render in ultra-high resolution with clean minimalist composition, no text, logos, or distracting elements. Square aspect ratio 1080x1080 pixels, photorealistic quality with crisp details and vibrant color reproduction suitable for premium toy marketing.
+```
+
+---
+
+### [定制的枕头](https://aiart.pics/prompt/custom-pillow)
+
+**作者**: [@TechieSA](https://x.com/TechieBySA)
+
+**来源**: [X](https://x.com/TechieBySA/status/1944487528704418041)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/custom-pillow.jpeg" width="500" alt="定制的枕头">
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/240-2.jpeg" width="500" alt="定制的枕头">
+
+```
+Create a high-resolution 3D render of the [BRAND] logo designed as an inflatable, puffy object. The logo should appear soft, rounded, and air-filled – like a plush balloon or blow-up toy. Use a smooth, matte texture with subtle fabric creases and stitching to emphasize the inflatable look. Position the logo at a 45-degree angle to highlight depth and realism. Place the final result on a couch in a stylish living room with furniture and decor that matches the iconic colors of the [BRAND] logo. Output dimension: 1080x1080.
+创建一个高分辨率的 3D 渲染图，将[BRAND]标志设计成一个充气、蓬松的物体。标志应看起来柔软、圆润、充气——像一个毛绒气球或充气玩具。使用光滑的哑光纹理，带有细微的布料褶皱和缝线，以强调充气效果。将标志以 45 度角摆放，以突出深度和真实感。将最终结果放置在风格时尚的客厅沙发上，家具和装饰与[BRAND]标志的标志性颜色相匹配。输出尺寸：1080x1080。
+```
+
+---
+
+### [沙滩胶囊城市](https://aiart.pics/prompt/beach-capsule-city)
+
+**作者**: [@TechieSA](https://x.com/TechieBySA)
+
+**来源**: [X](https://x.com/TechieBySA/status/1944386743865622718)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/beach-capsule-city.jpeg" width="500" alt="沙滩胶囊城市">
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/239-2.jpeg" width="500" alt="沙滩胶囊城市">
+
+```
+A vibrant, hyper-realistic miniature of [CITY] inside a transparent capsule lying on a sandy beach. The capsule is half [COLOR] (matching [COUNTRY]’s flag) with [CITY] written in white text on the colored section. Inside the capsule: iconic landmarks of [CITY], beautiful water canals or streets, small detailed boats or cars, sunny bright lighting, cinematic depth of field, dreamy atmosphere, ocean waves in the background.
+一个充满活力的、超写实的[CITY]微缩模型，放置在一个透明胶囊内，躺在沙滩上。胶囊一半是[COLOR]色（与[COUNTRY]的国旗相匹配），彩色部分上用白色文字写着[CITY]。胶囊内部：[CITY]的标志性地标、美丽的运河或街道、小巧精致的船只或汽车、阳光明媚的光线、电影般的景深、梦幻般的氛围、背景中的海浪。
+```
+
+---
+
+### [直升机品牌广告](https://aiart.pics/prompt/helicopter-brand-ad)
+
+**作者**: [@TechieSA](https://x.com/TechieBySA)
+
+**来源**: [X](https://x.com/TechieBySA/status/1944724068982211044)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/helicopter-brand-ad.jpeg" width="500" alt="直升机品牌广告">
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/236-2.jpeg" width="500" alt="直升机品牌广告">
+
+```
+Create a hyper-realistic, square 1:1 image featuring a small helicopter flying through a bright blue sky with fluffy white clouds and a subtle lens flare. The helicopter is painted in the signature colors and graphics of [BRAND]. It is carrying a giant product from [BRAND] hanging below. The composition has the look and feel of a clean, playful (or premium, futuristic) advertisement. At the bottom, include the [BRAND] logo and a small slogan like [BRAND SLOGAN] in a stylish font. 1080x1080 dimension.
+创作一张超写实的 1:1 方形图像，展现一架小型直升机在明亮的蓝天中飞行，周围有蓬松的白云和微妙的镜头眩光。直升机涂装着[BRAND]的标志性颜色和图案。它下方悬挂着一个来自[BRAND]的巨大产品。整个构图具有干净、俏皮（或高端、未来感）的广告风格。在底部，包含[BRAND]的标志和一句简短的风格化标语，如[BRAND SLOGAN]。尺寸为 1080x1080。
+```
+
+---
+
+### [品牌快餐胶囊](https://aiart.pics/prompt/brand-fast-food-capsule)
+
+**作者**: [@TechieSA](https://x.com/TechieBySA)
+
+**来源**: [X](https://x.com/TechieBySA/status/1944462797666123872)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/brand-fast-food-capsule.jpeg" width="500" alt="品牌快餐胶囊">
+
+```
+Create a hyper-realistic, stylish poster [1080x1080] aspect ratio featuring a horizontal tablet-capsule hovering above a surface covered in condensation and water droplets, with its shadow cast on the wet ground. One side of the capsule is transparent glass, while the other is glossy [BRAND COLORS] plastic, displaying the [BRAND] logo and name. Seamlessly floating inside the glass portion of the capsule is a photorealistic 3D model of the [BRAND LOGO OR ICON], perfectly centered and suspended in zero gravity. The glass and plastic surfaces showcase strong reflections, refractions, and environmental distortions. The background is a softly blurred, elegant light-toned setting. Use a dynamic perspective with a stylish camera angle, professional studio lighting, and ultra-high detail to make the image look like a DSLR-captured photograph with impeccable realism.
+创建一个超逼真、时尚的海报[1080x1080]宽高比，展示一个水平平板胶囊悬浮在布满水汽和液滴的表面上，其影子投射在湿润的地面上。胶囊一侧是透明玻璃，另一侧是光泽[品牌颜色]塑料，显示[品牌]标志和名称。玻璃部分无缝漂浮着一张逼真的 3D 模型[品牌标志或图标]，完美居中并悬浮在零重力中。玻璃和塑料表面展现出强烈的反射、折射和环境扭曲。背景是柔和模糊、优雅浅色调的设置。使用动态视角和时尚的相机角度，结合专业工作室灯光和超高清细节，使图像看起来像是一张由单反相机拍摄的真实照片，具有无懈可击的真实感。
+```
+
+---
+
+### [时尚的胶囊海报](https://aiart.pics/prompt/fashion-capsule-poster)
+
+**作者**: [@TechieSA](https://x.com/TechieBySA)
+
+**来源**: [X](https://x.com/TechieBySA/status/1944435018203296063)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/fashion-capsule-poster.jpeg" width="500" alt="时尚的胶囊海报">
+
+```
+Create a hyper-realistic, stylish poster [1080x1080] aspect ratio featuring a horizontal tablet-capsule hovering above a surface covered in condensation and water droplets, with its shadow cast on the wet ground. One side of the capsule is transparent glass, while the other is glossy [COLOR/DESIGN] plastic, displaying the [BRAND] logo and name. Seamlessly floating inside the glass portion of the capsule is a photorealistic 3D model of the [LOGO], perfectly centered and suspended in zero gravity. The glass and plastic surfaces showcase strong reflections, refractions, and environmental distortions. The background is a softly blurred, elegant light-toned setting. Use a dynamic perspective with a stylish camera angle, professional studio lighting, and ultra-high detail to make the image look like a DSLR-captured photograph with impeccable realism.
+创作一张超逼真、时尚的海报[1080x1080]宽高比，展示一个水平放置的平板胶囊悬浮在布满水汽和水滴的表面上，其影子投射在湿润的地面上。胶囊的一面是透明玻璃，另一面是光泽塑料[颜色/设计]，显示[品牌]标志和名称。在胶囊的玻璃部分中，一个逼真的 3D 模型[标志]无缝漂浮，完美居中并悬浮在零重力中。玻璃和塑料表面展现出强烈的反射、折射和环境扭曲。背景是一个柔和模糊、优雅浅色调的设置。使用动态视角和时尚的相机角度，结合专业工作室灯光和超高清细节，使图像看起来像是一张由单反相机拍摄的真实照片，具有无懈可击的真实感。
+```
+
+---
+
+### [3D店铺渲染图](https://aiart.pics/prompt/3d-shop-render)
+
+**作者**: [@TechieSA](https://x.com/TechieBySA)
+
+**来源**: [X](https://x.com/TechieBySA/status/1943242512820273451)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/3d-shop-render.jpeg" width="500" alt="3D店铺渲染图">
+
+```
+Ultra-realistic 3D render of a cute, miniature [BRAND NAME] storefront building. Designed using the brand’s signature style and color palette. Features a clean, modern exterior with large glass windows and a glowing 3D [BRAND NAME] logo sign on the front. Includes subtle branded props inside the store. Background matches the brand’s identity — clean, relevant, and atmospheric. Slight isometric angle, warm lighting, soft shadows, and centered composition.
+逼真的 3D 渲染图，展示了一个可爱、迷你版的[品牌名称]店铺建筑。采用品牌的标志性风格和色彩搭配设计。外部设计简洁现代，配有大型玻璃窗，正面有一个发光的 3D[品牌名称]标志。店内包含细微的品牌道具。背景与品牌身份相匹配——干净、相关且富有氛围。略微的等距角度，温暖的照明，柔和的阴影，居中构图。
+```
+
+---
+
+### [3D蓬松的物体](https://aiart.pics/prompt/3d-fluffy-object)
+
+**作者**: [@TechieSA](https://x.com/TechieBySA)
+
+**来源**: [X](https://x.com/TechieBySA/status/1942882098567618686)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/3d-fluffy-object.jpeg" width="500" alt="3D蓬松的物体">
+
+```
+Transform the [BRAND NAME] logo into a hyper-realistic, 3D fluffy object. Keep the original shape and exact brand colors. Cover the entire surface in soft, detailed fur with a realistic hair texture. Use cinematic lighting to create subtle backlighting and soft shadows, making the logo appear tactile and surreal. Place the logo in the center of a clean black background, floating gently with a modern, stylish look. The style should feel cozy, playful, and visually striking. Render in ultra-high 4K resolution with photorealistic quality.
+将[品牌名称]标志转化为超逼真、3D 蓬松的物体。保持原始形状和品牌的确切颜色。用柔软、细节丰富的毛皮覆盖整个表面，具有逼真的毛发纹理。使用电影感光效创造微妙的后光和柔和的阴影，使标志看起来有触感和超现实。将标志放在干净黑色背景的中心，轻轻漂浮，具有现代时尚感。风格应感觉温馨、俏皮、视觉上引人注目。以超高清 4K 分辨率渲染，具有照片级真实质量。
+```
+
+---
+
+### [灯泡中的城市](https://aiart.pics/prompt/city-in-light-bulb)
+
+**作者**: [@TechieSA](https://x.com/TechieBySA)
+
+**来源**: [X](https://x.com/TechieBySA/status/1942976425281114576)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/city-in-light-bulb.jpeg" width="500" alt="灯泡中的城市">
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/211-2.jpeg" width="500" alt="灯泡中的城市">
+
+```
+Create a hyper-realistic, stylish poster featuring a light bulb lying on wet urban asphalt. Inside the bulb, place a miniature version of [CITY] with its iconic landmarks. A sleek white 3D text of the city name ‘[CITY]’ should stand prominently in front of the bulb. The background is a softly blurred cityscape with neon lights reflecting on the bulb’s glass and the wet pavement. Add volumetric moonlight for depth and atmosphere. The image should look like a high-quality DSLR photograph with sharp details, cinematic lighting, and a moody, futuristic vibe.
+创作一张超逼真、时尚的海报，展示一个躺在湿漉漉的城市柏油路面上的灯泡。在灯泡内部放置一个[CITY]的微缩版，并包含其标志性地标。在灯泡前方，应突出显示一个光滑的白色 3D 文字，写着城市名称‘[CITY]’。背景是柔和模糊的城市景观，霓虹灯光在灯泡的玻璃和湿滑的路面上映射。添加体积光以增强深度和氛围。图像应看起来像一张高质量的数码单反相机照片，具有清晰的细节、电影般的灯光和忧郁的未来感。
+```
+
+---
+
+### [3D表情符号头部](https://aiart.pics/prompt/3d-emoji-head)
+
+**作者**: [@TechieSA](https://x.com/TechieBySA)
+
+**来源**: [X](https://x.com/TechieBySA/status/1942928111244394788)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/3d-emoji-head.jpeg" width="500" alt="3D表情符号头部">
+
+```
+Generate a hyper-realistic 3D render of a [EMOJI🐱] as a floating animal head with plush toy aesthetics. The design should emphasize ultra-soft, long fur, playful cuteness, and a childlike charm. Use a straight-on camera angle with soft, diffused lighting to create a warm and inviting glow. Keep the background pure white for a clean, modern look. The color palette should be vibrant yet soothing, enhancing the toy-like appeal. Style: Ultra-detailed, whimsical, and hyper-cute, blending realism with a soft, plush texture for maximum visual impact.
+生成一个超逼真的 3D 渲染效果，将[表情符号 🐱 ]设计成一个漂浮的动物头部，具有毛绒玩具的美学风格。设计应强调超柔软的长毛、俏皮可爱和童真魅力。使用正面直视的相机角度，搭配柔和的漫射光线，营造出温暖诱人的光泽。保持背景纯白色，以呈现干净现代的外观。色彩搭配应鲜明而舒缓，增强玩具般的吸引力。风格：超精细、奇幻、超可爱，将现实主义与柔软的毛绒质感相结合，以达到最大的视觉冲击力。
+```
+
+---
+
 ## The_Real_Bersek
 
 ### [卡通角色转换成超写实人类](https://aiart.pics/prompt/cartoon-character-to-hyper-realistic-human)
@@ -4537,6 +5241,57 @@ Transform the cartoon character from the reference image into a hyper-realistic 
 ---
 
 ## TheRelianceAI
+
+### [糖果形状物品](https://aiart.pics/prompt/candy-shaped-item)
+
+**作者**: [@TheRelianceAI](https://x.com/TheRelianceAI)
+
+**来源**: [X](https://x.com/TheRelianceAI/status/1944695498025173261)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/candy-shaped-item.png" width="500" alt="糖果形状物品">
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/227-2.jpeg" width="500" alt="糖果形状物品">
+
+```
+A glossy candy-shaped perfume bottle resting on an open book, soft morning light, delicate shadows, dreamy bokeh background with iridescent cellophane wrapping. The candy design is inspired by [YOUR STYLE]
+一个闪亮的糖果形状的香水瓶静置在一本打开的书上，柔和的晨光，细腻的阴影，梦幻的背景虚化效果，带有彩虹色透明膜包装。糖果设计灵感来源于[你的风格]
+```
+
+---
+
+### [冬日国家](https://aiart.pics/prompt/winter-country)
+
+**作者**: [@TheRelianceAI](https://x.com/TheRelianceAI)
+
+**来源**: [X](https://x.com/TheRelianceAI/status/1942870693625897385)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/winter-country.png" width="500" alt="冬日国家">
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/219-2.png" width="500" alt="冬日国家">
+
+```
+A super detailed, realistic snow globe containing the essence of [Country Name]. Inside the globe: miniature snowy landscapes, iconic landmarks, cultural symbols, and natural elements representing [Country Name], rendered with extreme realism and rich textures. Delicate falling snow creates a magical, atmospheric effect inside the globe. The background is clean and softly lit to focus entirely on the globe. The image is 1:1 aspect ratio. At the bottom of the image, the text “[Country Name]” is clearly written in an elegant serif font
+一个超级精细、逼真的雪球，包含着[国家名称]的精髓。球内：微型的雪景、标志性建筑、文化符号以及代表[国家名称]的自然元素，以极致的逼真感和丰富的纹理呈现。细腻的飘落雪花在球内营造出神奇的、充满氛围的效果。背景干净且柔和照明，完全聚焦于雪球。图像为 1:1 的宽高比。图像底部，用优雅的衬线字体清晰地书写着“[国家名称]”
+```
+
+---
+
+### [品牌在悬浮平台上](https://aiart.pics/prompt/brand-on-floating-platform)
+
+**作者**: [@TheRelianceAI](https://x.com/TheRelianceAI)
+
+**来源**: [X](https://x.com/TheRelianceAI/status/1942981383820845445)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/brand-on-floating-platform.png" width="500" alt="品牌在悬浮平台上">
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/212-2.png" width="500" alt="品牌在悬浮平台上">
+
+```
+A highly detailed cinematic advertisement scene featuring [TYPE OF ALCOHOL, BRAND], standing on a surreal floating platform that visually embodies its spirit. The platform is made of materials that represent the drink’s essence (e.g. sparkling crystals for champagne, rich dark wood for whiskey, frosted ice for vodka), with dramatic reflections and melting details dripping into a calm reflective water surface. A matching glass is filled with the drink, featuring artistic textures (ice, gems, swirling liquid). Soft, colorful sunset sky with dramatic clouds in the background, high-end luxury aesthetic, photorealistic, macro details, dreamy glow, premium product photography.
+一个高度细致的影视广告场景，展示[酒类类型，品牌]，站在一个体现其精神的超现实悬浮平台上。平台由代表饮品本质的材料制成（例如香槟的闪亮水晶、威士忌的浓郁深色木材、伏特加的冰霜），戏剧性的倒影和融化的细节滴入平静的反射水面。一个匹配的玻璃杯装满了饮品，具有艺术纹理（冰块、宝石、旋转的液体）。柔和的彩色日落天空背景中有戏剧性的云朵，高端奢华美学，照片级真实感，宏观细节，梦幻般的光芒，高端产品摄影。
+```
+
+---
 
 ### [可爱的设计师玩偶](https://aiart.pics/prompt/cute-designer-doll)
 
@@ -5111,6 +5866,23 @@ Prompt on ChatGPT 4o : A digital illustration of a [SUBJECT], portrayed with a n
 
 ```
 ChatGPT 4o prompt: A photograph captures a daytime scene with a [SUBJECT/OBJECT] formed by scattered clouds in the sky, positioned above a [LOCATION] https://t.co/YbHGPnLe3G
+```
+
+---
+
+### [部分咬掉的糕点](https://aiart.pics/prompt/partially-bitten-pastry)
+
+**作者**: [@Umesh](https://x.com/umesh_ai)
+
+**来源**: [X](https://x.com/umesh_ai/status/1942635640816034224)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/partially-bitten-pastry.jpeg" width="500" alt="部分咬掉的糕点">
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/214-2.jpeg" width="500" alt="部分咬掉的糕点">
+
+```
+A high-resolution, studio-lit macro photograph of a pastry shaped like a [SUBJECT], with a partial bite taken out, placed on a neutral matte surface with visible crumbs and soft shadows, highlighting texture and detail
+一张高分辨率的、影棚照明的微距照片，展示一个形状像[主题]的糕点，部分咬掉，放在一个中性哑光表面上，有明显的面包屑和柔和的阴影，突出质感和细节
 ```
 
 ---
