@@ -834,6 +834,38 @@ Hand-Carved Wooden Puppet (Czech Marionette Style)\\n\\nA hand-carved wooden mar
 
 ## AmirMušić
 
+### [Steal this base prompt for Nano Banana / ChatGPT](https://aiart.pics/prompt/steal-this-base-prompt-for-nano-banana-chatgpt)
+
+**Author**: [@AmirMušić](https://x.com/AmirMushich)
+
+**Source**: [X](https://x.com/AmirMushich/thread/1974767426500968590)
+
+<img src="https://img1.aiart.pics/images/prompts/20251213/steal-this-base-prompt-for-nano-banana-chatgpt-1.jpg" width="500" alt="Steal this base prompt for Nano Banana / ChatGPT">
+
+```
+Steal this base prompt for Nano Banana / ChatGPT:
+(it's a cheat code for product marketing)
+It turns any product into a luxury commercial shot, saving you $1,000 on studio production
+It gives solo creators and small businesses the visual power of a major brand
+Prompt 👇 https://t.co/FmIhauBZtS
+Base prompt:
+Product:
+[BRAND] [PRODUCT NAME] - [bottle shape], [label description], [liquid color]
+Scene:
+Luxury product shot floating on dark water with [flower type] in [colors] arranged around it.
+[Lighting style - e.g., "golden hour glow" /
+"bright fresh light"] creates reflections and ripples across the water.
+Mood & Style:
+[Adjectives - e.g., "ethereal and luxurious" /
+"fresh and clean"], high-end commercial photography, [camera angle], shallow depth of field with soft bokeh background
+Save this thread for later - and use it when you need
+Use more of my Nano Banana concepts 👇
+More powerful brand prompt structures:
+https://t.co/KzP20XvjRK
+```
+
+---
+
 ### [Time Travel: How You Would Look in the 1970s and 1940s](https://aiart.pics/prompt/time-travel-how-you-would-look-in-the-1970s-and-1940s)
 
 **Author**: [@AmirMušić](https://x.com/AmirMushich)
@@ -965,6 +997,51 @@ Act as a creative director at Rockstar Games. Create a fictional GTA VI characte
 ---
 
 ## ΛRMIN | AI
+
+### [Studio Shot with Oversized Props](https://aiart.pics/prompt/studio-shot-with-oversized-props)
+
+**Author**: [@ΛRMIN | AI](https://x.com/Arminn_Ai)
+
+**Source**: [X](https://x.com/Arminn_Ai/status/1983963917425480087)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/studio-shot-with-oversized-props.jpeg" width="500" alt="Studio Shot with Oversized Props">
+
+```
+A full-body hyper-realistic studio portrait of [CHARACTER DESCRIPTION] in a [POSE TYPE] pose, sitting gracefully on a large [OBJECT] positioned [ORIENTATION: horizontal / vertical] on a smooth [BACKGROUND COLOR] floor. The object appears oversized and realistic, perfectly integrated with the subject — not floating. Its surface shows accurate texture, reflections, and material depth. The pose defines the subject’s attitude and interaction with the object — natural, stylish, and expressive. The character is balanced and confident, matching the object’s tone and style. Background is seamless, same color for wall and floor, slightly lighter below with soft reflections. Lighting: clean professional studio setup — diffused key from front-left, mild fill from right, subtle rim for separation, evenly balanced exposure. Mood: cinematic luxury editorial with minimal composition and photorealistic realism.
+一张全身超写实摄影棚肖像照，[人物描述] 以[姿势类型]的姿态优雅地坐在一个大型[物体]上，该物体[方向：水平/垂直]放置在光滑的[背景颜色]地板上。物体显得尺寸较大且逼真，与人物完美融合，而非悬浮。物体表面展现出精准的纹理、反射和材质深度。姿势展现了人物与物体之间的互动——自然、时尚且富有表现力。人物姿态平衡自信，与物体的色调和风格相得益彰。背景无缝衔接，墙面和地板颜色相同，下方略浅并带有柔和的反射。灯光：干净专业的摄影棚布光——左前方柔和的主光，右侧轻柔的补光，以及用于分离主体的微妙边缘光，曝光均衡。氛围：电影般的奢华时尚大片风格，构图极简，追求照片级的真实感。
+```
+
+---
+
+### [3D Chibi Style Vinyl Collectible](https://aiart.pics/prompt/3d-chibi-style-vinyl-collectible)
+
+**Author**: [@ΛRMIN | AI](https://x.com/Arminn_Ai)
+
+**Source**: [X](https://x.com/Arminn_Ai/status/1982860799879114903)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/3d-chibi-style-vinyl-collectible.jpeg" width="500" alt="3D Chibi Style Vinyl Collectible">
+
+```
+A 3D chibi-style vinyl collectible figure of [CHARACTER NAME] Big head, small body, cartoon proportion, Standing inside a Youtooz-style\npackaging box with: Transparent front window\n"YOUTOOZ COLLECTIBLES" logo on the top\nNumber label ([#XXX]) on the top-left\nBottom front text: “[CHARACTER NAME]” and lower with smaller font “VINYL FIGURE”\nCartoon 2D illustration of [CHARACTER NAME] on the side of the box ([ILLUSTRATION DESCRIPTION])\n\nBackground/theme:\n[BOX COLORS + TEXTURES + ICONIC MOTIFS RELATED TO CHARACTER] \n[Figure POSE OR GESTURE] \n[Outfit DESCRIPTION + SIGNATURE ITEMS]\n\nFace details: The facial features (mouth/eyes/details) must be fully 3D sculpted, not flat or printed.\nLighting: clean product photography look, minimal soft shadows\nStyle: vinyl-toy aesthetic with a mix of matte + glossy accents depending on costume, Composition: 3/4 product shot view, full box visible. The entire packaging box must be fully visible inside the frame with a clean margin around all edges.
+3D chibi 风格乙烯基收藏品 [CHARACTER NAME] 大头，小身体，卡通比例，站在 Youtooz 风格的\n包装盒带有：透明前窗\n顶部有“YOUTOOZ COLLECTIBLES”标志\n左上角的数字标签（[#XXX]）\n底部文字：“[CHARACTER NAME]” 下方用较小的字体写着“VINYL FIGURE”\n盒子侧面的 [角色名称] 卡通 2D 插图（[插图描述]）\n\n背景/主题：\n[盒子颜色 + 纹理 + 与角色相关的标志性图案]\n[人物姿势或手势]\n[服装描述 + 标志性物品]\n\n面部细节：面部特征（嘴巴/眼睛/细节）必须完全 3D 雕刻，而不是平面或印刷的。\n灯光：干净的产品摄影外观，最小的柔和阴影\n风格：搪胶玩具美学，根据服装搭配哑光和亮光元素。构图：3/4 产品视角，完整包装盒清晰可见。整个包装盒必须在框架内完全可见，所有边缘均留有清晰的空白。
+```
+
+---
+
+### [Cartoon Illustration](https://aiart.pics/prompt/cartoon-illustration)
+
+**Author**: [@ΛRMIN | AI](https://x.com/Arminn_Ai)
+
+**Source**: [X](https://x.com/Arminn_Ai/status/1978164256240501226)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/cartoon-illustration.jpeg" width="500" alt="Cartoon Illustration">
+
+```
+A cartoon illustration of [OBJECT],\nphotographed in a clean minimal studio setup. All objects remain realistic and three-dimensional, but have been transformed into expressive cartoon characters:\n• [DESCRIPTION & EMOTION]  \n  (describe facial features, expressions, and emotional tone for each object)\n• [ACTION]  \n• doodle lines are black, slightly uneven, and hand-drawn —  like quick expressive sketchbook strokes drawn directly on the objects.\nStyle: hybrid mix of real product photography and cartoon doodle overlay.  \nBackground: solid pastel [COLOR], clean and minimal.\nLighting: soft, even, studio-style — subtle highlights and gentle shadows; no harsh light.\nMood: [MOOD / THEME — e.g. playful, melancholic, poetic, humorous].  \nKeywords: hybrid photo-doodle, product cartoon, expressive characters, minimal pastel background. Aspect ratio: 1:1
+[OBJECT]的卡通插图，\n在简洁干净的工作室环境中拍摄。所有物体都保持了真实感和三维立体感，但又被转化成了富有表现力的卡通人物：\n• [描述和情感]\n（描述每个物体的面部特征、表情和情绪基调）\n• [行动]\n• 涂鸦线条是黑色的，略微不均匀，并且是手绘的——就像直接在物体上绘制的快速富有表现力的素描本笔触一样。\n风格：真实产品摄影和卡通涂鸦叠加的混合。\n背景：纯色粉彩[颜色]，干净、简约。\n灯光：柔和、均匀、工作室风格——微妙的高光和柔和的阴影；没有刺眼的光线。\n心情：[心情/主题 — 例如好玩、忧郁、诗意、幽默]。\n关键词：混合照片涂鸦、产品卡通、富有表现力的人物、极简柔和背景。长宽比：1:1
+```
+
+---
 
 ### [Object Turning into Bold Cartoon Drip](https://aiart.pics/prompt/object-turning-into-bold-cartoon-drip)
 
@@ -1408,6 +1485,21 @@ The first image is the original. Here are the prompts I use for each:
 ```
 Create tiny, adorable product shots that look like high-end ads using Nano Banana. I used it in Firefly
 Prompt 👇🏻 https://t.co/isxYVc5rdb
+```
+
+---
+
+### [Plush World](https://aiart.pics/prompt/plush-world)
+
+**Author**: [@Amira Zairi](https://x.com/azed_ai)
+
+**Source**: [X](https://x.com/azed_ai/status/1980664924918727038)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/plush-world.jpeg" width="500" alt="Plush World">
+
+```
+A soft and plush 3D model of a [subject] with a [key detail], rendered in a cute, stylized aesthetic. The texture appears velvety, squeezable, and toy-like, emphasizing the charm of animated [object type] designs. Clean background, centered composition, soft ambient lighting, pastel tones, subtle shadows, high-resolution render, front-facing view.
+一个柔软毛绒绒的3D模型，带有一个[关键细节]，以可爱、风格化的美感呈现。纹理柔软，可挤压，像玩具一样，凸显了动画[物体类型]设计的魅力。干净的背景，居中的构图，柔和的环境光，柔和的色调，微妙的阴影，高分辨率渲染，正面视图。
 ```
 
 ---
@@ -1895,6 +1987,21 @@ An embroidered portrait of Elon Musk, stitched with rich steel grey and electric
 ---
 
 ## aziz4ai
+
+### [Creative 3D Brand Ad](https://aiart.pics/prompt/creative-3d-brand-ad)
+
+**Author**: [@aziz4ai](https://x.com/aziz4ai)
+
+**Source**: [X](https://x.com/aziz4ai/status/1979813700883366110)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/creative-3d-brand-ad.jpeg" width="500" alt="Creative 3D Brand Ad">
+
+```
+Creative 3D ad for [Brand Name], with surreal object made from it, matching background color, real slogan below, logo on top, miniature person interacting, minimal and clever concept
+为 [品牌名称] 制作的创意 3D 广告，由超现实的物体制成，背景颜色匹配，下面是真实的口号，上面是徽标，微型人物互动，简约而巧妙的概念
+```
+
+---
 
 ### [Hyper-realistic CGI Product Shot](https://aiart.pics/prompt/hyper-realistic-cgi-product-shot)
 
@@ -2972,6 +3079,85 @@ Highly detailed 3D-rendered chibi figurine diorama of [Character A] and [Charact
 
 ---
 
+## cheerselflin
+
+### [A Woman Taking the Subway](https://aiart.pics/prompt/a-woman-taking-the-subway)
+
+**Author**: [@cheerselflin](https://x.com/cheerselflin)
+
+**Source**: [X](https://x.com/cheerselflin/status/1979203307873931360)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/a-woman-taking-the-subway.jpeg" width="500" alt="A Woman Taking the Subway">
+
+```
+a young beautiful Japanese woman with porcelain skin, soft makeup and bright red lips, straight chestnut-brown hair neatly tied in a ponytail with straight bangs framing her face, wearing a fitted light-blue police uniform shirt with gold buttons and badge, a dark green flat ribbon tie knotted at the collar with two short tails hanging down like a gift bow, navy skirt, dark belt with brass buckle, white gloves, black shoes, sitting with her knees together and hands gently folded over a glass, calm and elegant posture, oxygen-fresh natural makeup look with translucent dewy base, barely-there eyeliner, soft straight brows, faint rosy blush on the cheeks, subtle inner-corner highlight that makes her eyes look bright and airy, lips a clean vivid red yet not glossy, her pose delicate and composed: seated on a narrow wooden bench in a cramped booth, ankles tucked slightly back, torso subtly leaning forward from the hips, forearms relaxed, gloved hands overlapping lightly above the small tumbler placed between her knees, chin slightly lowered while gazing directly at the camera, flanked by two older Japanese policemen in uniform on each side, the man on the left leaning inward from the doorway, cap slightly tilted, short-sleeve standard police shirt, one elbow resting on his knee with the hand hanging loosely, attentive and calm expression; the man on the right wearing a striped short-sleeve shirt with a dark tie and badge, cap set square with a gold band, arms firmly crossed over his chest, body angled toward the woman, a reserved, thoughtful look, inside a small dimly-lit bar filled with vintage Japanese posters, old bottles, narrow wooden walls, cluttered shelves, detailed physical environment: shot from the doorway so the worn wooden jambs create a frame-within-frame; scuffed varnished beams, handwritten Japanese slips and price tags pinned among utensils, cords and trinkets hanging overhead, glassware and liquor bottles stacked tight on shallow shelves, a tiny aisle underfoot, faint reflections on lacquered wood, humid air; one or two bare incandescent bulbs casting a localized amber pool of light that fades rapidly into darkness, camera perspective and ratio: intimate eye-level viewpoint at close conversational distance (about 1-1.5 m), classic 35mm focal feel, vertical portrait framing with a 3:4 aspect, slight center-weighted composition emphasizing the trio in a tight booth, warm incandescent lighting with nostalgic amber tone, low saturation colors, fine 35mm film grain texture, slightly overexposed highlights, retro 1980s analog snapshot aesthetic, candid composition, shallow depth of field, cinematic color grading, in the style of Nobuyoshi Araki and Daido Moriyama street photography
+一位年轻美丽的日本女性，有着瓷器般的肌肤、柔和的妆容和鲜红的嘴唇，栗色的直发扎成马尾辫，齐刘海修饰着她的脸型，身穿一件合身的浅蓝色警服衬衫，上面有金色的纽扣和徽章，一条深绿色的扁平丝带领带在领口处打结，两条短尾巴像礼物蝴蝶结一样垂下来，海军蓝裙子，深色腰带配黄铜扣，白手套，黑色鞋子，双膝并拢坐着，双手轻轻地交叉放在玻璃杯上，姿态平静而优雅，氧气清新的自然妆容搭配半透明的露珠底妆，几乎看不见的眼线，柔软的直眉，脸颊上淡淡的玫瑰色腮红，微妙的内眼角高光使她的眼睛看起来明亮而通透，嘴唇是干净的鲜红色，但不油腻，她的姿势精致而沉稳：坐在狭窄的卡座中的一张狭窄的木凳上，脚踝略微向后弯曲，躯干从臀部微微向前倾斜，前臂放松，戴着手套的双手轻轻地重叠在小玻璃杯放在两膝之间，下巴微微低垂，直视镜头，两侧各站着两名年纪稍长的穿制服的日本警察，左边的男子从门口探出身子，帽子微微倾斜，穿着短袖制式警服，一肘撑在膝盖上，手随意地垂着，表情专注而平静；右边的男子穿着条纹短袖衬衫，系着深色领带和警徽，帽子镶着金边，双臂紧紧地交叉在胸前，身体朝着女人倾斜，一副矜持、若有所思的样子，身处一间灯光昏暗的小酒吧里，里面摆满了老式的日本海报、旧酒瓶、狭窄的木墙、杂乱的架子，细致的物理环境：从门口拍摄，磨损的木门框形成了框中框；磨损的漆面横梁，手写的日文单据和价格标签夹在餐具之间，电线和小饰品悬挂在头顶，玻璃器皿和酒瓶紧紧地堆放在浅浅的架子上，脚下是一条小过道，漆木上反射着微弱的光线，空气潮湿；一两个裸露的白炽灯泡投射出局部琥珀色的光晕，迅速消失在黑暗中，相机视角和比例：近距离交谈（约 1-1.5 米）的亲密视线视角，经典的 35 毫米焦距感，3：4 宽高的垂直人像取景，轻微的中央重点构图强调了紧凑展位中的三人组，温暖的白炽灯光带有怀旧的琥珀色调，低饱和度色彩，细腻的 35 毫米胶片颗粒纹理，略微过度曝光的高光，复古的 1980 年代模拟快照美学，坦率的构图，浅景深，电影调色，荒木经惟和森山大道的街头摄影风格
+```
+
+---
+
+### [Beauty in Tokyo Subway Stairwell](https://aiart.pics/prompt/beauty-in-tokyo-subway-stairwell)
+
+**Author**: [@cheerselflin](https://x.com/cheerselflin)
+
+**Source**: [X](https://x.com/cheerselflin/status/1979203277553307820)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/beauty-in-tokyo-subway-stairwell.jpeg" width="500" alt="Beauty in Tokyo Subway Stairwell">
+
+```
+A blurry, high-grain snapshot taken in a Tokyo subway stairwell, charged with motion, humidity, and raw urban energy. The air feels thick and fluorescent, lit by overhead tube lights that cast a cold green-blue tint across the frame. The film grain, chromatic aberration, and lens distortion add a tactile sense of chaos — a fleeting instant suspended mid-run.\n\nAt the center, a young woman in a tied white shirt and short plaid skirt is caught mid-step, descending the stairs. Her movement blurs, skirt flaring slightly, hair swept by motion. The focus drifts between her and the background, giving the shot a dreamlike disorientation, as if seen through memory or adrenaline.\n\nHer expression holds the entire frame together — eyes open, lips slightly parted, cheeks flushed, as if between alertness and vulnerability. There’s no posed awareness, only instinct — a moment stolen from time.\n\nAround her, commuters blur into silhouettes, the hallway tight and echoing, the walls reflecting harsh fluorescent glare. The composition feels accidental yet perfect: tilted, urgent, intimate.\n\nThe atmosphere is electric and nostalgic, a mix of youth, motion, and fleeting emotion, like a fragment from a fever dream or an afterimage burned into film — not cinematic, but hyper-real, the kind of moment only disposable-camera photography captures: alive, imperfect, and painfully real.
+这是一张模糊的高颗粒快照，拍摄于东京地铁楼梯间，充满了运动、潮湿和原始的城市能量。空气感觉浓重而荧光，头顶的筒灯在画面上投射出冰冷的蓝绿色调。胶片颗粒、色差和镜头畸变增添了一种触觉上的混乱感——仿佛瞬间静止在运行中。\n照片中央，一位身着系带白衬衫和格子短裙的年轻女子正迈着轻快的步伐走下楼梯。她的动作模糊不清，裙摆微微扬起，头发随风飘动。焦点在她和背景之间游移，让这张照片呈现出一种如梦似幻的迷离感，仿佛透过记忆或肾上腺素的刺激而呈现。\n她的表情与整个画面融为一体——双眼睁开，嘴唇微张，脸颊泛红，仿佛介于警觉与脆弱之间。没有故作姿态的警觉，只有本能——一个从时间中偷来的瞬间。\n在她周围，通勤者的身影模糊不清，走廊狭窄而回声不断，墙壁反射着刺眼的荧光灯。这构图看似偶然，却又完美：倾斜、急促、亲密。\n氛围充满活力和怀旧，混合着青春、运动和转瞬即逝的情感，就像发烧梦境中的片段或刻在胶片上的残像——不是电影般的，而是超现实的，只有一次性相机摄影才能捕捉到的那种瞬间：鲜活、不完美、痛苦的真实。
+```
+
+---
+
+### [Flash Photo of Beauty in Izakaya](https://aiart.pics/prompt/flash-photo-of-beauty-in-izakaya)
+
+**Author**: [@cheerselflin](https://x.com/cheerselflin)
+
+**Source**: [X](https://x.com/cheerselflin/status/1979203220061982872)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/flash-photo-of-beauty-in-izakaya.jpeg" width="500" alt="Flash Photo of Beauty in Izakaya">
+
+```
+A flash snapshot taken in a small, crowded Japanese izakaya, filled with handwritten menus, old posters, and wooden textures. The lighting is from a direct on-camera flash, producing bright highlights, harsh shadows, and a slightly grainy texture that enhances the candid feeling.\n\nThe main subject is a young woman sitting on a wooden bar stool, turning her body slightly and looking back over her shoulder toward the camera. She wears a white button-up shirt and a short high-waisted checkered skirt, revealing her legs and adding to the youthful, casual tone of the scene.\n\nHer face is softly lit by the flash — cheeks vividly blushed, red lips glossy, and eyes meeting the lens with a subtle, playful yet intimate expression. The smile is gentle but suggestive, carrying a slight sense of awareness and warmth. Her posture and gaze create a delicate tension between confidence and softness.\n\nThe background is dim and crowded with older patrons in dark clothes, contrasting with her bright presence. The composition is tight and spontaneous, typical of 90s Japanese disposable camera photography — high flash contrast, slight blur, and natural imperfection.\n\nThe overall mood is nostalgic, warm, and faintly ambiguous — capturing a moment that feels real, close, and emotionally charged, like a personal memory illuminated by flash rather than a staged portrait.
+这是一张在狭小拥挤的日式居酒屋里用闪光灯拍摄的照片，屋里摆满了手写菜单、老海报和木质纹理。光线来自机顶闪光灯的直射，营造出明亮的高光、刺眼的阴影和略带颗粒感的纹理，增强了照片的自然感。\n画面主体是一位年轻女子坐在酒吧木凳上，微微侧身，目光越过肩膀，望向镜头。她身穿白色纽扣衬衫和高腰格纹短裙，露出双腿，为画面增添了一抹青春随意的气息。\n闪光灯柔和地照亮了她的脸庞——双颊绯红，红唇闪耀光泽，目光与镜头交汇，眼神微妙、俏皮却又充满亲密感。她的笑容温柔却又充满暗示，透着一丝警觉与温暖。她的姿态和目光在自信与柔和之间营造出一种微妙的张力。\n背景昏暗，挤满了身着深色衣服的老年顾客，与她明亮的身影形成鲜明对比。构图紧凑自然，是90年代日本一次性相机摄影的典型特征——高闪光对比度、轻微的模糊和自然的瑕疵。\n整体氛围怀旧、温暖，略带一丝暧昧——捕捉真实、亲近、充满情感的瞬间，就像闪光灯照亮的个人记忆，而不是摆拍的肖像。
+```
+
+---
+
+### [Beauty in Pleated Mini Skirt](https://aiart.pics/prompt/beauty-in-pleated-mini-skirt)
+
+**Author**: [@cheerselflin](https://x.com/cheerselflin)
+
+**Source**: [X](https://x.com/cheerselflin/status/1979203321262149903)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/beauty-in-pleated-mini-skirt.jpeg" width="500" alt="Beauty in Pleated Mini Skirt">
+
+```
+The image features a subject with long, dark hair, dressed in a short-sleeved, cropped white top and a high-waisted, pleated blue mini skirt that ends well above mid-thigh, fitting snugly to accentuate the figure. The subject is captured in a slightly turned pose, leaning forward with one hand resting on a wall covered in a dense collage of overlapping posters, flyers, and advertisements in various colors such as red, yellow, blue, and white, with text in multiple languages, suggesting an urban or vintage environment. The wall appears worn, with visible creases and minor damage, adding to the nostalgic ambiance. The subject's facial expression, partially visible from a side angle, conveys a subtle mix of curiosity and playfulness. The lighting is dim with a warm tone, casting soft shadows that enhance the mood. The composition employs a low-angle perspective, drawing attention to the subject's lower body and the skirt's height, with a sharp focus on the subject against a slightly blurred background. The overall mood is provocative yet nostalgic, blending modern attire with a retro aesthetic. Technically, the image exhibits a deliberate soft-focus effect, contributing to a hazy, dreamlike quality that softens details and edges. Additionally, noticeable grain and noise texture are present, enhancing the vintage aesthetic and adding a tactile, gritty feel to the photograph. The resolution remains moderate, typical of digital photography, with a slightly desaturated color profile featuring a vintage filter effect. The aspect ratio is vertical, approximately 4:5, supporting the focused framing of the subject.
+照片中的人物留着一头乌黑的长发，身穿白色短袖上衣和高腰蓝色百褶迷你裙，裙摆长及大腿中部，贴身剪裁，凸显身材。人物略微侧身，身体前倾，一只手扶在墙上，墙上贴满了红、黄、蓝、白等各种颜色的海报、传单和广告，并配有多种语言的文字，营造出一种都市或复古的氛围。墙壁显得有些破旧，有明显的折痕和轻微的损坏，更增添了怀旧的氛围。从侧面看，人物的面部表情部分可见，流露出好奇与俏皮的微妙交织。昏暗的灯光搭配温暖的色调，投射出柔和的阴影，增强了氛围。构图采用低角度透视，将注意力吸引到人物的下半身和裙子的高度，并在略微模糊的背景上清晰地聚焦于人物。整体氛围既挑逗又怀旧，将现代服饰与复古美学融为一体。从技术角度来看，这张照片展现出一种刻意的柔焦效果，营造出朦胧梦幻的质感，柔化了细节和边缘。此外，明显的颗粒感和噪点纹理增强了复古美感，为照片增添了质感和粗糙感。分辨率保持中等水平，符合数码摄影的典型特征，略微降低的色彩饱和度，呈现出复古滤镜效果。画面纵横比约为4:5，有利于主体的聚焦构图。
+```
+
+---
+
+## cnyzgkc
+
+### [超精细逼真的美丽女人肖像](https://aiart.pics/prompt/fashion-photography-2)
+
+**Author**: [@cnyzgkc](https://x.com/cnyzgkc)
+
+**Source**: [X](https://x.com/cnyzgkc/status/1980469269134733415)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/fashion-photography-2.jpeg" width="500" alt="超精细逼真的美丽女人肖像">
+
+```
+Ultra-detailed, photorealistic portrait of a beautiful woman, high fashion editorial, deep white plunging V-neck lace sequined evening gown, elegant low bun updo, soft studio lighting, light grey background, dramatic shadowplay, hyperrealistic, 8K
+超精细、逼真的美丽女人肖像，高级时装社论，深白色 V 领蕾丝亮片晚礼服，优雅的低发髻，柔和的工作室灯光，浅灰色背景，戏剧性的光影，超现实主义，8K
+```
+
+---
+
 ## Keskin
 
 ### [Dreamy Style Reference for Fluid Motion](https://aiart.pics/prompt/dreamy-style-reference-for-fluid-motion)
@@ -2985,6 +3171,21 @@ Highly detailed 3D-rendered chibi figurine diorama of [Character A] and [Charact
 ```
 A dreamy style reference, great for fluid motion.
 --sref 275161546 https://t.co/N4ETyT7XtC
+```
+
+---
+
+### [Colorful Fusion: A Perfect Blend of Video Game and Cartoon](https://aiart.pics/prompt/colorful-fusion-a-perfect-blend-of-video-game-and-cartoon)
+
+**Author**: [@Keskin](https://x.com/craftian_keskin)
+
+**Source**: [X](https://x.com/craftian_keskin/status/1976982681016844453)
+
+<img src="https://img1.aiart.pics/images/prompts/20251207/colorful-fusion-a-perfect-blend-of-video-game-and-cartoon-1.jpg" width="500" alt="Colorful Fusion: A Perfect Blend of Video Game and Cartoon">
+
+```
+This is great! Colorful, a part video game, a part cartoon.
+--sref 4239532306 https://t.co/tO6FvoWUkK
 ```
 
 ---
@@ -3755,6 +3956,118 @@ Can you create a PS2 video game case of "Grand Theft Auto: Far Far Away" a GTA b
 
 ---
 
+### [Futuristic Social Interface: Keywords in Comments](https://aiart.pics/prompt/futuristic-social-interface-keywords-in-comments)
+
+**Author**: [@宝玉](https://x.com/dotey)
+
+**Source**: [X](https://x.com/dotey/status/1983941652730278148)
+
+<img src="https://img1.aiart.pics/images/prompts/20251204/futuristic-social-interface-keywords-in-comments-1.jpg" width="500" alt="Futuristic Social Interface: Keywords in Comments">
+
+```
+未来风社交界面，提示词见评论 https://t.co/MVNf0WM7pu
+```
+
+---
+
+### [Nano Banana Prompt: Mirror Selfie, Otaku Computer Corner in Blue Tone](https://aiart.pics/prompt/nano-banana-prompt-mirror-selfie-blue-tone-otaku-computer-corner)
+
+**Author**: [@宝玉](https://x.com/dotey)
+
+**Source**: [X](https://x.com/dotey/status/1976485558319722711)
+
+<img src="https://img1.aiart.pics/images/prompts/20251203/nano-banana-prompt-mirror-selfie-blue-tone-otaku-computer-corner-1.jpg" width="500" alt="Nano Banana Prompt: Mirror Selfie, Otaku Computer Corner in Blue Tone">
+
+```
+Nano banana 提示词（原推JSON版转Markdown中文版，效果一样）
+### **场景**
+镜子自拍，御宅族电脑角落，蓝色调
+---
+### **主体**
+* **性别表现**: 女性
+* **年龄段**: 25岁左右
+* **种族**: 东亚
+* **身材**: 苗条，腰线分明；身材比例自然
+* **肤色**: 浅中性色调
+* **发型**:
+* **长度**: 及腰长发
+* **样式**: 直发，发尾微卷
+* **颜色**: 中等棕色
+* **姿势**:
+* **站姿**: 站立，轻微的对立式平衡站姿（contrapposto）
+* **右手**: 手持手机挡住脸（身份被遮挡）
+* **左臂**: 在躯干旁自然下垂
+* **躯干**: 身体轻微后仰；露出腰腹
+* **着装**:
+* **上衣**: 浅蓝色短款针织开衫，扣上前两颗纽扣；隐约可见蓝色法式内衣
+* **下装**: 牛仔超短裤，两侧臀部各有一个蓝色缎带蝴蝶结
+* **袜子**: 蓝白横条纹过膝长袜
+* **配饰**: 蓝色可爱吉祥物手机壳
+---
+### **环境**
+* **描述**: 从挂墙镜中看到的卧室电脑角落
+* **陈设**:
+* 白色书桌
+* 单显示器，显示着柔和的蓝色壁纸（没有可读的文字）
+* 机械键盘，白色键帽，放在蓝色桌垫上
+* 鼠标，放在小号蓝色鼠标垫上
+* PC主机在右侧，带有蓝色机箱灯效
+* PC主机上或附近有三个动漫手办
+* 墙上贴着一张佛塔海报
+* 猫形台灯，带有蓝色点缀
+* 一杯透明的玻璃水杯
+* 窗边（镜头左侧）有一株高大的绿叶植物
+* **颜色替换**: 将所有原先的粉色元素（衣物和房间）替换为蓝色（婴儿蓝 -> 天空蓝/长春花蓝）。
+---
+### **灯光**
+* **光源**: 来自镜头左侧大窗户的日光，透过薄纱窗帘
+* **光线质感**: 柔和的漫射光
+* **白平衡 (K)**: 5200
+---
+### **相机**
+* **模式**: 智能手机后置摄像头通过镜子拍摄（无肖像/虚化模式）
+* **等效焦距 (mm)**: 26
+* **距离 (米)**:
+* 主体到镜子: 0.6
+* 相机到镜子: 0.5
+* **曝光**:
+* 光圈 (f): 1.8
+* 感光度 (ISO): 100
+* 快门速度 (秒): 0.01
+* 曝光补偿 (EV): -0.3
+* **对焦**: 对焦于镜中影像的躯干和短裤
+* **景深**: 自然的智能手机景深（深景深）；背景清晰可辨，无人为模糊
+* **构图**:
+* **宽高比**: 1:1
+* **裁剪**: 从头顶到大腿中部；画面包含书桌、显示器、PC主机和植物
+* **角度**: 从镜子的视角轻微俯拍
+* **构图备注**: 保持主体居中；为避免广角边缘拉伸，可以站远一些再进行方形裁剪
+---
+### **负面提示词**
+* 任何地方出现粉色/品红色
+* 美颜滤镜/磨皮皮肤；没有毛孔的外观
+* 夸张或扭曲的人体结构
+* NSFW，透视面料，走光
+* 商标，品牌名，可读的用户界面文本
+* 虚假的人像模式模糊，CGI/插画感
+```
+
+---
+
+### [Studio Photo Style](https://aiart.pics/prompt/studio-photo-style)
+
+**Author**: [@宝玉](https://x.com/dotey)
+
+**Source**: [X](https://x.com/dotey/status/1977424494693151186)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/studio-photo-style.jpeg" width="500" alt="Studio Photo Style">
+
+```
+参考图1的面部特征，生成全身工作室肖像：一位英俊的年轻东亚女性坐在浅紫色背景前的地板上，穿着舒适的超大号薰衣草色粗针织毛衣、白色裙子和白色袜子，深情地抱着一个大型三丽鸥库洛米毛绒玩具，温柔地看着镜头。背景装饰有俏皮的手绘紫色涂鸦和文字，包括"A"、"ANNISA"、纸飞机和花朵，风格类似K-pop照片卡或粉丝杂志封面。光线明亮柔和，营造可爱温馨的氛围。
+```
+
+---
+
 ### [Dramatic Exaggerated Character Style](https://aiart.pics/prompt/dramatic-exaggerated-character-style)
 
 **Author**: [@宝玉](https://x.com/dotey)
@@ -3770,6 +4083,21 @@ A high-resolution vertical Pixar-style 3D character illustration.\n\nMain charac
 ---
 
 ## ecommartinez
+
+### [Photo with Sonic and Mario](https://aiart.pics/prompt/photo-with-sonic-and-mario)
+
+**Author**: [@ecommartinez](https://x.com/ecommartinez)
+
+**Source**: [X](https://x.com/ecommartinez/status/1983892304621662607)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/photo-with-sonic-and-mario.jpeg" width="500" alt="Photo with Sonic and Mario">
+
+```
+Selfie ultra-realista en formato vertical 9:16 con lente ojo de pez de mí junto a (Sonic y Mario). Ambientado en una sala de estar pequeña y luminosa con tonos blancos. Ángulo de cámara alto. Distorsión extrema de ojo de pez. Iluminación realista y cinematográfica. Personajes de anime integrados con realismo estilizado.
+一张超逼真的9:16竖屏自拍，使用鱼眼镜头拍摄，照片中我和索尼克、马里奥在一起。场景设定在一个明亮的小客厅，以白色为主色调。高角度拍摄。极致的鱼眼畸变。逼真的电影级光影效果。动漫人物与风格化的写实主义完美融合。
+```
+
+---
 
 ### [Handmade Yarn Texture](https://aiart.pics/prompt/handmade-yarn-texture)
 
@@ -4171,6 +4499,113 @@ Front, Rear, Left, Right, Top, Bottom views on white. Evenly spaced. Consistent 
 
 ```
 trying to get odeo thoughts down
+```
+
+---
+
+## eyishazyer
+
+### [Wearing Newsboy Cap and Black Vest](https://aiart.pics/prompt/wearing-newsboy-cap-and-black-vest)
+
+**Author**: [@eyishazyer](https://x.com/eyishazyer)
+
+**Source**: [X](https://x.com/eyishazyer/status/1982402164212597061)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/wearing-newsboy-cap-and-black-vest.jpeg" width="500" alt="Wearing Newsboy Cap and Black Vest">
+
+```
+Use 100% face above uploaded photo.\nA hyper-realistic, cinematic medium shot of a handsome man in his late 20s with black hair and black beard like uploaded photo, styled in the fashion of the 1920s. He wears a grey tweed newsboy cap, a black waistcoat over a crisp white shirt, a slim black tie, and black leather gloves. A heavy wool overcoat is draped over his shoulder.\nHe leans against a weathered brick wall in a narrow, atmospheric alleyway, looking upwards with a cool, contemplative expression through his round sunglasses. The lighting is moody and dramatic, with cool tones and soft shadows creating a sense of depth and mystery. The photograph is ultra-detailed with sharp focus and a shallow depth of field.
+使用上传的 100% 面部照片。\n这张超现实主义的电影中景镜头展现了一位英俊的二十多岁男子，他有着上传照片般的黑发和黑胡须，一身20世纪20年代的时尚风格。他头戴灰色粗花呢报童帽，身穿黑色马甲，内搭清爽的白衬衫，系着一条纤细的黑色领带，戴着黑色皮手套。肩上披着一件厚重的羊毛大衣。\n他倚靠在一条狭窄而充满情调的小巷里，倚靠着一堵饱经风霜的砖墙，透过圆形墨镜，目光冷峻而沉思。灯光充满情调，充满戏剧性，冷色调和柔和的阴影营造出一种纵深感和神秘感。这张照片细节丰富，对焦清晰，景深浅。
+```
+
+---
+
+### [Highest Resolution Photo of Elegant Pose](https://aiart.pics/prompt/highest-resolution-photo-of-elegant-pose)
+
+**Author**: [@eyishazyer](https://x.com/eyishazyer)
+
+**Source**: [X](https://x.com/eyishazyer/status/1982402158176972945)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/highest-resolution-photo-of-elegant-pose.jpeg" width="500" alt="Highest Resolution Photo of Elegant Pose">
+
+```
+Create the highest-resolution picture of me posing elegantly with my back slightly turned and my head looking over the shoulder towards the camera. I am wearing a sleek, form-fitting strapless black evening gown, paired with long, elegant black velvet opera gloves. My hair is styled in loose, glossy waves cascading naturally over my shoulder.\nI wear small, subtle earrings and a delicate bracelet on one wrist. My expression is confident, graceful, and alluring. The background is a plain stucco gray with soft gradient lighting, giving it a high-fashion photography look. The lighting is dramatic but soft, highlighting the contours of my body and face with realistic shadows and textures.\nThe image should look like a high-quality, ultra-realistic fashion magazine photo, keeping my real face exactly as shown in the reference photo.
+请拍一张我优雅姿势的最高分辨率照片，我的背影微微转过，头越过肩膀，望向镜头。我身着一件光滑修身的黑色露肩晚礼服，搭配一副优雅的黑色天鹅绒长款歌剧手套。我的头发是蓬松的、光泽的波浪，自然地披散在肩上。”\n我戴着小巧精致的耳环，一只手腕上戴着精致的手镯。我的表情自信、优雅、迷人。背景是朴素的灰泥灰，柔和的渐变灯光营造出高级时尚的摄影效果。灯光既戏剧化又柔和，用逼真的阴影和纹理凸显了我的身体和面部轮廓。\n该图像应该看起来像一张高质量、超逼真的时尚杂志照片，保留我的真实面容，与参考照片中显示的完全一样。
+```
+
+---
+
+### [Sitting on Modern Subway Bench](https://aiart.pics/prompt/sitting-on-modern-subway-bench)
+
+**Author**: [@eyishazyer](https://x.com/eyishazyer)
+
+**Source**: [X](https://x.com/eyishazyer/status/1982402145535373486)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/sitting-on-modern-subway-bench.jpeg" width="500" alt="Sitting on Modern Subway Bench">
+
+```
+Reference image: uploaded photo\nFace: keep the same face from the reference photo, calm and composed expression, eyes slightly hidden behind dark sunglasses. Preserve realistic proportions and lighting.\nPose: seated pose on a modern subway bench, one arm resting on the leg, the other hanging down loosely. The body leans slightly forward with casual confidence, one shoulder lowered. Clothes: oversized houndstooth-patterned jacket over black turtleneck, wide dark jeans, chunky lace-up boots. Accessories: narrow black sunglasses, subtle rings, crossbody strap barely visible.\nBackground: minimalistic urban metro interior with grey concrete walls, metallic accents, and modern geometric design. Lighting: diffused artificial indoor light, soft shadows, neutral color balance emphasizing grayscale tones. Atmosphere: moody street editorial — quiet confidence, understated power, cinematic stillness.\nFormat: 2:3 Do not replace face; keep the same person with realistic proportions and lighting accuracy.
+参考图片：上传的照片\n脸部：保持参考照片中的脸部，表情沉稳冷静，眼睛略微隐藏在墨镜后。保持真实的比例和光线。\n姿势：坐在现代地铁长椅上，一只手臂搭在腿上，另一只手臂自然垂下。身体略微前倾，自信而随意，一侧肩膀下垂。服装：超大千鸟格纹夹克，内搭黑色高领毛衣，深色宽腿牛仔裤，系带厚底靴。配饰：黑色窄款墨镜，精致戒指，斜挎包带若隐若现。\n背景：极简主义的都市地铁内部，灰色混凝土墙面，金属元素点缀，以及现代几何设计。灯光：漫射的室内人造光，柔和的阴影，强调灰阶色调的中性色彩平衡。氛围：忧郁的街头风格——沉静自信，低调的力量，电影般的静谧。\n格式：2：3 不要替换面部；保持同一个人具有真实的比例和灯光准确性。
+```
+
+---
+
+### [Sitting on Giant Smooth White Rock Formation](https://aiart.pics/prompt/sitting-on-giant-smooth-white-rock-formation)
+
+**Author**: [@eyishazyer](https://x.com/eyishazyer)
+
+**Source**: [X](https://x.com/eyishazyer/status/1982402132834767195)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/sitting-on-giant-smooth-white-rock-formation.jpeg" width="500" alt="Sitting on Giant Smooth White Rock Formation">
+
+```
+A hyper-realistic portrait of a young man sitting on large, smooth white rocky formations under natural sunlight. He is wearing a loose, slightly crumpled beige linen shirt with the top buttons open, paired with white trousers. His outfit gives a relaxed, Mediterranean vibe.\nHe is leaning back, one arm resting on the rock, and the other hand on his knee, looking slightly to the side. He wears slim black rectangular sunglasses. His hairstyle is short, slightly messy, and the sunlight casts soft shadows across his outfit and the textured rocks.\nThe overall atmosphere is calm, stylish, and Mediterranean-inspired. The face should match exactly with the reference photo.
+这幅超现实主义肖像画描绘了一位年轻男子坐在巨大光滑的白色岩层上，沐浴在自然阳光下。他身穿宽松略带褶皱的米色亚麻衬衫，最上面的纽扣敞开着，搭配白色长裤。他的装扮散发着轻松的地中海风情。\n他向后仰着身子，一只手扶着岩石，另一只手放在膝盖上，目光略微侧向一侧。他戴着一副细长的黑色矩形墨镜。他的发型短而略显凌乱，阳光在他的衣服和纹理分明的岩石上投下柔和的阴影。\n整体氛围平静、时尚，充满地中海风情。脸部应该与参考照片完全匹配。
+```
+
+---
+
+### [Exquisite Character Metal Coin](https://aiart.pics/prompt/exquisite-character-metal-coin)
+
+**Author**: [@eyishazyer](https://x.com/eyishazyer)
+
+**Source**: [X](https://x.com/eyishazyer/status/1982402126845247707)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/exquisite-character-metal-coin.jpeg" width="500" alt="Exquisite Character Metal Coin">
+
+```
+A detailed metallic coin featuring\nPerson's face attached in the image ( Do not change facial features of the person from the uploaded photo. Keep face of person 100% accurate from the reference image. Keep the original face of the attached person unchanged and realistic)  embossed in profile, crafted with realistic engraved textures and fine relief detailing. The coin surface shows light reflections, scratches, and metallic sheen. Include subtle inscriptions or symbols around the border to resemble authentic minting. Centered on a dark, minimal background to emphasize the coin’s texture and realism
+一枚精致的金属硬币，图像中人物的面部特征（请勿更改上传照片中人物的面部特征。保持人物面部与参考图像 100% 准确。保持附加人物的原始面部特征不变且逼真）采用侧面浮雕，并采用逼真的雕刻纹理和精细的浮雕细节。硬币表面呈现光反射、划痕和金属光泽。在边缘处添加细微的铭文或符号，以模拟真实的铸币。硬币以深色、极简的背景为中心，以突出硬币的纹理和真实感
+```
+
+---
+
+### [Sitting Next to a Giant Fluffy Cute Cartoon Monster](https://aiart.pics/prompt/sitting-next-to-a-giant-fluffy-cute-cartoon-monster)
+
+**Author**: [@eyishazyer](https://x.com/eyishazyer)
+
+**Source**: [X](https://x.com/eyishazyer/status/1982402120658948406)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/sitting-next-to-a-giant-fluffy-cute-cartoon-monster.jpeg" width="500" alt="Sitting Next to a Giant Fluffy Cute Cartoon Monster">
+
+```
+make me sit next to a giant fluffy cute cartoon monster. I am real realistic but monster is 3d cartoon. It’s hugging me and cute. Big eyes  we are in house on bed
+让我坐在一个毛茸茸的巨型可爱卡通怪物旁边。我真的很逼真，但怪物是3D卡通的。它抱着我，很可爱。大眼睛，我们在屋里的床上。
+```
+
+---
+
+### [Portrait Wearing Loose White Shirt](https://aiart.pics/prompt/portrait-wearing-loose-white-shirt)
+
+**Author**: [@eyishazyer](https://x.com/eyishazyer)
+
+**Source**: [X](https://x.com/eyishazyer/status/1982402114413596850)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/portrait-wearing-loose-white-shirt.jpeg" width="500" alt="Portrait Wearing Loose White Shirt">
+
+```
+Create a black and white high-fashion editorial portrait of me, keeping my real face exactly as in the reference photo (no edits, same features, no retouching). I am wearing a loose white blouse. My pose is bold and expressive, with one arm raised to hold my hair up, partially covering my face. My gaze is intense and directed at the camera, creating a strong and enigmatic aura. The background is a plain minimalist wall with sharp natural daylight casting defined shadows, adding depth and contrast.\nLighting is harsh and high-contrast, highlighting my facial contours, sharp cheekbones, and the texture of the hair and fabric. The style should feel raw, dramatic, and artistic.\nThe overall image is high-fashion editorial in monochrome, cinematic, and striking.
+为我创作一幅黑白高级时尚编辑肖像，保留我的真实面容，与参考照片完全一致（未进行任何编辑，五官相同，未进行任何修饰）。我身穿一件宽松的白色衬衫。我的姿势大胆而富有表现力，一只手抬起，将头发拢起，遮住了部分脸部。我的目光专注地直视镜头，营造出一种强烈而神秘的氛围。背景是一面简洁的墙面，明亮的自然光投射出清晰的阴影，增添了画面的深度和对比度。\n光线强烈，对比度高，凸显了我的面部轮廓、棱角分明的颧骨，以及头发和布料的质感。风格应该给人一种原始、戏剧化、艺术感十足的感觉。\n整体形象是单色的、电影化的、引人注目的高级时尚社论。
 ```
 
 ---
@@ -5062,6 +5497,62 @@ Retexture this image in the following JSON style aesthetic:\n{\n  "styleAestheti
 
 ---
 
+### [Studio Portrait of Woman Sitting on Chair](https://aiart.pics/prompt/studio-portrait-of-woman-sitting-on-chair)
+
+**Author**: [@hellokaton](https://x.com/hellokaton)
+
+**Source**: [X](https://x.com/hellokaton/status/1980121888853819768)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/studio-portrait-of-woman-sitting-on-chair.jpeg" width="500" alt="Studio Portrait of Woman Sitting on Chair">
+
+```
+请在影楼里拍摄一张照片，照片中使用所附照片中的女性面孔。\n拍摄角度为正面，白色影楼背景，女性坐在椅子上。\n她身穿全套白色服装：白色西装外套、白色裙子和白色高跟鞋。\n姿势优雅，手托下巴，手里拿着一小枝白色玫瑰。\n影楼墙壁上投射着柔和的夕阳窗户光线。
+```
+
+---
+
+### [Fashion Cinematic Portrait of Young Woman](https://aiart.pics/prompt/fashion-cinematic-portrait-of-young-woman)
+
+**Author**: [@hellokaton](https://x.com/hellokaton)
+
+**Source**: [X](https://x.com/hellokaton/status/1980121876996465085)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/fashion-cinematic-portrait-of-young-woman.jpeg" width="500" alt="Fashion Cinematic Portrait of Young Woman">
+
+```
+一位年轻女性的时尚、电影肖像，她坐在一张现代椅子上，在室内。她以 3/4 视角构图，身体微微向后倾斜，一只手臂随意地搭在椅子上，散发出平静而自信的氛围。这位女士拥有一张瓜子脸，线条分明的下颌，发型与参考图片完全一致。她穿着一套时尚的全黑服装，包括深色高领毛衣和结构感强的西装外套，展现出高端时尚的编辑造型。\n背景是一堵光滑的深色墙壁，窗户投射出引人注目的几何光影图案，散发出柔和的粉紫色光芒，与阴影形成鲜明对比。彩色的光线落在墙壁上，并 subtly 照亮她的头发和肩膀边缘，增强了戏剧性的氛围。整体照明 moody 而艺术，具有柔和的阴影和电影般的对比度。色彩分级强调深黑色、柔和的肤色和鲜艳的粉色高光，营造出杂志封面般的审美效果。\n主体略微偏离中心。最终图像中不应出现任何文字、徽标或水印。
+```
+
+---
+
+### [Cinematic Profile Portrait of Young Woman](https://aiart.pics/prompt/cinematic-profile-portrait-of-young-woman)
+
+**Author**: [@hellokaton](https://x.com/hellokaton)
+
+**Source**: [X](https://x.com/hellokaton/status/1980121865248297389)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/cinematic-profile-portrait-of-young-woman.jpeg" width="500" alt="Cinematic Profile Portrait of Young Woman">
+
+```
+一张富有电影感的年轻女子侧脸肖像，她仰着头，闭着眼睛，沐浴在戏剧性的光线中。\n她站在深蓝色的背景前，穿着一件黑色西装外套。一束暖色聚光灯从右上角照下，在她的脸部和颈部投下橙色的光晕，在冷蓝色的阴影和温暖的高光之间形成了强烈的对比。\n整个构图强调情绪和氛围，拥有干净的影棚灯光、柔和的渐变和极简主义的氛围。图像应具有艺术感、现代感和强烈的视觉冲击力，类似于高端杂志的编辑摄影风格。\n相机角度： 侧面拍摄，微仰角\n光线： 戏剧性的影棚布光，强对比度，蓝色背光 + 暖色聚光灯\n镜头： 85毫米人像镜头，浅景深\n氛围： 情绪化，电影感，极简主义
+```
+
+---
+
+### [Dramatic Black and White Studio Portrait](https://aiart.pics/prompt/dramatic-black-and-white-studio-portrait)
+
+**Author**: [@hellokaton](https://x.com/hellokaton)
+
+**Source**: [X](https://x.com/hellokaton/status/1980121853474791580)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/dramatic-black-and-white-studio-portrait.jpeg" width="500" alt="Dramatic Black and White Studio Portrait">
+
+```
+一张戏剧性的黑白工作室肖像照。主体背对镜头站立，上半身轻微转向侧面，头微微低下，脸部侧面轮廓部分可见。表情平静而内省，营造出一种安静、神秘的氛围。\n\n灯光：一盏强烈的侧光，投下鲜明的对比。一束干净的水平光束横切过背景墙。画面大部分处于阴影之中，着重强调剪影和轮廓。\n氛围：极简主义，情绪化，电影感，唤起优雅与孤独感。主体身穿深色夹克，与阴影融为一体，呈现出流畅利落的时尚杂志风格。\n构图：使用全画幅相机拍摄，85mm镜头，f/1.8大光圈营造浅景深效果，ISO 200，快门速度1/125秒。中景构图（从腰部到头部），突出剪影、侧脸和姿态。\n后期：高对比度的黑白效果，柔和的色调渐变，深邃的阴影，添加轻微的胶片颗粒以增加质感，最终呈现精致的艺术杂志风格。
+```
+
+---
+
 ## Hewar
 
 ### [GPT-4o + KlingAI 3D Logos Going Viral](https://aiart.pics/prompt/gpt-4o-klingai-3d-logos-going-viral)
@@ -5180,6 +5671,81 @@ Prompt in thread 🧵
 
 ## Emily
 
+### [Giant Vortex Breaking Through Storm Clouds Over City](https://aiart.pics/prompt/giant-vortex-breaking-through-storm-clouds-over-city)
+
+**Author**: [@Emily](https://x.com/IamEmily2050)
+
+**Source**: [X](https://x.com/IamEmily2050/status/1979571282732777698)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/giant-vortex-breaking-through-storm-clouds-over-city.jpeg" width="500" alt="Giant Vortex Breaking Through Storm Clouds Over City">
+
+```
+A massive spiral vortex tears through storm clouds above a futuristic illuminated city, revealing blue sky beyond a visual metaphor for artificial general intelligence breaking through the turbulence of current limitations to reach clarity beyond human comprehension.
+在一座灯火璀璨的未来都市上空，巨大的螺旋状涡旋冲破暴风云层，显露出后方的蓝天 —— 这一视觉隐喻象征着通用人工智能突破当前局限的重重阻碍，抵达人类难以理解的清晰境界。
+```
+
+---
+
+### [Full Body Realistic Fashion Portrait](https://aiart.pics/prompt/full-body-realistic-fashion-portrait)
+
+**Author**: [@Emily](https://x.com/IamEmily2050)
+
+**Source**: [X](https://x.com/IamEmily2050/status/1983742027058835543)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/full-body-realistic-fashion-portrait.jpeg" width="500" alt="Full Body Realistic Fashion Portrait">
+
+```json
+{\n  "instruction": "Generate a full-body, photorealistic fashion portrait of a modern East Asian idol in all-black styling. The result must look like a professional test shot, not anime, not cosplay, not fantasy.",\n\n "subject": {\n    "identity": "East Asian female idol, early 20s look, pale smooth skin, symmetrical features, refined jawline, large natural eyes, soft neutral lips.",\n    "hair": {\n      "color": "jet-black",\n      "style": "straight with blunt bangs framing the eyes",\n      "length": "long, falling past the chest",\n      "optional_variants": [\n        "clean straight hair down",\n        "twin high ponytails with bangs and loose face-framing strands"\n      ]\n    },\n    "body": {\n      "build": "slender, long-legged, elegant proportions, model-like lines",\n      "posture": "calm, confident, controlled posture, standing tall",\n      "pose": "full-body standing pose, relaxed arms at sides or slight hip angle, natural stance, no exaggerated arching"\n    }\n  },\n\n  "wardrobe": {\n    "palette": "all black, monochrome styling",\n    "look_variants": [\n      {\n        "description": "long-sleeve fitted black top with structured waist (corset-like shaping), short pleated mini skirt with belt hardware, over-the-knee black lace-up boots with platform heel, subtle layered silver jewelry"\n      },\n      {\n        "description": "black cropped top, exposed midriff, slim black jeans, fitted choker stack and pendant necklace, matte black boots"\n      }\n    ],\n    "note": "Outfit must read as high-fashion / street idol aesthetic, not fantasy costume, not sci-fi armor, not latex fetishwear."\n  },\n\n  "camera": {\n    "framing": "full-body portrait from head to shoes, vertical composition, subject centered and filling most of the frame",\n    "angle": "slightly low to mid-torso camera height for subtle leg lengthening OR neutral eye-level framing against a doorway",\n    "lens_behavior": "clean realistic perspective, no wide distortion, no fisheye",\n    "focus": "sharp focus across the subject from face to boots, depth of field appropriate for fashion photography"\n  },\n\n  "environment": {\n    "style_options": [\n      "industrial interior with worn tile floor and large window frame / metal framing in the background, muted gray tones",\n      "neutral architectural doorway outdoors, pale stone or painted door, soft natural light"\n    ],\n    "lighting": "soft, diffused, natural-feeling light with gentle directional falloff. Skin should look smooth and real, not plastic. No neon rim light, no colored gels."\n  },\n\n  "aesthetic": {\n    "tone": "clean Korean idol / street editorial test shot",\n    "color_grade": "subtle cool neutrals in the background, deep matte blacks in wardrobe, natural skin tones",\n    "finish": "high-end fashion photography, not fantasy art, not anime render, not glossy VR avatar"\n  },\n\n  "technical_rendering": {\n    "intent": "photorealistic human subject",\n    "keywords": [\n      "cinematic portrait photography",\n      "studio-quality fashion still",\n      "PBR material realism on fabric texture (matte black cloth, leather belt, lace-up boots)",\n      "no exaggerated body morph",\n      "no plastic skin",\n      "no cel-shaded look"\n    ]\n  },\n\n  "negative": {\n    "forbidden_styles": [\n      "anime style",\n      "cartoon style",\n      "3D game character",\n      "virtual idol hologram look",\n      "cyberpunk fantasy costume",\n      "latex catsuit aesthetic",\n      "sci-fi armor",\n      "bright colored hair",\n      "oversized eyes / doll face",\n      "hyper-airbrushed Barbie texture",\n      "warped body proportions",\n      "fish-eye distortion",\n      "text overlays or watermarks"\n    ],\n    "forbidden_words": [\n      "NSFW pose",\n      "explicit lingerie framing",\n      "cutesy cosplay expression",\n      "aggressive pin-up arching"\n    ]\n}
+{\n“说明”：“请创作一张现代东亚偶像全身写实时尚肖像照，造型为全黑。作品必须看起来像专业试镜照，而非动漫、角色扮演或奇幻风格。”\n\n“主题”： {\n“身份”：“东亚女偶像，二十出头的外貌，白皙光滑的皮肤，五官对称，下颌线条精致，大而自然的眼睛，柔和的裸色嘴唇。”\n“头发”： {\n颜色： 纯黑色，\n“发型”：“齐刘海修饰眼睛的直发”，\n长度：很长，垂过胸部，\n"optional_variants": [\n“干净利落的直发向下”，\n“双高马尾辫，配刘海和垂在脸颊两侧的碎发”\n]\n}，\n“身体”： {\n“体型”：“纤细、修长、比例优雅、线条优美”，\n“姿势”：“冷静、自信、控制的姿势，挺拔的站姿”\n“姿势”：“全身站立姿势，双臂放松地放在身体两侧或髋部略微弯曲，站姿自然，不要过度拱背”\n}\n}，\n\n“衣柜”： {\n“调色板”：“全黑单色风格”，\n"look_variants": [\n{\n“描述”：黑色长袖修身上衣，腰部收紧（类似束身衣的塑形效果），短款百褶迷你裙，配有腰带，黑色过膝系带厚底靴，精致的叠戴银色首饰。\n}，\n{\n描述：黑色露脐上衣，露出小蛮腰，黑色修身牛仔裤，贴身颈链叠戴吊坠项链，哑光黑色靴子\n}\n]，\n“注意”：“服装必须体现高级时装/街头偶像美学，而不是奇幻服装、科幻盔甲或乳胶恋物癖服装。”\n}，\n\n“相机”： {\n“构图”：“从头到脚的全身像，竖构图，主体居中并占据画面的大部分”，\n“角度”：“略低于躯干中部的相机高度，以微妙地拉长腿部，或者以中性的视线高度靠在门口构图”，\n"lens_behavior": "清晰逼真的透视效果，无严重畸变，无鱼眼效果"\n“焦点”： “从脸部到靴子，主体清晰对焦，景深适合时尚摄影”\n}，\n\n“环境”： {\n"style_options": [\n“工业风格的室内装潢，地面铺着磨损的瓷砖，背景是大型窗框/金属框架，整体色调为柔和的灰色。”\n“中性色调的建筑风格户外入口，浅色石材或油漆门，柔和的自然光线”\n]，\n“照明”：“柔和、漫射、感觉自然的光线，光线方向性衰减要柔和。皮肤应该看起来光滑真实，而不是塑料感。不要使用霓虹灯轮廓光，也不要使用彩色滤光片。”\n}，\n\n“审美的”： {\n"色调": "干净的韩国偶像/街头时尚大片试拍",\n"color_grade": "背景采用柔和的冷色调中性色，服装采用深哑光黑色，肤色自然",\n“成品”：高端时尚摄影，而非奇幻艺术、动漫渲染或华丽的VR虚拟形象。\n}，\n\n“technical_rendering”：{\n“意图”: “逼真的人物主体”，\n“关键词”：[\n“电影式人像摄影”，\n“摄影棚品质的时尚剧照”，\n“织物纹理上的 PBR 材质真实感（哑光黑布、皮带、系带靴）”\n“没有夸张的体型变化”，\n“没有塑料皮肤”，\n“没有卡通渲染风格”\n]\n}，\n\n“消极的”： {\n"forbidden_​​styles": [\n“动漫风格”，\n“卡通风格”，\n“3D游戏角色”，\n“虚拟偶像全息影像”\n“赛博朋克奇幻服装”，\n“乳胶紧身衣美学”，\n“科幻盔甲”，\n“色彩鲜艳的头发”，\n“大眼睛/娃娃脸”，\n“过度修饰的芭比娃娃质感”，\n“扭曲的体型比例”，\n“鱼眼畸变”，\n“文字叠加或水印”\n]，\n"forbidden_​​words": [\n“NSFW姿势”，\n“露骨的内衣镜头”，\n“可爱的角色扮演表情”，\n“激进的性感拱背”\n]\n}
+```
+
+---
+
+### [Capture Stylish Bathroom Dressing Area Through Mirror](https://aiart.pics/prompt/capture-stylish-bathroom-dressing-area-through-mirror)
+
+**Author**: [@Emily](https://x.com/IamEmily2050)
+
+**Source**: [X](https://x.com/IamEmily2050/status/1982643287745032379)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/capture-stylish-bathroom-dressing-area-through-mirror.jpeg" width="500" alt="Capture Stylish Bathroom Dressing Area Through Mirror">
+
+```json
+{\n  "scene": {\n    "description": "Stylish restroom dressing area captured via mirror.",\n    "environment": "Warm wood-laminate stall doors and soft countertop reflections.",\n    "mood": "Shy-playful confidence; cozy \'Gamseong\' (감성) aesthetic."\n  },\n  "aesthetic": {\n    "style": "Authentic smartphone mirror selfie.",\n    "look": "Warm interior color, gentle roll-off; minimal grain; filmic soft contrast."\n  },\n  "lighting": {\n    "description": "Ceiling LEDs providing warm ambience; add subtle front fill from mirror to open eye sockets; maintain realistic specular highlights."\n  },\n  "subject": {\n    "demographics": {\n      "ethnicity": "East Asian (Korean)",\n      "age": "adult",\n      "build": "Very slender, petite with defined waist."\n    },\n    "appearance": {\n      "hair": "Messy top-bun with full fringe; a few loose side strands.",\n      "skin": "Natural, dewy finish with preserved skin texture."\n    },\n    "pose": {\n      "type": "Mirror selfie, standing.",\n      "action": "Gentle smile with lips slightly pressed; left hand lightly lifting ruched hem; right hand holding phone.",\n      "framing": "Waist-up 3:4 vertical; slight downward camera angle; midriff visible."\n    },\n    "wardrobe": {\n      "top": "Asymmetrical olive-gray ruched one-shoulder top.",\n      "bottom": "Low-rise jeans with faux-fur waistband trim."\n    },\n    "accessories": {\n      "jewelry": "Thin bracelets, rings, and delicate hoop earrings.",\n      "phone": "Smartphone with black cat case featuring a pink bow (Hello-Kitty style)."\n    }\n  },\n  "props_in_scene": {\n    "background": "Wood-grain stall doors with verticals kept true; metal hinges subtly visible.",\n    "counter": "Keep any edge reflections soft and realistic."\n  },\n  "camera_technical": {\n    "requirements": "Correct mirror reversal; maintain natural body proportions; no duplicated phones/hands.",\n    "capture": "Smartphone wide lens ~24–26mm equiv, f/1.8 look, ISO ~250, 1/125s, WB 4200–4400K.",\n    "composition": "Subject centered with slight lean; keep fur texture readable; ensure phone and hand pose feel natural.",\n    "retouching": "Clean minor blemishes only; preserve fabric micro-wrinkles and fur fibers; avoid haloing.",\n    "avoid": "Warped doors, heavy vignettes, oversharpening, cartoon smoothing, text/watermarks."\n  }\n}
+{\n“场景”： {\n"description": "通过镜子捕捉时尚的卫生间更衣区。",\n"environment": "温暖的木质层压隔间门和柔和的台面反射。",\n"mood": "害羞而又充满自信；舒适的‘Gamseong’（감성）美学。"\n}，\n“审美的”： {\n"style": "正宗的智能手机镜面自拍。",\n“外观”：“温暖的内部色彩，柔和的滚动；最小的颗粒感；胶片般的柔和对比。”\n}，\n“灯光”： {\n“description”：“天花板 LED 营造温暖的氛围；从镜子添加微妙的前部补光以打开眼窝；保持逼真​​的镜面高光。”\n}，\n“主题”： {\n“人口统计”：{\n"ethnicity": "东亚（韩国）",\n"年龄": "成人",\n“身材”：“非常苗条，娇小，腰部清晰。”\n}，\n“外貌”： {\n"hair": "凌乱的发髻，刘海丰满；侧边有几缕散落的头发。",\n"skin": "自然、水润的妆容，保留肌肤纹理。"\n}，\n“姿势”：{\n"type": "镜子自拍，站立。",\n"action": "温柔一笑，嘴唇微闭；左手轻轻提起褶边；右手握住手机。",\n"framing": "腰部以上 3:4 垂直；略微向下的摄像机角度；可见腹部。"\n}，\n“衣柜”： {\n"top": "不对称橄榄灰色褶饰单肩上衣。",\n"bottom": "低腰牛仔裤，腰带饰有人造毛皮。"\n}，\n“配件”： {\n"jewelry": "细手镯、戒指和精致的环形耳环。",\n"phone": "带有黑色猫咪外壳和粉色蝴蝶结的智能手机（Hello-Kitty 风格）。"\n}\n}，\n“场景中的道具”：{\n"background": "木纹隔间门保持垂直；金属铰链隐约可见。",\n"counter": "保持任何边缘反射柔和而逼真。"\n}，\n“相机技术”：{\n"requirements": "正确的镜像反转；保持自然的身体比例；没有重复的手机/手。",\n"capture": "智能手机广角镜头~24–26mm 等效，f/1.8 外观，ISO ~250, 1/125s，白平衡 4200–4400K。",\n"composition": "主体居中，略微倾斜；保持毛发纹理清晰可读；确保手机和手部姿势自然。",\n"retouching": "仅清洁轻微瑕疵；保留织物微褶和毛皮纤维；避免晕染。",\n"avoid": "扭曲的门、沉重的晕影、过度锐化、卡通平滑、文字/水印。"\n}\n}
+```
+
+---
+
+### [Pink Camisole Girl Making Heart Sign](https://aiart.pics/prompt/pink-camisole-girl-making-heart-sign)
+
+**Author**: [@Emily](https://x.com/IamEmily2050)
+
+**Source**: [X](https://x.com/IamEmily2050/status/1980462057272275105)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/pink-camisole-girl-making-heart-sign.jpeg" width="500" alt="Pink Camisole Girl Making Heart Sign">
+
+```json
+{\n  "scene": {\n    "location": "clean studio corner",\n    "background": "soft pastel sage seamless, subtle falloff, no clutter"\n  },\n\n  "subject": {\n    "age": "adult",\n    "description": "woman with fair skin, long wavy brown hair with straight bangs, vivid blue eyes",\n    "wardrobe": "pink strappy cami with black lace trim, blue plaid skirt",\n    "accessories": "delicate necklace, symmetrical pastel hair clips",\n    "pose": "full body; gentle S-curve; hip slightly popped; front knee inward; toes pointed; hands frame face in small heart gesture near chin",\n    "expression": "kawaii allure: bright eyes with micro-smile and soft pout; slight 8° head tilt toward camera",\n    "gaze": "direct to camera",\n    "body_notes": "realistic adult proportions; natural skin texture"\n  },\n\n  "camera": {\n    "sensor": "full_frame",\n    "focal_length_mm": 70,\n    "aperture_f": 2.2,\n    "shutter_s": 0.00625,\n    "iso": 200,\n    "white_balance_k": 5200,\n    "distance_m": 4.0,\n    "camera_height_m": 1.05,\n    "framing": "entire figure visible with 5% headroom and shoes in frame",\n    "focus": "eye_detect_AF on nearest eye"\n  },\n\n  "lighting": {\n    "key": "large diffused softbox front-left at 45°, close to subject, high-key beauty",\n    "fill": "white bounce on camera-right one stop under key",\n    "hair": "soft rim from behind to lift hair texture",\n    "catchlights": "two circular catchlights at 10 and 2 o\'clock",\n    "notes": "flicker-free LEDs; even skin luminance; avoid harsh speculars"\n  },\n\n  "color_grade": {\n    "style": "Ulzzang / kawaii soft-glam",\n    "palette": "pastel pinks and sage; neutral skin with peach blush",\n    "contrast": "medium-low with crisp micro-contrast on eyes and lips",\n    "saturation": "moderate"\n  },\n\n  "makeup": {\n    "eyes": "subtle winged liner, long lashes, soft brown shadow, gentle aegyo-sal highlight",\n    "cheeks": "peach gradient blush",\n    "lips": "pink gradient tint with light gloss"\n  },\n\n  "postprocess": {\n    "retouch": "light frequency separation; maintain pores and flyaway hair",\n    "clarity": "selective clarity on irises, lashes, lips",\n    "dodge_burn": "micro dodge on eyes and cupid\'s bow; mild burn on hair shadows",\n    "vignette": "very subtle"\n  },\n\n  "art_direction": {\n    "mood": "cute, playful, alluring yet tasteful",\n    "keywords": ["kawaii", "S-curve", "face-framing gesture", "soft glow", "clean studio"]\n  },\n\n  "negative_prompts": [\n    "nsfw",\n    "underage look",\n    "text or logos",\n    "plastic doll skin",\n    "warped hands or extra fingers",\n    "deformed limbs",\n    "flat lighting",\n    "oversharpening halos",\n    "cluttered background"\n  ]\n}
+{\n“场景”： {\n"location": "干净的工作室角落",\n“背景”：“柔和的淡紫色无缝，微妙的衰减，没有混乱”\n}，\n\n“主题”： {\n"年龄": "成人",\n"description": "皮肤白皙，长长的棕色波浪发，直刘海，鲜艳的蓝眼睛，\n"wardrobe": "粉色吊带背心，黑色蕾丝边，蓝色格子裙",\n"accessories": "精致的项链，对称的淡色发夹",\n"pose": "全身；柔和的 S 形曲线；臀部微微外展；前膝向内；脚趾绷直；双手在下巴附近做出小心心的手势，\n"expression": "卡哇伊魅力：明亮的眼睛，微微微笑，轻轻噘嘴；头部略微向镜头倾斜 8°"\n"gaze": "直视相机",\n"body_notes": "逼真的成人比例；自然的皮肤纹理"\n}，\n\n“相机”： {\n“传感器”：“全帧”，\n"焦距毫米": 70,\n"aperture_f": 2.2,\n“shutter_s”：0.00625，\n“iso”：200，\n"白平衡k": 5200,\n“距离米”：4.0，\n"相机高度米": 1.05,\n"framing": "整个人物可见，5% 的头部空间和鞋子在框架内",\n“focus”：“eye_detect_AF 在最近的眼睛上”\n}，\n\n“灯光”： {\n"key": "大型漫射柔光箱位于左前方 45° 处，靠近拍摄对象，呈现高调美感",\n"fill": "白色在相机上弹跳-右键下停一站",\n"hair": "从后面添加柔软边缘，提升头发质感",\n"catchlights": "两个圆形的眼神光分别位于 10 点和 2 点位置",\n“注释”：“无闪烁 LED；均匀的皮肤亮度；避免刺眼的镜面反射”\n}，\n\n“颜色等级”：{\n"style": "Ulzzang / 可爱柔和魅力",\n"palette": "淡粉色和鼠尾草色；中性肤色，搭配桃色腮红",\n“对比度”：“中低，眼睛和嘴唇有清晰的微对比度”，\n“饱和度”：“中等”\n}，\n\n“化妆品”： {\n"eyes": "细腻的翼状眼线，纤长的睫毛，柔和的棕色眼影，柔和的撒娇高光",\n"cheeks": "桃色渐变腮红",\n“嘴唇”：“粉色渐变色调，带有淡淡的光泽”\n}，\n\n“后处理”：{\n"retouch": "光频分离；维持毛孔和飞散的头发",\n"clarity": "虹膜、睫毛、嘴唇的选择性清晰度",\n"dodge_burn": "对眼睛和丘比特之弓进行微减淡；对头发阴影进行轻度加深",\n“vignette”：“非常微妙”\n}，\n\n“艺术指导”：{\n"mood": "可爱、俏皮、迷人又有品位",\n"keywords": ["kawaii", "S-curve", "face-framement gesture", "soft glow", "clean studio"]\n}，\n\n"negative_prompts": [\n“nsfw”，\n“未成年的样子”，\n“文字或徽标”，\n“塑料娃娃皮肤”，\n“弯曲的手或多余的手指”，\n“畸形肢体”，\n“平面照明”，\n“过度锐化光晕”，\n“杂乱的背景”\n]\n}
+```
+
+---
+
+### [Bedroom Mirror Selfie](https://aiart.pics/prompt/bedroom-mirror-selfie)
+
+**Author**: [@Emily](https://x.com/IamEmily2050)
+
+**Source**: [X](https://x.com/IamEmily2050/status/1981124366411895079)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/bedroom-mirror-selfie.jpeg" width="500" alt="Bedroom Mirror Selfie">
+
+```json
+{\n  "scene": {\n    "description": "Indoor mirror selfie in a contemporary bedroom or dressing area.",\n    "lighting": "Soft, warm ambient interior lighting, flattering and even.",\n    "environment": "Neutral background, slightly blurred, suggesting closet doors or plain walls."\n  },\n  "subject": {\n    "demographics": {\n      "ethnicity": "Korean (East Asian)",\n      "apparent_age": "20-23",\n      "build": "Very slender, \'S-line\' figure with a notably tiny waist (\'ant waist\') and defined, toned abs."\n    },\n    "facial_aesthetics": {\n      "style_keywords": ["Ulzzang (얼짱) aesthetic", "Casual beauty", "Doll-like features", "Youthful and confident"],\n      "face_shape": "Small face with a coveted V-line jaw.",\n      "eyes": "Large, bright \'Doe eyes\'. Prominent Aegyo-sal. Soft, natural eyeliner.",\n      "skin": "Flawless \'Glass skin\', pale complexion, dewy finish.",\n      "lips": "Plump cherry lips, soft pink gradient tint.",\n      "hair": {\n        "color": "Warm medium brown",\n        "style": "Long, gentle waves",\n        "bangs": "Airy, \'see-through\' bangs (Korean style) framing the forehead."\n      }\n    },\n    "pose": {\n      "type": "Standing mirror selfie.",\n      "action": "Subject is confidently lifting the hem of her sweater with both hands to expose her toned midriff.",\n      "expression": "Soft, pleasant expression, subtle smile, eyes focused on the phone screen.",\n      "framing": "Medium shot (hips to head)."\n    },\n    "wardrobe": {\n      "top": {\n        "garment": "Cropped cable-knit sweater",\n        "color": "Cream / Ivory white",\n        "details": "Distinctive hybrid design with sheer, voluminous organza ruffles on the sleeves and cuffs."\n      },\n      "bottom": {\n        "garment": "Blue jeans",\n        "fit": "Low-rise, relaxed fit.",\n        "details": "Light-to-medium wash denim, worn unbuttoned and slightly pulled down at the hips."\n      }\n    },\n    "accessories": {\n      "phone": "Dark gray smartphone held in the hand, rear camera visible in the mirror."\n    }\n  },\n  "camera_technical": {\n    "device": "Smartphone rear camera via mirror",\n    "look": "Clean, high-quality mobile photography, vertical orientation (3:4).",\n    "focus": "Sharp focus on the subject\'s face and torso."\n  }\n}
+{\n“场景”： {\n"description": "在现代卧室或更衣区进行室内镜子自拍。",\n"lighting": "柔和、温暖的室内环境照明，令人赏心悦目且均匀。",\n"environment": "中性背景，略微模糊，类似于壁橱门或普通墙壁。"\n}，\n“主题”： {\n“人口统计”：{\n"ethnicity": "韩国人（东亚）",\n"apparent_age": "20-23",\n“身材”：非常苗条，‘S 型’身材，腰部明显纤细（“蚂蚁腰”），腹肌清晰紧实。\n}，\n“面部美学”：{\n"style_keywords": ["Ulzzang (얼짱) 审美", "休闲美", "洋娃娃般的五官", "年轻自信"],\n"face_shape": "小脸，拥有令人垂涎的 V 型下巴。",\n"eyes": "大而明亮的“小鹿眼”。突出的斜眼妆。柔和自然的眼线。",\n"skin": "完美无瑕的‘玻璃肌肤’，白皙的肤色，水润的妆容。",\n"lips": "丰满的樱桃唇，柔和的粉色渐变色调。",\n“头发”： {\n"color": "暖中棕色",\n"style": "长而柔和的波浪",\n"bangs": "飘逸的‘透视’刘海（韩式）修饰额头。"\n}\n}，\n“姿势”：{\n"type": "站立镜子自拍。",\n"action": "对象自信地用双手撩起毛衣下摆，露出紧致的腹部。",\n"expression": "柔和、愉快的表情，淡淡的微笑，眼睛专注于手机屏幕。",\n"framing": "中景（臀部到头部）。"\n}，\n“衣柜”： {\n“顶部”： {\n"garment": "短款绞花针织毛衣",\n"color": "奶油色/象牙白色",\n“详细信息”：“独特的混合设计，袖子和袖口上有透明、蓬松的欧根纱褶边。”\n}，\n“底部”： {\n"garment": "蓝色牛仔裤",\n"fit": "低腰，宽松版型。",\n“details”：“轻度至中度水洗牛仔布，未扣纽扣，臀部略微拉低。”\n}\n}，\n“配件”： {\n“手机”：“手中拿着深灰色的智能手机，镜子中可以看到后置摄像头。”\n}\n}，\n“相机技术”：{\n"device": "通过镜子的智能手机后置摄像头",\n"look": "清晰、高品质的手机摄影，垂直方向（3:4）。",\n"focus": "清晰地聚焦拍摄对象的脸部和躯干。"\n}\n}
+```
+
+---
+
 ### [Full Body Night Scape Portrait](https://aiart.pics/prompt/full-body-night-scape-portrait)
 
 **Author**: [@Emily](https://x.com/IamEmily2050)
@@ -5191,6 +5757,51 @@ Prompt in thread 🧵
 ```json
 {\n    "description": "A hyper-realistic, 4K, full-body night-time portrait of a 23-year-old Korean woman with clear pale skin and long straight black hair tucked behind one ear.",\n    "subject": {\n      "age": 23,\n      "ethnicity": "Korean",\n      "skin_tone": "pale",\n      "hair": {\n        "colour": "black",\n        "style": "long, straight, tucked behind one ear"\n      },\n      "pose": "standing at a frost-covered bus stop, arms folded against the cold",\n      "expression": "70 % quiet annoyance, 30 % amused resignation, as if re-reading a text she regrets sending"\n    },\n    "outfit": {\n      "top_layers": [\n        "black blazer",\n        "navy sweatshirt",\n        "crisp white dress shirt",\n        "thin black tie"\n      ],\n      "bottom": "ultra-short black pleated skirt",\n      "legwear": "brand-new white knee-length pelerine socks",\n      "footwear": "polished black shoes"\n    },\n    "environment": {\n      "location": "night-time city bus stop",\n      "ground": "icy pavement reflecting distant headlights",\n      "fog": "dense, occupying the top third of the frame",\n      "bus_shelter": {\n        "glass": "steamed-up with one finger-drawn smiley that melts faster than the surrounding condensation"\n      },\n      "lighting": "cool blue-white, high contrast, cinematic"\n    },\n    "hidden_detail": "reflection in her left shoe: a blurred red double-decker bus that may or may not be arriving",\n    "camera": {\n      "angle": "low eye-level, full body in frame",\n      "lens_simulation": "Phase-One medium-format realism",\n      "depth_of_field": "sharp focus on subject, soft bokeh on distant lights"\n    },\n    "output": {\n      "style": "hyper-realistic, cinematic, cool colour grading"\n    }\n  }\n}
 {\n"description": "这是一张超现实主义、4K、全身夜景肖像，照片中的一名 23 岁的韩国女性，皮肤白皙，一头长长的直黑发别在耳后。",\n“主题”： {\n“年龄”：23岁，\n“种族”：“韩国人”，\n"skin_tone": "苍白",\n“头发”： {\n“颜色”：“黑色”，\n“style”：“长而直，塞在一只耳朵后面”\n}，\n"pose": "站在结霜的公交车站，双臂交叉抵御寒冷",\n“表达”：“70% 是无声的恼怒，30% 是好笑的顺从，就像在重读一条她后悔发过的短信”\n}，\n“全套服装”： {\n"顶层"：[\n“黑色西装外套”，\n“海军蓝运动衫”，\n“清爽的白色正装衬衫”，\n“细黑领带”\n]，\n"bottom": "超短黑色百褶裙",\n"legwear": "全新白色及膝长袜",\n“footwear”：“抛光黑鞋”\n}，\n“环境”： {\n"location": "夜间城市公交车站",\n“ground”：“结冰的路面反射着远处的车灯”，\n"雾"："浓密，占据了画面的上三分之一"\n"公交车站"：{\n“玻璃”：“用手指画的笑脸被蒸腾起来，融化得比周围的冷凝水还快”\n}，\n“照明”：“冷蓝白色，高对比度，电影感”\n}，\n"hidden_​​detail": "她左脚鞋子里的倒影：一辆模糊的红色双层巴士，可能快到了，也可能还没到"\n“相机”： {\n"角度": "低视线，全身在画面中",\n"lens_simulation": "Phase-One 中画幅真实感",\n"depth_of_field": "清晰对焦主体，柔和远方灯光的散景"\n}，\n“输出”： {\n“风格”：“超现实、电影、酷炫色彩分级”\n}\n}\n}
+```
+
+---
+
+### [Girl Sitting on Sofa](https://aiart.pics/prompt/girl-sitting-on-sofa)
+
+**Author**: [@Emily](https://x.com/IamEmily2050)
+
+**Source**: [X](https://x.com/IamEmily2050/status/1975554358495654236)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/girl-sitting-on-sofa.jpeg" width="500" alt="Girl Sitting on Sofa">
+
+```json
+{\n  "style": "High-key studio portrait, direct flash aesthetic, East Asian social media style (e.g., Ulzzang, Douyin), stylized beauty retouching.",\n  "output": {\n    "color_profile": "sRGB",\n    "render_intent": "photo"\n  },\n  "subject": {\n    "category": "human",\n    "gender_presentation": "female",\n    "ethnicity": "East Asian (e.g., Korean, Chinese)",\n    "age_bracket": "young_adult",\n    "body": {\n      "build": "slim",\n      "proportions": "natural human anatomy",\n      "posture": "relaxed on sofa, seated casually",\n      "pose": "seated, legs crossed and tucked close to body",\n      "gesture": "Right hand raised, fingers loosely curled, back of fingers/knuckles gently supporting the chin and lower cheek.",\n      "head_tilt_deg": 5\n    },\n    "face": {\n      "expression": "Playful, alluring",\n      "gaze": "right eye direct to camera",\n      "eye_action": "winking with the left eye",\n      "skin_tone": "Very pale porcelain (lightened aesthetic)",\n      "makeup": "Stylized K-Beauty/Douyin look: flawless matte base, strong pink blush high on cheeks, pink gradient lips, defined brows, light eyeliner, emphasized Aegyo-sal",\n      "features": "small beauty mark/mole under the left eye"\n    },\n    "hair": {\n      "length": "long",\n      "style": "messy high updo/bun with loose strands and curtain bangs",\n      "color": "dark brown"\n    },\n    "wardrobe": {\n      "top": "white fitted cropped camisole",\n      "outerwear": "light gray zip hoodie, worn open and slightly slipping off both shoulders",\n      "bottom": "white lounge shorts with drawstring",\n      "footwear": "barefoot"\n    }\n  },\n  "environment": {\n    "location": "studio or minimalist interior",\n    "set": "black leather sofa against a plain white or light gray wall",\n    "props": "Silver laptop (Apple MacBook, logo visible) placed on the cushion to the subject\'s right (camera left)"\n  },\n  "lighting": {\n    "key": {\n      "source": "strobe/flash",\n      "modifier": "Bare reflector or direct flash (hard source)",\n      "position": "Near camera axis, slightly camera-right and above eye line",\n      "effect": "Crisp, dark, well-defined cast shadows on the wall directly behind subject; strong specular highlights on skin and sofa leather."\n    },\n    "fill": {\n      "type": "minimal/none"\n    },\n    "ambient": "suppressed",\n    "white_balance_K": 5800\n  },\n  "camera": {\n    "system": "Digital Camera",\n    "sensor": "full-frame equivalent",\n    "lens": {\n      "type": "prime",\n      "focal_length_mm": 50\n    },\n    "exposure": {\n      "iso": 100,\n      "aperture_f": 4.0,\n      "metering": "Bright exposure, high-key aesthetic"\n    },\n    "focus": {\n      "target": "near eye (right eye)",\n      "depth_of_field": "moderate"\n    },\n    "framing": {\n      "orientation": "vertical",\n      "crop": "mid-thigh to head with room above hair",\n      "angle": "eye-level",\n      "composition": "subject centrally framed"\n    }\n  },\n  "color_grade": {\n    "look": "Bright, clean, slightly cool tone",\n    "contrast": "High contrast",\n    "saturation": "moderate, emphasized pinks"\n  },\n  "postprocess": {\n    "noise_reduction": "high",\n    "texture": "Highly smoothed skin, poreless appearance (\'porcelain doll\' or \'beauty filter\' effect)",\n    "sharpen": "selective on eyes/lashes",\n    "blemish_control": "Complete removal of all blemishes and texture."\n  },\n  "quality_targets": [\n    "accurate limb lengths and joint angles",\n    "correct finger count and articulation",\n    "realistic fabric tension and folds",\n    "accurate winking expression"\n  ],\n  "negative_prompt": [\n    "no altered or exaggerated body proportions",\n    "no extra or fused fingers",\n    "no realistic skin texture, pores, or blemishes",\n    "no text or watermarks (excluding specified logos)",\n    "no extreme wide-angle distortion",\n    "no NSFW content",\n    "no dark/moody lighting",\n    "no warm tones"\n  ]\n}
+{\n"style": "高调影棚人像，闪光灯直击美感，东亚社交媒体风格（例如Ulzzang、抖音），风格化美颜修图。",\n“输出”： {\n"color_profile": "sRGB",\n"render_intent": "照片"\n}，\n“主题”： {\n“类别”：“人类”，\n"gender_presentation": "女性",\n"ethnicity": "东亚人（例如韩国人、中国人）",\n"age_bracket": "young_adult",\n“身体”： {\n"build": "slim",\n"比例": "自然人体解剖学",\n"posture": "放松地坐在沙发上，随意地坐着",\n"pose": "坐着，双腿交叉，身体紧贴身体",\n"gesture": "右手举起，手指松散地卷曲，手指背面/指关节轻轻支撑下巴和下脸颊。",\n“头部倾斜度”：5\n}，\n“脸”： {\n"expression": "俏皮、诱人",\n"gaze": "右眼直视相机",\n"eye_action": "用左眼眨眼",\n"skin_tone": "非常苍白的瓷器（明亮的美学）",\n"makeup": "风格化的韩妆/抖音妆容：完美哑光底妆，脸颊上浓重的粉色腮红，粉色渐变唇妆，清晰的眉毛，淡淡的眼线，强调的撒娇，\n"features": "左眼下方有一颗小美人痣"\n}，\n“头发”： {\n"length": "长",\n"style": "凌乱的高髻/发髻，散落的发束和窗帘刘海",\n“颜色”：“深棕色”\n}，\n“衣柜”： {\n"top": "白色修身短款吊带背心",\n“外套”：“浅灰色拉链连帽衫，敞开穿着，双肩略微滑落”，\n"bottom": "白色抽绳休闲短裤",\n“鞋类”：“赤脚”\n}\n}，\n“环境”： {\n"location": "工作室或简约室内",\n"set": "黑色皮沙发搭配纯白色或浅灰色墙壁",\n"props": "银色笔记本电脑（Apple MacBook，标志可见）放置在拍摄对象右侧的垫子上（相机左侧）"\n}，\n“灯光”： {\n“钥匙”： {\n"source": "频闪/闪光",\n"modifier": "裸露的反射器或直接闪光（硬源）",\n"position": "靠近相机轴，略微位于相机右侧且高于视线",\n"effect": "拍摄对象正后方的墙壁上投射出清晰、暗淡、轮廓分明的阴影；皮肤和沙发皮革上出现强烈的镜面高光。"\n}，\n“充满”： {\n“类型”：“最小/无”\n}，\n“环境”：“抑制”，\n“白平衡K”：5800\n}，\n“相机”： {\n"system": "数码相机",\n“传感器”：“全画幅等效”，\n“镜片”： {\n“类型”：“主要”，\n“焦距毫米”：50\n}，\n“接触”： {\n"iso": 100,\n"aperture_f": 4.0,\n“测光”：“明亮的曝光，高调的美感”\n}，\n“重点”： {\n"target": "近眼（右眼）",\n"depth_of_field": "中等"\n}，\n“框架”：{\n“方向”：“垂直”，\n"crop": "从大腿中部到头部，头发上方有空间",\n"角度": "视线水平",\n"composition": "主体居中"\n}\n}，\n“颜色等级”：{\n"look": "明亮、干净、略带冷色调",\n"contrast": "高对比度",\n“饱和度”：“中等，强调粉红色”\n}，\n“后处理”：{\n"noise_reduction": "高",\n"texture": "肌肤高度光滑，无毛孔外观（‘瓷娃娃’或‘美颜滤镜’效果）",\n“锐化”：“选择性地针对眼睛/睫毛”，\n"blemish_control": "彻底去除所有瑕疵和纹理。"\n}，\n"质量目标": [\n“准确的肢体长度和关节角度”，\n“正确的手指计数和发音”，\n“逼真的织物张力和褶皱”，\n“精准的眨眼表情”\n]，\n"negative_prompt": [\n“没有改变或夸大身体比例”，\n“没有多余的或融合的手指”，\n“没有真实的皮肤纹理、毛孔或瑕疵”，\n“无文字或水印（指定徽标除外）”，\n“没有极端的广角畸变”，\n“禁止 NSFW 内容”，\n“没有黑暗/忧郁的灯光”，\n“没有暖色调”\n]\n}
+```
+
+---
+
+### [Woman in Corridor](https://aiart.pics/prompt/woman-in-corridor)
+
+**Author**: [@Emily](https://x.com/IamEmily2050)
+
+**Source**: [X](https://x.com/IamEmily2050/status/1974108838929576299)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/woman-in-corridor.jpeg" width="500" alt="Woman in Corridor">
+
+```json
+{\n  "scene": {\n    "environment": {\n      "location_type": "modern gallery hallway",\n      "left_wall": "black-and-white optical swirl mural, matte finish",\n      "right_wall": "framed monochrome manga panels with sparse Japanese onomatopoeia",\n      "floor": "light gray polished tile with 2x2 m matte gray vinyl sheet under subject to kill reflections",\n      "depth": "short corridor depth with subtle falloff",\n      "clutter": "none"\n    },\n    "time": "indoors, artificial light",\n    "mood": "cool, composed, slightly mysterious",\n    "color_palette": "neutral-cool grays, olive top, desaturated denim blues"\n  },\n  "subject": {\n    "type": "human",\n    "gender": "female",\n    "approx_age": "early 20s",\n    "appearance": {\n      "skin_tone": "fair-light with neutral undertone",\n      "hair": "jet-black, very long, straight, center part; clean specular sheen",\n      "face": "oval face, soft makeup, subtle gloss on lips, light eyeliner and mascara",\n      "earrings": "large silver hoop earrings"\n    },\n    "wardrobe": {\n      "top": "fitted olive/khaki ribbed tank with small rhinestone cross motifs (check glue before shoot)",\n      "bottom": "high-waisted distressed denim shorts with heavy frayed hem and beige repair patches (tape rear hem flat)",\n      "footwear": "out_of_frame"\n    },\n    "pose": {\n      "stance": "leans back and slightly left with head resting against mural wall",\n      "torso": "relaxed, angled 10–15° to camera",\n      "arms_hands": "right arm behind torso/out_of_frame, left arm relaxed by side",\n      "expression": "calm, neutral-to-soft gaze past camera",\n      "chin": "slightly down; head tilt toward left shoulder"\n    }\n  },\n  "framing_composition": {\n    "shot_type": "mid-thigh portrait (three-quarter length)",\n    "orientation": "vertical",\n    "framing": "subject placed on left third; right third shows manga panels",\n    "leading_lines": "doorframe/panel edges vertical; swirl mural adds texture without overpowering subject",\n    "background_separation": "subtle; background softly defocused but still readable"\n  },\n  "camera": {\n    "sensor": "full-frame mirrorless",\n    "lens": {\n      "focal_length_mm": 50,\n      "type": "prime",\n      "character": "neutral rendering, low distortion"\n    },\n    "settings": {\n      "aperture": "f/3.2",\n      "shutter_speed": "1/250",\n      "iso": 400,\n      "white_balance": "custom grey-card @ 4600 K",\n      "focus": "eye-AF + 3-frame focus bracket (±1 cm)",\n      "stabilisation": "IBIS on"\n    },\n    "perspective": "camera at chest level; minimal keystoning; maintain straight verticals"\n  },\n  "lighting": {\n    "key": "broad, soft overhead/ceiling panel light",\n    "fill": "60×60 cm white bounce 30 cm below bust line, ~1.3 stops under key",\n    "rim": "narrow 1×2 ft strip-light behind subject camera-right, ½ stop over key",\n    "quality": "soft, diffuse; no hard shadows",\n    "exposure_target": "skin at ~65 IRE; rhinestones clipped < 90 IRE",\n    "specular_control": "micro-specular on hair; avoid plastic skin sheen"\n  },\n  "rendering_intent": {\n    "photorealism": "high",\n    "texture": "retain fabric weave, denim fray strands, hair strands",\n    "background_text_policy": "allow only existing manga panel text; do not invent extra signage or captions"\n  },\n  "post_processing": {\n    "color_grade": "neutral-cool base with gentle contrast curve; slight cyan in shadows, warm bias on skin",\n    "tone_curve": "soft S-curve (lift shadows +3, compress highlights -5)",\n    "clarity_texture": "clarity -5 on skin via masked adjustment; texture +5 on denim/frayed hem only (separate mask)",\n    "noise_reduction": "luma 10, chroma 15",\n    "sharpening": "amount 40, radius 0.7, detail 25, masking 60 (protect background)",\n    "vignette": "subtle -0.1 EV centre-weighted",\n    "geometry": "verticals upright; crop 4:5 with space above head and right-side manga visible",\n  }
+{\n“场景”： {\n“环境”： {\n"location_type": "现代画廊走廊",\n"left_wall": "黑白光学漩涡壁画，哑光饰面",\n"right_wall": "带有稀疏日语拟声词的单色漫画面板",\n“地板”：“浅灰色抛光瓷砖，铺有 2x2 米哑光灰色乙烯基板，以消除反射”，\n"depth": "短走廊深度，具有微妙的衰减",\n“杂乱”：“无”\n}，\n"time": "室内，人造光",\n"mood": "冷静、沉着、略带神秘",\n"color_palette": "中性冷灰色、橄榄色上衣、去饱和牛仔蓝"\n}，\n“主题”： {\n“类型”：“人类”，\n"性别": "女",\n"approx_age": "20 岁出头",\n“外貌”： {\n"skin_tone": "白皙，中性底色",\n“头发”：“乌黑，很长，直，中分；干净的镜面光泽”，\n"face": "椭圆脸，淡妆，唇彩淡淡，眼线和睫毛膏淡淡的",\n“耳环”：“大号银环耳环”\n}，\n“衣柜”： {\n"top": "修身橄榄色/卡其色罗纹背心，饰有小水钻十字图案（拍摄前请检查胶水）",\n"bottom": "高腰破洞牛仔短裤，下摆磨损严重，配有米色修片（后摆用胶带平整粘贴）",\n“footwear”：“out_of_frame”\n}，\n“姿势”：{\n"stance": "身体向后稍微向左倾斜，头靠在壁画上",\n“躯干”：“放松，与相机呈 10-15° 角”，\n"arms_hands": "右臂在躯干后方/超出框架，左臂在身体侧面放松",\n“表情”：“平静、中性到柔和的目光穿过镜头”，\n“下巴”：“稍微向下；头向左肩倾斜”\n}\n}，\n“framing_composition”：{\n"shot_type": "大腿中部肖像（四分之三长度）",\n“方向”：“垂直”，\n"framing": "主体放置在左边三分之一处；右边三分之一处显示漫画面板",\n"leading_lines": "门框/面板边缘垂直；漩涡壁画增添了纹理，但又不会掩盖主题",\n"background_separation": "微妙；背景轻微散焦但仍可读"\n}，\n“相机”： {\n“传感器”：“全画幅无反光镜”，\n“镜片”： {\n"焦距毫米": 50,\n“类型”：“主要”，\n“character”：“中性渲染，低失真”\n}，\n“设置”： {\n"光圈": "f/3.2",\n"shutter_speed": "1/250",\n“iso”：400，\n"white_balance": "自定义灰卡 @ 4600 K",\n"focus": "眼部自动对焦 + 3 帧对焦框 (±1 cm)",\n“稳定”：“IBIS开启”\n}，\n“视角”：“摄像机位于胸部高度；最小梯形失真；保持垂直线”\n}，\n“灯光”： {\n"key": "宽阔、柔和的顶灯/天花板面板灯",\n"fill": "60×60 厘米白色反射镜，位于胸围线以下 30 厘米处，主光圈下方约 1.3 档",\n"rim": "1×2 英尺窄条形灯位于拍摄对象相机右侧后方，比主光高出 ½ 档",\n“质量”：“柔和，漫反射；无硬阴影”，\n"exposure_target": "皮肤 ~65 IRE；水钻修剪 < 90 IRE",\n"specular_control": "头发上的微镜面；避免塑料皮肤光泽"\n}，\n“渲染意图”：{\n"照片写实主义": "高",\n"texture": "保留织物编织、牛仔布磨损线、发丝",\n"background_text_policy": "仅允许现有的漫画面板文本；不要发明额外的标志或标题"\n}，\n“后处理”：{\n"color_grade": "中性冷色调，对比度曲线柔和；阴影中略带青色，皮肤上偏暖色",\n"tone_curve": "柔和的 S 曲线（提升阴影 +3，压缩高光 -5）",\n"clarity_texture": "通过蒙版调整，皮肤的清晰度为 -5；仅牛仔布/磨损下摆的纹理为 +5（单独蒙版）",\n"noise_reduction": "亮度 10，色度 15",\n"sharpening": "数量 40，半径 0.7，细节 25，遮罩 60（保护背景）",\n"vignette": "微妙的 -0.1 EV 中央重点",\n"geometry": "垂直竖直；裁剪比例为 4:5，头部上方有空间，右侧漫画可见",\n}
+```
+
+---
+
+### [Photorealistic Indoor Lying Pose Portrait](https://aiart.pics/prompt/photorealistic-indoor-lying-pose-portrait)
+
+**Author**: [@Emily](https://x.com/IamEmily2050)
+
+**Source**: [X](https://x.com/IamEmily2050/status/1976068430798389550)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/photorealistic-indoor-lying-pose-portrait.jpeg" width="500" alt="Photorealistic Indoor Lying Pose Portrait">
+
+```json
+{\n"photorealistic_indoor_reclining_portrait",\n  "style": "Natural editorial portrait; lifelike texture; minimal, tasteful retouching.",\n  "output": { "aspect_ratio": "9:16", "resolution_px": [1440, 2560], "color_profile": "sRGB" },\n\n  "subject": {\n    "category": "human",\n    "gender_presentation": "female",\n    "ethnicity": "East Asian",\n    "age_bracket": "young_adult",\n    "body": {\n      "build": "slim with realistic proportions",\n      "bust": "fuller bust (natural C–D cup), proportional to frame; gentle natural slope, supportive shaping—no extreme push-up",\n      "skin_tone": "light neutral with natural variation"\n    },\n    "pose": {\n      "orientation": "reclining on back, relaxed",\n      "right_arm": "raised above head, fingers lightly touching hairline",\n      "left_arm": "bent across torso, hand resting on midriff",\n      "head": "slightly tilted toward camera left"\n    },\n    "face": {\n      "shape": "oval with mild asymmetry and natural cheek volume",\n      "expression": "soft and open",\n      "gaze": "direct to camera"\n    },\n    "eyes": {\n      "description": "natural-size, lively but realistic",\n      "color": "neutral gray-blue (low saturation)",\n      "size_ratio": { "iris_fraction_of_visible_eye": 0.29, "pupil_fraction_of_iris": 0.27 },\n      "details": {\n        "limbal_ring_strength": 0.08,\n        "sclera_brightness_Lstar": 78,\n        "sclera_texture": "fine veins and faint tear meniscus on lower lid",\n        "catchlights": "two soft rectangular window reflections about 10% of iris width",\n        "specular_quality": "satin (no glassy glare)",\n        "iris_texture": "visible stromal fibers and subtle color noise"\n      }\n    },\n    "makeup": "sheer base preserving pores; soft peach blush; brown mascara/liner; taupe eyeshadow; hydrated nude lips",\n    "hair": { "length": "long", "style": "half-up with bun, slight wave; a few flyaways visible", "color": "natural black" },\n    "wardrobe": {\n      "outfit": "blue top with Gucci shorts",\n      "top": "powder-blue cropped bustier with sweetheart neckline and structured cups; off-shoulder or slim straps; tasteful cleavage; opaque lined fabric; subtle corset seams; cropped length reveals a sliver of midriff",\n      "bottom": "Gucci blue GG-monogram denim shorts (small-scale jacquard, navy/indigo on blue; correct \'GG\' orientation; no extra text)",\n      "accessories": {\n        "jewelry": "thin black velvet choker with tiny pendant, small stud earrings, simple rings",\n        "wrists": "white fabric scrunchie on right; delicate bracelets on left"\n      }\n    }\n  },\n     "environment": {\n    "location": "bedroom",\n    "set": "plush bed with slightly wrinkled off-white linens and pillows",\n    "background_props": "upper right: dark round tray with small white ceramic tea set on textured brown surface"\n  },\n\n  "lighting": {\n    "scheme": "window key + sheet bounce",\n    "source": "large window through sheer curtains (or 120 cm softbox with double diffusion)",\n    "quality": "very soft with defined direction",\n    "direction": "45° from camera right and slightly top; white bedding as fill about 1.5 stops under key",\n    "temperature": "5200K",\n    "effect": "gentle modeling with soft nose/lip shadow; crisp but soft eye catchlights; no bloom"\n  },\n\n  "camera": {\n    "sensor": "full-frame",\n    "lens": { "focal_length_mm": 85 },\n    "distance_m": 1.8,\n    "exposure": {\n      "aperture_f": 3.2,\n      "iso": 200,\n      "shutter_s": 0.005,\n      "metering": "spot on cheekbone; ETTR then -0.3 EV to protect highlights on fabric"\n    },\n    "focus": {\n      "target": "near eye",\n      "depth_of_field": "moderate (eyes and bust plane in focus; bedding softly blurred)"\n    },\n    "framing": {\n      "orientation": "vertical",\n      "angle": "overhead with slight tilt toward face; avoid wide-angle distortion",\n      "composition": "9:16 crop framed head to upper hips so bustier and Gucci shorts are visible without foreshortening"\n    }\n  },\n\n  "color_grade": {\n    "look": "true-to-life neutrals with blue accent",\n    "contrast": "medium-low",\n    "palette": "powder/indigo blues, ivory, soft brown",\n    "notes": "retain skin undertones; avoid cyan cast; ensure Gucci blue reads clean without oversaturation"\n  },\n\n  "postprocess": {\n    "skin": "retain pores and micro-shine; remove only transient blemishes; keep faint under-eye texture",\n    "eyes": "no iris enlargement; subtle iris clarity and micro-contrast; limbal ring kept weak",\n    "sharpen": "moderate on eyes/brows/hair strands and denim weave/monogram",\n    "grain": "fine film grain at 1.5–2%",\n    "effects": "disable beauty filters, frequency-separation blur, glow/bloom; no HDR skin"\n  },\n\n  "realism_cues": [\n    "flyaway hairs around hairline",\n    "subtle nasolabial and philtrum depth",\n    "natural knuckle/tendon texture on left hand",\n    "visible denim weave and aligned monogram on shorts",\n    "fabric creases and bedding wrinkles"\n  ],\n\n  "negative_prompt": [\n    "doll, BJD, porcelain skin, neotenous proportions, plastic/waxy texture",\n    "oversized/anime/doe eyes, iris enlargement, glassy eyes",\n    "bright cyan/ice-blue contacts, heavy limbal ring, unnaturally white sclera",\n    "poreless skin, beauty filter, airbrushed, skin smoothing",\n    "bloom/Orton glow, excessive skin luster",\n    "CGI, 3D render, illustration, toon shading, LoRA: doll/BJD",\n    "wide-angle facial distortion, extreme symmetry filter",\n    "random text overlays, misspelled logos, watermarks",\n    "see-through fabrics, wardrobe malfunction, underboob/sideboob, explicit NSFW",\n    "distorted anatomy, extra fingers"\n  ],\n\n}
+{\n"照片级真实感室内躺姿人像",\n  "风格": "自然杂志风人像；逼真质感；简约且精致的修图（保留真实细节）",\n  "输出参数": { "宽高比": "9:16", "分辨率（像素）": [1440, 2560], "色彩配置文件": "sRGB" },\n\n  "拍摄主体": {\n    "类别": "人物",\n    "性别呈现": "女性",\n    "人种": "东亚人",\n    "年龄段": "年轻成人",\n    "身形": {\n      "体型": "纤瘦且比例真实",\n      "胸部": "丰满（自然C-D罩杯），与整体身形比例协调；线条自然柔和，有承托感，无过度聚拢效果",\n      "肤色": "浅中性色，带有自然肤色差异（非均匀色块）"\n    },\n    "姿势": {\n      "整体姿态": "仰卧，姿态放松",\n      "右臂": "举过头顶，手指轻触发际线",\n      "左臂": "弯曲横过躯干，手搭在腹部",\n      "头部": "略微向镜头左侧倾斜"\n    },\n    "面部": {\n      "脸型": "椭圆形，略带不对称感，脸颊饱满度自然",\n      "表情": "柔和、舒展",\n      "目光": "直视镜头"\n    },\n    "眼部": {\n      "描述": "大小自然，灵动且真实",\n      "颜色": "中性灰蓝色（低饱和度）",\n      "大小比例": { "虹膜占可见眼球比例": 0.29, "瞳孔占虹膜比例": 0.27 },\n      "细节": {\n        "虹膜边缘环清晰度": 0.08（近乎隐形）,\n        "眼白亮度（L*值）": 78,\n        "眼白质感": "细微血管，下眼睑有淡泪痕",\n        "眼神光": "两处柔和的长方形窗户反光，宽度约为虹膜的10%",\n        "光泽质感": "丝缎质感（无玻璃般的强光反射）",\n        "虹膜纹理": "可见基质纤维，带有细微色彩颗粒感"\n      }\n    },\n    "妆容": "轻薄底妆（保留毛孔）；柔和桃色腮红；棕色睫毛膏/眼线；灰褐色眼影；水润裸色唇膏",\n    "发型": { "长度": "长发", "造型": "半扎丸子头，略带波浪；可见几根碎发", "颜色": "自然黑色" },\n    "服饰": {\n      "整体搭配": "蓝色上衣配古驰（Gucci）短裤",\n      "上衣": "粉蓝色短款抹胸，心形领口，带立体罩杯；露肩或细肩带设计；领口弧度优雅；面料厚实不透视（带里衬）；带有精致束腰缝线；短款设计露出一小截腹部",\n      "下装": "古驰（Gucci）蓝色双G提花牛仔短裤（小尺寸提花图案，藏青/靛蓝色花纹印于蓝色基底上；双G标志方向正确；无多余文字图案）",\n      "配饰": {\n        "珠宝": "黑色细天鹅绒项圈（带小巧吊坠）、小巧耳钉、简约戒指",\n        "腕部饰品": "右手戴白色布艺发圈；左手戴精致手链"\n      }\n    }\n  },\n\n  "环境": {\n    "场景": "卧室",\n    "布景": "柔软的床，铺有略带褶皱的米白色床品和枕头",\n    "背景道具": "右上角：深色圆形托盘（置于纹理棕色表面上），托盘内放有小型白色陶瓷茶具"\n  },\n\n  "光线": {\n    "布光方案": "窗户主光+床单反光补光",\n    "光源": "透过薄窗帘的大窗户（或120厘米双扩散柔光箱）",\n    "光线质感": "极其柔和，且方向明确",\n    "光线方向": "从镜头右侧45°角、略高于主体的位置入射；白色床品作为补光（亮度比主光低1.5档）",\n    "色温": "5200K（标准白光）",\n    "光影效果": "柔和的轮廓塑造（鼻子/唇部阴影自然）；清晰且柔和的眼神光；无光晕溢出"\n  },\n\n  "相机参数": {\n    "传感器": "全画幅",\n    "镜头": { "焦距（毫米）": 85 },\n    "拍摄距离（米）": 1.8,\n    "曝光参数": {\n      "光圈值": 3.2,\n      "感光度（ISO）": 200,\n      "快门速度（秒）": 0.005（即1/200秒）,\n      "测光方式": "点测光（测光点为颧骨）；向右曝光（ETTR）后降低0.3档曝光值，以保护面料高光细节"\n    },\n    "对焦": {\n      "对焦目标": "靠近镜头一侧的眼睛",\n      "景深": "中等（眼睛与胸部处于同一焦平面，保持清晰；床品轻微虚化）"\n    },\n    "构图": {\n      "画面方向": "竖版",\n      "拍摄角度": "俯拍，镜头略微向面部倾斜；避免广角畸变",\n      "裁切比例": "9:16裁切，画面覆盖头部至髋部上方，确保抹胸与古驰短裤完整呈现，且无透视变形"\n    }\n  },\n\n  "调色": {\n    "风格": "真实中性色调，以蓝色为点缀色",\n    "对比度": "中低",\n    "色调 palette": "粉蓝/靛蓝色、米白色、柔和棕色",\n    "注意事项": "保留皮肤原有底色；避免青蓝色色偏；确保古驰蓝色呈现纯净质感，无过度饱和"\n  },\n\n  "后期处理": {\n    "皮肤处理": "保留毛孔与细微油光；仅去除临时瑕疵（如痘痘）；保留淡淡的眼下纹理",\n    "眼部处理": "不放大虹膜；轻微增强虹膜清晰度与微对比度；保留弱虹膜边缘环",\n    "锐化": "对眼睛/眉毛/发丝、牛仔面料纹理/提花图案进行适度锐化",\n    "颗粒感": "添加1.5%-2%的细腻胶片颗粒",\n    "效果禁用": "关闭美颜滤镜、频率分离模糊、光晕/柔光效果；不使用HDR皮肤处理"\n  },\n\n  "真实感细节提示": [\n    "发际线处的碎发",\n    "自然的鼻唇沟与人中立体感",\n    "左手手指关节/肌腱的真实纹理",\n    "短裤上清晰的牛仔面料纹理与对齐的提花图案",\n    "面料褶皱与床品自然褶皱"\n  ],\n\n  "负面提示（需避免）": [\n    "玩偶感、球形关节娃娃（BJD）、瓷娃娃质感皮肤、幼态化比例、塑料/蜡质质感",\n    "过大眼睛/动漫眼/小鹿眼、虹膜放大、玻璃质感眼睛",\n    "亮青色/冰蓝色美瞳、明显虹膜边缘环、不自然的雪白眼白",\n    "无毛孔皮肤、美颜滤镜效果、磨皮过度、皮肤光滑失真",\n    "光晕效果/奥顿柔光效果（Orton glow）、皮肤过度油光",\n    "CGI效果、3D渲染、插画风格、卡通 shading、玩偶/球形关节娃娃（BJD）相关模型（LoRA）",\n    "广角镜头面部畸变、过度对称滤镜效果",\n    "随机文字叠加、logo拼写错误、水印",\n    "透视装/面料过透、服饰走光、露下胸/侧胸、不雅内容（NSFW）",\n    "肢体结构扭曲、多手指"\n  ]\n}
 ```
 
 ---
@@ -5400,6 +6011,21 @@ A hyper-realistic, professional interior design photograph of a modern living ro
 
 ---
 
+### [Surrealist Gothic Rabbit Studio Portrait](https://aiart.pics/prompt/surrealist-gothic-rabbit-studio-portrait)
+
+**Author**: [@Iqra Saifi](https://x.com/IqraSaifiii)
+
+**Source**: [X](https://x.com/IqraSaifiii/status/1982469385156489563)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/surrealist-gothic-rabbit-studio-portrait.jpeg" width="500" alt="Surrealist Gothic Rabbit Studio Portrait">
+
+```json
+{\n"prompt_title": "Hyperrealistic Gothic Bunny Studio Portrait",\n"image_description": "An ultra-photorealistic, high-resolution studio portrait of a female subject in a gothic-inspired bunny costume, featuring intricate lace ears, a structured corset, and delicate hosiery. The subject is posed on the floor, exuding an alluring and sophisticated aura under precise studio lighting.",\n"subject": {\n"gender": "female",\n"appearance": "Young adult with a flawless, luminous complexion. **Extreme micro-detail rendering on skin, showing subtle pores, fine vellus hairs, accurate light interaction (sub-surface scattering), and realistic skin texture.**",\n"facial_features": "Smooth, clear skin. Her eyes are large, dark, and captivating, looking directly into the camera with a **confident and slightly seductive expression**. Lips are full, with a matte red or deep berry lipstick that shows micro-creases. Defined eyebrows and subtle contouring.",\n"hair_style": "Long, flowing, wavy black hair, cascading over her shoulders and back. **Hair must show individual strands, realistic volume, high-gloss reflections, and subtle flyaways.**",\n"makeup": "Dramatic and precise. Sharp, winged black eyeliner, full, dark eyelashes (possibly individual lash extensions), subtle glitter or shimmer on eyelids. Contoured cheeks. Flawless foundation and blush.",\n"attire": {\n"headwear": "Intricate **black lace bunny ears headband**. The lace should have visible patterns, delicate wire structure, and possibly small faux floral or ribbon accents. Realistic light interaction with the lace.",\n"neck_accessories": "A simple, fitted black velvet or leather choker necklace.",\n"main_outfit": "A highly detailed **black strapless corset dress or top and skirt ensemble**. The corset should be structured, showing **visible boning and lacing details** (possibly satin or leather laces). Fabric should be a mix of matte black leather/faux leather and textured, ruffled black tulle or chiffon for the skirt. **Emphasis on realistic fabric folds, textures, and subtle sheen.**",\n"hosiery": "Sheer black thigh-high stockings with a delicate lace top band, clearly visible on her upper thigh. **Stockings must show realistic transparency and fabric stretch over skin.**",\n"footwear": "Black pointed-toe high heels with ankle straps. The material should be a realistic matte or patent leather, showing accurate reflections and shoe construction."\n}\n},\n"pose": {\n"description": "The subject is kneeling on a flat, light-colored studio floor, leaning slightly forward. Her left hand is placed on the floor beside her left knee, fingers slightly spread. Her right arm is gently resting on her right thigh. Her body is slightly twisted, creating an alluring silhouette. **Exact replication of the confident and poised pose.**",\n"camera_angle": "Medium shot, eye-level angle, slightly looking down at the subject. The camera is positioned to capture her full body from the mid-thigh up, with enough space around her to establish the studio environment.",\n"composition": "Centered composition, vertical orientation. The subject fills approximately 70-80% of the frame, with subtle negative space around her. **Sharp focus on the subject, with a very shallow depth of field creating a soft bokeh in the background.**"\n},\n"setting": {\n"location": "Professional indoor photo studio.",\n"background_elements": "Seamless, plain light gray or off-white backdrop, extending from the floor to the wall, creating a clean, infinite background. **Subtle, soft gradient in the background due to lighting falloff.**"\n},\n"lighting_and_atmosphere": {\n"key_light_source": "Softbox or parabolic diffuser from the front-left, creating soft, even illumination with subtle directional shadows to define contours.",\n"fill_light": "Subtle fill light from the front-right to reduce harsh shadows on the right side of her face and body.",\n"back_light": "A subtle hair light or rim light from the rear-right to create separation from the background and add definition to her hair and shoulders.",\n"highlights_shadows": "Soft, creamy highlights on skin, hair, and corset material. Deep but soft shadows defining facial structure and body contours. **Accurate light falloff and realistic specular reflections on materials.**",\n"photographic_realism": "Extreme micro-detail, sub-surface scattering on skin, realistic fabric textures (lace, leather, tulle), **cinematic studio lighting**, crisp focus on eyes, perfect white balance, neutral color grading, **ultra-realistic material rendering (PBR - Physically Based Rendering).**"\n},\n"style_and_camera": {\n"photographic_style": "High-fashion portraiture, hyperrealistic studio photography, fine art glamour.",\n"camera_type": "High-end full-frame mirrorless camera (e.g., Sony A1, Canon R5) with a fast prime lens (e.g., 50mm f/1.2 or 85mm f/1.4).",\n"camera_values": "ISO 100, f/1.8, 1/160 sec. **These values contribute to shallow depth of field, sharp detail, and clean image quality.**",\n"resolution_quality": "8K resolution, ultra-photorealistic, extreme detail on all elements. **Masterpiece quality render, production quality image.**"\n},\n"negative_prompt_suggestions": [\n"blurry", "low resolution", "deformed", "harsh lighting", "flat background", "bad anatomy",\n"cartoon", "illustration", "painting", "text", "watermark", "oversaturated", "poor composition",\n"unrealistic skin", "plastic texture", "missing details"\n]\n}
+{\n"prompt_title": "超现实主义哥特式兔子工作室肖像",\n"image_description": "这幅超逼真、高分辨率的工作室肖像画描绘了一位身着哥特式兔子服装的女性，服装配有精致的蕾丝耳朵、结构化的紧身胸衣和精致的袜子。模特躺在地板上，在精准的工作室灯光下散发着迷人而精致的气息。",\n“主题”： {\n"性别": "女",\n"appearance": "拥有完美无瑕、明亮肤色的年轻人。 **皮肤上极其细微的细节渲染，展现出细微的毛孔、细小的毳毛、准确的光线相互作用（次表面散射）和逼真的皮肤纹理。 ** ",\n"facial_features": "光滑、洁净的皮肤。她的眼睛又大又黑，魅力十足，直视镜头，眼神自信而略带诱惑** 。 **.嘴唇丰满，涂着哑光红色或深莓色唇膏，露出细微的皱纹。眉毛清晰，轮廓细腻。",\n"hair_style": "飘逸的黑色长发，波浪状披散在肩部和背部。 **头发必须展现出独立的发丝、真实的蓬松度、高光泽的反光和微妙的飞散。 ** ",\n"makeup": "妆容精致而又充满戏剧感。锐利的黑色眼线，浓密的深色睫毛（可能是单独嫁接的），眼睑上点缀着淡淡的闪粉或珠光。轮廓分明的脸颊。完美的粉底和腮红。",\n“服装”：{\n"headwear": "精致的**黑色蕾丝兔耳头带**.蕾丝应具有明显的图案、精致的金属丝结构，以及可能的小型仿花或丝带装饰。与蕾丝的逼真灯光互动。",\n"neck_accessories": "一条简单、合身的黑色天鹅绒或皮革颈链。",\n"main_outfit": "一件细节丰富的**黑色露肩紧身连衣裙或上衣和裙子套装**.紧身胸衣应结构清晰，露出**明显的骨和系带细节** (可能需要缎子或皮革鞋带。裙子面料应为哑光黑色皮革/人造皮革和纹理荷叶边黑色薄纱或雪纺的混合面料。 **强调逼真的面料褶皱、纹理和微妙的光泽。 ** ",\n"hosiery": "透明黑色过膝长袜，带有精致的蕾丝边，在大腿上清晰可见。 **长袜必须具有逼真的透明度，并且织物在皮肤上具有弹性。 ** ",\n“footwear”：“黑色尖头高跟鞋，带踝带。材质应为逼真的哑光皮革或漆皮，展现准确的反射和鞋子结构。”\n}\n}，\n“姿势”：{\n"description": "拍摄对象跪在工作室平坦的浅色地板上，身体微微前倾。她的左手放在左膝旁的地板上，手指微微张开。她的右臂轻轻地放在右大腿上。她的身体微微扭动，勾勒出迷人的轮廓。 **精准地复制了她自信而泰然的姿势。 ** ",\n"camera_angle": "中景镜头，视线水平角度，略微向下看拍摄对象。摄像机的位置可以捕捉到她从大腿中部以上的全身，周围有足够的空间来营造工作室氛围。",\n"composition": "居中构图，垂直方向。主体占据了画面的大约 70-80%，周围留有微妙的负空间。 **主体清晰对焦，景深很浅，在背景中营造出柔和的散景效果。 ** "\n}，\n“环境”： {\n"location": "专业室内摄影工作室。",\n"background_elements": "无缝、纯浅灰色或灰白色背景，从地板延伸到墙壁，营造出干净、无限的背景。 **由于光线衰减，背景中出现微妙、柔和的渐变。 ** "\n}，\n“照明和氛围”：{\n"key_light_source": "从左前方放置柔光箱或抛物面漫射器，创造柔和、均匀的照明，并带有微妙的定向阴影来定义轮廓。",\n"fill_light": "来自右前方的微妙补光，以减少她脸部和身体右侧的刺眼阴影。",\n"back_light": "从右后方照射的微妙的头发光或边缘光，与背景分离，并突出她的头发和肩膀。",\n"highlights_shadows": "皮肤、头发和紧身胸衣材质上呈现柔和、奶油般的高光。深邃而柔和的阴影勾勒出面部结构和身体轮廓。 **材质上呈现精准的光线衰减和逼真的镜面反射。 ** ",\n"photographic_realism": "极其精细的微细节、皮肤表面次表面散射、逼真的织物纹理（蕾丝、皮革、薄纱）、 **电影工作室灯光** 、清晰的眼睛聚焦、完美的白平衡、中性色彩分级、 **超逼真的材质渲染（PBR - 基于物理的渲染）。 ** "\n}，\n“style_and_camera”：{\n"photographic_style": "高级时尚肖像画、超现实主义工作室摄影、艺术魅力。",\n"camera_type": "高端全画幅无反光镜相机（例如索尼 A1、佳能 R5）搭配快速定焦镜头（例如 50mm f/1.2 或 85mm f/1.4）。",\n"camera_values": "ISO 100、f/1.8、1/160 秒。 **这些值有助于获得浅景深、清晰的细节和干净的图像质量。 ** ",\n"resolution_quality": "8K 分辨率，超逼真，所有元素细节丰富。 **杰作品质渲染，产品品质图像。 ** "\n}，\n"negative_prompt_suggestions": [\n“模糊”、“分辨率低”、“变形”、“光线刺眼”、“背景平坦”、“结构不良”\n“卡通”、“插图”、“绘画”、“文字”、“水印”、“过饱和”、“构图不佳”\n“皮肤不真实”、“塑料质感”、“缺少细节”\n]\n}
+```
+
+---
+
 ### [Pop Art Portrait](https://aiart.pics/prompt/pop-art-portrait)
 
 **Author**: [@Iqra Saifi](https://x.com/IqraSaifiii)
@@ -5501,6 +6127,23 @@ Imagine you’re a tiny cartoon character who has come to life on a piece of pap
 
 ```
 别人催我时，我回复：我知道你很急，但你先别急\n\n请为此设计表情包图片
+```
+
+---
+
+## karatademada
+
+### [Cinematic Portrait of Beauty](https://aiart.pics/prompt/cinematic-portrait-of-beauty)
+
+**Author**: [@karatademada](https://x.com/karatademada)
+
+**Source**: [X](https://x.com/karatademada/status/1977343963745923372)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/cinematic-portrait-of-beauty.jpeg" width="500" alt="Cinematic Portrait of Beauty">
+
+```
+A cinematic portrait of a young East Asian woman sitting gracefully at a white marble vanity table. She has long, sleek, dark brown hair parted in the middle, styled simply to frame her face. Her skin is luminous and smooth with a warm tone. She wears soft, peach-toned makeup with a light shimmer on the eyelids, subtle eyeliner, and coral lipstick that gives her a polished glow.\n\nShe’s dressed in an off-shoulder black velvet dress that accentuates her neckline and shoulders, elegant yet modern. A delicate silver necklace with a small pendant rests on her collarbone, and she wears matching silver earrings and a ring, adding a refined touch. Her posture is confident and feminine, one arm resting naturally on the marble surface, the other relaxed by her side.\n\nThe scene takes place in a softly lit vanity space with a mirror reflecting part of her silhouette. The lighting is balanced and diffused, creating a clean, luxurious look, soft shadows, no harsh highlights, and a smooth skin texture. On the vanity, there are makeup items such as a compact palette, a small decorative brush, and bottles of foundation neatly placed beside her.\n\nThe background features deep navy or dark curtains and minimalist decor, including white vases filled with dried flowers in warm autumn hues of orange, cream, and gold. The overall mood feels elegant, poised, and quietly glamorous, like a high-end beauty editorial captured on a crisp modern camera with cinematic lighting and 8K ultra-realistic clarity.\n\nColor palette: ivory white, black velvet, warm peach tones, and soft gold floral accents.\nAspect ratio: 4:5.\nStyle: hyper-realistic, luxury portrait, magazine aesthetic.
+一幅充满电影感的肖像画，描绘了一位年轻的东亚女性优雅地坐在白色大理石梳妆台前。她有着一头柔顺的深棕色长发，中分，简单的发型勾勒出她精致的脸庞。她的肌肤光洁光滑，肤色温暖。她化着柔和的蜜桃色妆容，眼睑上点缀着淡淡的珠光，眼线细腻，珊瑚色唇膏则为她增添了一抹精致的光泽。\n\n她身着一袭露肩黑色天鹅绒连衣裙，凸显了她的颈部和肩部线条，优雅而又不失现代感。一条精致的银项链搭配一枚小巧的吊坠，垂于她的锁骨上，她还佩戴了与之相配的银耳环和戒指，更添一抹精致。她的姿态自信而柔美，一只手臂自然地搭在大理石台面上，另一只手臂则放松地垂在身侧。\n\n场景发生在灯光柔和的梳妆台上，镜子映照出她部分轮廓。光线均衡柔和，营造出干净奢华的妆容，阴影柔和，没有刺眼的高光，肌肤纹理光滑细腻。梳妆台上，她身旁整齐地摆放着一些化妆品，例如粉饼盘、小巧的装饰刷和几瓶粉底液。\n\n背景采用深蓝色或深色窗帘，搭配简约的装饰，包括插满干花的白色花瓶，这些干花呈现出温暖的秋日色调——橙色、奶油色和金色。整体氛围优雅、沉稳，又不失低调的魅力，如同一部用清晰的现代相机，在影院级灯光和8K超高清画质下拍摄的高端美妆社论。\n\n色调：象牙白、黑色天鹅绒、温暖的桃色调和柔和的金色花卉装饰。\n长宽比：4：5。\n风格：超现实主义、奢华肖像、杂志美学。
 ```
 
 ---
@@ -5819,6 +6462,23 @@ Prompt:
 
 ---
 
+## LinusEkenstam
+
+### [Highly Detailed Portrait of Person as Animal](https://aiart.pics/prompt/highly-detailed-portrait-of-person-as-animal)
+
+**Author**: [@LinusEkenstam](https://x.com/LinusEkenstam)
+
+**Source**: [X](https://x.com/LinusEkenstam/status/1982790174418632891)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/highly-detailed-portrait-of-person-as-animal.jpeg" width="500" alt="Highly Detailed Portrait of Person as Animal">
+
+```json
+[Person] as an [Animal] highly detailed portrait
+[人物] 作为 [动物] 的高度详细肖像
+```
+
+---
+
 ## LudovicCreator
 
 ### [Art Deco Metropolis](https://aiart.pics/prompt/art-deco-metropolis)
@@ -6007,6 +6667,131 @@ Prompt in ALT, @ideogram_ai. https://t.co/koZL19Ss3y
 
 ---
 
+## 古一
+
+### [Detroit: Realism and Sci-Fi Fusion](https://aiart.pics/prompt/detroit-realism-and-sci-fi-fusion)
+
+**Author**: [@古一](https://x.com/MANISH1027512)
+
+**Source**: [X](https://x.com/MANISH1027512/status/1983048114509434918)
+
+<img src="https://img1.aiart.pics/images/prompts/20251206/detroit-realism-and-sci-fi-fusion-1.jpg" width="500" alt="Detroit: Realism and Sci-Fi Fusion">
+
+```
+10/ detroit: human realism — 现实科幻融合
+《底特律:变人》式的现实与科幻融合风格,近未来设定、真实人物与科技元素共存,冷峻而真实。
+Prompt: “A barista with cybernetic eyes steaming milk in a chrome café, human realism sci-fi.” https://t.co/Rf7PMW44C8
+```
+
+---
+
+### [Ancient Manuscript Style Book Page](https://aiart.pics/prompt/ancient-manuscript-style-book-page)
+
+**Author**: [@古一](https://x.com/MANISH1027512)
+
+**Source**: [X](https://x.com/MANISH1027512/status/1983048110382129312)
+
+<img src="https://img1.aiart.pics/images/prompts/20251206/ancient-manuscript-style-book-page-1.jpg" width="500" alt="Ancient Manuscript Style Book Page">
+
+```
+9/ book page — 书页/手稿页风格
+模拟古籍、手稿的视觉效果,纸张纹理、手写字体、插图装饰、做旧质感,营造历史感与神秘感。
+Prompt: “An aged manuscript page with ink diagrams of stars and marginalia, book page style.” https://t.co/IYlKeQ0iwf
+```
+
+---
+
+### [Medieval Church Stained Glass Art Style](https://aiart.pics/prompt/medieval-church-stained-glass-art-style)
+
+**Author**: [@古一](https://x.com/MANISH1027512)
+
+**Source**: [X](https://x.com/MANISH1027512/status/1983048106288570776)
+
+<img src="https://img1.aiart.pics/images/prompts/20251206/medieval-church-stained-glass-art-style-1.jpg" width="500" alt="Medieval Church Stained Glass Art Style">
+
+```
+8/ Stained glass window — 彩色玻璃窗风格
+中世纪教堂彩色玻璃的艺术风格,鲜艳的色块、铅线分隔、光线透射效果、宗教叙事主题。
+Prompt: “A saintly figure and soaring doves in jewel-tone panes, stained glass window style.” https://t.co/Fz9cafCfPz
+```
+
+---
+
+### [Black and White Style Portrait](https://aiart.pics/prompt/black-and-white-style-portrait)
+
+**Author**: [@古一](https://x.com/MANISH1027512)
+
+**Source**: [X](https://x.com/MANISH1027512/status/1980278681927877032)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/black-and-white-style-portrait.jpeg" width="500" alt="Black and White Style Portrait">
+
+```
+A captivating black and white close-up portrait of a beautiful young Asian woman with flawless skin, short bob haircut featuring straight blunt bangs framing her forehead, eyes gently closed with long lashes, subtle pouty lips, serene and introspective expression, wearing a form-fitting deep V-neck black ribbed sweater that accentuates her, a delicate thin necklace with a small pendant, dramatic side lighting from the left creating strong shadows and highlights on her face, neck, and shoulders, high contrast chiaroscuro style, minimalist studio background with soft gradient from light to dark, photorealistic, vintage film grain effect, high detail, emotional and mysterious atmosphere.
+一张引人入胜的黑白特写肖像，展现一位美丽的年轻亚洲女性，拥有无瑕的肌肤和齐颈短发，直刘海整齐地框住前额。她双眼轻闭，睫毛纤长，嘴唇微噘，表情宁静而内省。她身穿一件凸显身材的深V领黑色罗纹毛衣，佩戴一条带有小吊坠的精致细项链。戏剧性的侧光从左侧打来，在她脸部、颈部和肩部营造出强烈的阴影与高光，呈现出高对比度的明暗对照画风。背景是简约的摄影棚，带有从明到暗的柔和渐变。画面具有照片级的真实感和复古胶片颗粒效果，细节丰富，营造出一种感性而神秘的氛围。
+```
+
+---
+
+### [Black and White Style Portrait](https://aiart.pics/prompt/black-and-white-style-portrait-1)
+
+**Author**: [@古一](https://x.com/MANISH1027512)
+
+**Source**: [X](https://x.com/MANISH1027512/status/1980858137788797269)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/black-and-white-style-portrait-1.jpeg" width="500" alt="Black and White Style Portrait">
+
+```
+a woman standing confidently in a minimalist studio, shot from a slightly low angle, half-body portrait, her head tilted slightly down with a calm and enigmatic expression, middle-parted braided pigtails with a few loose strands falling over her face, subtle wet hair texture, wearing a tight black sleeveless dress and black leather gloves, holding a leather belt loosely in front of her body — dramatic single key light from upper right, high contrast, black and white tones, strong rim light accentuating her curves, plain textured wall background, cinematic noir atmosphere, fine art fashion photography, inspired by Helmut Newton and Peter Coulson, shallow depth of field, smooth gradients, elegant and powerful mood
+一位女士自信地站立在极简主义的摄影棚中，从略低的视角拍摄，半身肖像。她的头微微向下倾斜，表情平静而神秘。中分编织的双马尾辫，几缕发丝随意地落在脸庞上，头发带有微妙的湿润质感。她穿着紧身的黑色无袖连衣裙和黑色皮手套，双手松散地在身体前方握着一条皮带。画面采用戏剧性的单一主光源从右上角打下，高对比度，黑白影调，强烈的轮廓光勾勒出她的身体曲线。背景是纯色的纹理墙壁，营造出电影般的黑色电影氛围，如同艺术时尚摄影作品。灵感来源于赫尔穆特·牛顿和彼得·库尔森，景深较浅，光影过渡平滑，整体情绪优雅而充满力量。
+```
+
+---
+
+### [Low Ponytail Girl in Japanese Izakaya](https://aiart.pics/prompt/low-ponytail-girl-in-japanese-izakaya)
+
+**Author**: [@古一](https://x.com/MANISH1027512)
+
+**Source**: [X](https://x.com/MANISH1027512/status/1978672690740310181)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/low-ponytail-girl-in-japanese-izakaya.jpeg" width="500" alt="Low Ponytail Girl in Japanese Izakaya">
+
+```
+a young beautiful sweet smiling Asian woman with soft brown hair tied loosely in a low ponytail with gentle face-framing bangs, sitting sideways on a narrow wooden bar stool inside a tiny, crowded Japanese izakaya, turning back toward the camera with a gentle natural smile; wearing a white blouse and gray plaid high-waisted shorts; surrounded by middle-aged and elderly Japanese men in dark suits chatting quietly beside her; the bar interior is narrow and dimly lit, walls covered with old handwritten menus and vintage posters, cluttered shelves of bottles, ceramics, and small trinkets; soft warm tungsten lighting with slight haze, smoke lingering in the air, evoking the scent of grilled food and sake; authentic candid moment, intimate social atmosphere, nostalgic Showa-era Japanese nightlife vibe;cozy ambient tungsten lighting, low contrast, muted color palette with subtle green tint, shallow depth of field, film-like softness, slight haze, nostalgic 35mm analog photo, visible fine film grain, authentic Japanese retro bar atmosphere, candid portrait, in the style of Daido Moriyama, Takashi Homma, and Wong Kar Wai, Kodak Portra 400 film aesthetic --ar 3:4 --v 7
+一位年轻美丽、笑容甜美的亚洲女性，一头柔软的棕色头发扎成低马尾，刘海柔和地修饰着脸型，她侧身坐在一间狭小拥挤的日式居酒屋里，坐在一张狭窄的木质吧台凳上，面带温柔自然的微笑；她身穿白色衬衫和灰色格子高腰短裤；她周围是穿着深色西装的中老年日本男子，他们在她旁边轻声聊天；酒吧内部狭窄而昏暗，墙上贴满了古老的手写菜单和复古海报，架子上杂乱地摆满了瓶子、陶瓷和小饰品；柔和温暖的钨丝灯略带薄雾，烟雾在空气中缭绕，散发着烧烤食物和清酒的香味；真实的坦率时刻，亲密的社交氛围，怀旧的昭和时代日本夜生活氛围；舒适的环境钨丝灯，低对比度，柔和的色调，微妙的绿色色调，浅景深，胶片般的柔软度，轻微的雾霾，怀旧的 35 毫米模拟照片，可见的细胶片颗粒，真实的日本复古酒吧氛围，坦率的肖像，森山大道、本间隆和王家卫的风格，柯达 Portra 400 胶片美学 --ar 3:4 --v 7
+```
+
+---
+
+### [A Dreamy Intimate Portrait](https://aiart.pics/prompt/a-dreamy-intimate-portrait)
+
+**Author**: [@古一](https://x.com/MANISH1027512)
+
+**Source**: [X](https://x.com/MANISH1027512/status/1978041705623343437)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/a-dreamy-intimate-portrait.jpeg" width="500" alt="A Dreamy Intimate Portrait">
+
+```
+a dreamy intimate portrait of a beautiful realistic asian woman lying under a blanket, soft natural light, cozy warm bedroom, cinematic film grain, 35mm film aesthetic, shallow depth of field, soft focus, delicate skin texture, natural makeup, slightly messy hair, Fujifilm Pro 400H look, pastel warm tones, realistic lighting, subtle haze, gentle atmosphere, by Petra Collins and Ren Hang --ar 3:4 --v7 --style raw
+一幅如梦似幻的私密肖像照：一位容貌精致、形象写实的亚裔女性躺在毛毯下，柔和的自然光线洒落，背景是温馨舒适的卧室。画面带有电影感颗粒质感，呈现 35 毫米胶片的美学风格，采用浅景深与柔焦效果，清晰展现细腻的肌肤纹理。人物妆容自然，头发略带凌乱，整体色调为柔和温暖的马卡龙色系，光线真实自然，还带有淡淡的朦胧感，营造出轻柔舒缓的氛围。（由佩特拉・科林斯与任航风格创作） --ar 3:4 --v7 --style raw
+```
+
+---
+
+### [Beautiful Japanese Woman in Light Blue Police Uniform](https://aiart.pics/prompt/beautiful-japanese-woman-in-light-blue-police-uniform)
+
+**Author**: [@古一](https://x.com/MANISH1027512)
+
+**Source**: [X](https://x.com/MANISH1027512/status/1979033662294241673)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/beautiful-japanese-woman-in-light-blue-police-uniform.jpeg" width="500" alt="Beautiful Japanese Woman in Light Blue Police Uniform">
+
+```
+a young beautiful Japanese woman with porcelain skin, soft makeup and bright red lips, straight chestnut-brown hair neatly tied in a ponytail with straight bangs framing her face, wearing a fitted light-blue police uniform shirt with gold buttons and badge, a dark green flat ribbon tie knotted at the collar with two short tails hanging down like a gift bow, navy skirt, dark belt with brass buckle, white gloves, black shoes, \nsitting with her knees together and hands gently folded over a glass, calm and elegant posture, \noxygen-fresh natural makeup look with translucent dewy base, barely-there eyeliner, soft straight brows, faint rosy blush on the cheeks, subtle inner-corner highlight that makes her eyes look bright and airy, lips a clean vivid red yet not glossy, \nher pose delicate and composed: seated on a narrow wooden bench in a cramped booth, ankles tucked slightly back, torso subtly leaning forward from the hips, forearms relaxed, gloved hands overlapping lightly above the small tumbler placed between her knees, chin slightly lowered while gazing directly at the camera, \nflanked by two older Japanese policemen in uniform on each side, \nthe man on the left leaning inward from the doorway, cap slightly tilted, short-sleeve standard police shirt, one elbow resting on his knee with the hand hanging loosely, attentive and calm expression; \nthe man on the right wearing a striped short-sleeve shirt with a dark tie and badge, cap set square with a gold band, arms firmly crossed over his chest, body angled toward the woman, a reserved, thoughtful look, \ninside a small dimly-lit bar filled with vintage Japanese posters, old bottles, narrow wooden walls, cluttered shelves, \ndetailed physical environment: shot from the doorway so the worn wooden jambs create a frame-within-frame; scuffed varnished beams, handwritten Japanese slips and price tags pinned among utensils, cords and trinkets hanging overhead, glassware and liquor bottles stacked tight on shallow shelves, a tiny aisle underfoot, faint reflections on lacquered wood, humid air; one or two bare incandescent bulbs casting a localized amber pool of light that fades rapidly into darkness, \ncamera perspective and ratio: intimate eye-level viewpoint at close conversational distance (about 1–1.5 m), classic 35mm focal feel, vertical portrait framing with a 3:4 aspect, slight center-weighted composition emphasizing the trio in a tight booth, \nwarm incandescent lighting with nostalgic amber tone, low saturation colors, fine 35mm film grain texture, slightly overexposed highlights, retro 1980s analog snapshot aesthetic, candid composition, shallow depth of field, cinematic color grading, in the style of Nobuyoshi Araki and Daido Moriyama street photography --ar 3:4 --v 7
+一位年轻美丽的日本女子，有着瓷器般的肌肤、柔和的妆容和鲜红的嘴唇，栗色的直发扎成马尾辫，齐刘海修饰着她的脸型，身穿合身的浅蓝色警服衬衫，上面有金色的纽扣和徽章，深绿色的扁平丝带领带在领口处打结，两条短尾巴像礼物蝴蝶结一样垂下来，海军蓝裙子，深色腰带配黄铜扣，白手套，黑色鞋子，\n她双膝并拢，双手轻轻地放在玻璃杯上，姿势平静而优雅，\n氧气清新的自然妆容，透明水润的底妆，几乎看不见的眼线，柔软的直眉，脸颊上淡淡的玫瑰色腮红，微妙的内眼角高光使她的眼睛看起来明亮通风，嘴唇是干净鲜红但不油腻，\n她的姿势精致而沉稳：坐在狭小隔间的一张窄木凳上，脚踝微微向后弯曲，躯干从臀部微微向前倾斜，前臂放松，戴着手套的双手轻轻重叠放在放在膝盖之间的小玻璃杯上方，下巴微微放低，直视镜头，\n两侧各有两名身穿制服的年长日本警察，\n左边的男人从门口探身向内，帽子微微倾斜，穿着短袖制式警服，一肘撑在膝盖上，手随意垂着，表情专注而平静；\n右边的男人穿着条纹短袖衬衫，系着深色领带，戴着徽章，帽子是方形的，上面有一条金边，双臂紧紧地交叉在胸前，身体朝着女人倾斜，一副内敛、若有所思的样子，\n在一个灯光昏暗的小酒吧里，摆满了复古的日本海报、旧瓶子、狭窄的木墙、杂乱的架子，\n详细的物理环境：从门口拍摄，磨损的木质门框形成了一个画框；磨损的涂漆横梁、手写的日文单子​​和价格标签夹在餐具之间，电线和小饰品悬挂在头顶，玻璃器皿和酒瓶紧紧地堆放在浅浅的架子上，脚下是一条小过道，漆木上隐约的反光，潮湿的空气；一两个裸露的白炽灯泡投射出局部琥珀色的光晕，迅速消失在黑暗中，\n相机视角和比例：近距离对话距离（约 1-1.5 米）的亲密视线视角，经典的 35 毫米焦距感，3：4 比例的垂直人像取景，轻微的中央重点构图，强调紧凑展位中的三人组，\n温暖的白炽灯，怀旧的琥珀色调，低饱和度的色彩，细腻的 35 毫米胶片颗粒纹理，略微过度曝光的高光，复古的 1980 年代模拟快照美学，坦率的构图，浅景深，电影色彩分级，风格类似于荒木经惟和森山大道的街头摄影 -ar 3:4 --v 7
+```
+
+---
+
 ## mariia_gonchar
 
 ### [Enamel Mosaic Tile Style](https://aiart.pics/prompt/enamel-mosaic-tile-style)
@@ -6116,6 +6901,21 @@ Create a closeup face of a young woman after a workout, sweaty, deep blue eyes, 
 ---
 
 ## Melis✨
+
+### [3x3 Photo in Clean Soft Beige Studio](https://aiart.pics/prompt/3x3-photo-in-clean-soft-beige-studio)
+
+**Author**: [@Melis✨](https://x.com/miilesus)
+
+**Source**: [X](https://x.com/miilesus/status/1981800648036561146)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/3x3-photo-in-clean-soft-beige-studio.jpeg" width="500" alt="3x3 Photo in Clean Soft Beige Studio">
+
+```
+Editorial 3x3 photo grid in a clean soft beige studio. Character (matches reference 100%) wearing lightweight dark navy shirt, ivory trousers, barefoot for raw simplicity. Lighting: large diffused key light directly front-right, silver reflector left, subtle rim from top. Shots to include: 1. extreme close-up of lips + cheekbone with blurred hand partially covering (85mm, f/1.8, razor-thin DOF); 2. tight crop on eyes looking into lens with reflection of light strip visible (85mm, f/2.0); 3. black & white close portrait resting chin on fist, face filling frame (50mm, f/2.2); 4. over-shoulder shot, blurred foreground fabric curtain framing half face (85mm, f/2.0); 5. very close frontal with hands overlapping face, light streak across eyes (50mm, f/2.5); 6. tight angled portrait showing hair falling into eyes, soft-focus background (85mm, f/2.2); 7. crop of hands touching jawline, eyes cropped out (50mm, f/3.2, detail-focused); 8. half-body seated sideways on low cube, head turned sharply away, blurred foreground (35mm, f/ 4.5); 9. intense close-up of profile with single tear-like water droplet, cinematic light slice across (85mm, f/ 1.9). Angles: mostly tight headshots with slight high/low tilts, maintaining variation. Capture RAW, professional muted grade, smooth tonal contrast, subtle cinematic grain. Mood: intimate, introspective, character-led editorial minimalism with delicate use of fabric as prop.
+干净柔和的米色工作室中的编辑 3x3 照片网格。人物（与参考 100 %)相匹配）身穿轻薄的深蓝色海军蓝衬衫、象牙色裤子，赤脚，呈现原始简约风​​格。灯光：右前方直接有大型漫射主光，左侧有银色反光板，顶部有微妙的边缘。拍摄内容包括：1. 嘴唇 + 颧骨的极端特写，手模糊部分遮盖（85mm，f/1.8，极薄景深）；2. 紧密裁剪眼睛，看着镜头，可见光带反射（85mm，f/2。 0) ；3. 黑白近距离肖像，下巴靠在拳头上，脸部充满画面（50mm，f/2.2）；4. 过肩镜头，模糊的前景织物窗帘框住半张脸（85mm，f/2。 0) ；5. 非常近的正面，双手重叠在脸上，光线穿过眼睛（50mm，f/2.5）；6. 紧密角度的肖像，显示头发落入眼睛，柔焦背景（85mm，f/2.2）；7. 裁剪至触及下颌线的手，眼睛被裁剪掉（50mm，f/3.2，注重细节）；8. 半身侧坐在矮柜上，头部急剧转向别处，前景模糊（35mm，f/4.5）；9. 侧面特写，一滴泪珠状水滴，电影般的光片划过（85mm，f/1.9）。角度：大多为近距离头像，略微高/低倾斜，保持变化。拍摄 RAW 格式，专业柔和等级，平滑的色调对比度，微妙的电影颗粒感。氛围：亲密、内省、以人物为主导的编辑极简主义，巧妙地使用织物作为道具。
+```
+
+---
 
 ### [3D Cartoon Keychain](https://aiart.pics/prompt/3d-cartoon-keychain)
 
@@ -6538,6 +7338,20 @@ Have these two characters fight using the pose from Figure 3.Add appropriate vis
 
 ---
 
+### [Patrick Star and SpongeBob in Ancient Costume](https://aiart.pics/prompt/patrick-star-and-spongebob-in-ancient-costume)
+
+**Author**: [@歸藏(guizang.ai)](https://x.com/op7418)
+
+**Source**: [X](https://x.com/op7418/status/1980296606382780794)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/patrick-star-and-spongebob-in-ancient-costume.png" width="500" alt="Patrick Star and SpongeBob in Ancient Costume">
+
+```
+身上穿着唐朝服饰的一只派大星，自然逼真，北宋时期风格油画暗棕褐色旧版图高清，精细工笔，精细流畅、柔韧有力、充满韵律感。衣纹的勾勒，疏密有致。用色典雅，善于运用对比色，丰富和谐，头戴唐朝帽子
+```
+
+---
+
 ### [Autumn Leaves Pattern](https://aiart.pics/prompt/autumn-leaves-pattern)
 
 **Author**: [@歸藏(guizang.ai)](https://x.com/op7418)
@@ -6632,6 +7446,23 @@ google nano-banana can do nsfw prompt: photo depicting Emma Watson in a natural 
 
 ---
 
+## Prashant_1722
+
+### [Fashion Photography of Beauty](https://aiart.pics/prompt/fashion-photography-of-beauty)
+
+**Author**: [@Prashant_1722](https://x.com/Prashant_1722)
+
+**Source**: [X](https://x.com/Prashant_1722/status/1977458454483874088)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/fashion-photography-of-beauty.jpeg" width="500" alt="Fashion Photography of Beauty">
+
+```json
+{\n  "prompt_title": "Effortless Chic Pose",\n  "concept": "A hyperrealistic fashion photograph replicating a specific street style moment: a woman in a black knit set posing elegantly against a lamppost in a European city.",\n  "scene_composition": {\n    "shot_type": "Medium full-body shot",\n    "camera_lens": "85mm f/1.4 lens",\n    "perspective": "Eye-level, capturing the subject from the side.",\n    "aspect_ratio": "2:3",\n    "focus": "Sharp focus on the woman and her outfit. The background is beautifully blurred with creamy bokeh to isolate the subject."\n  },\n  "environment": {\n    "setting": "A European city square or wide pedestrian street during the day.",\n    "background_details": "The background is softly blurred but shows classical architecture with light-colored stone buildings. A few indistinct figures are walking in the distance.",\n    "ground": "Light-colored stone pavers or cobblestones.",\n    "atmosphere": "Chic, relaxed, and sophisticated."\n  },\n  "subject": {\n    "primary": "A stylish young woman with long, wavy dark hair.",\n    "appearance": "Her hair falls naturally over her shoulder. She has a gentle, soft expression and is looking slightly away from the camera.",\n    "pose": "She is leaning with her back against a dark, ornate metal lamppost on the left side of the frame. Her right leg is bent and lifted behind her. "\n  },\n  "outfit_and_details": {\n    "top": "A form-fitting, sleeveless black top made of a visible ribbed knit fabric.",\n    "bottom": "A matching black mini skirt, also made of the same ribbed knit material.",\n   "shoes": "black slingback high heel"\n  },\n  "style_and_aesthetics": {\n    "realism": "Hyperrealistic, photorealistic, cinematic, 8K resolution, ultra-detailed.",\n    "lighting": "Soft, diffused daylight, as if on an overcast day or in the shade, to prevent harsh shadows and create a flattering, even light on the subject.",\n    "color_palette": "A monochrome and muted palette. Dominant blacks from the outfit and lamppost, contrasted with the light tones of the buildings and ground.",\n    "details": "Emphasis on realistic material properties: the fine texture of the ribbed knit, the rough texture of the stone pavers, and the metallic finish of the lamppost."\n  },\n  "quality_boosters": [\n    "masterpiece",\n    "best quality",\n    "insanely detailed",\n    "sharp focus",\n    "professional fashion photography",\n    "street style",\n    "editorial",\n    "trending on Vogue"\n  ],\n  "negative_prompt": [\n    "cartoon, anime, 3D render, illustration, painting",\n    "blurry, out of focus, low quality, jpeg artifacts",\n    "harsh sunlight, strong shadows",\n    "crowded street, distracting background",\n    "deformed anatomy, bad hands, extra limbs",\n    "text, watermark, signature"\n  ]\n}
+{\n"prompt_title": "轻松时尚的姿势",\n"concept": "一张超现实主义的时尚照片，再现了特定的街头风格瞬间：一位身穿黑色针织套装的女子在欧洲城市的路灯柱前优雅地摆姿势。",\n“场景构图”：{\n"shot_type": "中长全身照",\n"camera_lens": "85mm f/1.4 镜头",\n"perspective": "视线高度，从侧面捕捉拍摄对象。",\n"aspect_ratio": "2:3",\n"focus": "清晰地聚焦于女人和她的服装。背景通过奶油色的散景进行精美的虚化，突出了主体。"\n}，\n“环境”： {\n"setting": "白天的欧洲城市广场或宽阔的步行街。",\n"background_details": "背景略微模糊，但显示出浅色石头建筑的古典建筑。远处有几个模糊的身影在行走。",\n"ground": "浅色铺路石或鹅卵石。",\n“氛围”：“别致、轻松、精致。”\n}，\n“主题”： {\n"primary": "一位时尚的年轻女子，有着长长的、波浪状的黑发。",\n"appearance": "她的头发自然地垂在肩上。她表情温柔，目光略微远离镜头。",\n"pose": "她背靠着画面左侧一根深色华丽的金属灯柱。她的右腿弯曲并抬起。"\n}，\n“装备和细节”：{\n"top": "一件合身的无袖黑色上衣，采用可见的罗纹针织面料制成。",\n"bottom": "一条配套的黑色迷你裙，也采用相同的罗纹针织材料制成。",\n“鞋子”：“黑色露跟高跟鞋”\n}，\n“风格与美学”：{\n"realism": "超现实主义、照片级真实感、电影级、8K 分辨率、超精细。",\n"lighting": "柔和、漫射的日光，就像在阴天或阴影中一样，可以防止出现刺眼的阴影，并为拍摄对象营造出令人愉悦、均匀的光线。",\n"color_palette": "单色柔和的色调。服装和灯柱以黑色为主，与建筑物和地面的浅色调形成对比。",\n"details": "强调真实的材料特性：罗纹针织的细腻质地、石材铺路石的粗糙质地以及灯柱的金属饰面。"\n}，\n"quality_boosters": [\n“杰作”，\n“极品”，\n“极其详细”，\n“清晰聚焦”，\n“专业时尚摄影”，\n“街头风格”，\n“社论”，\n“Vogue 流行趋势”\n]，\n"negative_prompt": [\n“卡通、动漫、3D 渲染、插图、绘画”，\n“模糊、失焦、质量低、jpeg 伪影”，\n“刺眼的阳光，强烈的阴影”，\n“拥挤的街道，分散注意力的背景”，\n“身体畸形、手残、肢体残缺”，\n“文字、水印、签名”\n]\n}
+```
+
+---
+
 ## R2_fieldworks
 
 ### [AirBnB Anything](https://aiart.pics/prompt/airbnb-anything)
@@ -6644,6 +7475,23 @@ google nano-banana can do nsfw prompt: photo depicting Emma Watson in a natural 
 
 ```
 A highly detailed 3D isometric icon of the following object: [OBJECT]\n\nStyle: Airbnb 2024 icon language — miniature diorama / emoji-like object with crisp edges, realistic textures, and soft handcrafted realism.  \n\nMaterial: The object should clearly retains its fundamental qualities but look as if its made from a mixture of matte and plastic-like materials.  \n\nView: three-quarter front-left isometric view with a slight top-down angle.  \n\nLighting: soft neutral studio lighting from the top-left with subtle shadows and gentle gloss highlights.  \n\nColor palette: retain the fundamental colors from the object and include subtle gradients and no harsh contrasts.  \n\nBackground: clean white, no drop shadow or noise.  \n\nMood: minimal, charming, utilitarian, premium.  \n\nRendering: hyper-detailed, photorealistic object with depth and tactility, like a designer lifestyle emoji or miniature product model. \n\nOptional Add-on for Replication:  Use the attached photo as a reference for proportions and layout. Do not copy exactly — reinterpret it in the Airbnb icon aesthetic.
+```
+
+---
+
+## ReemKhan_07
+
+### [Woman in Red Evening Gown](https://aiart.pics/prompt/woman-in-red-evening-gown)
+
+**Author**: [@ReemKhan_07](https://x.com/ReemKhan_07)
+
+**Source**: [X](https://x.com/ReemKhan_07/status/1979887420930974163)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/woman-in-red-evening-gown.jpeg" width="500" alt="Woman in Red Evening Gown">
+
+```
+​A full-body studio portrait of a beautiful young woman with long, wavy brown hair and the exact facial features as the second image provided, wearing an elegant, sleeveless, floor-length red evening gown. She is wearing a silver pendant necklace and matching silver earrings. The dress is a smooth, form-fitting fabric and she is wearing silver high, slim-heeled pumps. She is standing in a luxurious, modern penthouse setting with a dark wood floor and large floor-to-ceiling windows overlooking a city skyline at twilight. Her pose is poised and confident, with her hands clasped lightly in front of her. The lighting is soft and dramatic.
+这是一张工作室拍摄的全身肖像，描绘的是一位美丽的年轻女子，她有着一头长长的棕色波浪卷发，五官与第二张照片一模一样，身着优雅的无袖及地红色晚礼服。她佩戴着一条银色吊坠项链和与之相配的银色耳环。裙子面料光滑贴身，脚穿银色细高跟鞋。她站在一间奢华现代的顶层公寓里，深色木地板和宽大的落地窗俯瞰着暮色中的城市天际线。她姿态泰然自若，充满自信，双手轻轻握在身前。灯光柔和而富有戏剧性。
 ```
 
 ---
@@ -6814,6 +7662,24 @@ Prompt: Photorealistic minimalist therapy room; light walls, grey sofa, wooden c
 
 ---
 
+### [Create Your Own GPT Version](https://aiart.pics/prompt/create-your-own-gpt-version)
+
+**Author**: [@samann_ai](https://x.com/samann_ai)
+
+**Source**: [X](https://x.com/Samann_ai/status/1982774584198991988)
+
+<img src="https://img1.aiart.pics/images/prompts/20251204/create-your-own-gpt-version-1.jpg" width="500" alt="Create Your Own GPT Version">
+
+```
+Create your own 𝗛𝗬𝗣𝗘𝗥 𝗥𝗘𝗔𝗟 𝗧𝗜𝗡𝗬 version 👇”
+1️⃣ Open Seedream 4.0 or Gemini Nano Banana
+2️⃣ Upload your photo
+3️⃣ Paste the prompt ( Prompt in ALT)
+your tiny self is ready! https://t.co/W9Z9JOVdaZ
+```
+
+---
+
 ### [Brand Studio Photo](https://aiart.pics/prompt/brand-studio-photo)
 
 **Author**: [@samann_ai](https://x.com/samann_ai)
@@ -6859,6 +7725,38 @@ Hyper-realistic carved wooden figurine of [CHARACTER], chibi proportions (big he
 
 ---
 
+## 𝗦𝗮𝗻𝗶𝗮
+
+### [Confident Elegant Lady in Black Suit](https://aiart.pics/prompt/confident-elegant-lady-in-black-suit)
+
+**Author**: [@𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_)
+
+**Source**: [X](https://x.com/saniaspeaks_/status/1980821497284554960)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/confident-elegant-lady-in-black-suit.jpeg" width="500" alt="Confident Elegant Lady in Black Suit">
+
+```
+A beautiful, confident woman wearing a black suit sits elegantly on a luxurious white chair that highlights her slim, graceful figure. Her right hand rests gently beneath her chin, with her chin slightly raised in a pose of self-assurance. Her head tilts subtly to the right, eyes steady and looking forward with confidence. Her facial features glow under high-quality cinematic lighting, enhancing her natural beauty. The background is pure white, featuring a rare art painting and soft, cinematic illumination. Beside the chair stands a unique white table topped with a black coffee cup and a stylish lamp decor, creating a refined and elegant atmosphere.
+一位美丽自信的女士身着黑色西装，优雅地坐在奢华的白色椅子上，衬托出她窈窕的身姿。她的右手轻抚下巴，下巴微微上扬，展现出自信的姿态。她的头微微向右倾斜，目光坚定，充满自信地向前看去。在高品质的电影级灯光下，她的五官更加光彩夺目，更显自然之美。纯白的背景，点缀着一幅罕见的艺术画作，柔和的电影级灯光营造出一种别致的氛围。椅子旁边摆放着一张独特的白色桌子，桌上摆放着黑色咖啡杯和时尚的灯饰，营造出精致优雅的氛围。
+```
+
+---
+
+### [Vertical Portrait of Beauty](https://aiart.pics/prompt/vertical-portrait-of-beauty)
+
+**Author**: [@𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_)
+
+**Source**: [X](https://x.com/saniaspeaks_/status/1976622473107194142)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/vertical-portrait-of-beauty.jpeg" width="500" alt="Vertical Portrait of Beauty">
+
+```
+A hyper-realistic 4K UHD vertical potrait (3:4) of me, preserving my exact original face and features. i am seated , slightly leaned forward with relaxed and calm expression. the background is a smooth, rich gradient of oranve and yellow tones, casting soft but vivid warm ambiet light around me, lighting is studio-grade , creating a glowing cinematic effect with gentle shadow behind me. i wear a loose , dark robe or fabric that drapes naturally. the mood is artistic and slightly surreal , with a moody, high-contrast look and a golden , warm color palette. the overall style is realistic , cinematic , and softly lit - with stunning UHD detail.
+这是一张超现实的 4K UHD 竖拍肖像（3:4），保留了我原本的面容和特征。我坐着，身体微微前倾，表情放松而平静。背景是平滑、丰富的橙色和黄色渐变色调，在我周围投射出柔和而生动的温暖氛围光，灯光是工作室级别的，在我身后形成柔和的阴影，营造出一种闪耀的电影效果。我穿着宽松的深色长袍或自然垂坠的布料。氛围充满艺术感，略带超现实主义，具有忧郁、高对比度的外观和金色、温暖的色调。整体风格逼真、具有电影感，灯光柔和，并带有令人惊叹的 UHD 细节。
+```
+
+---
+
 ## seezatnap
 
 ### [Nano Banana's Photoshop Checkerboard Background Boosts Layout Finishing by 5x, Behaving Like a Digital Artist in a Funny Way](https://aiart.pics/prompt/nano-banana-photoshop-checkerboard-background-boosts-layout-finishing)
@@ -6873,6 +7771,23 @@ Hyper-realistic carved wooden figurine of [CHARACTER], chibi proportions (big he
 
 ```
 turns out that giving nano banana a photoshop checkerboard background makes it easily 5x better at "finishing a layout" -- again, it behaves like a literal digital artist in funny ways https://t.co/wqvHh14rhX
+```
+
+---
+
+## shiri_shh
+
+### [Create 3D Twitter Profile Card](https://aiart.pics/prompt/create-3d-twitter-profile-card)
+
+**Author**: [@shiri_shh](https://x.com/shiri_shh)
+
+**Source**: [X](https://x.com/shiri_shh/status/1984196161784422790)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/create-3d-twitter-profile-card.jpeg" width="500" alt="Create 3D Twitter Profile Card">
+
+```
+Step 1: Take a screenshot of your Twitter profile.\nStep 2: Open ChatGPT\nStep 3: Paste your screenshot and this prompt below\n\nCreate a hyper-realistic 3D render of a transparent twitter profile card, designed like a futuristic glass ID badge held gently between two fingers. The card should be rectangular with rounded corners, made of clear glossy glass or acrylic, with glowing neon edges in pink, purple, and orange gradient inspired by the twitter color palette. Display the following profile information on the card using modern, minimal sans-serif typography.
+第1步：截取您的 Twitter 个人资料屏幕截图。\n第2步：打开 ChatGPT\n第3步：粘贴您的屏幕截图和以下提示\n\n制作一张超逼真的透明推特个人资料卡的3D渲染图，设计灵感源自未来主义的玻璃身份识别卡，可轻柔地夹在两指之间。卡片应为圆角矩形，材质为透明光面玻璃或亚克力，边缘带有粉色、紫色和橙色渐变的霓虹灯效果，灵感来自推特的配色方案。使用现代简约的无衬线字体在卡片上展示以下个人资料信息。
 ```
 
 ---
@@ -6920,6 +7835,68 @@ A hyper-realistic, ultra-detailed 3D digital advertisement showcasing a Pepsi ca
 
 ---
 
+## Anissa
+
+### [Fashionable Woman Photo with Bear](https://aiart.pics/prompt/fashionable-woman-photo-with-bear)
+
+**Author**: [@Anissa](https://x.com/SimplyAnnisa)
+
+**Source**: [X](https://x.com/SimplyAnnisa/status/1980804390694056368)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/fashionable-woman-photo-with-bear.jpeg" width="500" alt="Fashionable Woman Photo with Bear">
+
+```
+Ultra-cinematic shot of a confident, stylish woman in a sleek, dark suit blazer and combat boots, standing with a massive brown bear slightly behind her, with her hand resting on the bear. It's clear that the bear is her protector and loyal, trained companion. Ultra-detailed photo in Russian style. Dramatic, directed lighting, minimal environmental immersion, solid red background. The image exudes boldness, strength, and a feeling of high tension.
+这张极具电影感的照片展现了一位自信时尚的女子，身着时尚的深色西装外套和军靴，站在她身后一头巨大的棕熊旁，她的手放在熊身上。显然，这头熊是她的守护者，也是她训练有素的忠诚伙伴。这张细节丰富的照片展现了俄罗斯风格。戏剧性的定向灯光，极简的环境沉浸感，以及纯红色的背景。这张照片展现了大胆、力量和高度紧张的氛围。
+```
+
+---
+
+### [Cinematic Surrealist Portrait](https://aiart.pics/prompt/cinematic-surrealist-portrait)
+
+**Author**: [@Anissa](https://x.com/SimplyAnnisa)
+
+**Source**: [X](https://x.com/SimplyAnnisa/status/1980503919492272216)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/cinematic-surrealist-portrait.jpeg" width="500" alt="Cinematic Surrealist Portrait">
+
+```
+A cinematic, hyper-realistic portrait of \n@simplyannisa\n, keeping her real facial features completely unchanged. The woman sits at a wooden table, leaning slightly forward, with her right forearm resting naturally on the surface. Her right hand gently holds a dark ceramic mug with the word “\n@simplyannisa\n” written on it. Her fingers are slender, relaxed, and slightly curved. Her left arm is bent at the elbow, resting casually on the table. She wears a dark gray, slightly loose long-sleeve Henley top with the top buttons undone, subtly revealing a delicate neckline. Her hair falls naturally around her shoulders, soft waves catching the light. Her gaze is directed to the side, away from the camera, carrying a thoughtful and mysterious expression. The lighting is soft and moody, emphasizing the texture of her hair and face while adding cinematic contrast and emotional depth. The portrait is shot at eye level with an 85mm lens effect and a shallow depth of field, keeping her face and upper body in sharp focus while the background softly blurs. The overall color grading is muted and cinematic, with cool tones, soft shadows, and a minimalist dark background.
+这幅充满电影感的超现实主义肖像画，保留了@simplyannisa的真实面部特征。画中女子坐在木桌旁，身形微微前倾，右臂自然地搭在桌面上。她的右手轻轻地捧着一个深色陶瓷杯，杯上写着“ @simplyannisa ”三个字。她的手指纤细、放松，略带弧度。左臂肘部弯曲，随意地搭在桌上。她身穿一件略显宽松的深灰色长袖亨利衫，最上面的纽扣敞开，隐约露出精致的领口。她的头发自然地披散在肩上，柔和的波浪在光线下闪闪发光。她的目光转向侧面，远离镜头，带着一种若有所思、神秘莫测的表情。柔和的光线营造出一种忧郁的氛围，突出了她头发和面部的质感，同时增添了电影般的对比度和情感深度。这幅肖像画采用85毫米镜头，在视线高度处以浅景深拍摄，使她的脸部和上半身保持清晰对焦，而背景则略微模糊。整体色彩分级柔和且具有电影感，具有冷色调、柔和阴影和简约的深色背景。
+```
+
+---
+
+### [Woman 3D Digital Illustration](https://aiart.pics/prompt/woman-3d-digital-illustration)
+
+**Author**: [@Anissa](https://x.com/SimplyAnnisa)
+
+**Source**: [X](https://x.com/SimplyAnnisa/status/1980553716131414281)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/woman-3d-digital-illustration.jpeg" width="500" alt="Woman 3D Digital Illustration">
+
+```
+A hyper-realistic 3D digital illustration of a woman with her natural facial features, hairstyle, and skin tone unchanged, styled in a Pixar-inspired cinematic look. She is smiling warmly while leaning through a glowing orange rectangular frame, both hands gently holding the edge of the frame. She wears a denim jacket layered over a black top, subtle jewelry, and a smartwatch on her wrist. The lighting is soft yet vibrant, highlighting facial depth, realistic fabric texture, and warm glow reflections on her face and hands. The background is softly blurred, creating a cinematic atmosphere with a perfect blend of realism, warmth, and Pixar-style charm.
+这幅超写实的3D数字插画描绘了一位女性，其自然的五官、发型和肤色均未改变，并采用了皮克斯风格的电影风格。她面带温暖的微笑，身影透过发光的橙色矩形画框倾身而立，双手轻轻握住画框边缘。她身穿牛仔夹克，内搭黑色上衣，佩戴着精致的珠宝，手腕上戴着智能手表。灯光柔和而明亮，凸显了面部深度、逼真的织物纹理以及她脸部和双手上温暖的光芒。背景轻柔地模糊处理，营造出一种电影般的氛围，完美融合了现实主义、温暖感和皮克斯风格的魅力。
+```
+
+---
+
+### [Cinematic Street Beauty Photography](https://aiart.pics/prompt/cinematic-street-beauty-photography)
+
+**Author**: [@Anissa](https://x.com/SimplyAnnisa)
+
+**Source**: [X](https://x.com/SimplyAnnisa/status/1977191937330336130)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/cinematic-street-beauty-photography.jpeg" width="500" alt="Cinematic Street Beauty Photography">
+
+```
+CINEMATIC STREET PHOTOGRAPHY, STYLISH YOUNG WOMAN IN MOTION, URBAN ENVIRONMENT, MOTION BLUR EFFECT. BLURRED PEDESTRIANS PASSING BY, SHALLOW DEPTH OF FIELD, NATURAL OVERCAST LIGHTING, SOFT PASTEL TONES, EDITORIAL FASHION PHOTOGRAPHY, CANDID MOMENT, DYNAMIC MOVEMENT, FILM AESTHETIC, MUTED COLORS
+电影感街头摄影、动态中的时尚年轻女性、城市环境、动态模糊效果。匆匆而过的模糊行人、浅景深、阴天自然光、柔和的马卡龙色调、时尚杂志风格摄影、抓拍瞬间、动态感、胶片美学、低饱和度色彩
+```
+
+---
+
 ## skirano
 
 ### [Put this shirt on him](https://aiart.pics/prompt/put-this-shirt-on-him)
@@ -6943,6 +7920,23 @@ Previously nano-banana https://t.co/7jX8vJ7GOx
 ---
 
 ## 松果先森
+
+### [Mid-Autumn Festival Swing Photo](https://aiart.pics/prompt/mid-autumn-festival-swing-photo)
+
+**Author**: [@松果先森](https://x.com/songguoxiansen)
+
+**Source**: [X](https://x.com/songguoxiansen/status/1975198365932769599)
+
+<img src="https://img1.aiart.pics/images/prompts/20251216/mid-autumn-festival-swing-photo-1.jpg" width="500" alt="Mid-Autumn Festival Swing Photo">
+
+```
+国庆中秋提示词系列！
+中秋月下秋千照片-Nano Banana提示词分享！
+NanoBanana提示词：
+图片中人物坐在装饰着粉蓝花朵的绳索秋千上。背景是一轮巨大且发光的圆月，衬着深色背景；下方水面朦胧，倒映出她的身影，营造出梦幻、空灵的氛围；电影级光影强化了画面的仙气感。 https://t.co/mcDgFX3t3d
+```
+
+---
 
 ### [GPT-4o Cartoon Ghost](https://aiart.pics/prompt/gpt-4o-cartoon-ghost)
 
@@ -6997,6 +7991,139 @@ Nano Banana提示词分享系列-制作证件照。
 ```
 Create a 3D kawaii 10-16 canvas featuring nine chibi-style stickers in various outfits, poses, and expressions. Use the uploaded attachment image. Each sticker has a white border and includes a speech bubble with regular use phrases. Set on a soft white-to-pastel blue gradient background for a fun, positive vibe, perfect for WhatsApp app use.
 创建一幅尺寸为 10-16 的 3D 可爱风格画布，其中包含 9 个 Q 版风格贴纸。这些贴纸要采用不同的服装、姿势和表情，使用已经上传的附件图片。每个贴纸都要有白色边框，且包含一个带有日常用语的 speech 气泡。背景设置为柔和的白到淡蓝色渐变，营造出有趣、积极的氛围，非常适合在 WhatsApp 应用中使用。
+```
+
+---
+
+### [Girl Changing Clothes](https://aiart.pics/prompt/girl-changing-clothes)
+
+**Author**: [@松果先森](https://x.com/songguoxiansen)
+
+**Source**: [X](https://x.com/songguoxiansen/status/1981178658397229294)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/girl-changing-clothes.jpeg" width="500" alt="Girl Changing Clothes">
+
+```json
+{\n  "scene": {\n    "location": "A minimalist, dark bedroom or dressing room",\n    "background": "A simple, dark grey wall, out of focus"\n  },\n  "subject": {\n    "age": "adult",\n    "description": "East Asian woman, elegant, hair in a loose bun with stray strands",\n    "wardrobe": "A simple, dark-colored (e.g., black, navy) form-fitting dress",\n    "accessories": "None",\n    "pose": "Shot from behind, three-quarter view. Her own hand is reaching back, pulling the zipper down (e.g., to the middle of her back).",\n    "expression": "(Face mostly obscured or in profile) Subtle, mysterious, ambiguous",\n    "gaze": "Looking down at her hand or away from camera",\n    "body_notes": "Photorealistic, realistic adult proportions; realistic hand and skin texture on back"\n  },\n  "camera": {\n    "sensor": "full_frame",\n    "focal_length_mm": 100,\n    "aperture_f": 2.8,\n    "shutter_s": 0.01,\n    "iso": 400,\n    "white_balance_k": 4500,\n    "distance_m": 2.0,\n    "camera_height_m": 1.6,\n    "framing": "Tight medium shot (head to waist), focusing on the hand, zipper, and back",\n    "focus": "Manual focus on the hand and zipper"\n  },\n  "lighting": {\n    "key": "Dramatic side light (gridded strip light) to highlight the hand and spine",\n    "fill": "Deep shadows, very low fill",\n    "hair": "Subtle rim light",\n    "notes": "Low-key, high-contrast, "storytelling" image"\n  },\n  "color_grade": {\n    "style": "Cinematic, moody, ambiguous",\n    "palette": "Desaturated, cool tones, blacks, skin tones",\n    "contrast": "High, "chiaroscuro"",\n    "saturation": "Low"\n  },\n  "makeup": {\n    "eyes": "(Not visible)",\n    "cheeks": "(Not visible)",\n    "lips": "(Not visible)"\n  },\n  "postprocess": {\n    "retouch": "Maintain natural skin texture, add film grain",\n    "clarity": "High clarity on the zipper and hand",\n    "dodge_burn": "Dodge on the spine, hand, and zipper pull",\n    "vignette": "Strong dark vignette"\n  },\n  "art_direction": {\n    "mood": "Sensual, ambiguous, mysterious, intimate, quiet",\n    "keywords": ["photorealistic", "sensual", "ambiguous", "zipper", "low-key", "cinematic", "intimate"]\n  },\n  "negative_prompts": [\n    "nsfw",\n    "underage look",\n    "text or logos",\n    "plastic doll skin",\n    "cg",\n    "3d render",\n    "anime",\n    "warped hands",\n    "extra fingers",\n    "deformed limbs"\n  ]\n}
+{\n“场景”： {\n"location": "简约、黑暗的卧室或更衣室",\n“背景”：“简单的深灰色墙壁，失焦”\n}，\n“主题”： {\n"年龄": "成人",\n"description": "东亚女性，优雅，头发松散，发髻散落，\n"wardrobe": "一件简单的深色（例如黑色、海军蓝）合身连衣裙",\n"accessories": "无",\n"pose": "从后面拍摄，四分之三视角。她自己的手伸到后面，拉下拉链（例如，拉到她背部中间）。",\n"expression": "（脸部大部分被遮挡或侧面）微妙、神秘、暧昧",\n"gaze": "低头看着她的手或远离相机",\n"body_notes": "照片般逼真的成人比例；背部的手部和皮肤纹理逼真"\n}，\n“相机”： {\n“传感器”：“全帧”，\n"焦距毫米": 100,\n“aperture_f”：2.8，\n“shutter_s”：0.01，\n“iso”：400，\n"白平衡k": 4500,\n“距离_米”：2.0，\n"相机高度米": 1.6,\n"framing": "近距离中景拍摄（从头到腰），重点关注手、拉链和背部",\n"focus": "手动对焦手和拉链"\n}，\n“灯光”： {\n"key": "戏剧性的侧光（网格条灯）突出手部和脊柱",\n"fill": "深阴影，非常低的填充",\n"hair": "微妙的边缘光",\n"notes": "低调、高对比度、“讲故事”的图像"\n}，\n“颜色等级”：{\n"style": "电影化、喜怒无常、模棱两可",\n"palette": "去饱和、冷色调、黑色、肤色",\n"contrast": "高, "明暗对比"",\n“饱和度”：“低”\n}，\n“化妆品”： {\n"eyes": "(不可见)",\n"cheeks": "(不可见)",\n"lips": "(不可见)"\n}，\n“后处理”：{\n"retouch": "保持自然的皮肤纹理，添加胶片颗粒感",\n"clarity": "拉链和手部清晰度高",\n"dodge_burn": "躲避脊柱、手和拉链头",\n"vignette": "强烈的暗色调晕影"\n}，\n“艺术指导”：{\n"mood": "感性、暧昧、神秘、亲密、安静",\n“关键词”：[“照片写实”、“感性”、“模棱两可”、“拉链”、“低调”、“电影”、“亲密”]\n}，\n"negative_prompts": [\n“nsfw”，\n“未成年的样子”，\n“文字或徽标”，\n“塑料娃娃皮肤”，\n“cg”，\n“3D渲染”，\n“日本动画片”，\n“扭曲的手”，\n“额外的手指”，\n“肢体畸形”\n]\n}
+```
+
+---
+
+### [Girl Inside Cafe](https://aiart.pics/prompt/girl-inside-cafe)
+
+**Author**: [@松果先森](https://x.com/songguoxiansen)
+
+**Source**: [X](https://x.com/songguoxiansen/status/1981178596581658768)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/girl-inside-cafe.jpeg" width="500" alt="Girl Inside Cafe">
+
+```json
+{\n  "scene": {\n    "location": "A bright, aesthetic cafe interior",\n    "background": "Pastel-colored wall, a small potted plant on the table, window light"\n  },\n  "subject": {\n    "age": "adult",\n    "description": "East Asian woman, soft, wavy hair with air bangs",\n    "wardrobe": "Cute pastel-colored blouse or off-the-shoulder top",\n    "accessories": "Delicate layered necklaces, holding a latte or colorful drink",\n    "pose": "Sitting at the table, leaning forward slightly, hands around the cup, as if listening intently",\n    "expression": "Sweet, "first date" smile, slight head tilt, \'eye-smile\'",\n    "gaze": "Direct to camera (as if the viewer is her date)",\n    "body_notes": "Photorealistic, realistic adult proportions; natural skin texture"\n  },\n  "camera": {\n    "sensor": "full_frame",\n    "focal_length_mm": 50,\n    "aperture_f": 2.0,\n    "shutter_s": 0.008,\n    "iso": 250,\n    "white_balance_k": 5600,\n    "distance_m": 1.8,\n    "camera_height_m": 1.4,\n    "framing": "Medium close-up (chest-up), \'point-of-view\' (POV) shot",\n    "focus": "eye_detect_AF on nearest eye"\n  },\n  "lighting": {\n    "key": "Large, soft window light from the front-side",\n    "fill": "White bounce card or natural bounce from the table",\n    "hair": "Gentle rim light",\n    "catchlights": "Large, soft window catchlights",\n    "notes": "Bright, airy, clean aesthetic"\n  },\n  "color_grade": {\n    "style": "Ulzzang / \'Clean\' aesthetic",\n    "palette": "Pastels, white, skin tones; clear, luminous skin",\n    "contrast": "Medium-low, clean shadows",\n    "saturation": "Moderate, fresh"\n  },\n  "makeup": {\n    "eyes": "Natural winged eyeliner (\'puppy dog\' style), highlighted aegyo-sal",\n    "cheeks": "Peach gradient blush",\n    "lips": "Glossy pink gradient lips"\n  },\n  "postprocess": {\n    "retouch": "Professional \'glass skin\' retouch (light, maintain pores)",\n    "clarity": "Selective clarity on eyes, lips, and drink",\n    "vignette": "Very subtle bright vignette"\n  },\n  "art_direction": {\n    "mood": "Sweet, approachable, trendy, \'date\' vibe",\n    "keywords": ["photorealistic", "sweet girl", "cafe", "date", "Ulzzang", "eye-smile", "POV"]\n  },\n  "negative_prompts": [\n    "nsfw",\n    "underage look",\n    "text or logos",\n    "plastic doll skin",\n    "cg",\n    "3d render",\n    "anime",\n    "dark lighting",\n    "sad expression"\n  ]\n}
+{\n“场景”： {\n“地点”：“明亮、美观的咖啡馆内部”，\n“背景”：粉彩色的墙壁，桌上的一盆小植物，窗外的光线\n}，\n“主题”： {\n“年龄”: “成人”\n描述：东亚女性，头发柔软，微卷，留着蓬松的刘海。\n“衣橱”： “可爱的粉彩色衬衫或露肩上衣”，\n“配饰”：“精致的多层项链，配上一杯拿铁或色彩缤纷的饮品”，\n“姿势”：“坐在桌旁，身体微微前倾，双手捧着杯子，仿佛在认真倾听”，\n“表情”：“甜美的、‘初次约会’式的微笑，微微歪头，‘笑眼’”，\n“凝视”：“直视镜头（仿佛观众是她的约会对象）”，\n"body_notes": "逼真的成人比例；自然的皮肤纹理"\n}，\n“相机”： {\n"传感器": "全帧",\n"focal_length_mm": 50,\n"aperture_f": 2.0,\n"shutter_s": ​​0.008,\n“iso”：250，\n"white_balance_k": 5600,\n"distance_m": 1.8,\n"camera_height_m": 1.4,\n“构图”：“中近景（胸部以上），‘主观’（POV）镜头”，\n"focus": "eye_detect_AF on nearest eye"\n}，\n“灯光”： {\n“关键”：“来自正面的大而柔和的窗户光线”，\n“填充物”: “白色弹跳卡或桌面上的自然弹跳”，\n“头发”：“柔和的边缘光”，\n“眼神光”：“大而柔和的窗户眼神光”，\n备注：明亮、通风、干净的美学风格\n}，\n"color_grade": {\n"风格": "Ulzzang / \'Clean\' 美学",\n“调色板”：“柔和的粉彩色调、白色、肤色；清透、透亮的肌肤”，\n“对比度”：“中低，干净的阴影”，\n“饱和度”：“适中，清新”\n}，\n“化妆品”： {\n“眼睛”：“自然上扬眼线（小狗眼线风格），高光卧蚕眼妆”，\n“脸颊”: “蜜桃渐变腮红”\n“嘴唇”： “亮粉色渐变唇妆”\n}，\n"后处理": {\n“修图”：“专业‘玻璃肌’修图（轻微，保留毛孔）”\n“清晰度”： “选择性地提高眼睛、嘴唇和饮料的清晰度”\n“小景”： “非常微妙的明亮小景”\n}，\n“艺术指导”：{\n“氛围”：“甜蜜、平易近人、时尚、‘约会’氛围”，\n关键词：["写实", "甜美女孩", "咖啡馆", "约会", "韩系美女", "笑眼", "第一人称视角"]\n}，\n"negative_prompts": [\n"nsfw",\n“未成年样貌”，\n“文字或标志”，\n“塑料娃娃皮肤”，\n“cg”，\n“3D渲染”，\n“日本动画片”，\n“昏暗的照明”，\n“悲伤的表情”\n]\n}
+```
+
+---
+
+### [Rainbow Hairstyle Girl](https://aiart.pics/prompt/rainbow-hairstyle-girl)
+
+**Author**: [@松果先森](https://x.com/songguoxiansen)
+
+**Source**: [X](https://x.com/songguoxiansen/status/1981178522988343619)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/rainbow-hairstyle-girl.jpeg" width="500" alt="Rainbow Hairstyle Girl">
+
+```json
+{\n  "scene": {\n    "location": "Hyper-colorful studio",\n    "background": "Pastel pink wall, decorated with 80s/90s retro toys (e.g., My Little Pony, Care Bears), vinyl records"\n  },\n  "subject": {\n    "age": "adult",\n    "description": "East Asian woman, rainbow pastel hair (wig), large, excited eyes",\n    "wardrobe": "Layered pastel t-shirts (e.g., mint green over lavender), a pink tutu skirt, colorful striped leg warmers, pastel high-top sneakers",\n    "accessories": "Excessive plastic jewelry: beaded necklaces, star bracelets, large bow in hair",\n    "pose": "High-energy, mid-jump or one leg popped high, arms up in excitement, peace signs",\n    "expression": "Hyper, excited, huge open-mouthed smile, \'genki\'",\n    "gaze": "Direct to camera, full of energy",\n    "body_notes": "realistic adult proportions; natural skin texture"\n  },\n  "camera": {\n    "sensor": "full_frame",\n    "focal_length_mm": 35,\n    "aperture_f": 4.0,\n    "shutter_s": 0.008,\n    "iso": 200,\n    "white_balance_k": 5000,\n    "distance_m": 3.0,\n    "camera_height_m": 1.0,\n    "framing": "Full body, capturing the dynamic pose",\n    "focus": "eye_detect_AF on nearest eye"\n  },\n  "lighting": {\n    "key": "Bright, even, "pop" lighting (on-axis beauty dish or ring flash)",\n    "fill": "Two large softboxes on sides, eliminating shadows",\n    "hair": "Simple top light",\n    "catchlights": "Distinctive ring light catchlight",\n    "notes": "High-key, flat, "magazine pop" style"\n  },\n  "color_grade": {\n    "style": "Fairy Kei, 80s pastel-pop",\n    "palette": "All pastels: pink, lavender, mint, yellow; bright, clear skin",\n    "contrast": "Medium, very clean",\n    "saturation": "High saturation on all pastels"\n  },\n  "makeup": {\n    "eyes": "Bright pastel eyeshadow (e.g., blue), winged liner, glitter",\n    "cheeks": "Bright pink blush, maybe small face stickers (e.g., stars)",\n    "lips": "Bubblegum pink glossy lips"\n  },\n  "postprocess": {\n    "retouch": "Clean skin",\n    "clarity": "High clarity on all accessories and clothing layers",\n    "dodge_burn": "Minimal, keep lighting flat and bright",\n    "vignette": "None"\n  },\n  "art_direction": {\n    "mood": "Hyper, energetic, nostalgic, colorful, bubbly",\n    "keywords": ["Fairy Kei", "Harajuku", "pastel", "80s", "retro toys", "colorful", "bubbly"]\n  },\n  "negative_prompts": [\n    "nsfw",\n    "underage look",\n    "text or logos",\n    "plastic doll skin",\n    "warped hands or extra fingers",\n    "deformed limbs",\n    "dark colors",\n    "Goth",\n    "sad expression"\n  ]\n}
+{\n“场景”： {\n“地点”：“色彩缤纷的工作室”，\n“背景”：“粉色墙面，装饰着 80 年代/90 年代的复古玩具（例如，小马宝莉、爱心熊）、黑胶唱片”\n}，\n“主题”： {\n“年龄”: “成人”\n描述：东亚女性，彩虹色假发，大而兴奋的眼睛。\n“衣橱”： “层叠的粉彩色T恤（例如，薄荷绿叠穿薰衣草色），粉色芭蕾舞裙，彩色条纹腿套，粉彩色高帮运动鞋”，\n“配饰”：“过多的塑料首饰：串珠项链、星星手镯、头发上的大蝴蝶结”，\n“姿势”：“充满活力，跳跃或单腿高高抬起，兴奋地举起双臂，比出和平手势”，\n“表情”：“亢奋、兴奋、咧嘴大笑，‘元气’”，\n“凝视”：“直视镜头，充满活力”，\n"body_notes": "逼真的成人比例；自然的皮肤纹理"\n}，\n“相机”： {\n"传感器": "全帧",\n"focal_length_mm": 35,\n"aperture_f": 4.0,\n"shutter_s": ​​0.008,\n“iso”：200，\n"white_balance_k": 5000,\n"distance_m": 3.0,\n"camera_height_m": 1.0,\n“构图”：“全身照，捕捉动态姿态”，\n"focus": "eye_detect_AF on nearest eye"\n}，\n“灯光”： {\n“关键”： “明亮、均匀、‘突出’的照明（轴向柔光罩或环形闪光灯）”，\n“填充”：“两侧各有一个大型柔光箱，消除阴影”，\n“头发”：“简单的顶光”，\n“眼神光”： “独特的环形灯光眼神光”，\n备注：高调、平淡、杂志流行风格\n}，\n"color_grade": {\n“风格”：“仙女系，80年代粉彩流行”\n“调色板”：“所有柔和的粉彩色调：粉色、薰衣草色、薄荷色、黄色；明亮、清透的肌肤”，\n“对比度”：“中等，非常干净”，\n“饱和度”：所有粉彩色调都具有高饱和度\n}，\n“化妆品”： {\n“眼睛”：“明亮的粉彩色眼影（例如蓝色），上扬的眼线，闪粉”，\n“脸颊”：“亮粉色腮红，也许可以贴一些小贴纸（例如星星）”，\n“嘴唇”： “泡泡糖粉色亮泽嘴唇”\n}，\n"后处理": {\n“修饰”: “干净的皮肤”，\n“清晰度”：“所有配饰和服装层都具有高清晰度”，\n"dodge_burn": "极简，保持光线平整明亮"\n“小插曲”： “无”\n}，\n“艺术指导”：{\n“情绪”： “亢奋、精力充沛、怀旧、色彩缤纷、活泼”\n关键词：[“仙女系”、“原宿”、“粉彩”、“80年代”、“复古玩具”、“色彩缤纷”、“活泼”]\n}，\n"negative_prompts": [\n"nsfw",\n“未成年样貌”，\n“文字或标志”，\n“塑料娃娃皮肤”，\n“畸形手或多余手指”，\n“肢体畸形”，\n“暗色”，\n“哥特式”\n“悲伤的表情”\n]\n}
+```
+
+---
+
+### [Twin Tails Girl Making Heart Sign](https://aiart.pics/prompt/twin-tails-girl-making-heart-sign)
+
+**Author**: [@松果先森](https://x.com/songguoxiansen)
+
+**Source**: [X](https://x.com/songguoxiansen/status/1981178453216137391)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/twin-tails-girl-making-heart-sign.jpeg" width="500" alt="Twin Tails Girl Making Heart Sign">
+
+```json
+{\n  "scene": {\n    "location": "Themed \'Maid Cafe\' interior, focused and clean",\n    "background": "Bright pink walls, checkered floor, subtle hearts and ruffle decorations (soft focus, no distracting elements)"\n  },\n  "subject": {\n    "age": "adult",\n    "description": "Realistic East Asian woman, dark hair in high twin-tails with ribbons, sparkling, energetic eyes",\n    "wardrobe": "Classic black maid dress with a short skirt, pristine white frilly apron, knee-high white socks with bows",\n    "accessories": "Frilly maid headband, ribbons in hair",\n    "pose": "Full body, dynamic \'moe moe kyun\' pose; both hands making a heart gesture, one foot popped, slight bow",\n    "expression": "Extremely energetic, wide-eyed \'kawaii\' smile, \'genki\' (energetic) personality",\n    "gaze": "Direct to camera, engaging and cheerful",\n    "body_notes": "realistic adult proportions; natural skin texture"\n  },\n  "camera": {\n    "sensor": "full_frame",\n    "focal_length_mm": 35,\n    "aperture_f": 2.8,\n    "shutter_s": 0.008,\n    "iso": 400,\n    "white_balance_k": 5000,\n    "distance_m": 3.0,\n    "camera_height_m": 1.0,\n    "framing": "Full body shot, slightly low angle to enhance cuteness and energy",\n    "focus": "eye_detect_AF on nearest eye"\n  },\n  "lighting": {\n    "key": "Bright, even, slightly flat studio lighting (simulating cafe interior)",\n    "fill": "Large softboxes from both sides to eliminate shadows",\n    "hair": "Top-down rim light to separate hair",\n    "catchlights": "Multiple, large, bright catchlights",\n    "notes": "Very bright, \'pop\' lighting, high-key"\n  },\n  "color_grade": {\n    "style": "Akihabara-pop, vibrant",\n    "palette": "Bright pink, black, white; clear, bright skin",\n    "contrast": "Medium, very clean and crisp",\n    "saturation": "High saturation"\n  },\n  "makeup": {\n    "eyes": "Emphasized \'anime\' eyes, prominent aegyo-sal, long upper and lower lashes",\n    "cheeks": "Bright pink, circular blush",\n    "lips": "High-gloss pink or red lip tint"\n  },\n  "postprocess": {\n    "retouch": "Clean skin retouching, "idol" level",\n    "clarity": "High clarity on eyes, apron ruffles, and hair",\n    "dodge_burn": "Dodge on eyes to make them sparkle",\n    "vignette": "None"\n  },\n  "art_direction": {\n    "mood": "Energetic, cheerful, adorable, welcoming",\n    "keywords": ["maid cafe", "moe", "kawaii", "twin-tails", "heart gesture", "Akihabara"]\n  },\n  "negative_prompts": [\n    "nsfw",\n    "underage look",\n    "text or logos",\n    "plastic doll skin",\n    "warped hands or extra fingers",\n    "deformed limbs",\n    "dark or moody",\n    "French maid (Victorian)",\n    "sad expression",\n    "cluttered background",\n    "photography equipment",\n    "lighting equipment"\n  ]\n}
+{\n“场景”： {\n“地点”：“以女仆咖啡厅为主题的室内设计，简洁明了”，\n“背景”：“亮粉色的墙壁，格子地板，精致的心形和褶皱装饰（柔焦，无分散注意力的元素）”\n}，\n“主题”： {\n“年龄”: “成人”\n“描述”：“一位写实的东亚女性，深色头发扎成高高的双马尾，用丝带系着，眼睛闪亮而充满活力。”\n“服装”：“经典的黑色女仆装，短裙，洁白的褶边围裙，带蝴蝶结的白色过膝袜”，\n“配饰”：“褶边女仆头带，头发上的丝带”，\n“姿势”：“全身动态‘萌萌哒’姿势；双手比心，一只脚翘起，微微鞠躬”\n“表情”：“活力四射，睁大眼睛露出‘可爱’的笑容，‘元气’（精力充沛）的性格”，\n“眼神”：“直视镜头，专注而快乐”，\n"body_notes": "逼真的成人比例；自然的皮肤纹理"\n}，\n“相机”： {\n"传感器": "全帧",\n"focal_length_mm": 35,\n"aperture_f": 2.8,\n"shutter_s": ​​0.008,\n“iso”：400，\n"white_balance_k": 5000,\n"distance_m": 3.0,\n"camera_height_m": 1.0,\n“构图”：“全身照，略微低角度拍摄，以增强可爱和活力”，\n"focus": "eye_detect_AF on nearest eye"\n}，\n“灯光”： {\n“关键”： “明亮、均匀、略微平淡的影棚照明（模拟咖啡馆内部）”\n“填充”：“从两侧使用大型柔光箱以消除阴影”，\n“头发”： “自上而下的边缘光，用于分离头发”，\n“眼神光”： “多个、大、明亮的眼神光”，\n备注：非常明亮、流行风格的灯光，高调\n}，\n"color_grade": {\n风格： “秋叶原流行，充满活力”\n“调色板”：“亮粉色、黑色、白色；清透、明亮的肌肤”\n“对比度”：“中等，非常干净清晰”，\n“饱和度”: “高饱和度”\n}，\n“化妆品”： {\n“眼睛”： “强调‘动漫’眼睛，突出卧蚕，上下睫毛长”，\n“脸颊”：“亮粉色，圆形腮红”，\n“唇部”： “高光泽粉色或红色唇彩”\n}，\n"后处理": {\n“修图”：“干净的皮肤修图，‘偶像’级别”，\n“清晰度”：“眼睛、围裙褶边和头发的清晰度很高”，\n"dodge_burn": "在眼睛上加闪，使它们闪闪发光",\n“小插曲”： “无”\n}，\n“艺术指导”：{\n“情绪”：“充满活力、开朗、可爱、热情好客”\n关键词：["女仆咖啡厅", "萌", "可爱", "双马尾", "爱心手势", "秋叶原"]\n}，\n"negative_prompts": [\n"nsfw",\n“未成年样貌”，\n“文字或标志”，\n“塑料娃娃皮肤”，\n“畸形手或多余手指”，\n“肢体畸形”，\n“阴郁或忧郁的”，\n“法国女仆（维多利亚时代）”\n“悲伤的表情”，\n“杂乱的背景”，\n“摄影器材”，\n“照明设备”\n]\n}
+```
+
+---
+
+### [Sleepy Girl on White Pillow](https://aiart.pics/prompt/sleepy-girl-on-white-pillow)
+
+**Author**: [@松果先森](https://x.com/songguoxiansen)
+
+**Source**: [X](https://x.com/songguoxiansen/status/1981178369262964886)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/sleepy-girl-on-white-pillow.jpeg" width="500" alt="Sleepy Girl on White Pillow">
+
+```json
+{\n  "scene": {\n    "location": "Bedroom, in bed",\n    "background": "White pillows and soft, rumpled bedsheets, soft morning light"\n  },\n  "subject": {\n    "age": "adult",\n    "description": "East Asian woman, beautiful \'just woke up\' messy hair, sleepy eyes",\n    "wardrobe": "Simple, thin-strap camisole (e.g., silk or cotton), strap slightly falling off one shoulder",\n    "accessories": "None",\n    "pose": "Lying on her stomach in bed, propped up on her elbows, looking at the camera",\n    "expression": "Soft, sleepy smile, intimate, \'good morning\' look",\n    "gaze": "Direct to camera, soft and alluring",\n    "body_notes": "Photorealistic, realistic adult proportions; natural skin texture, visible collarbones, \'sleepy\' flush"\n  },\n  "camera": {\n    "sensor": "full_frame",\n    "focal_length_mm": 50,\n    "aperture_f": 1.8,\n    "shutter_s": 0.01,\n    "iso": 400,\n    "white_balance_k": 5500,\n    "distance_m": 1.5,\n    "camera_height_m": 0.8,\n    "framing": "Close-up (chest-up), at eye level with her",\n    "focus": "eye_detect_AF on nearest eye"\n  },\n  "lighting": {\n    "key": "Large, diffused window light from the side, creating very soft shadows",\n    "fill": "Bounced light from the white sheets",\n    "hair": "Soft halo from the window",\n    "catchlights": "Large, soft window catchlights",\n    "notes": "Very soft, high-key, intimate"\n  },\n  "color_grade": {\n    "style": "Intimate, soft, \'morning\' aesthetic",\n    "palette": "Whites, skin tones, pastels; soft, luminous skin",\n    "contrast": "Very low, dreamy",\n    "saturation": "Moderate, soft"\n  },\n  "makeup": {\n    "eyes": "None, \'bare face\' look",\n    "cheeks": "Natural, sleepy flush",\n    "lips": "Natural, hydrated"\n  },\n  "postprocess": {\n    "retouch": "Professional retouching, maintain "real skin" look",\n    "clarity": "Selective clarity on eyes and lashes",\n    "dodge_burn": "Subtle dodge on eyes and collarbone",\n    "vignette": "Subtle, bright vignette"\n  },\n  "art_direction": {\n    "mood": "Flirty, intimate, ambiguous, soft, sleepy, alluring",\n    "keywords": ["photorealistic", "flirty", "morning", "in bed", "ambiguous", "natural beauty", "sleepy"]\n  },\n  "negative_prompts": [\n    "nsfw",\n    "underage look",\n    "text or logos",\n    "plastic doll skin",\n    "cg",\n    "3d render",\n    "anime",\n    "heavy makeup",\n    "warped hands"\n  ]\n}
+{\n“场景”： {\n"location": "卧室，在床上",\n"background": "白色枕头、柔软、皱巴巴的床单、柔和的晨光"\n}，\n“主题”： {\n"年龄": "成人",\n"description": "东亚女子，美丽的‘刚睡醒’凌乱的头发，睡眼惺忪的眼睛",\n"wardrobe": "简单的细肩带吊带背心（例如丝绸或棉质），肩带略微从一侧肩膀垂下",\n"accessories": "无",\n"pose": "趴在床上，用手肘支撑身体，看着镜头",\n"expression": "温柔、困倦的微笑、亲密的‘早上好’表情",\n"gaze": "直视镜头，柔和而诱人",\n"body_notes": "照片般逼真的成人比例；自然的皮肤纹理，清晰可见的锁骨，‘困倦’的红晕"\n}，\n“相机”： {\n“传感器”：“全帧”，\n"焦距毫米": 50,\n“aperture_f”：1.8，\n“shutter_s”：0.01，\n“iso”：400，\n"白平衡k": 5500,\n“距离米”：1.5，\n“相机高度”：0.8，\n"framing": "特写（胸部以上），与她视线齐平",\n“focus”：“eye_detect_AF 在最近的眼睛上”\n}，\n“灯光”： {\n"key": "从侧面射入的大型漫射窗光，形成非常柔和的阴影",\n"fill": "从白色床单反射的光线",\n"hair": "窗户透出的柔和光晕",\n"catchlights": "大而柔和的窗户聚光灯",\n"notes": "非常柔软，高调，亲密"\n}，\n“颜色等级”：{\n"style": "亲密、柔和、‘早晨’美学",\n"palette": "白色、肤色、粉彩色；柔软、明亮的皮肤",\n"contrast": "非常低，梦幻",\n"saturation": "中等，柔和"\n}，\n“化妆品”： {\n"eyes": "无，‘素颜’样子",\n"cheeks": "自然、困倦的红晕",\n"lips": "自然、水润"\n}，\n“后处理”：{\n"retouch": "专业修图，保持“真实肌肤”外观",\n"clarity": "选择性地清晰眼睛和睫毛",\n"dodge_burn": "眼睛和锁骨处细微减淡",\n"vignette": "微妙、明亮的小插图"\n}，\n“艺术指导”：{\n"mood": "轻浮、亲密、暧昧、柔和、困倦、诱人",\n"keywords": ["照片写实", "调情", "早晨", "在床上", "模棱两可", "自然美", "困倦"]\n}，\n"negative_prompts": [\n“nsfw”，\n“未成年的样子”，\n“文字或徽标”，\n“塑料娃娃皮肤”，\n“cg”，\n“3D渲染”，\n“日本动画片”，\n“浓妆艳抹”，\n“扭曲的手”\n]\n}
+```
+
+---
+
+### [Girl Holding Retro Silver Microphone](https://aiart.pics/prompt/girl-holding-retro-silver-microphone)
+
+**Author**: [@松果先森](https://x.com/songguoxiansen)
+
+**Source**: [X](https://x.com/songguoxiansen/status/1981178292276527584)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/girl-holding-retro-silver-microphone.jpeg" width="500" alt="Girl Holding Retro Silver Microphone">
+
+```json
+{\n"scene": {\n    "location": "Bright photo studio",\n    "background": "Solid, high-saturation macaroon pink seamless background"\n  },\n  "subject": {\n    "age": "adult",\n    "description": "East Asian woman, long curly caramel-colored hair with sparkling gold highlights, confident \'idol\' gaze",\n    "wardrobe": "Sparkly \'idol\' stage outfit: pink plaid pleated skirt, cropped top with white lace trim, large bow on chest, sequin details",\n    "accessories": "White lace wrist gloves, sparkly star-shaped hair clips, one hand holding a retro silver microphone (as a prop)",\n    "pose": "Full body, classic idol pose: one hand on hip, other hand making a heart gesture near cheek, S-curve posture, confident",\n    "expression": "Perfect, bright \'professional\' smile, sparkling eyes, full of charm",\n    "gaze": "Direct to camera (engaging with fans)",\n    "body_notes": "realistic adult proportions; natural skin texture"\n  },\n  "camera": {\n    "sensor": "full_frame",\n    "focal_length_mm": 70,\n    "aperture_f": 3.2,\n    "shutter_s": 0.008,\n    "iso": 100,\n    "white_balance_k": 5200,\n    "distance_m": 4.0,\n    "camera_height_m": 1.1,\n    "framing": "Full body shot, with enough space to show the pose",\n    "focus": "eye_detect_AF on nearest eye"\n  },\n  "lighting": {\n    "key": "Large ring flash, creating the iconic ring catchlight",\n    "fill": "Two large softboxes on the sides, providing even, high-key \'K-pop\' lighting",\n    "hair": "Hard light from high-behind to create shiny hair highlights",\n    "catchlights": "Clear ring-shaped catchlights",\n    "notes": "High-key, bright, no shadows, emphasize sparkly texture of outfit"\n  },\n  "color_grade": {\n    "style": "K-Pop / J-Pop Idol, high-key kawaii",\n    "palette": "Bright pink, white, caramel; flawless \'glass skin\'",\n    "contrast": "Medium, very clean",\n    "saturation": "High saturation, vibrant"\n  },\n  "makeup": {\n    "eyes": "Stage makeup: thick false lashes, sparkly liquid eyeshadow, highlighted aegyo-sal",\n    "cheeks": "Bright strawberry-pink blush",\n    "lips": "High-gloss gradient \'juicy lips\'"\n  },\n  "postprocess": {\n    "retouch": "Highly refined skin retouching, but maintain pore texture (not plastic)",\n    "clarity": "Enhance clarity on sequins, eyes, lips, and hair highlights",\n    "dodge_burn": "Micro dodge on aegyo-sal, nose bridge, and collarbones",\n    "vignette": "None, keep background clean"\n  },\n  "art_direction": {\n    "mood": "Sparkly, confident, energetic, sweet idol",\n    "keywords": ["idol", "K-Pop", "J-Pop", "stage outfit", "heart gesture", "sparkly"]\n  },\n  "negative_prompts": [\n    "nsfw",\n    "underage look",\n    "text or logos",\n    "plastic doll skin",\n    "warped hands or extra fingers",\n    "deformed limbs",\n    "dark or moody lighting",\n    "plain clothing",\n    "sad expression"\n  ]\n}
+{\n“场景”： {\n"location": "明亮摄影工作室",\n"background": "纯色、高饱和度的马卡龙粉色无缝背景"\n}，\n“主题”： {\n"年龄": "成人",\n"description": "东亚女性，长长的卷曲焦糖色头发，带有闪亮的金色亮点，自信的“偶像”目光",\n"wardrobe": "闪亮的‘偶像’舞台装：粉色格子百褶裙，白色蕾丝边短款上衣，胸前大蝴蝶结，亮片细节",\n"accessories": "白色蕾丝腕手套，闪亮的星形发夹，一只手拿着复古的银色麦克风（作为道具）",\n"pose": "全身，经典偶像姿势：一只手叉腰，另一只手在脸颊附近做爱心手势，S 形曲线，自信",\n"expression": "完美、灿烂的‘专业’笑容，闪亮的眼睛，充满魅力",\n"gaze": "直视镜头（与粉丝互动）",\n"body_notes": "逼真的成人比例；自然的皮肤纹理"\n}，\n“相机”： {\n“传感器”：“全帧”，\n"焦距毫米": 70,\n"aperture_f": 3.2,\n“shutter_s”：0.008，\n"iso": 100,\n"白平衡k": 5200,\n“距离米”：4.0，\n"camera_height_m": 1.1,\n"framing": "全身照，留出足够的空间来展示姿势",\n“focus”：“eye_detect_AF 在最近的眼睛上”\n}，\n“灯光”： {\n"key": "大型环形闪光灯，营造标志性的环形眼神光",\n"fill": "两侧有两个大型柔光箱，提供均匀、高调的“K-pop”照明",\n"hair": "从高处照射强光，打造闪亮的头发亮点",\n"catchlights": "透明环形眼神光",\n"notes": "高调、明亮、无阴影，强调服装的闪亮质感"\n}，\n“颜色等级”：{\n"style": "K-Pop / J-Pop 偶像，高调可爱",\n"palette": "亮粉色、白色、焦糖色；完美无瑕的‘玻璃肌肤’",\n"contrast": "中等，非常干净",\n"saturation": "高饱和度，鲜艳"\n}，\n“化妆品”： {\n"eyes": "舞台妆：浓密的假睫毛、闪亮的液体眼影、高光的撒娇眼影",\n"cheeks": "明亮的草莓粉色腮红",\n"lips": "高光渐变‘水润双唇’"\n}，\n“后处理”：{\n"retouch": "高度精致的皮肤修饰，但保持毛孔纹理（不是塑料）",\n"clarity": "增强亮片、眼睛、嘴唇和头发亮点的清晰度",\n"dodge_burn": "对撒娇、鼻梁和锁骨进行微减淡",\n"vignette": "无，保持背景干净"\n}，\n“艺术指导”：{\n"mood": "闪亮、自信、活力、甜美的偶像",\n"keywords": ["偶像", "K-Pop", "J-Pop", "舞台服装", "心形手势", "闪亮"]\n}，\n"negative_prompts": [\n“nsfw”，\n“未成年的样子”，\n“文字或徽标”，\n“塑料娃娃皮肤”，\n“弯曲的手或多余的手指”，\n“畸形肢体”，\n“昏暗或阴郁的灯光”，\n“便衣”，\n“悲伤的表情”\n]\n}
+```
+
+---
+
+### [Girl in Pale Peach Loose Plush Pajamas](https://aiart.pics/prompt/girl-in-pale-peach-loose-plush-pajamas)
+
+**Author**: [@松果先森](https://x.com/songguoxiansen)
+
+**Source**: [X](https://x.com/songguoxiansen/status/1982984662747373744)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/girl-in-pale-peach-loose-plush-pajamas.jpeg" width="500" alt="Girl in Pale Peach Loose Plush Pajamas">
+
+```json
+{\n  "scene": {\n    "location": "cozy bedroom corner",\n    "background": "soft-focus string of fairy lights against a pastel lavender wall"\n  },\n  "subject": {\n    "age": "adult",\n    "description": "East Asian women, messy shoulder-length dark hair, sleepy-looking soft brown eyes",\n    "wardrobe": "oversized, fluffy fleece pajama set (onesie or two-piece) in pastel peach, with a hood featuring animal ears (e.g., bunny)",\n    "accessories": "holding a large, cute teddy bear plush toy, wearing fuzzy socks",\n    "pose": "sitting on the floor, knees pulled up to chest, hugging the teddy bear, hood with ears is up",\n    "expression": "soft, sleepy pout, \'puffy\' cheeks, half-smile, radiating comfort",\n    "gaze": "direct to camera, soft and inviting",\n    "body_notes": "realistic adult proportions; natural skin texture, relaxed posture"\n  },\n  "camera": {\n    "sensor": "full_frame",\n    "focal_length_mm": 50,\n    "aperture_f": 1.8,\n    "shutter_s": 0.0125,\n    "iso": 640,\n    "white_balance_k": 4800,\n    "distance_m": 2.5,\n    "camera_height_m": 0.8,\n    "framing": "medium shot, from head to knees, emphasizing the plush toy and pajamas",\n    "focus": "eye_detect_AF on nearest eye"\n  },\n  "lighting": {\n    "key": "soft, warm light from a nearby lamp (out of frame), simulating evening",\n    "fill": "ambient light from the fairy lights, creating small bokeh highlights",\n    "hair": "subtle glow on hair from fairy lights",\n    "catchlights": "multiple small, warm catchlights from fairy lights",\n    "notes": "warm, intimate, very soft, \'golden hour\' indoor feel"\n  },\n  "color_grade": {\n    "style": "cozy & cute, soft-glam",\n    "palette": "pastel peach, lavender, warm creams; glowing skin",\n    "contrast": "low, dreamy, slightly hazy",\n    "saturation": "moderate"\n  },\n  "makeup": {\n    "eyes": "minimal, \'no-makeup\' makeup, slightly smudged soft brown liner",\n    "cheeks": "flushed pink blush, as if warm",\n    "lips": "hydrated, natural pink lip tint"\n  },\n  "postprocess": {\n    "retouch": "very light skin softening, maintain pores",\n    "clarity": "selective clarity on eyes and plush toy texture",\n    "dodge_burn": "gentle dodge on cheeks and nose bridge",\n    "vignette": "soft, warm vignette to draw focus"\n  },\n  "art_direction": {\n    "mood": "cozy, sleepy, adorable, intimate",\n    "keywords": ["pajama", "plush toy", "fairy lights", "cozy", "animal ears"]\n  },\n  "negative_prompts": [\n    "nsfw",\n    "underage look",\n    "text or logos",\n    "plastic doll skin",\n    "warped hands or extra fingers",\n    "deformed limbs",\n    "bright daylight",\n    "sharp shadows",\n    "cluttered room"\n  ]\n}
+{\n“场景”： {\n"location": "舒适的卧室角落",\n“背景”：“柔和焦点的仙女灯串映衬着淡紫色的墙壁”\n}，\n“主题”： {\n"年龄": "成人",\n"description": "东亚女性，凌乱的齐肩黑发，睡眼惺忪的柔和棕色眼睛",\n"wardrobe": "超大蓬松羊毛睡衣套装（连体衣或两件套），淡桃色，带动物耳朵图案（例如兔子）的兜帽",\n"accessories": "抱着一只大大的、可爱的泰迪熊毛绒玩具，穿着毛茸茸的袜子",\n"pose": "坐在地板上，膝盖拉到胸前，抱着泰迪熊，带耳朵的帽子向上",\n"expression": "柔软、困倦的嘟嘴、‘浮肿’的脸颊、半微笑、散发着舒适感",\n"gaze": "直视镜头，柔和而诱人",\n"body_notes": "逼真的成人比例；自然的皮肤纹理，放松的姿势"\n}，\n“相机”： {\n“传感器”：“全帧”，\n"焦距毫米": 50,\n“aperture_f”：1.8，\n“shutter_s”：0.0125，\n"iso": 640,\n"白平衡k": 4800,\n“距离米”：2.5，\n“相机高度”：0.8，\n"framing": "中景，从头到膝盖，突出毛绒玩具和睡衣",\n“focus”：“eye_detect_AF 在最近的眼睛上”\n}，\n“灯光”： {\n"key": "附近灯光发出的柔和、温暖的光线（画面外），模拟夜晚",\n"fill": "来自仙女灯的环境光，创造出小的散景高光",\n"hair": "仙女灯在头发上散发出微妙的光芒",\n"catchlights": "来自仙女灯的多个小而温暖的眼神光",\n“注释”：“温暖、亲密、非常柔软、‘黄金时段​​’室内感觉”\n}，\n“颜色等级”：{\n"style": "舒适可爱，柔和迷人",\n"palette": "淡桃色、薰衣草色、暖色乳霜；容光焕发的肌肤",\n"contrast": "低，梦幻，略带朦胧",\n“饱和度”：“中等”\n}，\n“化妆品”： {\n"eyes": "极简主义的‘素颜’妆容，略微晕染的柔和棕色眼线笔",\n“脸颊”：“泛着粉红色的腮红，仿佛温暖”，\n"lips": "水润自然的粉色唇彩"\n}，\n“后处理”：{\n"retouch": "非常轻微的皮肤柔化，维持毛孔",\n“清晰度”：“眼睛和毛绒玩具纹理的选择性清晰度”，\n"dodge_burn": "在脸颊和鼻梁上轻轻减淡",\n"vignette": "柔和、温暖的晕影来吸引焦点"\n}，\n“艺术指导”：{\n"mood": "舒适、困倦、可爱、亲密",\n"keywords": ["睡衣", "毛绒玩具", "仙女灯", "舒适", "动物耳朵"]\n}，\n"negative_prompts": [\n“nsfw”，\n“未成年的样子”，\n“文字或徽标”，\n“塑料娃娃皮肤”，\n“弯曲的手或多余的手指”，\n“畸形肢体”，\n“明亮的日光”，\n“清晰的阴影”，\n“杂乱的房间”\n]\n}
+```
+
+---
+
+### [A Dramatic Black and White Close-up Portrait](https://aiart.pics/prompt/a-dramatic-black-and-white-close-up-portrait)
+
+**Author**: [@松果先森](https://x.com/songguoxiansen)
+
+**Source**: [X](https://x.com/songguoxiansen/status/1983347050306523506)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/a-dramatic-black-and-white-close-up-portrait.jpeg" width="500" alt="A Dramatic Black and White Close-up Portrait">
+
+```
+一张极具戏剧张力的黑白特写肖像，展现了一位英俊的年轻东亚男性。他的头发微湿，凌乱地贴在额头和脸颊上，脸颊上挂着几颗水珠。他眼神迷离，嘴唇微张，表情中带着一丝脆弱和诱惑。他穿着一件被水浸湿的黑色T恤，贴合在肩膀上。强烈的侧光照亮了他脸上的水珠和湿润的皮肤，形成鲜明的高光，与深邃的阴影形成强烈对比。极简的深色背景，照片极具电影氛围，高细节，胶片颗粒感重，传达出一种神秘而充满张力的情绪。
+```
+
+---
+
+### [Three Views of Person and Car](https://aiart.pics/prompt/three-views-of-person-and-car)
+
+**Author**: [@松果先森](https://x.com/songguoxiansen)
+
+**Source**: [X](https://x.com/songguoxiansen/status/1983425570596892858)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/three-views-of-person-and-car.jpeg" width="500" alt="Three Views of Person and Car">
+
+```
+A cinematic automotive photoshoot of me, keeping my real face unchanged. The scene is composed of three perspectives as a :\n\n1. Top Panel: Interior close-up: I am seated inside the car, wearing a fitted black polo shirt, shown in the side mirror reflection. My face is serious and focused, my gaze directed forward with determination. The angle captures only side view part of my profile, framed cleanly within the mirror, emphasizing intensity and precision.\n\n2.Middle Panel: I am standing confidently next to a sleek black Ford Mustang. My posture is relaxed but strong: both arms are crossed over my chest in a confident manner, while my left leg is straight and my right leg bent slightly at the knee, with the foot leaning casually against the car. My gaze is directed slightly off-camera, with a calm and assertive expression. I am wearing a fitted black polo shirt with subtle detailing, slim grey jeans with a clean cut, and brown leather boots. My outfit is minimal yet stylish, emphasizing a modern masculine vibe. Pose like a pro, same face as the uploaded photo.\n\n3. Bottom Panel: Rear car shot: The camera captures the back of the Mustang, showcasing the "YOUR NAME" license plate and muscular lines of the car. The photo emphasizes the glossy texture of the vehicle and its aggressive, cinematic presence. The setting is an urban environment with modern architecture and concrete walls, giving a gritty, cinematic atmosphere. The lighting is natural but slightly diffused, highlighting both me and the polished surface of the car.\n\nThe perspectives vary:\n\n- The mirror reflection close-up is shot tight with a portrait focal length (~85mm).\n\n- The exterior full-body shot is taken at eye-level with a slightly wide lens to capture both me and the car in full view.\n\n- The rear car angle uses a low perspective to emphasize power and presence.\n\nStyle: Cinematic automotive editorial, urban setting, moody and stylish, professional fashion-meets- car photography, same face.
 ```
 
 ---
@@ -7177,6 +8304,21 @@ all the details on how I made this video, below 🧵👇 https://t.co/PgWLiBIEeP
 
 ```
 Create a premium 3D rendered [FIGURE NAME] collectible vinyl figure in a modern designer toy aesthetic. The figure should feature glossy translucent vinyl material with subtle light refraction, bold saturated colors true to the character, and simplified geometric forms with smooth curves. Position against a pristine gradient background transitioning from light gray to white. Use professional product photography lighting with soft key light from above and gentle rim lighting to highlight the vinyl’s glossy finish. The character should be posed in a confident standing position, centered perfectly in frame. Apply shallow depth of field with the figure in sharp focus. Render in ultra-high resolution with clean minimalist composition, no text, logos, or distracting elements. Square aspect ratio 1080x1080 pixels, photorealistic quality with crisp details and vibrant color reproduction suitable for premium toy marketing.
+```
+
+---
+
+### [Brand 3D Render of Large Capsule Container](https://aiart.pics/prompt/brand-3d-render-of-large-capsule-container)
+
+**Author**: [@TechieSA](https://x.com/TechieBySA)
+
+**Source**: [X](https://x.com/TechieBySA/status/1984265548251980140)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/brand-3d-render-of-large-capsule-container.jpeg" width="500" alt="Brand 3D Render of Large Capsule Container">
+
+```
+Create a hyper-realistic 3D render of a large capsule-shaped container. The top half is solid and glossy in the brand’s signature color, featuring the official [BRAND] logo prominently. The bottom half is transparent, revealing multiple miniature famous products of this brand, [PRODUCT], neatly packed inside. Set against a dark background with cinematic lighting and soft reflections to create a premium, surreal advertising aesthetic. Ultra-detailed, professional product render style. 1080x1080 dimension
+制作一个超逼真的大型胶囊形容器的3D渲染图。上半部分为品牌标志性颜色的实心亮面材质，并醒目地印有[品牌]官方标识。下半部分为透明材质，展现出该品牌众多知名产品的微缩模型[产品]，整齐地包装在内。以深色背景搭配电影级灯光和柔和的反射效果，营造出高端超现实的广告美感。采用超精细的专业产品渲染风格。尺寸为1080x1080。
 ```
 
 ---
@@ -8977,6 +10119,56 @@ Transform this image into a 1930s animation storyboard in the style of Fleischer
 ```
 Transform this image into a 1950s poster in the style of mid-century modern graphic designers. Use flat, geometric color blocks with strong typographic elements.  The overall tone should be optimistic, nostalgic, and promotional. Add bold location labels and promotional slogans.
 将这张图片转换成20世纪50年代的海报，风格参考中世纪现代平面设计师的作品。采用扁平的几何色块，搭配醒目的排版元素。整体基调应乐观、怀旧且具有宣传性。添加醒目的地点标签和宣传标语。
+```
+
+---
+
+## wanerfu
+
+### [A Luxurious High Fashion Portrait](https://aiart.pics/prompt/a-luxurious-high-fashion-portrait)
+
+**Author**: [@wanerfu](https://x.com/wanerfu)
+
+**Source**: [X](https://x.com/wanerfu/status/1983353100066009387)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/a-luxurious-high-fashion-portrait.jpeg" width="500" alt="A Luxurious High Fashion Portrait">
+
+```
+一幅奢华的高级时尚肖像，[角色描述]优雅地坐在装饰华丽的大型长方形画框下边缘\n\n画框细节：\n• 巴洛克/洛可可风格长方形画框\n• 用[画框颜色和质地]绘制，与整体色调和谐\n\n环境：\n• 背景：优雅的工作室墙面，经典镶板[颜色]\n• 地板：略有反光，[地板颜色]\n\n灯光：\n• 电影式高调时尚光线\n• 主体柔和柔散光\n• 轻微轮廓分离\n\n相机：\n• 对称居中全身肖像\n• 干净的编辑时尚构图\n• 8K超清高端大片品质\n\n风格标签：单色 | 悬浮画框 | 电影工作室时尚 | 奢华编辑美学
+```
+
+---
+
+## Melisa♡
+
+### [Group Selfie with Marvel Characters](https://aiart.pics/prompt/group-selfie-with-marvel-characters)
+
+**Author**: [@Melisa♡](https://x.com/xmliisu)
+
+**Source**: [X](https://x.com/xmliisu/status/1980161909828526514)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/group-selfie-with-marvel-characters.jpeg" width="500" alt="Group Selfie with Marvel Characters">
+
+```
+A ultra realistic group selfie, center is the person from the attached image (uploaded image facial details), wearing a fitted black shirt and ripped jeans, holding an iPhone for the selfie. Around are Chris Hemsworth as Thor, Gal Gadot as Wonder Woman, Scarlett Johansson as Black Widow, Mark Ruffalo as Hulk, Henry Cavill as Superman, RDJ in full armor all hugging, smiling, posing casually like close friends. Fun, joyful mood, bright daylight, cinematic quality, natural look, high detail.
+一张超逼真的集体自拍，中间是附件图片中的人物（上传图片的面部细节），他身穿合身的黑色衬衫和破洞牛仔裤，手持 iPhone 自拍。周围是克里斯·海姆斯沃斯饰演的雷神、盖尔·加朵饰演的神奇女侠、斯嘉丽·约翰逊饰演的黑寡妇、马克·鲁法洛饰演的绿巨人、亨利·卡维尔饰演的超人，以及全副武装的 RDJ，他们拥抱在一起，面带微笑，像亲密朋友一样随意摆姿势。充满乐趣、愉悦的心情，明亮的日光，电影级画质，自然的画面，细节丰富
+```
+
+---
+
+## Zara
+
+### [90s Style Photo](https://aiart.pics/prompt/90s-style-photo)
+
+**Author**: [@Zara](https://x.com/ZaraIrahh)
+
+**Source**: [X](https://x.com/ZaraIrahh/status/1982268011416592593)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/90s-style-photo.jpeg" width="500" alt="90s Style Photo">
+
+```
+Without changing her original face, create a portrait of a beautiful young woman with porcelain-white skin, captured with a 1990s-style camera using a direct front flash. Her messy dark brown hair is tied up, posing with a calm yet playful smile. She wears a modern oversized cream sweater. The background is a dark white wall covered with aesthetic magazine posters and stickers, evoking a cozy bedroom or personal room atmosphere under dim lighting.
+不改变她原本的面容，用一台90年代风格的相机，搭配前置闪光灯，为一位拥有瓷白肌肤的年轻女子创作一幅肖像。她凌乱的深棕色头发扎起，脸上挂着平静而俏皮的微笑。她身穿一件现代感十足的奶油色宽松毛衣。背景是一面深白色的墙，墙上贴满了美学杂志的海报和贴纸，在昏暗的灯光下，营造出舒适的卧室或私人房间氛围。
 ```
 
 ---
