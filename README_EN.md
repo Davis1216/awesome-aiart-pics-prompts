@@ -68,6 +68,26 @@ PROMPT: create merch with this character https://t.co/qbUDjrCH57
 
 ---
 
+## 0xFunky
+
+### [Nano Banana Pro: 10-second Binance Registration Tutorial](https://aiart.pics/prompt/nano-banana-pro-10-second-binance-registration-tutorial)
+
+**Author**: [@0xFunky](https://x.com/0x0funky)
+
+**Source**: [X](https://x.com/0x0funky/status/1991618199465652407)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-10-second-binance-registration-tutorial-1.jpg" width="500" alt="Nano Banana Pro: 10-second Binance Registration Tutorial">
+
+```
+真的玩上癮了，Nano banana pro 真的太扯
+就一句prompt，只花10秒就完成了這下面的幣安註冊功略圖圖，重點是繁體中文字完全沒有出錯，還幫我把邀請碼完全沒出錯的放上去了...
+Prompt: "幫我畫出一份「申請 Binance」的 step-by-step 教學DM，每一個步驟用繁體中文做說明，圖上要有幣安LOGO，同時加入我的 binance 推薦邀請碼: GRO_28502_YHQUS "
+這完全是要顛覆整個行銷產業了...
+@binance @cz_binance @heyibinance @binancezh
+```
+
+---
+
 ## Daniel
 
 ### [Creative Toilet Image](https://aiart.pics/prompt/creative-toilet-image)
@@ -122,6 +142,39 @@ I generated a toilet as an example.
     "purpose": "To create clean, aesthetically pleasing visuals that emphasize simplicity, approachability, and modernity."
   }
 }
+```
+
+---
+
+## Marcel
+
+### [Nano Banana Pro - Make This Lego](https://aiart.pics/prompt/nano-banana-pro-make-this-lego)
+
+**Author**: [@Marcel](https://x.com/0xmarceleth)
+
+**Source**: [X](https://x.com/0xmarceleth/status/1991626113697845645)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-make-this-lego-1.jpg" width="500" alt="Nano Banana Pro - Make This Lego">
+
+```
+Nano Banana Pro - "Make this Lego"
+Gm ☕️ https://t.co/KBfRgACIRR
+```
+
+---
+
+## Kaushik Shivakumar
+
+### [Nano Banana Pro Full US Map with State Abbreviations in Watercolor Style & Creative Illustrations](https://aiart.pics/prompt/nano-banana-pro-full-us-map-with-state-abbreviations-in-watercolor-style-creative-illustrations)
+
+**Author**: [@Kaushik Shivakumar](https://x.com/19kaushiks)
+
+**Source**: [X](https://x.com/19kaushiks/status/1991566501284098216)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-full-us-map-with-state-abbreviations-in-watercolor-style-creative-illustrations-1.jpg" width="500" alt="Nano Banana Pro Full US Map with State Abbreviations in Watercolor Style & Creative Illustrations">
+
+```
+Asked Nano Banana Pro 🍌 for a full map of the US with all states labeled with their abbreviations (in watercolor style &amp; creative illustrations). This is actually quite a challenging task for image generation models, and this is the first model I've seen that gets this right. https://t.co/tABg05SJ5n
 ```
 
 ---
@@ -328,6 +381,24 @@ Prompt: Retexture the uploaded image based on the JSON
   },
   "vibe": "1980s retro toy, nostalgic, playful"
 }
+```
+
+---
+
+## Kevin A. Bryan
+
+### [Nano Banana Pro: An Ultra-Insane ImageGen Model](https://aiart.pics/prompt/nano-banana-pro-ultra-insane-imagegen-model)
+
+**Author**: [@Kevin A. Bryan](https://x.com/Afinetheorem)
+
+**Source**: [X](https://x.com/Afinetheorem/status/1991553227565985806)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-ultra-insane-imagegen-model-1.jpg" width="500" alt="Nano Banana Pro: An Ultra-Insane ImageGen Model">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-ultra-insane-imagegen-model-2.jpg" width="500" alt="Nano Banana Pro: An Ultra-Insane ImageGen Model">
+
+```
+One more on Nano Banana Pro. An utterly insane imagegen model. I gave it a screenshot from some AlldayTA advertising material, and said nothing other than "keep this the same but the class is about Lord Byron\'s writings". This is *much* better than prior off-the-shelf imagegen. https://t.co/Da9RVHe61q
 ```
 
 ---
@@ -578,6 +649,22 @@ Create a vertical 9:16 brand design guide poster using the uploaded product imag
 
 ---
 
+## AI Cinema Forge
+
+### [Nano Banana Pro Image](https://aiart.pics/prompt/nano-banana-pro-image)
+
+**Author**: [@AI Cinema Forge](https://x.com/AICinemaForge)
+
+**Source**: [X](https://x.com/AICinemaForge/status/1991565508236439687)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-image-1.jpg" width="500" alt="Nano Banana Pro Image">
+
+```
+Nano Banana Pro image https://t.co/vGunLKbj3X
+```
+
+---
+
 ## AI Imagined
 
 ### [DSLR Accessories and Internal Components Exploded View](https://aiart.pics/prompt/dslr-accessories-and-internal-components-exploded-view)
@@ -591,6 +678,28 @@ Create a vertical 9:16 brand design guide poster using the uploaded product imag
 ```
 Prompt for end frame image on #nanobanana
 "Exploded view of a DSLR showing all its accessories and internal components such as lens, filter,  internal components, lens, sensor, screws, buttons, viewfinder, housing, and circuit board. Maintain red accents of the DSLR " https://t.co/XmLTqMdasT
+```
+
+---
+
+## 赤川 彰 | 上級ウェブ解析士×上級SNSマネージャー
+
+### [New Nano banana Pro🍌: Illustration of Bear Protection Steps](https://aiart.pics/prompt/new-nano-banana-pro-bear-protection-steps-illustration)
+
+**Author**: [@赤川 彰 | 上級ウェブ解析士×上級SNSマネージャー](https://x.com/akagawaakira)
+
+**Source**: [X](https://x.com/akagawaakira/status/1991643306263187494)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/new-nano-banana-pro-bear-protection-steps-illustration-1.jpg" width="500" alt="New Nano banana Pro🍌: Illustration of Bear Protection Steps">
+
+```
+【めっちゃ驚愕😳】
+あたらしく登場したNano banana Pro🍌
+熊から身を守る手順をイラストでつくってください。 イラストに登場する人間は日本人。説明は日本語でお願いします。
+↑
+こんな稚拙なプロンプトで画像①が出力。
+NotebookLMに食べさせてインフォグラフィック出力するともっと精度の高い画像ができます🕺🏻
+※画像の熊への安全ガイドは正しいとは限りませんので。
 ```
 
 ---
@@ -822,6 +931,22 @@ Recreate the [BRAND NAME] logo following the JSON Aesthetic below: {\n"style": "
 
 ---
 
+## @alexgnewmedia
+
+### [Nano Banana Pro: An Impressive First Experience](https://aiart.pics/prompt/nano-banana-pro-an-impressive-first-experience)
+
+**Author**: [@@alexgnewmedia](https://x.com/alexgnewmedia)
+
+**Source**: [X](https://x.com/alexgnewmedia/status/1991641481376100575)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-an-impressive-first-experience-1.jpg" width="500" alt="Nano Banana Pro: An Impressive First Experience">
+
+```
+Ok… Nano Banana Pro is insane. I might have joined the banana party a bit late, but these first tests blew my mind. Images + prompts below. 👇🍌🍌🍌 https://t.co/UGUoD5bOXV
+```
+
+---
+
 ## 鲸鱼
 
 ### [Guide to Generating a Cuteness-Style 'Bazzy' Image](https://aiart.pics/prompt/guide-to-generating-a-cuteness-style-bazzy-image)
@@ -860,6 +985,28 @@ Recreate the [BRAND NAME] logo following the JSON Aesthetic below: {\n"style": "
 
 ```
 Hand-Carved Wooden Puppet (Czech Marionette Style)\\n\\nA hand-carved wooden marionette interpretation of [SUBJECT], with jointed limbs, painted details, and a slightly eerie antique finish. Showcase theatrical posture, stage lighting, and cultural craftsmanship in the styling.
+```
+
+---
+
+## Andreas Jansson
+
+### [1986 Shopping Channel VHS Tape Featuring the Most Useless Trinket Ever Invented](https://aiart.pics/prompt/1986-shopping-channel-vhs-tape-features-most-useless-trinket-ever-invented)
+
+**Author**: [@Andreas Jansson](https://x.com/allnoteson)
+
+**Source**: [X](https://x.com/allnoteson/status/1991559112635850956)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/1986-shopping-channel-vhs-tape-features-most-useless-trinket-ever-invented-1.jpg" width="500" alt="1986 Shopping Channel VHS Tape Featuring the Most Useless Trinket Ever Invented">
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/1986-shopping-channel-vhs-tape-features-most-useless-trinket-ever-invented-2.jpg" width="500" alt="1986 Shopping Channel VHS Tape Featuring the Most Useless Trinket Ever Invented">
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/1986-shopping-channel-vhs-tape-features-most-useless-trinket-ever-invented-3.jpg" width="500" alt="1986 Shopping Channel VHS Tape Featuring the Most Useless Trinket Ever Invented">
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/1986-shopping-channel-vhs-tape-features-most-useless-trinket-ever-invented-4.jpg" width="500" alt="1986 Shopping Channel VHS Tape Featuring the Most Useless Trinket Ever Invented">
+
+```
+"Still from a Shopping channel VHS tape from 1986, where someone is selling the most useless trinket ever invented" https://t.co/Ii5lzzRQbq
 ```
 
 ---
@@ -931,6 +1078,42 @@ Here’s how - 4 steps 👇
 ```
 Tiny cute isometric [CHARACTER or PRODUCT], soft lighting, soft pastel colors, 3d icon clay render, substance 3d, pastel background
 小巧可爱的等距视角[角色或产品]，柔和的光线，柔和的粉彩色调，3D图标粘土渲染，Substance 3D，粉彩背景
+```
+
+---
+
+## Angry Tom
+
+### [Nano Banana Pro Just Dropped! Now Live on Higgsfield!](https://aiart.pics/prompt/nano-banana-pro-just-dropped-now-live-on-higgsfield)
+
+**Author**: [@Angry Tom](https://x.com/AngryTomtweets)
+
+**Source**: [X](https://x.com/AngryTomtweets/status/1991588373535027369)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-just-dropped-now-live-on-higgsfield-1.jpg" width="500" alt="Nano Banana Pro Just Dropped! Now Live on Higgsfield!">
+
+```
+We're so cooked...
+Nano Banana Pro just dropped and it's LIVE on Higgsfield!
+It’s SOTA for image generation and editing with advanced world knowledge, text rendering, precision + controls.
+6 insane examples:
+1. Show calories, protein, fats and carbs for each item seperately https://t.co/8IMBSngsYg
+```
+
+---
+
+## Ani Baddepudi
+
+### [How to Tie a Tie with Nano Banana?](https://aiart.pics/prompt/nano-banana-how-to-tie-a-tie)
+
+**Author**: [@Ani Baddepudi](https://x.com/AniBaddepudi)
+
+**Source**: [X](https://x.com/AniBaddepudi/status/1991548690839007460)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/nano-banana-how-to-tie-a-tie-1.jpg" width="500" alt="How to Tie a Tie with Nano Banana?">
+
+```
+nano banana, how do you tie a tie? https://t.co/nB0r1dWDLx
 ```
 
 ---
@@ -1043,7 +1226,57 @@ Act as a creative director at Rockstar Games. Create a fictional GTA VI characte
 
 ---
 
+## lmarena.ai
+
+### [Gemini 2.5 vs. Gemini 3 Pro 'Nano Banana': Same prompt, different outcomes](https://aiart.pics/prompt/gemini-2-5-vs-gemini-3-pro-nano-banana-same-prompt-different-outcomes)
+
+**Author**: [@lmarena.ai](https://x.com/arena)
+
+**Source**: [X](https://x.com/arena/status/1991652781879620088)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/gemini-2-5-vs-gemini-3-pro-nano-banana-same-prompt-different-outcomes-1.jpg" width="500" alt="Gemini 2.5 vs. Gemini 3 Pro 'Nano Banana': Same prompt, different outcomes">
+
+```
+🍌⚡ We put Gemini 2.5 Flash Image “Nano Banana” vs. Gemini 3 Pro Image “Nano Banana Pro” head-to-head…
+Same prompt. Two different outcomes.
+Here’s what @GoogleDeepMind shared is new:
+🔶 Crisp, clearer text
+🔶 4K-ready visuals
+🔶 Stronger Gemini 3 reasoning
+🔶 Adjustable lighting + camera controls
+🔶 Formats from 1:1 to 9:16
+🔶 Blend images, scenes, and characters seamlessly
+🧵 Reply to share your comparisons with us.
+```
+
+---
+
 ## ΛRMIN | AI
+
+### [Nano Banana Pro: The Victory of a Stylish Alternative Young Woman](https://aiart.pics/prompt/nano-banana-pro-the-victory-of-a-stylish-alternative-young-woman)
+
+**Author**: [@ΛRMIN | AI](https://x.com/Arminn_Ai)
+
+**Source**: [X](https://x.com/Arminn_Ai/status/1991559284971204814)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/nano-banana-pro-the-victory-of-a-stylish-alternative-young-woman-1.jpg" width="500" alt="Nano Banana Pro: The Victory of a Stylish Alternative Young Woman">
+
+```
+Wow. I think we’ve found the real winner. 🍌
+Nano Banana Pro just showed up and it’s here to run the game.
+Prompt:
+A bold, alternative-style young woman in her mid-20s with a powerful, confident attitude. She has a half-shaved undercut hairstyle: one side closely shaved, the other side long, straight platinum-blonde hair falling over her shoulder. Her skin is light-medium with a natural matte finish, showing realistic skin texture, subtle pores, faint micro-imperfections, and soft natural highlights. No plastic smoothness. Her makeup is sharp but realistic: defined brows, warm smokey eyes, clean eyeliner, and matte pink lips. Her gaze is piercing and dominant.
+Her upper body and arms are covered in detailed black-and-grey tattoos: large floral pieces, bold linework, realistic shading, and a coiled dragon tattoo across her lower abdomen. Her neck features layered ornamental motifs. Tattoos look slightly textured.
+She wears a black fitted crop top and an open beige shirt with rolled sleeves. Accessories include layered black chokers, thin chains, small black earrings, and subtle piercings.
+Pose: She stands with both hands placed behind her head, elbows lifted wide in a strong V-shape. Fingers loosely interlocked. This pose raises her shoulders slightly and forms a subtle S-curve through her torso. Her head tilts a few degrees while maintaining direct eye contact with the viewer. Posture grounded and assertive.
+Background: A deep red studio backdrop, matte and slightly textured. Subtle gradient shadows around the edges. Clean, minimal, high-fashion red atmosphere.
+Lighting: Moody low-key studio lighting. A warm key light from the front-left enhances natural skin grain and pores without over-smoothing. A soft rim light from the right outlines her hair and shoulders. Gentle, realistic shadow transitions along her torso and arms. Balanced cinematic contrast.
+Camera & Technical: Full-frame camera with a 50mm or 85mm lens at f/2.2. Wider composition to keep both elbows fully inside the frame.
+High-resolution but non-airbrushed rendering, preserved micro-detail, slight film-like grain, soft vignette, deep red color depth. No beauty-filter effect.
+Mood & Imperfections: Realistic, powerful, alternative, stylish. Visible fine skin texture, tiny freckles, mild uneven highlights, soft grain in shadows for natural authenticity.
+```
+
+---
 
 ### [90s Retro Polaroid: Grok Imagine's Insane Vibes](https://aiart.pics/prompt/90s-retro-polaroid-grok-imagine-s-insane-vibes)
 
@@ -1436,6 +1669,39 @@ A flat isometric digital illustration of [describe the subject: e.g., a modern w
 
 ```
 A handcrafted illustration that simulates traditional embroidery using colorful threads on linen fabric. All elements are “stitched” with visible yarn textures, using techniques like satin stitch, backstitch, and French knots. Raised contours and directional thread flow create a tactile, cozy appearance. The background is made of woven linen, with gentle pastel or folk-inspired colors. The composition is friendly and magical, evoking a storybook charm. Include decorative details such as flowers, suns, clouds, trees or symbols to enhance the folk embroidery style.
+```
+
+---
+
+## アユネオ
+
+### [Nano banana Pro Signature Experience Comparison](https://aiart.pics/prompt/nano-banana-pro-signature-experience-comparison)
+
+**Author**: [@アユネオ](https://x.com/Ayu_AI_0912)
+
+**Source**: [X](https://x.com/Ayu_AI_0912/status/1991628620843086098)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-signature-experience-comparison-cover-1.jpg" width="500" alt="Nano banana Pro Signature Experience Comparison">
+
+```
+Nano banana Proで
+サイン書かせてみた【比較 】
+――――
+まじ革命じゃん🔥！
+Nano banana Pro(Nano banana 2)は
+日本語の生成能力がレべチ。
+・漢字
+・ひらがな
+どちらも破綻なし！
+（しっかりサインも作ってくれてる😂）
+全く同じプロンプトと画像を渡して
+生成してみたんだけど、
+▼
+参照している成人女性アイドルが、「Nano banana 2楽しい」というメッセージと、自身のサイン（名前は「くらげちゃん」）が書かれたサイン色紙を手に持ち、カメラ目線でこちらを見つめている。
+―――
+ちなみに今回は、
+FreePik経由でNanobanana Proを使ったよ！
+（1週間無制限で生成できるって🍌）
 ```
 
 ---
@@ -2140,7 +2406,45 @@ An embroidered portrait of Elon Musk, stitched with rich steel grey and electric
 
 ---
 
+## Azer Koçulu
+
+### [Testing Nano Banana Pro for 4K Product Shots](https://aiart.pics/prompt/testing-nano-banana-pro-for-4k-product-shots)
+
+**Author**: [@Azer Koçulu](https://x.com/azerkoculu)
+
+**Source**: [X](https://x.com/azerkoculu/status/1991576024623276431)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/testing-nano-banana-pro-for-4k-product-shots-cover-1.jpg" width="500" alt="Testing Nano Banana Pro for 4K Product Shots">
+
+```
+tried nano banana pro for 4K product shots.
+see it in action with mitte's editor 👇
+https://t.co/Zma9JiZZDw
+```
+
+---
+
 ## aziz4ai
+
+### [Tutorial on designing a hero poster using Nano Banana Pro](https://aiart.pics/prompt/using-nano-banana-pro-to-design-a-hero-poster)
+
+**Author**: [@aziz4ai](https://x.com/aziz4ai)
+
+**Source**: [X](https://x.com/aziz4ai/status/1991584744375779672)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/using-nano-banana-pro-to-design-a-hero-poster-1.jpg" width="500" alt="Tutorial on designing a hero poster using Nano Banana Pro">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/using-nano-banana-pro-to-design-a-hero-poster-2.jpg" width="500" alt="Tutorial on designing a hero poster using Nano Banana Pro">
+
+```
+كيف تصمم بوستر تصميم بطل باستخدام نانو بانانا برو؟
+كل اللي عليك تحط صورة المنتج وتضيف اسمه ونوعه والباقي بيتشكل حسب البرومبت
+تم العمل على هذا البوستر باستخدام Nano Banana Pro على @freepik
+البرومبت بالتعليق الجاي ⬇️
+اذا حسيت انك استفدت منه ريبوست + لايك + كومنت ❤️ https://t.co/MfiK1hk035
+```
+
+---
 
 ### [Google Officially Launches AI Image Editing and Generation Model Nano Banana Pro](https://aiart.pics/prompt/google-officially-launches-ai-image-editing-and-generation-model-nano-banana-pro)
 
@@ -3005,6 +3309,22 @@ tilt-shift photo of a grand piano keyboard, side view from the left looking alon
 
 ---
 
+## Bear Liu
+
+### [Tang Xuanzang's Journey to the West: Rick and Morty Style Route Map](https://aiart.pics/prompt/tang-xuanzang-xi-xing-lu-xian-rick-and-morty-style-route-map)
+
+**Author**: [@Bear Liu](https://x.com/bearbig)
+
+**Source**: [X](https://x.com/bearbig/status/1991649012227653938)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/tang-xuanzang-xi-xing-lu-xian-rick-and-morty-style-route-map-1.jpg" width="500" alt="Tang Xuanzang's Journey to the West: Rick and Morty Style Route Map">
+
+```
+nano banana pro 尝试：生成一张图片来说明唐玄奘从长安前往西域取经的路线,用中文. 图片是竖版 用Rick and Morty的风格 https://t.co/DWkpgggb2h
+```
+
+---
+
 ## Berryxia.AI
 
 ### [Banana App Practice 4: Specimen Display](https://aiart.pics/prompt/banana-app-practice-4-specimen-display)
@@ -3039,6 +3359,20 @@ Prompt：绘制3D人体器官模型展示示例心脏用于学术展示，进行
 
 ---
 
+### [Super Smash Bros Poster Family Portrait](https://aiart.pics/prompt/super-smash-bros-poster-family-portrait)
+
+**Author**: [@Berryxia.AI](https://x.com/berryxia_ai)
+
+**Source**: [X](https://x.com/berryxia_ai/status/1991541693708136662)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/super-smash-bros-poster-family-portrait.jpeg" width="500" alt="Super Smash Bros Poster Family Portrait">
+
+```
+绘制任天堂明星大乱斗游戏海报全家福，风格与游戏保持一致性。aspect 9:16 2k
+```
+
+---
+
 ## Bilawal Sidhu
 
 ### [Location-Based AR Experience Generator: Annotate Points of Interest in Images](https://aiart.pics/prompt/location-based-ar-experience-generator-annotate-points-of-interest-in-images)
@@ -3058,6 +3392,29 @@ Prompt：绘制3D人体器官模型展示示例心脏用于学术展示，进行
 ```
 Since nano banana has gemini's world knowledge, you can just upload screenshots of the real world and ask it to annotate stuff for you.
 "you are a location-based AR experience generator. highlight [point of interest] in this image and annotate relevant information about it." https://t.co/iLbCzPeyzr
+```
+
+---
+
+## Brent Lynch
+
+### [NANO Banana Pro Hot Tip: Easy Mode Animation to Live Action](https://aiart.pics/prompt/nano-banana-pro-hot-tip-easy-mode-animation-to-live-action)
+
+**Author**: [@Brent Lynch](https://x.com/BrentLynch)
+
+**Source**: [X](https://x.com/BrentLynch/status/1991549772642361604)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-hot-tip-easy-mode-animation-to-live-action-1.jpg" width="500" alt="NANO Banana Pro Hot Tip: Easy Mode Animation to Live Action">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-hot-tip-easy-mode-animation-to-live-action-2.jpg" width="500" alt="NANO Banana Pro Hot Tip: Easy Mode Animation to Live Action">
+
+```
+🍌NANO BANANA PRO HOT TIP
+FOR EASY MODE ANIMATION TO LIVE ACTION
+Use this simple prompt:
+show me the live action filmed version of image 1
+This will avoid triggering "photoreal CGI" and you won\'t have to do the whole "behind the scenes" trick.
+@venturetwins
 ```
 
 ---
@@ -3120,6 +3477,220 @@ A candid analog film photograph of a young K-pop idol on a street. She is crouch
 
 ---
 
+## Build Fast with AI
+
+### [Nano Banana Pro: Recognizes and Generates LEGO Pieces](https://aiart.pics/prompt/nano-banana-pro-recognizes-and-generates-lego-pieces)
+
+**Author**: [@Build Fast with AI](https://x.com/BuildFastWithAI)
+
+**Source**: [X](https://x.com/BuildFastWithAI/status/1991550540510294036)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-recognizes-and-generates-lego-pieces-1.jpg" width="500" alt="Nano Banana Pro: Recognizes and Generates LEGO Pieces">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-recognizes-and-generates-lego-pieces-2.jpg" width="500" alt="Nano Banana Pro: Recognizes and Generates LEGO Pieces">
+
+```
+Told Nano Banana Pro "make it LEGO"
+It generated recognizable LEGO pieces—studs, minifigure proportions, even the plastic texture.
+It's not just converting images. It understands what LEGO is.
+This level of reasoning is insane. 🤯
+#nanobanana  #Gemini3 #nanobananapro https://t.co/Wmq0uVZgZo
+```
+
+---
+
+## 苍何
+
+### [League of Legends: Yasuo's Mid Lane Lane Clearing Game Interface](https://aiart.pics/prompt/league-of-legends-yasuo-mid-lane-lane-clearing-game-interface)
+
+**Author**: [@苍何](https://x.com/canghecode)
+
+**Source**: [X](https://x.com/canghecode/status/1991618675552711147)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/league-of-legends-yasuo-mid-lane-lane-clearing-game-interface-1.jpg" width="500" alt="League of Legends: Yasuo's Mid Lane Lane Clearing Game Interface">
+
+```
+17、游戏界面
+提示词：帮我生成英雄联盟的游戏界面，中路亚索正在清理兵线 https://t.co/XrQkAZfW0l
+```
+
+---
+
+### [AI Empowerment Innovation Event Poster](https://aiart.pics/prompt/ai-empowerment-innovation-event-poster)
+
+**Author**: [@苍何](https://x.com/canghecode)
+
+**Source**: [X](https://x.com/canghecode/status/1991618671316463650)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/ai-empowerment-innovation-event-poster-1.jpg" width="500" alt="AI Empowerment Innovation Event Poster">
+
+```
+16、海报
+提示词：我要举办一场活动，主题为“AI赋能发明创新”，时间为2025年11月20日上午10点，地点在北京体育中心，请帮我画一张宣传海报，要求有科技感。 https://t.co/K3NjkIV20S
+```
+
+---
+
+### [PPT Design on AI Agent Application Scenarios](https://aiart.pics/prompt/ppt-design-on-ai-agent-application-scenarios)
+
+**Author**: [@苍何](https://x.com/canghecode)
+
+**Source**: [X](https://x.com/canghecode/status/1991618667310944477)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/ppt-design-on-ai-agent-application-scenarios-1.jpg" width="500" alt="PPT Design on AI Agent Application Scenarios">
+
+```
+15、 PPT
+提示词：我想做一页PPT，关于AI Agent的应用场景，你自行帮我设计一下，要求科技主题的。文字为中文 https://t.co/YJ6caJUWZr
+```
+
+---
+
+### [Analysis of the Battle of Red Cliffs in Strips](https://aiart.pics/prompt/battle-of-red-cliffs-in-strips)
+
+**Author**: [@苍何](https://x.com/canghecode)
+
+**Source**: [X](https://x.com/canghecode/status/1991618662697210154)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/battle-of-red-cliffs-in-strips-1.jpg" width="500" alt="Analysis of the Battle of Red Cliffs in Strips">
+
+```
+14、条漫
+提示词：做一些具有教育意义的条漫，使用中文，讲清赤壁之战，图文信息丰富。
+在阿真基础上做了 些改动 https://t.co/z93Gk0mr7U
+```
+
+---
+
+### [Ancient Manuscript Page of 'Tengwang Pavilion Precedence'](https://aiart.pics/prompt/ancient-manuscript-page-of-tengwang-pavilion-precedence)
+
+**Author**: [@苍何](https://x.com/canghecode)
+
+**Source**: [X](https://x.com/canghecode/status/1991618658842603626)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/ancient-manuscript-page-of-tengwang-pavilion-precedence-1.jpg" width="500" alt="Ancient Manuscript Page of 'Tengwang Pavilion Precedence'">
+
+```
+13、手稿页
+提示词：请为《滕王阁序》生成一个古老的手稿页，有星星和旁注的墨水图，书页风格 https://t.co/9cuznsyS7X
+```
+
+---
+
+### [Family Tree of 'One Hundred Years of Solitude'](https://aiart.pics/prompt/family-tree-of-one-hundred-years-of-solitude)
+
+**Author**: [@苍何](https://x.com/canghecode)
+
+**Source**: [X](https://x.com/canghecode/status/1991618649380294760)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/family-tree-of-one-hundred-years-of-solitude-1.jpg" width="500" alt="Family Tree of 'One Hundred Years of Solitude'">
+
+```
+12、人物关系图
+提示词：画出《百年孤独》中的重要人物关系图，用中文表示关系。 https://t.co/KQAOOFuRYG
+```
+
+---
+
+### [Ancient Poem Illustration: Picking Chrysanthemums Below the Eastern Fence, Seeing the South Mountain Leisurely.](https://aiart.pics/prompt/ancient-poem-illustration-picking-chrysanthemums-below-the-eastern-fence-seeing-the-south-mountain-leisurely)
+
+**Author**: [@苍何](https://x.com/canghecode)
+
+**Source**: [X](https://x.com/canghecode/status/1991618645123035609)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/ancient-poem-illustration-picking-chrysanthemums-below-the-eastern-fence-seeing-the-south-mountain-leisurely-1.jpg" width="500" alt="Ancient Poem Illustration: Picking Chrysanthemums Below the Eastern Fence, Seeing the South Mountain Leisurely.">
+
+```
+11、古诗句配图
+提示词：请为“采菊东篱下，悠然见南山。”这首诗配图。 https://t.co/937saStonp
+```
+
+---
+
+### [Zhuhai Travel Handbook](https://aiart.pics/prompt/zhuhai-travel-handbook)
+
+**Author**: [@苍何](https://x.com/canghecode)
+
+**Source**: [X](https://x.com/canghecode/status/1991618641335578739)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/zhuhai-travel-handbook-1.jpg" width="500" alt="Zhuhai Travel Handbook">
+
+```
+10、旅行手账图
+生成中国珠海的旅游指南，要求手账形式，画面要纯中文。 https://t.co/UaLjvoqzq3
+```
+
+---
+
+### [Children's Comic Book: The Story of a Zebra and an Elephant](https://aiart.pics/prompt/2岁半儿童连环画-斑马与大象的故事)
+
+**Author**: [@苍何](https://x.com/canghecode)
+
+**Source**: [X](https://x.com/canghecode/status/1991618632439460208)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/2--1.jpg" width="500" alt="Children's Comic Book: The Story of a Zebra and an Elephant">
+
+```
+8、连环画
+提示词：帮我生成一个 8 页的连环画，给 2 岁半的小朋友讲故事用，用中英文标出简短对话，主角是一只斑马和一只大象的故事，需要多角度展现主角，保持主角的一致性 https://t.co/IubqZBU59U
+```
+
+---
+
+### [App Prototype for Xiao Yu Tan](https://aiart.pics/prompt/app-prototype-for-xiao-yu-tan)
+
+**Author**: [@苍何](https://x.com/canghecode)
+
+**Source**: [X](https://x.com/canghecode/status/1991618628064776655)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/app-prototype-for-xiao-yu-tan-1.jpg" width="500" alt="App Prototype for Xiao Yu Tan">
+
+```
+5、产品原型图
+提示词：我想开发一款类似于“小宇宙”的APP，请你帮我画个原型图，所有要求均符合APP原型图标准。 https://t.co/gNOOpNzbk1
+```
+
+---
+
+### [Illustrated科普: How Genshin Impact Changed the Chinese Game Industry](https://aiart.pics/prompt/illustrated-how-genshin-impact-changed-the-chinese-game-industry)
+
+**Author**: [@苍何](https://x.com/canghecode)
+
+**Source**: [X](https://x.com/canghecode/status/1991618616299778151)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/illustrated-how-genshin-impact-changed-the-chinese-game-industry-1.jpg" width="500" alt="Illustrated科普: How Genshin Impact Changed the Chinese Game Industry">
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/illustrated-how-genshin-impact-changed-the-chinese-game-industry-2.jpg" width="500" alt="Illustrated科普: How Genshin Impact Changed the Chinese Game Industry">
+
+```
+2、科普插画
+提示词：用一个科普插画解释为什么原神改变了中国国产游戏生态，文字用中文 https://t.co/OLMKycsNKv
+```
+
+---
+
+### [Review of Google's Latest Nano Banana Pro: 20 Dark Playstyles and Tips](https://aiart.pics/prompt/google-latest-nano-banana-pro-review-20-dark-playstyles-and-tips)
+
+**Author**: [@苍何](https://x.com/canghecode)
+
+**Source**: [X](https://x.com/canghecode/status/1991618611493105859)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/google-latest-nano-banana-pro-review-20-dark-playstyles-and-tips-1.jpg" width="500" alt="Review of Google's Latest Nano Banana Pro: 20 Dark Playstyles and Tips">
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/google-latest-nano-banana-pro-review-20-dark-playstyles-and-tips-2.jpg" width="500" alt="Review of Google's Latest Nano Banana Pro: 20 Dark Playstyles and Tips">
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/google-latest-nano-banana-pro-review-20-dark-playstyles-and-tips-3.jpg" width="500" alt="Review of Google's Latest Nano Banana Pro: 20 Dark Playstyles and Tips">
+
+```
+又熬夜测了谷歌最新 Nano Banana Pro，总结了 20 种邪修玩法和提示词。
+整体感受非常炸裂，人物一致性、中文支持、速度上、审美上，提升都不止一个台阶。
+以下是我的case。
+1、串场漫画
+prompt：帮我生成动漫角色中的女角色的一个合集故事，其中包括娜美、罗宾、，小樱、雏田、松本乱菊，做成彩色漫画的形式，要求中文。
+```
+
+---
+
 ## Cell 细胞
 
 ### [ZenMux Beta Launches, Nano Banana 2 Test Experience Upgraded](https://aiart.pics/prompt/zenmux-beta-launches-nano-banana-2-test-experience-upgraded)
@@ -3140,7 +3711,64 @@ https://t.co/Db71mIbCQI https://t.co/bKwoO7WR7i
 
 ---
 
+## Christopher Fryant
+
+### [Nano Banana Pro: Applying Image to a Dodecahedron](https://aiart.pics/prompt/nano-banana-pro-applying-image-to-a-dodecahedron)
+
+**Author**: [@Christopher Fryant](https://x.com/cfryant)
+
+**Source**: [X](https://x.com/cfryant/status/1991551948345250104)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-applying-image-to-a-dodecahedron-1.jpg" width="500" alt="Nano Banana Pro: Applying Image to a Dodecahedron">
+
+```
+Nano Banana Pro, apply this image to a dodecahedron. https://t.co/YbOETyi5uV
+```
+
+---
+
+## 少し明るい高橋くん
+
+### [Nano Banana Pro Delivers Impressive Manga Style Effect](https://aiart.pics/prompt/nano-banana-pro-delivers-impressive-manga-style-effect)
+
+**Author**: [@少し明るい高橋くん](https://x.com/chankostin)
+
+**Source**: [X](https://x.com/chankostin/status/1991542706343125253)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-delivers-impressive-manga-style-effect-1.jpg" width="500" alt="Nano Banana Pro Delivers Impressive Manga Style Effect">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-delivers-impressive-manga-style-effect-2.jpg" width="500" alt="Nano Banana Pro Delivers Impressive Manga Style Effect">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-delivers-impressive-manga-style-effect-3.jpg" width="500" alt="Nano Banana Pro Delivers Impressive Manga Style Effect">
+
+```
+なにこれ？
+文字も自然だし、1回線画を経由させなくても漫画風になる。
+Nano Banana Proすごすぎとしか言えない。 https://t.co/xY0ZB5lL9I
+```
+
+---
+
 ## Pierrick Chevallier | IA
+
+### [Nano Banana Pro: A Visual Guide to Common Camera Angles in Filmmaking](https://aiart.pics/prompt/nano-banana-pro-a-visual-guide-to-common-camera-angles-in-filmmaking)
+
+**Author**: [@Pierrick Chevallier | IA](https://x.com/CharaspowerAI)
+
+**Source**: [X](https://x.com/CharaspowerAI/status/1991626938109292578)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-a-visual-guide-to-common-camera-angles-in-filmmaking-1.jpg" width="500" alt="Nano Banana Pro: A Visual Guide to Common Camera Angles in Filmmaking">
+
+```
+🍌 Today’s buzz is all about Nano Banana Pro.
+This model is absolutely insane, no matter the theme or prompt.
+It hits hard. Really hard. 🔥
+💡 Here’s a super useful prompt to try it out 👇
+Create a poster that visually explains the most common camera angles in filmmaking, with clear labels and examples for each angle, cinematic, realistic
+Go test it — now.
+```
+
+---
 
 ### [Back to NIJI Mode: Pencil Sketch of Dynamic Muscle Character](https://aiart.pics/prompt/back-to-niji-mode-pencil-sketch-of-dynamic-muscle-character)
 
@@ -3480,6 +4108,79 @@ A bird wearing an inflatable [COLOR] down jacket perched on the top of a dry tre
 
 ---
 
+## CHRIS FIRST
+
+### [Which movie are you seeing first?](https://aiart.pics/prompt/which-movie-are-you-seeing-first)
+
+**Author**: [@CHRIS FIRST](https://x.com/chrisfirst)
+
+**Source**: [X](https://x.com/chrisfirst/status/1991601878023761969)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/which-movie-are-you-seeing-first-1.jpg" width="500" alt="Which movie are you seeing first?">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/which-movie-are-you-seeing-first-2.jpg" width="500" alt="Which movie are you seeing first?">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/which-movie-are-you-seeing-first-3.jpg" width="500" alt="Which movie are you seeing first?">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/which-movie-are-you-seeing-first-4.jpg" width="500" alt="Which movie are you seeing first?">
+
+```
+Which movie are you seeing first?
+Nano Banana Pro Prompt: Behind the scenes shot of them making a live action [video game].
+```
+
+---
+
+## neural nets.
+
+### [Historical and Modern Convergence: Varanasi Evening Aarti Night Scene](https://aiart.pics/prompt/varanasi-evening-aarti-night-scene-historical-modern-convergence)
+
+**Author**: [@neural nets.](https://x.com/cneuralnetwork)
+
+**Source**: [X](https://x.com/cneuralnetwork/status/1991568404709536146)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/varanasi-evening-aarti-night-scene-historical-modern-convergence-1.jpg" width="500" alt="Historical and Modern Convergence: Varanasi Evening Aarti Night Scene">
+
+```
+nano banana pro
+-- prompt --
+a richly detailed night scene of the varanasi ghats during the evening aarti, captured from a viewpoint directly across the ganges. the top half of the image shows the present-day city: crowds gathered on the steps, priests performing synchronized aarti with large flaming lamps, electric lights strung across balconies, recent renovations on temple facades, and the mix of old structures with modern signage. firelight and scattered diyas illuminate the smoke drifting softly above the ghats.the bottom half, seen as a perfect mirror on the still surface of the ganges, shows the same ghats but in an older historical era. the reflection must depict subtle architectural differences: fewer electric lights, oil lamps instead; weathered stone surfaces without modern repairs; wooden boats of older design; people in period-accurate clothing; and temple towers in their earlier structural forms. the water should be glassy, with minimal distortion, allowing both timelines to align precisely like a split reality. lighting, ripples, and reflections must follow correct physics while maintaining the illusion of two coexisting centuries. the result should feel like a single photograph capturing present above and past below, bound together by the river’s mirror.
+```
+
+---
+
+### [1915 Bengali Newspaper Page Reconstruction](https://aiart.pics/prompt/1915-bengali-newspaper-page-reconstruction)
+
+**Author**: [@neural nets.](https://x.com/cneuralnetwork)
+
+**Source**: [X](https://x.com/cneuralnetwork/status/1991567522651599141)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/1915-bengali-newspaper-page-reconstruction-1.jpg" width="500" alt="1915 Bengali Newspaper Page Reconstruction">
+
+```
+nano banana pro
+-- prompt --
+a meticulously reconstructed 1915 bengali newspaper page designed in authentic early-twentieth-century typesetting. the layout uses narrow, perfectly aligned vertical columns with period-accurate fonts, uneven metal-type spacing, and slight misregistration between lines. the ink appears imperfect, showing faint smudges, minor over-inking at the edges of letters, and occasional broken glyphs consistent with hand-set printing presses of the era. the page includes multiple woodcut-style illustrations: small portraits, political cartoons, and simple scene sketches carved with visible hatch marks and rough contour lines. all bengali text must be fully legible, grammatically consistent with the period, and arranged in structured headlines, subheads, and body paragraphs. the paper texture should resemble aged newsprint with subtle yellowing, gentle creases, and soft fiber patterns under angled lighting. the final image should feel like a genuine archival artifact preserved from 1915, precise in typography, layout, ink behavior, and cultural context.
+```
+
+---
+
+### [Early 20th Century Einstein Teaching Scene at MIT](https://aiart.pics/prompt/early-20th-century-einstein-teaching-scene-at-mit)
+
+**Author**: [@neural nets.](https://x.com/cneuralnetwork)
+
+**Source**: [X](https://x.com/cneuralnetwork/status/1991554124576616768)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/early-20th-century-einstein-teaching-scene-at-mit-1.jpg" width="500" alt="Early 20th Century Einstein Teaching Scene at MIT">
+
+```
+nano banana pro
+-- prompt --
+a realistic, slightly cinematic scene of albert einstein teaching a class at mit in the early 20th century. show him at a large chalkboard covered with equations, chalk in hand, mid-explanation. the classroom has wooden desks, warm natural light from tall windows, and attentive students. on the chalkboard, clearly written in devanagari, include the sentence: "मैं आपसे रिलेट नहीं कर पा रहा, क्योंकि रिलेटिविटी अभी तक डिस्कवर नहीं हुई है". capture einstein’s characteristic hair, suit, and expressive posture. blend historical accuracy with playful anachronism, maintaining a high-detail, academic visual style.
+```
+
+---
+
 ## cnyzgkc
 
 ### [超精细逼真的美丽女人肖像](https://aiart.pics/prompt/fashion-photography-2)
@@ -3528,6 +4229,22 @@ Prompt: Create an infographic that shows how to make Matcha. https://t.co/WBJs3r
 
 ---
 
+## Codetard
+
+### [Nano Banana Pro's Interpretation of a 3D-Printed Corinthian Netrunner Helmet with a HeatSink](https://aiart.pics/prompt/nano-banana-pros-interpretation-of-a-3d-printed-corinthian-netrunner-helmet-with-a-heatsink)
+
+**Author**: [@Codetard](https://x.com/codetaur)
+
+**Source**: [X](https://x.com/codetaur/status/1991639174257189299)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pros-interpretation-of-a-3d-printed-corinthian-netrunner-helmet-with-a-heatsink-1.jpg" width="500" alt="Nano Banana Pro's Interpretation of a 3D-Printed Corinthian Netrunner Helmet with a HeatSink">
+
+```
+nano banana pro's interpretation of a 3D printed corinthian netrunner helmet where the plume is a heatsink https://t.co/PGhR25UD6D
+```
+
+---
+
 ## Keskin
 
 ### [Dreamy Style Reference for Fluid Motion](https://aiart.pics/prompt/dreamy-style-reference-for-fluid-motion)
@@ -3560,6 +4277,24 @@ This is great! Colorful, a part video game, a part cartoon.
 
 ---
 
+## CREACAS
+
+### [Where's Waldo? Star Wars Characters on Tatooine](https://aiart.pics/prompt/where's-waldo-star-wars-characters-on-tatooine)
+
+**Author**: [@CREACAS](https://x.com/creacas)
+
+**Source**: [X](https://x.com/creacas/status/1991585587548348513)
+
+<img src="https://img1.aiart.pics/images/prompts/20251205/wheres-waldo-star-wars-characters-on-tatooine-1.jpg" width="500" alt="Where's Waldo? Star Wars Characters on Tatooine">
+
+```
+Nano Banana Pro prompt:
+A where is waldo image showing all Star Wars characters on Tatooine
+First one to pull this off. First take. Even Waldo is there. https://t.co/ZcZJ5im55F
+```
+
+---
+
 ## cuchocapilla
 
 ### [90s American Cartoon Stop Motion Style Illustration](https://aiart.pics/prompt/90s-american-cartoon-stop-motion-style-illustration)
@@ -3573,6 +4308,23 @@ This is great! Colorful, a part video game, a part cartoon.
 ```
 Transform this image into a 90s American cartoon cel-style illustration. Use thick black outlines, flat bold colors, and sharp cel shading with hard shadows. Emphasize exaggerated facial expressions and stylized, geometric character shapes. The background should be flat or minimal to keep the focus on the character. The whole image should feel like a frame from a Saturday morning cartoon.
 将这张图片转化为 90 年代美国卡通片定格动画风格插画。使用粗黑轮廓线、平面化鲜明的颜色，以及锐利的定格动画阴影效果和硬阴影。强调夸张的面部表情和风格化的几何角色形状。背景应为平面或极简，以突出角色。整张图片应感觉像是从周六早间卡通片中截取的一帧。
+```
+
+---
+
+## カレーちゃん
+
+### [Nano Banana Pro Over-the-top Japanese](https://aiart.pics/prompt/nano-banana-pro-over-the-top-japanese)
+
+**Author**: [@カレーちゃん](https://x.com/currypurin)
+
+**Source**: [X](https://x.com/currypurin/status/1991625071128113474)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-over-the-top-japanese-1.jpg" width="500" alt="Nano Banana Pro Over-the-top Japanese">
+
+```
+Nano Banana Pro 日本語いけすぎ
+プロンプト「この本の内容をまとめて、1枚のポスターにして。日本語で。画像で」 https://t.co/qM3tRQvQZT
 ```
 
 ---
@@ -3610,6 +4362,137 @@ Two things I love coming together: Liverpool and Theme Park. From map to graphic
 
 ---
 
+## prinz
+
+### [Nano Banana Pro: The Best Image Model I've Ever Tried](https://aiart.pics/prompt/nano-banana-pro-the-best-image-model-ive-ever-tried)
+
+**Author**: [@prinz](https://x.com/deredleritt3r)
+
+**Source**: [X](https://x.com/deredleritt3r/status/1991544379031367707)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-the-best-image-model-ive-ever-tried-1.jpg" width="500" alt="Nano Banana Pro: The Best Image Model I've Ever Tried">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-the-best-image-model-ive-ever-tried-2.jpg" width="500" alt="Nano Banana Pro: The Best Image Model I've Ever Tried">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-the-best-image-model-ive-ever-tried-3.jpg" width="500" alt="Nano Banana Pro: The Best Image Model I've Ever Tried">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-the-best-image-model-ive-ever-tried-4.jpg" width="500" alt="Nano Banana Pro: The Best Image Model I've Ever Tried">
+
+```
+Nano Banana Pro is the best image model I've ever tried, by some distance.
+1. "Convert all these cards to Black."
+Perfect editing. Cards that were already black not touched. Best of all, Mountain becomes a Swamp!
+2. "Picture of Shakespeare writing the famous opening line from Mark Caesar\'s speech at Caesar\'s funeral."
+Nano Banana Pro confidently writes: "Friends, Romans, Countrymen, lend me your ears."
+Notice that the words on the paper are facing Shakespeare, NOT the viewer of the picture. This is an old bug with image models that has finally been solved with Nano Banana Pro.
+3. "Picture of Nabokov writing the famous line about aurochs and angels."
+Fantastic shot that I could mistake for a real picture of Nabokov. Notice the pinned butterflies, in a homage to Nabokov's actual obsession with lepidopterology.
+BTW, the words Nabokov is writing are from "Speak, Memory" - not "Lolita", as requested. Is this due to copyright restrictions?
+Really impressive work by Google on this one. Kudos!
+```
+
+---
+
+## Leonard Martin Schmedding
+
+### [Googles Nano Banana Pro: A Lifeline for Graphic Designers](https://aiart.pics/prompt/googles-nano-banana-pro-a-lifeline-for-graphic-designers)
+
+**Author**: [@Leonard Martin Schmedding](https://x.com/derleomartin)
+
+**Source**: [X](https://x.com/derleomartin/status/1991607704088113598)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/googles-nano-banana-pro-a-lifeline-for-graphic-designers-1.jpg" width="500" alt="Googles Nano Banana Pro: A Lifeline for Graphic Designers">
+
+```
+🚨 Googles Nano Banana Pro verpasst Grafikdesignern den Gnadenstoß
+Prompt: Erstelle eine Infografik für meinen YouTube Kanal everlastai https://t.co/TRdoEXsqLL
+```
+
+---
+
+## Derya Unutmaz, MD
+
+### [Nano Banana Pro's Journey in Creating a Multi-Panel Comic from a Single Image](https://aiart.pics/prompt/nano-banana-pro-creating-multi-panel-comic-from-single-image)
+
+**Author**: [@Derya Unutmaz, MD](https://x.com/DeryaTR_)
+
+**Source**: [X](https://x.com/DeryaTR_/status/1991650792642850851)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-creating-multi-panel-comic-from-single-image-1.jpg" width="500" alt="Nano Banana Pro's Journey in Creating a Multi-Panel Comic from a Single Image">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-creating-multi-panel-comic-from-single-image-2.jpg" width="500" alt="Nano Banana Pro's Journey in Creating a Multi-Panel Comic from a Single Image">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-creating-multi-panel-comic-from-single-image-3.jpg" width="500" alt="Nano Banana Pro's Journey in Creating a Multi-Panel Comic from a Single Image">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-creating-multi-panel-comic-from-single-image-4.jpg" width="500" alt="Nano Banana Pro's Journey in Creating a Multi-Panel Comic from a Single Image">
+
+```
+Nano Banana Pro created this multi-panel comic from a single uploaded image with the prompt: “Create and draw a multi-panel comic based on this image.” I am speechless! 🤯 I am going to continue this to create a full comic book! https://t.co/3D7VKJ70Ja
+```
+
+---
+
+### [Nano Banana Pro: Mind-Blowing Scientific Precision Illustration Generator in the Age of AI!](https://aiart.pics/prompt/nano-banana-pro-ai时代惊人的科学精确插画生成器)
+
+**Author**: [@Derya Unutmaz, MD](https://x.com/DeryaTR_)
+
+**Source**: [X](https://x.com/DeryaTR_/status/1991637559844180059)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-ai-1.jpg" width="500" alt="Nano Banana Pro: Mind-Blowing Scientific Precision Illustration Generator in the Age of AI!">
+
+```
+I can’t get enough of Nano Banana Pro! The way it generates scientifically precise illustrations from simple prompts is nothing short of mind blowing! One of those true inflection points in the age of AI!
+Prompt: In multi panels create İL-2, IL-4, IL-12, IL-6 signaling pathways https://t.co/tq4oxogboo
+```
+
+---
+
+### [Reflecting on a Major Discovery from 15 Years Ago in Nano Banana Pro Illustration](https://aiart.pics/prompt/reflecting-on-a-major-discovery-from-15-years-ago-in-nano-banana-pro-illustration)
+
+**Author**: [@Derya Unutmaz, MD](https://x.com/DeryaTR_)
+
+**Source**: [X](https://x.com/DeryaTR_/status/1991613761481027586)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/reflecting-on-a-major-discovery-from-15-years-ago-in-nano-banana-pro-illustration-1.jpg" width="500" alt="Reflecting on a Major Discovery from 15 Years Ago in Nano Banana Pro Illustration">
+
+```
+I got a bit emotional seeing this illustration from Nano Banana Pro, because it depicts one of our major discoveries from more than 15 years ago, &amp; it is a beautiful &amp; accurate illustration; NB Pro knew it all. 🥹
+Prompt: “Draw an illustration of GARP biology for Tregs” https://t.co/VUmxNkUaCk
+```
+
+---
+
+### [NanoBanana Pro: Scientific Image Creation in Less Than 30 Seconds](https://aiart.pics/prompt/nanobanana-pro-scientific-image-creation-in-less-than-30-seconds)
+
+**Author**: [@Derya Unutmaz, MD](https://x.com/DeryaTR_)
+
+**Source**: [X](https://x.com/DeryaTR_/status/1991602903258394911)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/nanobanana-pro-scientific-image-creation-in-less-than-30-seconds-1.jpg" width="500" alt="NanoBanana Pro: Scientific Image Creation in Less Than 30 Seconds">
+
+```
+Until a few hours ago, creating this kind of scientific image would have required at least an hour of professional work. Now, with NanoBanana Pro, it only takes a simple prompt & less than 30 seconds!
+Prompt: “Describe in an illustration the events for a cytotoxic T cell recognizing & killing a cancer cell.”
+```
+
+---
+
+### [NanoBanana Pro: AI Illustration Magic, Perfectly Depicting CAR-T Cell Therapy Stages!](https://aiart.pics/prompt/nanobanana-pro-ai-tu-hua-shen-qi-wan-mei-chuang-xian-car-t-xi-bao-liao-fa-quan-guo)
+
+**Author**: [@Derya Unutmaz, MD](https://x.com/DeryaTR_)
+
+**Source**: [X](https://x.com/DeryaTR_/status/1991558446429409554)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/nanobanana-pro-ai-tu-hua-shen-qi-wan-mei-chuang-xian-car-t-xi-bao-liao-fa-quan-guo-1.jpg" width="500" alt="NanoBanana Pro: AI Illustration Magic, Perfectly Depicting CAR-T Cell Therapy Stages!">
+
+```
+I am in love with NanoBanana Pro! It’s insanely great! @GoogleAI , what have you done?! 🤯🤯🤯
+This perfect illustration was generated from this prompt:
+“In an illustration describe all of the stages of CAR-T cell therapy from lab to patients.” https://t.co/XgFNgsGoOa
+```
+
+---
+
 ## Deshraj4x
 
 ### [Colorful Handmade Sculpture](https://aiart.pics/prompt/colorful-handmade-sculpture)
@@ -3640,6 +4523,23 @@ A colorful handcrafted sculpture of [insert subject], made from semi-transparent
 ```
 Image of a billboard with the text: “Image of a billboard with the text:”
 路牌图片，上面写着：“路牌图片，上面写着：”
+```
+
+---
+
+## Dorksense
+
+### [The Most Unbelievable Mundane Photo](https://aiart.pics/prompt/the-most-unbelievable-ordinary-photo)
+
+**Author**: [@Dorksense](https://x.com/Dork_sense)
+
+**Source**: [X](https://x.com/Dork_sense/status/1991550241880043542)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/the-most-unbelievable-ordinary-photo-1.jpg" width="500" alt="The Most Unbelievable Mundane Photo">
+
+```
+"the most weird mundane photo you can imagine"
+- Nano banana pro https://t.co/YpTPyNQuMI
 ```
 
 ---
@@ -4452,6 +5352,25 @@ A high-resolution vertical Pixar-style 3D character illustration.\n\nMain charac
 
 ---
 
+## Dreaming Tulpa 🥓👑
+
+### [Nano Banana Pro Thumbnail Creation](https://aiart.pics/prompt/nano-banana-pro-thumbnail-creation)
+
+**Author**: [@Dreaming Tulpa 🥓👑](https://x.com/dreamingtulpa)
+
+**Source**: [X](https://x.com/dreamingtulpa/status/1991594506895167973)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-thumbnail-creation-1.jpg" width="500" alt="Nano Banana Pro Thumbnail Creation">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-thumbnail-creation-2.jpg" width="500" alt="Nano Banana Pro Thumbnail Creation">
+
+```
+nano banana pro 🍌
+&gt; convert this image into a youtube thumbnail, add the text "OMW" spanning the entire background https://t.co/DaOEuc1b0w
+```
+
+---
+
 ## ATROPINE
 
 ### [Embracing Quiet Vibes: A Journey in Thought with a Stylish Oversized White Jacket](https://aiart.pics/prompt/embracing-quiet-vibes-stylish-oversized-white-jacket)
@@ -4703,6 +5622,24 @@ When your escape key is an actual escape https://t.co/LzORVw4FGb
 
 ---
 
+### [Nano Banana Pro Pose Experiment: Character Comparison](https://aiart.pics/prompt/nano-banana-pro-pose-experiment-character-comparison)
+
+**Author**: [@Ege](https://x.com/egeberkina)
+
+**Source**: [X](https://x.com/egeberkina/status/1991621853820121448)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-pose-experiment-character-comparison-1.jpg" width="500" alt="Nano Banana Pro Pose Experiment: Character Comparison">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-pose-experiment-character-comparison-2.jpg" width="500" alt="Nano Banana Pro Pose Experiment: Character Comparison">
+
+```
+Dropped in the pose refs + the character and it turned it into this 🔥
+Can’t get enough of experimenting with Nano Banana Pro!!
+Prompt: Show this man in the same fitness poses as in the first image, in a realistic style https://t.co/VsOm9eie5p
+```
+
+---
+
 ### [Recipe Infographic Creation](https://aiart.pics/prompt/recipe-infographic-creation)
 
 **Author**: [@Ege](https://x.com/egeberkina)
@@ -4865,6 +5802,25 @@ retexture the image attached in the following json aesthetic style:\n{\n  "style
 
 ---
 
+## eijo
+
+### [Character Consistency No Longer an Issue - Nano Banana Pro Locks Characters](https://aiart.pics/prompt/character-consistency-no-longer-an-issue-nano-banana-pro-locks-characters)
+
+**Author**: [@eijo](https://x.com/eijo_AIart)
+
+**Source**: [X](https://x.com/eijo_AIart/status/1991631795880960378)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/character-consistency-no-longer-an-issue-nano-banana-pro-locks-characters-1.jpg" width="500" alt="Character Consistency No Longer an Issue - Nano Banana Pro Locks Characters">
+
+```
+キャラクターの一貫性はもはや問題ではありません。Nano Banana Proは、キャラクターを物理的にロックします。顔、体、シーンが常に同じです。
+画像のプロンプトをリプに貼っておきますので参考にしてください。
+Higgsfieldで最もお求めやすい価格で、ブラックフライデーで65%オフ。
+今後3日以内に@higgsfield_aiにご登録すると、Nano Banana Proが1年間無制限にご利用できます。
+```
+
+---
+
 ## EMAKI📧
 
 ### [nano-banana vs seedream4 Comparison](https://aiart.pics/prompt/nano-banana-vs-seedream4-comparison)
@@ -4916,6 +5872,56 @@ Nano-bananaやっぱり楽しい〜！
 
 ---
 
+## Emm | scenario.com
+
+### [Gemini 3.0: Equivalent to the 'Fusion' Function of Qwen Edit LoRA](https://aiart.pics/prompt/gemini-3-0-equivalent-to-the-fusion-function-of-qwen-edit-lora)
+
+**Author**: [@Emm | scenario.com](https://x.com/emmanuel_2m)
+
+**Source**: [X](https://x.com/emmanuel_2m/status/1991634982784336157)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/gemini-3-0-equivalent-to-the-fusion-function-of-qwen-edit-lora-1.jpg" width="500" alt="Gemini 3.0: Equivalent to the 'Fusion' Function of Qwen Edit LoRA">
+
+```
+It seems that Gemini 3.0 will match what the more advanced Qwen Edit LoRAs have been doing so effectively these past weeks.
+This is the equivalent  of the "Fusion" Qwen Edit LoRA.
+Prompt "Fuse the image, correct the product’s perspective and lighting, and make the product blend into the background."
+```
+
+---
+
+### [Detailed Analysis of the Battle of Stalingrad in Late December 1943](https://aiart.pics/prompt/detailed-analysis-of-the-battle-of-stalingrad-in-late-december-1943)
+
+**Author**: [@Emm | scenario.com](https://x.com/emmanuel_2m)
+
+**Source**: [X](https://x.com/emmanuel_2m/status/1991595089190141978)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/detailed-analysis-of-the-battle-of-stalingrad-in-late-december-1943-1.jpg" width="500" alt="Detailed Analysis of the Battle of Stalingrad in Late December 1943">
+
+```
+Show me a very detailed situation of the Battle of Stalingrad at the end of December 1943, with annotations indicating the positions of army corps, divisions, main strategies, using colors to clearly explain everything for an experienced scholar
+```
+
+---
+
+### [Teacher's and Schoolbook Author's New Best Friend: Gemini 3.0](https://aiart.pics/prompt/teachers-and-schoolbook-authors-new-best-friend-gemini-3-0)
+
+**Author**: [@Emm | scenario.com](https://x.com/emmanuel_2m)
+
+**Source**: [X](https://x.com/emmanuel_2m/status/1991591659478364574)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/teachers-and-schoolbook-authors-new-best-friend-gemini-3-0-1.jpg" width="500" alt="Teacher's and Schoolbook Author's New Best Friend: Gemini 3.0">
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/teachers-and-schoolbook-authors-new-best-friend-gemini-3-0-2.jpg" width="500" alt="Teacher's and Schoolbook Author's New Best Friend: Gemini 3.0">
+
+```
+If you're a teacher or a schoolbook author, meet your new best friend, Gemini 3.0.
+"Make me a detailed diagram showing how mitosis works,, with annotations and visual explanations, organized at a primary school level."
++ same prompt "at a high school senior level."
+```
+
+---
+
 ## emollick
 
 ### [Exploring nano banana pro: Breaking the Limits of Traditional Image Models](https://aiart.pics/prompt/experience-nano-banana-pro-breaking-the-limits-of-traditional-image-models)
@@ -4934,6 +5940,21 @@ Nano-bananaやっぱり楽しい〜！
 
 ```
 Had early access to nano banana pro, and, in addition to other gains, I found that with some prompting, it can do many of the things previous image models found impossible: glasses of wine filled to the brim, horses riding astronauts, et. https://t.co/jBUrUrMwrY
+```
+
+---
+
+### [Toast Process Flowchart](https://aiart.pics/prompt/toast-process-flowchart)
+
+**Author**: [@emollick](https://x.com/emollick)
+
+**Source**: [X](https://x.com/emollick/status/1991549167773376978)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/toast-process-flowchart.jpeg" width="500" alt="Toast Process Flowchart">
+
+```
+i need a flowchart for how to toast bread, make it as wacky and over the top and complicated as possible.
+我需要一个烤面包的流程图，越古怪、越夸张、越复杂越好。
 ```
 
 ---
@@ -5079,6 +6100,65 @@ Create a black and white high-fashion editorial portrait of me, keeping my real 
 
 ---
 
+## fabian
+
+### [Hot or Not? Nano Banana Pro Edition: Multimodal Sycophancy](https://aiart.pics/prompt/hot-or-not-nano-banana-pro-edition-multimodal-sycophancy)
+
+**Author**: [@fabian](https://x.com/fabianstelzer)
+
+**Source**: [X](https://x.com/fabianstelzer/status/1991606420236538184)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/hot-or-not-nano-banana-pro-edition-multimodal-sycophancy-1.jpg" width="500" alt="Hot or Not? Nano Banana Pro Edition: Multimodal Sycophancy">
+
+```
+"Hot or Not", Nano Banana Pro Edition aka multimodal sycophancy
+"annotate this photo with console style text and pointers rating the attractivity of the person and their facial features with loading bars across categories. include an overall rating."
+Skin texture: mature 💀 https://t.co/mD7wDjzUPm
+```
+
+---
+
+## FabyΔ
+
+### [Testing the Drawing Performance of Nano Banana Pro in Japanese Fonts🍌](https://aiart.pics/prompt/testing-the-drawing-performance-of-nano-banana-pro-in-japanese-fonts)
+
+**Author**: [@FabyΔ](https://x.com/FABYMETAL4)
+
+**Source**: [X](https://x.com/FABYMETAL4/status/1991658205446078786)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/testing-the-drawing-performance-of-nano-banana-pro-in-japanese-fonts-1.jpg" width="500" alt="Testing the Drawing Performance of Nano Banana Pro in Japanese Fonts🍌">
+
+```
+Nano Banana Proの圧倒的な日本語フォントの描画性能を無駄遣いしてみる🍌
+プロンプト:
+全ての情報を漏れなく日本語で記載した画像を生成。霞ヶ浦パワポスタイル。 https://t.co/ldoRmnNgO3
+```
+
+---
+
+## فاطمة المحمادي
+
+### [Top Features of Nano Banana Pro](https://aiart.pics/prompt/nano-banana-pro-top-features)
+
+**Author**: [@فاطمة المحمادي](https://x.com/fatoomdes)
+
+**Source**: [X](https://x.com/fatoomdes/status/1991653789879923049)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-top-features-1.jpg" width="500" alt="Top Features of Nano Banana Pro">
+
+```
+من أجمل المميزات في Nano Banana Pro
+ميزة Studio-Quality Control
+الميزة اللي تعطيك تحكّم احترافي بزاوية التصوير، الفوكس، ونوع اللقطة،وكأنك تستخدم كاميرا سينمائية فعلية 🎥
+جرّبتها على أكثر من صورة… والنتيجة؟
+فرق واضح، تفاصيل أدق، وصور جاهزة للنشر مباشرة.
+عملت لكم أمثلة مع البرومبت 👇
+#NanoBananaPro #AIModel #AICreators #GenerativeAI
+@NanoBanana @GoogleArabia
+```
+
+---
+
 ## 播播（王爺）
 
 ### [Taiwanese Artist-Generated Magical Fantasy Character](https://aiart.pics/prompt/taiwanese-artist-generated-magical-fantasy-character)
@@ -5157,6 +6237,25 @@ First image Nano Banana Pro. Second Image Nano Banana. Day and Night
 
 ---
 
+## Pablo M. Fernández
+
+### [Significant Improvement in Letter Processing with Nano Banana Pro](https://aiart.pics/prompt/nano-banana-pro-significant-improvement-letter-processing)
+
+**Author**: [@Pablo M. Fernández](https://x.com/fernandezpm)
+
+**Source**: [X](https://x.com/fernandezpm/status/1991565990346559814)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-significant-improvement-letter-processing-1.jpg" width="500" alt="Significant Improvement in Letter Processing with Nano Banana Pro">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-significant-improvement-letter-processing-2.jpg" width="500" alt="Significant Improvement in Letter Processing with Nano Banana Pro">
+
+```
+Ya me funciona Nano Banana Pro y mejoró *muchisimo* el trabajo con letras.
+Con la instrucción super simple "escribi Argentina sobre la 9 de julio de Buenos Aires, que se vea el obelisco y jacarandas en primavera" hizo la primera imagen. Luego le dije "hacelo con fileteado" (🖼️2) https://t.co/a4tLQuuZoi
+```
+
+---
+
 ## firatbilal
 
 ### [Embroidery Style](https://aiart.pics/prompt/embroidery-style)
@@ -5221,7 +6320,39 @@ Here’s a side-by-side comparison with the old Nano Banana (left). I’m honest
 
 ---
 
+## FlowbyGoogle
+
+### [Mastering Elements and Lens Precision with Nano Banana Pro in Flow for Google AI Ultra Subscribers](https://aiart.pics/prompt/mastering-elements-and-lens-precision-with-nano-banana-pro-in-flow-for-google-ai-ultra-subscribers)
+
+**Author**: [@FlowbyGoogle](https://x.com/FlowbyGoogle)
+
+**Source**: [X](https://x.com/FlowbyGoogle/status/1991620311637283138)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/mastering-elements-and-lens-precision-with-nano-banana-pro-in-flow-for-google-ai-ultra-subscribers-cover-1.jpg" width="500" alt="Mastering Elements and Lens Precision with Nano Banana Pro in Flow for Google AI Ultra Subscribers">
+
+```
+Starting today for Google AI Ultra subscribers, creating with Nano Banana Pro in Flow means mastering the elements and the lens with precision and control.
+Watch @sanchitsawaria break down how to transform a single static frame into a cinematic shot: ✅ Change focus to guide the viewer\'s eye ✅ Prompt "make it rain" for photo-accurate physics  ✅ Animate using first and last frame while keeping the subject consistent.
+Control the weather. Direct the camera.
+```
+
+---
+
 ## fofrAI
+
+### [Nano Banana Pro's Unique Concept](https://aiart.pics/prompt/nano-banana-pros-unique-concept)
+
+**Author**: [@fofrAI](https://x.com/fofrAI)
+
+**Source**: [X](https://x.com/fofrAI/status/1991543402786353228)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pros-unique-concept-1.jpg" width="500" alt="Nano Banana Pro's Unique Concept">
+
+```
+This concept was entirely Nano Banana Pro's idea. I steered it in conversation with some examples of unusual images. https://t.co/AUmxmPw6Nh
+```
+
+---
 
 ### [Nano Banana Pro: Up to 14 Reference Images, Best for 5 People](https://aiart.pics/prompt/nano-banana-pro-up-to-14-reference-images-best-for-5-people)
 
@@ -5270,6 +6401,64 @@ Nano Banana Pro generates recognisable lego pieces. It's a small detail, but it 
 ```
 It's also pretty good at orientation.
 &gt; The text “nano banana pro” written in every orientation, include a mirror https://t.co/MhKwAGG4Iu
+```
+
+---
+
+### [Original Appearance of Pyramids and the Sphinx](https://aiart.pics/prompt/original-appearance-of-pyramids-and-the-sphinx)
+
+**Author**: [@fofrAI](https://x.com/fofrAI)
+
+**Source**: [X](https://x.com/fofrAI/status/1991610168141058243)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/original-appearance-of-pyramids-and-the-sphinx-1.jpg" width="500" alt="Original Appearance of Pyramids and the Sphinx">
+
+```
+Nano Banana Pro:
+&gt; a photo of the pyramids and sphinx, but how they looked when they were originally built, the sphinx's face is perfect https://t.co/7Sd4b2916p
+```
+
+---
+
+### [Anime Man on London Underground with AI Companion Ads](https://aiart.pics/prompt/anime-man-on-london-underground-with-ai-companion-ads)
+
+**Author**: [@fofrAI](https://x.com/fofrAI)
+
+**Source**: [X](https://x.com/fofrAI/status/1991583161495502896)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/anime-man-on-london-underground-with-ai-companion-ads-1.jpg" width="500" alt="Anime Man on London Underground with AI Companion Ads">
+
+```
+> An anime man with a yellow hoodie sitting on the london underground, it is a photo, the anime character is in the real world (mixed live action and animation).
+He is on the Victoria line. There are ads about AI companions. He has big wired headphones on. It is rush hour and the tube is packed.
+```
+
+---
+
+### [The Matrix Broadway Show Programme Photo](https://aiart.pics/prompt/the-matrix-broadway-show-programme-photo)
+
+**Author**: [@fofrAI](https://x.com/fofrAI)
+
+**Source**: [X](https://x.com/fofrAI/status/1991564852876439803)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/the-matrix-broadway-show-programme-photo-1.jpg" width="500" alt="The Matrix Broadway Show Programme Photo">
+
+```
+&gt; A photo of a programme for The Matrix broadway show, it's professional and well made, glossy, we can see the cover and a page showing a photo of the stage https://t.co/mc94xLNTUf
+```
+
+---
+
+### [Sci-Fi Books to Read](https://aiart.pics/prompt/sci-fi-books-to-read)
+
+**Author**: [@fofrAI](https://x.com/fofrAI)
+
+**Source**: [X](https://x.com/fofrAI/status/1991552915853742223)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/sci-fi-books-to-read-1.jpg" width="500" alt="Sci-Fi Books to Read">
+
+```
+&gt; A photo of the sci-fi books I should read https://t.co/glhr4ZMqwS
 ```
 
 ---
@@ -5333,6 +6522,22 @@ New business card 😁 https://t.co/5wXBW8BGff
 ```
 Sale Gemini 3 Pro Nano Banana. Primer AI de imágenes que hace el texto perfecto!
 1M de tokens de input context!! https://t.co/Mxwmpan8NE
+```
+
+---
+
+## Kuu🍣
+
+### [Nano Banana Pro Trial Experience](https://aiart.pics/prompt/nano-banana-pro-trial-experience)
+
+**Author**: [@Kuu🍣](https://x.com/Fumiya_Kume)
+
+**Source**: [X](https://x.com/Fumiya_Kume/status/1991547400297775502)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-trial-experience-1.png" width="500" alt="Nano Banana Pro Trial Experience">
+
+```
+Nano Banana Pro お試し中 https://t.co/TepqwYkT6C
 ```
 
 ---
@@ -5430,6 +6635,24 @@ Transform this image into a Japanese gag manga style illustration. Use a high-co
 ---
 
 ## Gavin Purcell
+
+### [Weird Nano Banana Pro Prompt](https://aiart.pics/prompt/weird-nano-banana-pro-prompt)
+
+**Author**: [@Gavin Purcell](https://x.com/gavinpurcell)
+
+**Source**: [X](https://x.com/gavinpurcell/status/1991636659251880189)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/weird-nano-banana-pro-prompt-1.jpg" width="500" alt="Weird Nano Banana Pro Prompt">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/weird-nano-banana-pro-prompt-2.jpg" width="500" alt="Weird Nano Banana Pro Prompt">
+
+```
+weird nano banana pro prompt
+create a cartoon of something and then ask for the realistic version of it
+cartoon banana --&gt; realistic version https://t.co/WtncMNPwT9
+```
+
+---
 
 ### [My First Nano Banana Pro Image Prompt](https://aiart.pics/prompt/my-first-nano-banana-pro-image-prompt)
 
@@ -5548,6 +6771,25 @@ The possibilities for creating images are unlimited. You can even bring new life
 
 ---
 
+## George Jefferson
+
+### [Lamborghini Ad: Insane nano banana pro](https://aiart.pics/prompt/lamborghini-ad-insane-nano-banana-pro)
+
+**Author**: [@George Jefferson](https://x.com/GeorgeJeffersn)
+
+**Source**: [X](https://x.com/GeorgeJeffersn/status/1991611818016706895)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/lamborghini-ad-insane-nano-banana-pro-1.jpg" width="500" alt="Lamborghini Ad: Insane nano banana pro">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/lamborghini-ad-insane-nano-banana-pro-2.jpg" width="500" alt="Lamborghini Ad: Insane nano banana pro">
+
+```
+"make this a lamborghini ad"
+okay yeahhhh nano banana pro is INSANE https://t.co/QW2qxABjpX
+```
+
+---
+
 ## タツキ｜サムネ顧問
 
 ### [Experience Nano Banana Pro: One-Second Manga Creation](https://aiart.pics/prompt/experience-nano-banana-pro-one-second-manga-creation)
@@ -5653,6 +6895,73 @@ Google 发布了 Nano Banana 2 图像模型,1秒生成2K图,能扩到4K,文字�
 现在ZenMux免费使用：
 https://t.co/OgzHoX1z3a
 我将给大家带来 100+ 测评，附带提示词：
+```
+
+---
+
+## Glitter Gal
+
+### [AI-Generated Image Analysis of K-pop Idol LUNA](https://aiart.pics/prompt/k-pop-idol-luna-ai-generated-image-analysis)
+
+**Author**: [@Glitter Gal](https://x.com/GlitterPixely)
+
+**Source**: [X](https://x.com/GlitterPixely/status/1991646837787488430)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/k-pop-idol-luna-ai-generated-image-analysis-1.jpg" width="500" alt="AI-Generated Image Analysis of K-pop Idol LUNA">
+
+```json
+If you saw this image somewhere, would you think it is AI generated? Nano Banana Pro 🍌
+{
+"subject": {
+"identity": "K-pop girl-group lead vocalist, stage name: LUNA",
+"age": 21,
+"ethnicity": "Korean",
+"hair": {
+"style": "high ponytail, bubble-gum pink with 3 cm ash-rose root fade",
+"texture": "glass-shine, 2 mm fly-aways lit neon",
+"accessory": "heart-shaped rhinestone hair-tie, 5 mm stones catching flash"
+},
+"makeup": {
+"skin": "luminous cushion-foundation, 0.1 mm pores visible on cheek",
+"eyes": "foiled rose-gold shadow to brow bone, 4 mm silver glitter under tear duct, false lashes 12 mm outer flare",
+"liner": "sharp 45° wing, 0.5 mm gap filled with white",
+"lips": "gradient cherry inside, blurred to petal outside, center gloss 1 mm thick",
+"blush": "cool pink swept high on cheekbone, reflecting phone flash"
+},
+"pose": {
+"head": "tilted 15° right, chin down for V-line",
+"eyes": "looking up at phone lens, aegyo-sal highlight 2 mm",
+"mouth": "tiny heart-shaped pout, 3 mm gap between lips",
+"hand": {
+"device": "iPhone 15 Pro in glittery lilac case, lens ring 3 rhinestones missing",
+"grip": "three fingers behind, pinky extended, nails almond nude with micro-sequins",
+"angle": "camera held 30 cm above eye level, arm elongated"
+}
+},
+"attire": {
+"top": "cropped pastel-lavender hoodie, raw hem, 1 cm sweat bead at collar",
+"neck": "layered silver chains, shortest choker 1 cm above collarbone",
+"earrings": "asymmetrical star and moon, 8 mm, swinging from head tilt"
+},
+"lighting": {
+"key": "built-in phone flash, 6500 K, overexposed nose tip",
+"fill": "LED ring-light clipped to phone, 5600 K, circular catchlight in eyes",
+"background_bokeh": "city-night hexagonals 2 stops under"
+}
+},
+"background": {
+"location": "Seoul rooftop café, 23rd floor, 21:17",
+"depth": "out-of-focus neon signs: purple "카페" & pink "OPEN", 3 cm blur",
+"sky": "clear indigo, 2% remaining sunset orange on horizon",
+"props": "frosted glass railing, fairy-light string 5 cm foreground, 1 bulb blown"
+},
+"camera": {
+"mode": "portrait, 3× zoom, f/1.78, 1/120 s, ISO 250",
+"filter": "built-in "Bright" +10, skin smoothen off",
+"artifacts": "slight purple fringing on earring edge, keep"
+},
+"output": "photoreal, 8 K, keep flash glare on cheek, retain vertical phone ratio 9:16, no watermark"
+}
 ```
 
 ---
@@ -5822,6 +7131,22 @@ Create a psychedelic, grotesque cartoon-style text design that says “GNARLY”
 
 ---
 
+## gokaygokay
+
+### [Cruise Ship Cutaway Illustration](https://aiart.pics/prompt/cruise-ship-cutaway-illustration)
+
+**Author**: [@gokaygokay](https://x.com/gokayfem)
+
+**Source**: [X](https://x.com/gokayfem/status/1991552579441135956)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/cruise-ship-cutaway-illustration-1.jpg" width="500" alt="Cruise Ship Cutaway Illustration">
+
+```
+A cutaway illustration of a cruise ship. We see the engine room, the ballroom, the pool deck, the cabins. Tiny people doing different things in each room. 'Where's Waldo' level of detail. Vector art style. https://t.co/XXk2kIMwnB
+```
+
+---
+
 ## Google Japan
 
 ### [Nano Banana Pro Debuts!](https://aiart.pics/prompt/nano-banana-pro-debuts)
@@ -5889,6 +7214,64 @@ Gemini の Nano Banana 🍌で
 
 ## Maki@Sunwood AI Labs.
 
+### [Higgsfield Nano Banana Pro Trial⑧ - Japanese Scenery & Character Compositing](https://aiart.pics/prompt/higgsfield-nano-banana-pro-trial-8-japanese-scenery-character-compositing)
+
+**Author**: [@Maki@Sunwood AI Labs.](https://x.com/hAru_mAki_ch)
+
+**Source**: [X](https://x.com/hAru_mAki_ch/status/1991607995487383619)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/higgsfield-nano-banana-pro-trial-8-japanese-scenery-character-compositing-1.jpg" width="500" alt="Higgsfield Nano Banana Pro Trial⑧ - Japanese Scenery & Character Compositing">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/higgsfield-nano-banana-pro-trial-8-japanese-scenery-character-compositing-2.jpg" width="500" alt="Higgsfield Nano Banana Pro Trial⑧ - Japanese Scenery & Character Compositing">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/higgsfield-nano-banana-pro-trial-8-japanese-scenery-character-compositing-3.jpg" width="500" alt="Higgsfield Nano Banana Pro Trial⑧ - Japanese Scenery & Character Compositing">
+
+```
+Higgsfield の Nano Banana Pro お試し⑧
+～日本風景＆キャラ合成（Scenery & Character Compositing）～
+⑧-2 駅ホームでキャラ馴染みテスト
+📒Prompt:
+A character standing on a Japanese train platform, lighting perfectly matched to the environment, 2K resolution.
+キャラと背景の合成で一番違和感が出るのが「光のズレ」。
+Nano Banana Pro は、最初から背景とキャラクターのライティングを揃えた状態で絵を出してくれるので、駅ホームのような複雑な照明環境でもキャラが自然に馴染む。
+影の方向や強さ、色温度、反射の具合まで整っているので、あとから「光を合わせるための調整」をする時間をかなり減らせる。
+キャラ＋背景の一枚絵を量産したい人にとって、Higgsfieldで一番安く使えるこのタイミングはかなりおいしい。
+ーーー
+今なら、Higgsfieldで65% OFF ＆ これから3日以内に @higgsfield_ai に参加した人は Nano Banana Pro を1年間無制限で利用できます。
+```
+
+---
+
+### [Higgsfield Nano Banana Pro Trial② - Physics-Based Simulation](https://aiart.pics/prompt/higgsfield-nano-banana-pro-trial-2-physical-simulation)
+
+**Author**: [@Maki@Sunwood AI Labs.](https://x.com/hAru_mAki_ch)
+
+**Source**: [X](https://x.com/hAru_mAki_ch/status/1991604818281132477)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/higgsfield-nano-banana-pro-trial-2-physical-simulation-1.jpg" width="500" alt="Higgsfield Nano Banana Pro Trial② - Physics-Based Simulation">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/higgsfield-nano-banana-pro-trial-2-physical-simulation-2.jpg" width="500" alt="Higgsfield Nano Banana Pro Trial② - Physics-Based Simulation">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/higgsfield-nano-banana-pro-trial-2-physical-simulation-3.jpg" width="500" alt="Higgsfield Nano Banana Pro Trial② - Physics-Based Simulation">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/higgsfield-nano-banana-pro-trial-2-physical-simulation-4.jpg" width="500" alt="Higgsfield Nano Banana Pro Trial② - Physics-Based Simulation">
+
+```
+Higgsfield の Nano Banana Pro お試し②
+～物理ベース・シミュレーション（Physics-Based Simulation）～
+②-1 水×衝突の物理表現
+📒Prompt:
+Metal ball dropping into water, slow-motion splash, realistic physics and refraction, 2K resolution.
+水と金属球の衝突シーンは、重さ、速度、水の粘度、屈折まで絡むので、AIにとってはかなり難しい題材。
+Nano Banana Pro は、しぶきの立ち方、飛沫の軌跡、水面の波紋、金属球の沈み込み具合まで、物理的に納得感のある形で描き出してくる。
+静止画なのに「スローモーション映像の一コマ」を見ているような質感があり、AI特有の嘘っぽさがほとんど出てこない。
+こういう“物理シミュレーション寄り”の表現を、Higgsfield上でここまで安く使えるのはかなり贅沢な環境。
+ーーー
+今なら、Higgsfieldで65% OFF ＆ これから3日以内に @higgsfield_ai に参加した人は Nano Banana Pro を1年間無制限で利用できます。
+```
+
+---
+
 ### [Creating Doodles with Nano Banana: Simulation of Coloring by a 1-Year-Old and a 5-Year-Old!](https://aiart.pics/prompt/using-nano-banana-creating-doodles-simulation-of-coloring-by-1-year-old-and-5-year-old)
 
 **Author**: [@Maki@Sunwood AI Labs.](https://x.com/hAru_mAki_ch)
@@ -5913,6 +7296,81 @@ A vast steampunk railway station where giant clockwork gears and glowing crystal
 ーーー👶 シミュレーションプロンプトーーー
 アップした塗り絵を1歳児が塗った感じにして。generate image
 アップした塗り絵を5歳児が塗った感じにして。generate image
+```
+
+---
+
+## Halim Alrasihi
+
+### [Nano Banana Pro: Realistic Cliff Rescue with Male Photo as Hero, Female Photo as Slipping, Precise Sketch Side Pose and Composition Matching, Mountain Photo as Background Style Reference](https://aiart.pics/prompt/nano-banana-pro-realistic-cliff-rescue-male-photo-hero-female-photo-slipping-precise-sketch-side-pose-composition-matching-mountain-photo-style-reference)
+
+**Author**: [@Halim Alrasihi](https://x.com/HalimAlrasihi)
+
+**Source**: [X](https://x.com/HalimAlrasihi/status/1991602004066783440)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-realistic-cliff-rescue-male-photo-hero-female-photo-slipping-precise-sketch-side-pose-composition-matching-mountain-photo-style-reference-1.jpg" width="500" alt="Nano Banana Pro: Realistic Cliff Rescue with Male Photo as Hero, Female Photo as Slipping, Precise Sketch Side Pose and Composition Matching, Mountain Photo as Background Style Reference">
+
+```
+Nano Banana Pro: Realistic cliff rescue, use man photo as hero, woman photo as one slipping, match sketch side pose and composition precisely, mountain photo (style reference) for background. https://t.co/8pOHI3EmEA
+```
+
+---
+
+### [Crazy! Nano Banana Pro: A Super-Precise Upscaler](https://aiart.pics/prompt/crazy-nano-banana-pro-super-precise-upscaler)
+
+**Author**: [@Halim Alrasihi](https://x.com/HalimAlrasihi)
+
+**Source**: [X](https://x.com/HalimAlrasihi/status/1991581963275342330)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/crazy-nano-banana-pro-super-precise-upscaler-1.jpg" width="500" alt="Crazy! Nano Banana Pro: A Super-Precise Upscaler">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/crazy-nano-banana-pro-super-precise-upscaler-2.jpg" width="500" alt="Crazy! Nano Banana Pro: A Super-Precise Upscaler">
+
+```
+Crazy, Nano Banana Pro also works as a super precise upscaler.
+Better quality, more detail, remove (or add) grain and clean 4K upscaling all from a single prompt.
+Steal my prompt below: https://t.co/qmVcxRICuz
+```
+
+---
+
+### [Nano Banana Pro: Transform Blurred Photo into an Ultra-Sharp Lifestyle Shot Without Changing Composition](https://aiart.pics/prompt/nano-banana-pro-transform-blurred-photo-ultra-sharp-lifestyle-shot-without-changing-composition)
+
+**Author**: [@Halim Alrasihi](https://x.com/HalimAlrasihi)
+
+**Source**: [X](https://x.com/HalimAlrasihi/status/1991548793419116844)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-transform-blurred-photo-ultra-sharp-lifestyle-shot-without-changing-composition-1.jpg" width="500" alt="Nano Banana Pro: Transform Blurred Photo into an Ultra-Sharp Lifestyle Shot Without Changing Composition">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-transform-blurred-photo-ultra-sharp-lifestyle-shot-without-changing-composition-2.jpg" width="500" alt="Nano Banana Pro: Transform Blurred Photo into an Ultra-Sharp Lifestyle Shot Without Changing Composition">
+
+```
+Nano Banana Pro: Take the provided blurred photo and transform it into an ultra-sharp, realistic lifestyle shot without changing the composition or objects. https://t.co/jtwtfZ2wp4
+```
+
+---
+
+## Dr.haniya
+
+### [Golden Hour Glow](https://aiart.pics/prompt/golden-hour-glow)
+
+**Author**: [@Dr.haniya](https://x.com/haniya_445)
+
+**Source**: [X](https://x.com/haniya_445/status/1991656582309187823)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/golden-hour-glow-1.jpg" width="500" alt="Golden Hour Glow">
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/golden-hour-glow-2.jpg" width="500" alt="Golden Hour Glow">
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/golden-hour-glow-3.jpg" width="500" alt="Golden Hour Glow">
+
+```
+Golden Hour Glow
+A selfie where beauty meets effortless charm..
+Prompt ⤵️⤵️
+Create a close-up, eye-level selfie portrait of a young woman with a fair flawless complexion, captivating light brown eyes, and long, cascading wavy brown hair with subtle highlights. Her hair is parted down the side, framing her face and flowing over her shoulders. Her eyebrows are well-defined and natural, and her eyes feature delicate eyeliner and long,
+feathery lashes. She has a natural, soft pink blush on her cheeks and a glossy pink lip color. She is wearing a loose brown cropped midriff t-shirt that says "Coffee is my survival juice" in a retro medium sized font. She wears a delicate silver chain necklace with a small circular pendant. She is holding up a cup of iced latte with straw. The background is softly blurred, showing hints of a modern balcony with reflective surfaces and warm lighting. The overall lighting is soft and even,
+highlighting her features with a gentle glow, suggesting natural daylight or studio lighting. The image quality is sharp and high-resolution, capturing fine details as the light hits her face in a golden hour.
 ```
 
 ---
@@ -6201,6 +7659,22 @@ Retexture this image in the following JSON style aesthetic:\n{\n  "styleAestheti
 
 ---
 
+## Chenlei Hu
+
+### [Impressive Output from Nano-Banana Pro Explaining Stable Diffusion](https://aiart.pics/prompt/impressive-output-from-nano-banana-pro-explaining-stable-diffusion)
+
+**Author**: [@Chenlei Hu](https://x.com/HclHno3)
+
+**Source**: [X](https://x.com/HclHno3/status/1991550434646077674)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/impressive-output-from-nano-banana-pro-explaining-stable-diffusion-1.jpg" width="500" alt="Impressive Output from Nano-Banana Pro Explaining Stable Diffusion">
+
+```
+Impressive output from nano-banana pro explaining Stable Diffusion😎 https://t.co/E3Otm8Vn3l
+```
+
+---
+
 ## hellokaton
 
 ### [Youthful President's Red Hot Moments](https://aiart.pics/prompt/youthful-president-red-hot-moments)
@@ -6285,6 +7759,33 @@ Retexture this image in the following JSON style aesthetic:\n{\n  "styleAestheti
 
 ```
 一张戏剧性的黑白工作室肖像照。主体背对镜头站立，上半身轻微转向侧面，头微微低下，脸部侧面轮廓部分可见。表情平静而内省，营造出一种安静、神秘的氛围。\n\n灯光：一盏强烈的侧光，投下鲜明的对比。一束干净的水平光束横切过背景墙。画面大部分处于阴影之中，着重强调剪影和轮廓。\n氛围：极简主义，情绪化，电影感，唤起优雅与孤独感。主体身穿深色夹克，与阴影融为一体，呈现出流畅利落的时尚杂志风格。\n构图：使用全画幅相机拍摄，85mm镜头，f/1.8大光圈营造浅景深效果，ISO 200，快门速度1/125秒。中景构图（从腰部到头部），突出剪影、侧脸和姿态。\n后期：高对比度的黑白效果，柔和的色调渐变，深邃的阴影，添加轻微的胶片颗粒以增加质感，最终呈现精致的艺术杂志风格。
+```
+
+---
+
+## Henry Daubrez 🌸💀
+
+### [Magic Moment: SPLIT STACK Trick](https://aiart.pics/prompt/magic-moment-split-stack-trick)
+
+**Author**: [@Henry Daubrez 🌸💀](https://x.com/henrydaubrez)
+
+**Source**: [X](https://x.com/henrydaubrez/status/1991623020541276295)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/magic-moment-split-stack-trick-1.jpg" width="500" alt="Magic Moment: SPLIT STACK Trick">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/magic-moment-split-stack-trick-2.jpg" width="500" alt="Magic Moment: SPLIT STACK Trick">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/magic-moment-split-stack-trick-3.jpg" width="500" alt="Magic Moment: SPLIT STACK Trick">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/magic-moment-split-stack-trick-4.jpg" width="500" alt="Magic Moment: SPLIT STACK Trick">
+
+```
+Now the magic part.
+📌 Trick 1: SPLIT STACK
+In @flowbygoogle, switch to vertical (9:16).
+Prompt Nano Banana Pro to generate 4 stacked frames of a single environment with consistent characters.
+Each frame = 1 shot → Wide, close-up, over-shoulder, etc..
+#5/15 https://t.co/Yn9skP9cwT
 ```
 
 ---
@@ -6429,6 +7930,317 @@ Nano Banana Pro
 
 ---
 
+### [Nano Banana Pro - Crusader Propaganda Art - Fresco Painting](https://aiart.pics/prompt/nano-banana-pro-crusader-propaganda-art-fresco-painting)
+
+**Author**: [@Hagbard Celine](https://x.com/HgbrdCeline)
+
+**Source**: [X](https://x.com/HgbrdCeline/status/1991650932073853034)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-crusader-propaganda-art-fresco-painting-1.jpg" width="500" alt="Nano Banana Pro - Crusader Propaganda Art - Fresco Painting">
+
+```
+Nano Banana Pro
+(gemini-3-pro-image-preview)
+Crusader Propaganda Art - Fresco Painting https://t.co/01c93HZkzJ
+```
+
+---
+
+### [Nano Banana Pro - Crusader Propaganda Art - Fresco Painting](https://aiart.pics/prompt/nano-banana-pro-crusader-propaganda-art-fresco-painting-v68ela)
+
+**Author**: [@Hagbard Celine](https://x.com/HgbrdCeline)
+
+**Source**: [X](https://x.com/HgbrdCeline/status/1991650307290648988)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-crusader-propaganda-art-fresco-painting-1.jpg" width="500" alt="Nano Banana Pro - Crusader Propaganda Art - Fresco Painting">
+
+```
+Nano Banana Pro
+(gemini-3-pro-image-preview)
+Crusader Propaganda Art - Fresco Painting https://t.co/MgvETZegRu
+```
+
+---
+
+### [Nano Banana Pro Art Collection](https://aiart.pics/prompt/nano-banana-pro-art-collection)
+
+**Author**: [@Hagbard Celine](https://x.com/HgbrdCeline)
+
+**Source**: [X](https://x.com/HgbrdCeline/status/1991647926628581617)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-art-collection-1.jpg" width="500" alt="Nano Banana Pro Art Collection">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-art-collection-2.jpg" width="500" alt="Nano Banana Pro Art Collection">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-art-collection-3.jpg" width="500" alt="Nano Banana Pro Art Collection">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-art-collection-4.jpg" width="500" alt="Nano Banana Pro Art Collection">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-art-collection-5.jpg" width="500" alt="Nano Banana Pro Art Collection">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-art-collection-6.jpg" width="500" alt="Nano Banana Pro Art Collection">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-art-collection-7.jpg" width="500" alt="Nano Banana Pro Art Collection">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-art-collection-8.jpg" width="500" alt="Nano Banana Pro Art Collection">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-art-collection-9.jpg" width="500" alt="Nano Banana Pro Art Collection">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-art-collection-10.jpg" width="500" alt="Nano Banana Pro Art Collection">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-art-collection-11.jpg" width="500" alt="Nano Banana Pro Art Collection">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-art-collection-12.jpg" width="500" alt="Nano Banana Pro Art Collection">
+
+```
+Nano Banana Pro
+(gemini-3-pro-image-preview)
+Boudoir Portrait - Charcoal Sketch [4K Render] https://t.co/0sxPIEnOnS
+Nano Banana Pro
+(gemini-3-pro-image-preview)
+Crusader Propaganda Art - Fresco Painting https://t.co/MgvETZegRu
+Nano Banana Pro
+(gemini-3-pro-image-preview)
+Crusader Propaganda Art - Fresco Painting https://t.co/01c93HZkzJ
+Nano Banana Pro
+(gemini-3-pro-image-preview)
+Crusader Propaganda Art - Street Mural https://t.co/PMqDfAlXJc
+Nano Banana Pro
+(gemini-3-pro-image-preview)
+Crusader Propaganda Art - Street Mural https://t.co/ehfzgEeuTV
+Nano Banana Pro
+(gemini-3-pro-image-preview)
+Soviet Propaganda Art - Street Mural https://t.co/jU0vafqfdR
+Nano Banana Pro
+(gemini-3-pro-image-preview)
+Soviet Propaganda Art - Street Mural https://t.co/nmcIyJv65M
+Nano Banana Pro
+(gemini-3-pro-image-preview)
+Soviet Propaganda Art - Street Mural [4K 21:9] https://t.co/6qB1fTPro6
+Nano Banana Pro
+(gemini-3-pro-image-preview)
+Fantasy Artwork DAT - RPG Ink Illustration
+[Still have color bleeding in, but the rest is money.] https://t.co/OXT3uVdQBn
+Nano Banana Pro
+(gemini-3-pro-image-preview)
+Fantasy Artwork - RPG Ink Illustration https://t.co/i667J1czvR
+Nano Banana Pro
+(gemini-3-pro-image-preview)
+Fantasy Artwork - Character Study https://t.co/AKZ380nLQq
+Nano Banana Pro
+(gemini-3-pro-image-preview)
+Fantasy Artwork - Character Study https://t.co/HSZeVbb8om
+```
+
+---
+
+### [Nano Banana Pro](https://aiart.pics/prompt/nano-banana-pro-8rrh0b)
+
+**Author**: [@Hagbard Celine](https://x.com/HgbrdCeline)
+
+**Source**: [X](https://x.com/HgbrdCeline/status/1991646906473390580)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-1.jpg" width="500" alt="Nano Banana Pro">
+
+```
+Nano Banana Pro
+(gemini-3-pro-image-preview)
+Boudoir Portrait - Charcoal Sketch https://t.co/z1yhCnp7Sd
+```
+
+---
+
+### [1980s Color RPG Manual Cover [4K Render] - Nano Banana Pro](https://aiart.pics/prompt/1980s-color-rpg-manual-cover-4k-render-nano-banana-pro)
+
+**Author**: [@Hagbard Celine](https://x.com/HgbrdCeline)
+
+**Source**: [X](https://x.com/HgbrdCeline/status/1991616767446380791)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/1980s-color-rpg-manual-cover-4k-render-nano-banana-pro-1.jpg" width="500" alt="1980s Color RPG Manual Cover [4K Render] - Nano Banana Pro">
+
+```
+Nano Banana Pro
+(gemini-3-pro-image-preview)
+1980s color RPG Manual Cover [4K render] https://t.co/b4iVw7WEjs
+```
+
+---
+
+### [1980s Color RPG Manual Illustration](https://aiart.pics/prompt/1980s-color-rpg-manual-illustration)
+
+**Author**: [@Hagbard Celine](https://x.com/HgbrdCeline)
+
+**Source**: [X](https://x.com/HgbrdCeline/status/1991613895245799625)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/1980s-color-rpg-manual-illustration-1.jpg" width="500" alt="1980s Color RPG Manual Illustration">
+
+```
+Nano Banana Pro
+(gemini-3-pro-image-preview)
+1980s color RPG Manual Illustration https://t.co/YPP2k4j2lB
+```
+
+---
+
+### [1980s Color RPG Manual Illustration](https://aiart.pics/prompt/1980s-color-rpg-manual-illustration-w11c3p)
+
+**Author**: [@Hagbard Celine](https://x.com/HgbrdCeline)
+
+**Source**: [X](https://x.com/HgbrdCeline/status/1991606680782795043)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/1980s-color-rpg-manual-illustration-1.jpg" width="500" alt="1980s Color RPG Manual Illustration">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/1980s-color-rpg-manual-illustration-2.jpg" width="500" alt="1980s Color RPG Manual Illustration">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/1980s-color-rpg-manual-illustration-3.jpg" width="500" alt="1980s Color RPG Manual Illustration">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/1980s-color-rpg-manual-illustration-4.jpg" width="500" alt="1980s Color RPG Manual Illustration">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/1980s-color-rpg-manual-illustration-5.jpg" width="500" alt="1980s Color RPG Manual Illustration">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/1980s-color-rpg-manual-illustration-6.jpg" width="500" alt="1980s Color RPG Manual Illustration">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/1980s-color-rpg-manual-illustration-7.jpg" width="500" alt="1980s Color RPG Manual Illustration">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/1980s-color-rpg-manual-illustration-8.jpg" width="500" alt="1980s Color RPG Manual Illustration">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/1980s-color-rpg-manual-illustration-9.jpg" width="500" alt="1980s Color RPG Manual Illustration">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/1980s-color-rpg-manual-illustration-10.jpg" width="500" alt="1980s Color RPG Manual Illustration">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/1980s-color-rpg-manual-illustration-11.jpg" width="500" alt="1980s Color RPG Manual Illustration">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/1980s-color-rpg-manual-illustration-12.jpg" width="500" alt="1980s Color RPG Manual Illustration">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/1980s-color-rpg-manual-illustration-13.jpg" width="500" alt="1980s Color RPG Manual Illustration">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/1980s-color-rpg-manual-illustration-14.jpg" width="500" alt="1980s Color RPG Manual Illustration">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/1980s-color-rpg-manual-illustration-15.jpg" width="500" alt="1980s Color RPG Manual Illustration">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/1980s-color-rpg-manual-illustration-16.jpg" width="500" alt="1980s Color RPG Manual Illustration">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/1980s-color-rpg-manual-illustration-17.jpg" width="500" alt="1980s Color RPG Manual Illustration">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/1980s-color-rpg-manual-illustration-18.jpg" width="500" alt="1980s Color RPG Manual Illustration">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/1980s-color-rpg-manual-illustration-19.jpg" width="500" alt="1980s Color RPG Manual Illustration">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/1980s-color-rpg-manual-illustration-20.jpg" width="500" alt="1980s Color RPG Manual Illustration">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/1980s-color-rpg-manual-illustration-21.jpg" width="500" alt="1980s Color RPG Manual Illustration">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/1980s-color-rpg-manual-illustration-22.jpg" width="500" alt="1980s Color RPG Manual Illustration">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/1980s-color-rpg-manual-illustration-23.jpg" width="500" alt="1980s Color RPG Manual Illustration">
+
+```
+Nano Banana Pro
+(gemini-3-pro-image-preview)
+1980s color RPG Manual Illustration https://t.co/7LDL3VOUf6
+Nano Banana Pro
+(gemini-3-pro-image-preview)
+1980s color RPG Manual Illustration https://t.co/YPP2k4j2lB
+Nano Banana Pro
+(gemini-3-pro-image-preview)
+1980s color RPG Manual Cover [4K render] https://t.co/b4iVw7WEjs
+Nano Banana Pro
+(gemini-3-pro-image-preview)
+1980s color RPG Manual Cover [4K render] https://t.co/y7TR8azWQV
+Nano Banana Pro
+(gemini-3-pro-image-preview)
+1980s color RPG Manual Cover [4K render] https://t.co/USLxCYwz6c
+Nano Banana Pro
+(gemini-3-pro-image-preview)
+1980s color RPG Manual Cover [4K render] https://t.co/QpuNyYdy4M
+Nano Banana Pro
+(gemini-3-pro-image-preview)
+1980s color RPG Manual Cover [4K render] https://t.co/49WlLUgJ47
+Nano Banana Pro
+(gemini-3-pro-image-preview)
+1960s Spy Movie https://t.co/yTAxFvGwuy
+Nano Banana Pro
+(gemini-3-pro-image-preview)
+1960s Spy Movie https://t.co/NBKHgOkbH5
+Nano Banana Pro
+(gemini-3-pro-image-preview)
+Surreal Scifi - Charcoal Sketch https://t.co/UBHsWzIzdb
+Nano Banana Pro
+(gemini-3-pro-image-preview)
+Boudoir Portrait - Charcoal Sketch https://t.co/z1yhCnp7Sd
+Nano Banana Pro
+(gemini-3-pro-image-preview)
+Boudoir Portrait - Charcoal Sketch [4K Render] https://t.co/0sxPIEnOnS
+Nano Banana Pro
+(gemini-3-pro-image-preview)
+Crusader Propaganda Art - Fresco Painting https://t.co/MgvETZegRu
+Nano Banana Pro
+(gemini-3-pro-image-preview)
+Crusader Propaganda Art - Fresco Painting https://t.co/01c93HZkzJ
+Nano Banana Pro
+(gemini-3-pro-image-preview)
+Crusader Propaganda Art - Street Mural https://t.co/PMqDfAlXJc
+Nano Banana Pro
+(gemini-3-pro-image-preview)
+Crusader Propaganda Art - Street Mural https://t.co/ehfzgEeuTV
+Nano Banana Pro
+(gemini-3-pro-image-preview)
+Soviet Propaganda Art - Street Mural https://t.co/jU0vafqfdR
+Nano Banana Pro
+(gemini-3-pro-image-preview)
+Soviet Propaganda Art - Street Mural https://t.co/nmcIyJv65M
+Nano Banana Pro
+(gemini-3-pro-image-preview)
+Soviet Propaganda Art - Street Mural [4K 21:9] https://t.co/6qB1fTPro6
+Nano Banana Pro
+(gemini-3-pro-image-preview)
+Fantasy Artwork DAT - RPG Ink Illustration
+[Still have color bleeding in, but the rest is money.] https://t.co/OXT3uVdQBn
+Nano Banana Pro
+(gemini-3-pro-image-preview)
+Fantasy Artwork - RPG Ink Illustration https://t.co/i667J1czvR
+Nano Banana Pro
+(gemini-3-pro-image-preview)
+Fantasy Artwork - Character Study https://t.co/AKZ380nLQq
+Nano Banana Pro
+(gemini-3-pro-image-preview)
+Fantasy Artwork - Character Study https://t.co/HSZeVbb8om
+```
+
+---
+
+### [1980s US Import Anime: Nano Banana Pro](https://aiart.pics/prompt/1980s-us-import-anime-nano-banana-pro)
+
+**Author**: [@Hagbard Celine](https://x.com/HgbrdCeline)
+
+**Source**: [X](https://x.com/HgbrdCeline/status/1991572672149639226)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/1980s-us-import-anime-nano-banana-pro-1.jpg" width="500" alt="1980s US Import Anime: Nano Banana Pro">
+
+```
+Nano Banana Pro
+(gemini-3-pro-image-preview)
+1980s US Import Anime https://t.co/3IZI6RRuYt
+```
+
+---
+
+### [1980s US Import Anime: Nano Banana Pro](https://aiart.pics/prompt/1980s-us-import-anime-nano-banana-pro-wqlox7)
+
+**Author**: [@Hagbard Celine](https://x.com/HgbrdCeline)
+
+**Source**: [X](https://x.com/HgbrdCeline/status/1991565610116084067)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/1980s-us-import-anime-nano-banana-pro-1.jpg" width="500" alt="1980s US Import Anime: Nano Banana Pro">
+
+```
+Nano Banana Pro
+(gemini-3-pro-image-preview)
+1980s US Import Anime https://t.co/1VzHWAoa9X
+```
+
+---
+
 ### [80s US Import TV Anime 'Nano Banana Pro'](https://aiart.pics/prompt/80s-us-import-tv-anime-nano-banana-pro)
 
 **Author**: [@Hagbard Celine](https://x.com/HgbrdCeline)
@@ -6446,6 +8258,25 @@ Nano Banana Pro
 ---
 
 ## Higgsfield AI 🧩
+
+### [Nano Banana Pro Insane Capabilities Walkthrough!](https://aiart.pics/prompt/nano-banana-pro-insane-capabilities-walkthrough)
+
+**Author**: [@Higgsfield AI 🧩](https://x.com/higgsfield_ai)
+
+**Source**: [X](https://x.com/higgsfield_ai/status/1991600367138926697)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-insane-capabilities-walkthrough-1.jpg" width="500" alt="Nano Banana Pro Insane Capabilities Walkthrough!">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-insane-capabilities-walkthrough-2.jpg" width="500" alt="Nano Banana Pro Insane Capabilities Walkthrough!">
+
+```
+Nano Banana Pro insane capabilties walkthrough! 🧩
+Prompt: "Show me a photo of all the ingredients for this dish, labeled with names and quantities."
+For the next 72 hours ONLY. Get 1 Year UNLIMITED Nano Banana Pro in 4K on Higgsfield.
+For 12 hours: follow, like, retweet & comment = FREE 100 credits
+```
+
+---
 
 ### [Nano Banana Pro Insane Capabilities Walkthrough!](https://aiart.pics/prompt/nano-banana-pro-insane-capabilities-walkthrough-nq6zd7)
 
@@ -6465,6 +8296,81 @@ The model knows everything that's visual. Pro level screenshots. At your fingert
 For the next 72 hours ONLY. Get 1 Year UNLIMITED Nano Banana Pro in 4K on Higgsfield.
 For 12 hours: follow, like, retweet & comment = FREE 100 credits
 Prompt in thread 🧵
+```
+
+---
+
+### [Nano Banana Pro HIGH Quality Capabilities Sale](https://aiart.pics/prompt/nano-banana-pro-high-quality-capabilities-sale)
+
+**Author**: [@Higgsfield AI 🧩](https://x.com/higgsfield_ai)
+
+**Source**: [X](https://x.com/higgsfield_ai/status/1991568081337135200)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-high-quality-capabilities-sale-1.jpg" width="500" alt="Nano Banana Pro HIGH Quality Capabilities Sale">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-high-quality-capabilities-sale-2.jpg" width="500" alt="Nano Banana Pro HIGH Quality Capabilities Sale">
+
+```
+Nano Banana Pro's HIGH Quality capabilties! 🧩
+For the next 72 hours ONLY. Get 1 Year UNLIMITED Nano Banana Pro in 4K on Higgsfield.
+Prompt: "Make 100x zoom". That\'s it. No extra prompt &amp; highest quality.
+For 12 hours: follow, like, retweet &amp; comment = FREE 100 credits https://t.co/TcbfwzsKbc
+```
+
+---
+
+### [Nano Banana Pro Insane Capabilities Walkthrough!](https://aiart.pics/prompt/nano-banana-pro-insane-capabilities-walkthrough-01r053)
+
+**Author**: [@Higgsfield AI 🧩](https://x.com/higgsfield_ai)
+
+**Source**: [X](https://x.com/higgsfield_ai/status/1991564218659926189)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-insane-capabilities-walkthrough-1.jpg" width="500" alt="Nano Banana Pro Insane Capabilities Walkthrough!">
+
+```
+Nano Banana Pro insane capabilties walkthrough! 🧩
+Prompt: "Dress the person from the second image in the clothes from the first image".
+SOTA reference & prompt addressing.
+For the next 72 hours ONLY. Get 1 Year UNLIMITED Nano Banana Pro in 4K on Higgsfield.
+For 12 hours: follow, like, retweet & comment = FREE 100 credits
+```
+
+---
+
+### [Nano Banana Pro Insane Capabilities Walkthrough](https://aiart.pics/prompt/nano-banana-pro-insane-capabilities-walkthrough-8cktcl)
+
+**Author**: [@Higgsfield AI 🧩](https://x.com/higgsfield_ai)
+
+**Source**: [X](https://x.com/higgsfield_ai/status/1991557753584890124)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-insane-capabilities-walkthrough-1.jpg" width="500" alt="Nano Banana Pro Insane Capabilities Walkthrough">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-insane-capabilities-walkthrough-2.jpg" width="500" alt="Nano Banana Pro Insane Capabilities Walkthrough">
+
+```
+Nano Banana Pro insane capabilties walkthrough!
+Prompt: "Make an online shop page for this corset." 🤯
+For the next 72 hours ONLY. Get 1 Year UNLIMITED Nano Banana Pro in 4K on Higgsfield.
+For 12 hours: follow, like, retweet &amp; comment = FREE 100 credits https://t.co/iY6JXEU8T6
+```
+
+---
+
+### [Nano Banana Pro Insane Abilities Walkthrough](https://aiart.pics/prompt/nano-banana-pro-insane-abilities-walkthrough)
+
+**Author**: [@Higgsfield AI 🧩](https://x.com/higgsfield_ai)
+
+**Source**: [X](https://x.com/higgsfield_ai/status/1991554658700259353)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-insane-abilities-walkthrough-1.jpg" width="500" alt="Nano Banana Pro Insane Abilities Walkthrough">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-insane-abilities-walkthrough-2.jpg" width="500" alt="Nano Banana Pro Insane Abilities Walkthrough">
+
+```
+Nano Banana Pro insane capabilties walkthrough!
+Prompt: "Give each piece of his clothing separately on the asphalt"
+For the next 72 hours ONLY. Get 1 Year UNLIMITED Nano Banana Pro in 4K on Higgsfield.
+For 12 hours: follow, like, retweet &amp; comment = FREE 100 credits https://t.co/X6Wb0y76Cj
 ```
 
 ---
@@ -6715,6 +8621,23 @@ https://t.co/5ycgC2CdUL https://t.co/y2ZCjOZOz6
 
 ## Kris Kashtanova
 
+### [Create a Storybook with Your Childhood Photo: Google DeepMind Nano Banana Pro + Adobe Firefly Boards](https://aiart.pics/prompt/create-a-storybook-with-your-childhood-photo-google-deepmind-nano-banana-pro-adobe-firefly-boards)
+
+**Author**: [@Kris Kashtanova](https://x.com/icreatelife)
+
+**Source**: [X](https://x.com/icreatelife/status/1991540741185614284)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/create-a-storybook-with-your-childhood-photo-google-deepmind-nano-banana-pro-adobe-firefly-boards-1.png" width="500" alt="Create a Storybook with Your Childhood Photo: Google DeepMind Nano Banana Pro + Adobe Firefly Boards">
+
+```
+Use your childhood photo to make a storybook with Google DeepMind Nano Banana Pro + Adobe Firefly Boards
+I'd love to see your experiments
+prompt: Analyze this image and then create a timeline of the events that led to this photograph; make a storyboard like it was a motion pictures, 9-x storyboard grid, events in the series, storyboard creation, each sequence is in order
+Then you can make the whole animation about what let to that photo using these images as keyframes.
+```
+
+---
+
 ### [Nano Banana Pro Photoshop Tutorial](https://aiart.pics/prompt/nano-banana-pro-photoshop-tutorial)
 
 **Author**: [@Kris Kashtanova](https://x.com/icreatelife)
@@ -6892,6 +8815,27 @@ looking through a [MATERIAL] keyhole towards a mythical [WORLD] dark fantasy, [v
 
 ---
 
+## Intl Econ Observe
+
+### [Exaggerated Nano Banana Pro](https://aiart.pics/prompt/exaggerated-nano-banana-pro)
+
+**Author**: [@Intl Econ Observe](https://x.com/IEObserve)
+
+**Source**: [X](https://x.com/IEObserve/status/1991543869146849310)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/exaggerated-nano-banana-pro-1.jpg" width="500" alt="Exaggerated Nano Banana Pro">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/exaggerated-nano-banana-pro-2.jpg" width="500" alt="Exaggerated Nano Banana Pro">
+
+```
+超扯的Nano Banana Pro
+我丟給他照片然後給他這個prompt
+幫我把這個起士公爵的蛋糕用成非常專業的廣告照，光影和角度都呈現出一種高級的美味感，呈現出起士公爵的4D減法工法：不加奶油、不加鮮奶油、不加澱粉、不加水
+他就生出左邊那張圖 https://t.co/WX6yNFmoEe
+```
+
+---
+
 ## Shira Wiggles
 
 ### [Dark Gothic Tarot Style - Nano Banana Variant 6](https://aiart.pics/prompt/dark-gothic-tarot-style-nano-banana-variant-6)
@@ -6906,6 +8850,26 @@ looking through a [MATERIAL] keyhole towards a mythical [WORLD] dark fantasy, [v
 Nano Banana 🍌
 Variant 6 —Dark Gothic Tarot Style
 Prompt: Generate a dark gothic tarot card featuring me from this image. Include [“AI Artist - Shira”] and [coffee, white fluffy chubby cat with pink bow, laptop, phone, headphones] as symbols, with moody shadows, intricate gothic borders, and mystical dark fantasy vibes.
+```
+
+---
+
+## とりしま (Sub I/O)
+
+### [Historical Izu Oshima in霞ヶ関Polychrome Woodblock Print in Nano Banana Pro](https://aiart.pics/prompt/izuoishi-historic-izugakakonpolychromewoodblockprintinanobananapro)
+
+**Author**: [@とりしま (Sub I/O)](https://x.com/iotorishima)
+
+**Source**: [X](https://x.com/iotorishima/status/1991555979666944493)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/izuoishi-historic-izugakakonpolychromewoodblockprintinanobananapro-1.jpg" width="500" alt="Historical Izu Oshima in霞ヶ関Polychrome Woodblock Print in Nano Banana Pro">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/izuoishi-historic-izugakakonpolychromewoodblockprintinanobananapro-2.jpg" width="500" alt="Historical Izu Oshima in霞ヶ関Polychrome Woodblock Print in Nano Banana Pro">
+
+```
+Nano Banana Pro に「伊豆鳥島の歴史を霞ヶ関ポンチ絵で」って言ったらマジのちゃんとした歴史が出てきた上にいらすとや挿絵まで入ってて横転！！！！！！
+図としても「味」がありながら純粋に分かりやすいしヤバすぎる！久々に驚き屋やらせていただきます　やばいって https://t.co/S9ajdG8x18
+少し幅を圧縮した BIZ UD Gothic っぽいのと Meiryo UI っぽいフォントが使われてるのが味だ https://t.co/L7bPyJutp5
 ```
 
 ---
@@ -7036,6 +9000,58 @@ A vibrant, stylized pop art portrait of a [Subject]. The subject is rendered wit
 
 ---
 
+## J
+
+### [Nano Banana Pro Creates a Perfect Slide on Prime Minister's中日 Relations in 10 Seconds](https://aiart.pics/prompt/nano-banana-pro-quickly-creates-slide-on-prime-ministers-chinese-relations-in-10-seconds)
+
+**Author**: [@J](https://x.com/j_kun_ml)
+
+**Source**: [X](https://x.com/j_kun_ml/status/1991644547840110948)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-quickly-creates-slide-on-prime-ministers-chinese-relations-in-10-seconds-1.jpg" width="500" alt="Nano Banana Pro Creates a Perfect Slide on Prime Minister's中日 Relations in 10 Seconds">
+
+```
+Nano Banana Proに頼んだら10秒で「今の高市首相と日中関係悪化問題」について完璧すぎるスライド作ってくれたんだけど。
+わかりやすすぎて2秒で理解した。笑
+プロンプト↓ https://t.co/hcAYN5rQAp
+```
+
+---
+
+## jacalulu
+
+### [Four Seasons Change Infographic](https://aiart.pics/prompt/four-seasons-change-infographic)
+
+**Author**: [@jacalulu](https://x.com/jacalulu)
+
+**Source**: [X](https://x.com/jacalulu/status/1991547184731549946)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/four-seasons-change-infographic.jpeg" width="500" alt="Four Seasons Change Infographic">
+
+```
+generate a detailed infographic that explains the 4 seasons as experienced in Toronto, Canada. The infographic is for a grade 3 classroom. Make it in the style of Eric Carle
+请制作一张详细的信息图，解释加拿大安大略省多伦多市的四季变化。这张信息图是为三年级课堂设计的，风格请参考艾瑞·卡尔的绘本风格。
+```
+
+---
+
+## Jacob Ilin
+
+### [Space Ship Game Built with Glowbom Desktop and Nano Banana Pro](https://aiart.pics/prompt/space-ship-game-built-with-glowbom-desktop-and-nano-banana-pro)
+
+**Author**: [@Jacob Ilin](https://x.com/jacobilin)
+
+**Source**: [X](https://x.com/jacobilin/status/1991649441967677925)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/space-ship-game-built-with-glowbom-desktop-and-nano-banana-pro-cover-1.jpg" width="500" alt="Space Ship Game Built with Glowbom Desktop and Nano Banana Pro">
+
+```
+Space ship game built with Glowbom Desktop powered by Nano Banana Pro and Gemini 3.
+Google really cooked!
+```
+
+---
+
 ## James Yeung
 
 ### [New York Deli Movie Poster at Night](https://aiart.pics/prompt/new-york-deli-movie-poster-at-night)
@@ -7057,6 +9073,60 @@ A vibrant, stylized pop art portrait of a [Subject]. The subject is rendered wit
 2. Movie still, A deli in New York, an arctic blue neon arrow sign, ethereal portraiture, tonalist color scheme, pensive stillness, aquamarine and cyan, New York at night, in the style of cinematic stills, cyan, eve ventrue, cinestill 50d, street scenes, flickr, ragnar kjartansson --ar 16:9 --style raw
 3. Movie still, A deli in New York, a red neon arrow sign, ethereal portraiture, tonalist color scheme, pensive stillness, aquamarine and cyan, New York at night, in the style of cinematic stills, cyan, eve ventrue, cinestill 50d, street scenes, flickr, ragnar kjartansson --ar 16:9 --style raw
 4. Movie still, A deli in New York, an arctic blue neon arrow sign, ethereal portraiture, tonalist color scheme, pensive stillness, aquamarine and cyan, New York at night, in the style of cinematic stills, cyan, eve ventrue, cinestill 50d, street scenes, flickr, ragnar kjartansson --ar 16:9 --style raw
+```
+
+---
+
+## Javi Lopez ⛩️
+
+### [Vintage 1980s Miami Vibe: Nano Banana Pro Stylish Blonde Woman](https://aiart.pics/prompt/vintage-1980s-miami-vibe-nano-banana-pro-stylish-blonde-woman)
+
+**Author**: [@Javi Lopez ⛩️](https://x.com/javilopen)
+
+**Source**: [X](https://x.com/javilopen/status/1991619717946306828)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/vintage-1980s-miami-vibe-nano-banana-pro-stylish-blonde-woman-1.jpg" width="500" alt="Vintage 1980s Miami Vibe: Nano Banana Pro Stylish Blonde Woman">
+
+```
+Nano Banana Pro:
+"Cinematic photograph of a stylish young blonde woman in a bikini, with a black phanter near her, in a pastel windbreaker in a small bikini, sipping a tropical soda inside a retro diner, super cute, vintage 1980s Miami vibes, pastel neon colors, tropical accents, cool atmosphere, soft film grain, looks like a film still from an 80s movie"
+```
+
+---
+
+## Connor
+
+### [Nano Banana Pro is Here!](https://aiart.pics/prompt/nano-banana-pro-is-here)
+
+**Author**: [@Connor](https://x.com/Jchammond_)
+
+**Source**: [X](https://x.com/Jchammond_/status/1991560525352956351)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-is-here-1.jpg" width="500" alt="Nano Banana Pro is Here!">
+
+```
+Nano Banana Pro is here!
+I used it to generate an app design mock up for a tower defense game
+This will be so great for getting app design inspiration https://t.co/HXxoFBodmA
+```
+
+---
+
+## Jesse Lau 遁一子
+
+### [Nano Banana Pro Font Vector Issue and Incorrect Kanji Drawing of Ba Gua](https://aiart.pics/prompt/nano-banana-pro-font-vector-issue-and-incorrect-kanji-drawing-of-ba-gua)
+
+**Author**: [@Jesse Lau 遁一子](https://x.com/jesselaunz)
+
+**Source**: [X](https://x.com/jesselaunz/status/1991594957283684355)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-font-vector-issue-and-incorrect-kanji-drawing-of-ba-gua-1.jpg" width="500" alt="Nano Banana Pro Font Vector Issue and Incorrect Kanji Drawing of Ba Gua">
+
+```
+nano banana pro的字估计是矢量画上去的，保持写字正确，但是要放在正确的位置大概有难度
+“详细画出先天八卦和后天八卦”
+先天八卦+后天八卦都胡乱画错了
+关键是还挺唬人，容易骗到人啊 https://t.co/w3RAy23fLy
 ```
 
 ---
@@ -7214,6 +9284,22 @@ quality = "ultra-detailed, high-resolution, cinematic finish"
 
 ---
 
+## Jon Barron
+
+### [Generate a Two-Layer Neural Network Diagram in the Style of Stephen Biesty](https://aiart.pics/prompt/generate-a-two-layer-neural-network-diagram-in-the-style-of-stephen-biesty)
+
+**Author**: [@Jon Barron](https://x.com/jon_barron)
+
+**Source**: [X](https://x.com/jon_barron/status/1991554563233779822)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/generate-a-two-layer-neural-network-diagram-in-the-style-of-stephen-biesty-1.jpg" width="500" alt="Generate a Two-Layer Neural Network Diagram in the Style of Stephen Biesty">
+
+```
+Nano Banana Pro: "Generate a diagram of a two-layer neural network in the style of Stephen Biesty" https://t.co/u04MUoEutr
+```
+
+---
+
 ## karatademada
 
 ### [Cinematic Portrait of Beauty](https://aiart.pics/prompt/cinematic-portrait-of-beauty)
@@ -7227,6 +9313,47 @@ quality = "ultra-detailed, high-resolution, cinematic finish"
 ```
 A cinematic portrait of a young East Asian woman sitting gracefully at a white marble vanity table. She has long, sleek, dark brown hair parted in the middle, styled simply to frame her face. Her skin is luminous and smooth with a warm tone. She wears soft, peach-toned makeup with a light shimmer on the eyelids, subtle eyeliner, and coral lipstick that gives her a polished glow.\n\nShe’s dressed in an off-shoulder black velvet dress that accentuates her neckline and shoulders, elegant yet modern. A delicate silver necklace with a small pendant rests on her collarbone, and she wears matching silver earrings and a ring, adding a refined touch. Her posture is confident and feminine, one arm resting naturally on the marble surface, the other relaxed by her side.\n\nThe scene takes place in a softly lit vanity space with a mirror reflecting part of her silhouette. The lighting is balanced and diffused, creating a clean, luxurious look, soft shadows, no harsh highlights, and a smooth skin texture. On the vanity, there are makeup items such as a compact palette, a small decorative brush, and bottles of foundation neatly placed beside her.\n\nThe background features deep navy or dark curtains and minimalist decor, including white vases filled with dried flowers in warm autumn hues of orange, cream, and gold. The overall mood feels elegant, poised, and quietly glamorous, like a high-end beauty editorial captured on a crisp modern camera with cinematic lighting and 8K ultra-realistic clarity.\n\nColor palette: ivory white, black velvet, warm peach tones, and soft gold floral accents.\nAspect ratio: 4:5.\nStyle: hyper-realistic, luxury portrait, magazine aesthetic.
 一幅充满电影感的肖像画，描绘了一位年轻的东亚女性优雅地坐在白色大理石梳妆台前。她有着一头柔顺的深棕色长发，中分，简单的发型勾勒出她精致的脸庞。她的肌肤光洁光滑，肤色温暖。她化着柔和的蜜桃色妆容，眼睑上点缀着淡淡的珠光，眼线细腻，珊瑚色唇膏则为她增添了一抹精致的光泽。\n\n她身着一袭露肩黑色天鹅绒连衣裙，凸显了她的颈部和肩部线条，优雅而又不失现代感。一条精致的银项链搭配一枚小巧的吊坠，垂于她的锁骨上，她还佩戴了与之相配的银耳环和戒指，更添一抹精致。她的姿态自信而柔美，一只手臂自然地搭在大理石台面上，另一只手臂则放松地垂在身侧。\n\n场景发生在灯光柔和的梳妆台上，镜子映照出她部分轮廓。光线均衡柔和，营造出干净奢华的妆容，阴影柔和，没有刺眼的高光，肌肤纹理光滑细腻。梳妆台上，她身旁整齐地摆放着一些化妆品，例如粉饼盘、小巧的装饰刷和几瓶粉底液。\n\n背景采用深蓝色或深色窗帘，搭配简约的装饰，包括插满干花的白色花瓶，这些干花呈现出温暖的秋日色调——橙色、奶油色和金色。整体氛围优雅、沉稳，又不失低调的魅力，如同一部用清晰的现代相机，在影院级灯光和8K超高清画质下拍摄的高端美妆社论。\n\n色调：象牙白、黑色天鹅绒、温暖的桃色调和柔和的金色花卉装饰。\n长宽比：4：5。\n风格：超现实主义、奢华肖像、杂志美学。
+```
+
+---
+
+## karminski-牙医
+
+### [Preschool Tutorial: How to Create a Display Window Image with nano-banana-pro](https://aiart.pics/prompt/preschool-tutorial-how-to-create-display-window-image-with-nano-banana-pro)
+
+**Author**: [@karminski-牙医](https://x.com/karminski3)
+
+**Source**: [X](https://x.com/karminski3/status/1991642983285027274)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/preschool-tutorial-how-to-create-display-window-image-with-nano-banana-pro-cover-1.jpg" width="500" alt="Preschool Tutorial: How to Create a Display Window Image with nano-banana-pro">
+
+```
+nano banana pro 幼儿园教程! 如何合成橱窗图片!
+这次选取了14各毛绒玩具, 为大家展示如何使用 nano-banana-pro 合成橱窗图片!
+比如你有好几件商品展示, 但是这些产品并不都在一起或者新增了产品想来一张产品全图, 那就直接用这招!
+下文中 {bedroom window} 可以修改为你喜欢的场景, 比如沙发, 桌面, 床上都可以, 画面就会跟着变啦!
+prompt:
+View from outside looking in, a {bedroom window} completely filled with a huge pile of various plush toys, (consisting exclusively of the specific provided plush doll characters, no unidentified toys or duplicated toys), (pressed tightly against the window glass:1.3), (faces squished against glass:1.2), chaotic heap of cute dolls, window frame, exterior view of a house, reflection on glass, soft indoor lighting visible through the gaps, cozy atmosphere, cinematic lighting.
+#nanobananapro #nanobanana
+```
+
+---
+
+## けいすけ / AIマンガ家
+
+### [Understood Nano Banana Pro](https://aiart.pics/prompt/nano-banana-pro-understood)
+
+**Author**: [@けいすけ / AIマンガ家](https://x.com/kei31)
+
+**Source**: [X](https://x.com/kei31/status/1991642143702868275)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-understood-1.jpg" width="500" alt="Understood Nano Banana Pro">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-understood-2.jpg" width="500" alt="Understood Nano Banana Pro">
+
+```
+Nano Banana Pro理解した
+（リプにプロンプト） https://t.co/5PJ5beMpqm
 ```
 
 ---
@@ -7345,6 +9472,29 @@ A hyper-realistic square 1:1 portrait of a [YOUR ANIMAL] standing in a heroic po
 
 ---
 
+## Kiaran Ritchie
+
+### [Nano Banana v2 Pro: A Big Leap in Image Editing with One-Click Rope Bridge Fix](https://aiart.pics/prompt/nano-banana-v2-pro-image-editing-rope-bridge-fix)
+
+**Author**: [@Kiaran Ritchie](https://x.com/kiaran_ritchie)
+
+**Source**: [X](https://x.com/kiaran_ritchie/status/1991593413196841145)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-v2-pro-image-editing-rope-bridge-fix-1.jpg" width="500" alt="Nano Banana v2 Pro: A Big Leap in Image Editing with One-Click Rope Bridge Fix">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-v2-pro-image-editing-rope-bridge-fix-2.jpg" width="500" alt="Nano Banana v2 Pro: A Big Leap in Image Editing with One-Click Rope Bridge Fix">
+
+```
+I just got Nano Banana v2 Pro and it's a big leap forward. You can now quite reliably edit images with text prompts!
+I have this test that stumped v1, where I ask the model,
+"Keep this image the same but fix the rope bridge so that it connects to the upper left treehouse platform on the edge, instead of the bottom"
+After several tries with v1, no success. It either moves the rope bridge around, or does nothing.
+v2 nailed it first try.
+(before / after)
+```
+
+---
+
 ## simply
 
 ### [Realistic HD Full Body Caricature Character](https://aiart.pics/prompt/realistic-hd-full-body-caricature-character)
@@ -7391,6 +9541,30 @@ GoogleのNano Banana Pro、日本語の文字表現圧倒的に壊れにくく�
 
 ```
 A giant [transparent or glossy] [object/container] with a miniature 3D diorama inside it, depicting [a symbolic or narrative scene], studio-lit with soft shadows, placed on a neutral matte surface. Emphasize visual contrast between the scale of the capsule and the detail within. Highlight texture, light refraction, and emotional tone (e.g., surreal, poetic, or sci-fi).
+```
+
+---
+
+## くまがあゆむ
+
+### [Nano Banana Pro: Artistic Masterpiece Beyond Time, Limited 72-hour 65% Off Sale!](https://aiart.pics/prompt/nano-banana-pro-beyond-time-artistic-masterpiece-limited-72-hour-65-off-sale)
+
+**Author**: [@くまがあゆむ](https://x.com/KumagaAyumu)
+
+**Source**: [X](https://x.com/KumagaAyumu/status/1991553053758222841)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-beyond-time-artistic-masterpiece-limited-72-hour-65-off-sale-1.jpg" width="500" alt="Nano Banana Pro: Artistic Masterpiece Beyond Time, Limited 72-hour 65% Off Sale!">
+
+```
+Nano Banana Pro、マジでやばい。
+そして今 72時間限定で 65%OFF（Black Friday）。
+試しに、
+「ぜんぜん違う時代・文化のアーティファクトを50個、1枚にまとめて」
+っていう無茶ぶりを投げたら、
+光も質感も物理もすべて破綻なし。
+このエンジン、普通に未来。
+@higgsfield_ai
+#NanoBananaPro #Higgsfield #AIVideo #BlackFriday
 ```
 
 ---
@@ -7721,6 +9895,42 @@ Prompt:
 
 ## LinusEkenstam
 
+### [Nano Banana Pro: Technical Drawing Comparison, Imagining the Future](https://aiart.pics/prompt/nano-banana-pro-technical-drawing-comparison-imagining-the-future)
+
+**Author**: [@LinusEkenstam](https://x.com/LinusEkenstam)
+
+**Source**: [X](https://x.com/LinusEkenstam/status/1991648837149065543)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-technical-drawing-comparison-imagining-the-future-1.jpg" width="500" alt="Nano Banana Pro: Technical Drawing Comparison, Imagining the Future">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-technical-drawing-comparison-imagining-the-future-2.jpg" width="500" alt="Nano Banana Pro: Technical Drawing Comparison, Imagining the Future">
+
+```
+”Create a technical drawing of this speaker”
+Just compare the two images, it’s wild. imagine where we are heading.
+Nano Banana Pro is check mate https://t.co/sZutjsiObA
+```
+
+---
+
+### [Nano Banana Pro's Scary Use Case](https://aiart.pics/prompt/nano-banana-pros-scary-use-case)
+
+**Author**: [@LinusEkenstam](https://x.com/LinusEkenstam)
+
+**Source**: [X](https://x.com/LinusEkenstam/status/1991644164258144549)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pros-scary-use-case-1.jpg" width="500" alt="Nano Banana Pro's Scary Use Case">
+
+```
+Nano Banana Pro 🍌crazy use-case.
+I just turned my x profile photo into a swedish national ID card.
+scary part, It almost got the dates and year right.
+profile pic + prompt ”make an ID” via API
+Thanks @heysirio_ai for the tip. https://t.co/5xorVAmR3N
+```
+
+---
+
 ### [Nano Banana Pro: Insane Experience and Its Importance](https://aiart.pics/prompt/nano-banana-pro-insane-experience-and-its-importance)
 
 **Author**: [@LinusEkenstam](https://x.com/LinusEkenstam)
@@ -7927,6 +10137,36 @@ MJ需要调10次参数+remix才能接近的效果，Nano Banana Pro一次就干�
 真实度、人物一致性、复杂光影理解，全部碾压级！
 2025年AI图像王者易主了，兄弟们你们还用MJ吗？😏
 体验谷歌模型网址直接冲：“https://t.co/bNaTTkKUhg”
+```
+
+---
+
+## 低空飞行
+
+### [Nano Banana Pro: Fan Cam of Liyuu's Live Concert in HD](https://aiart.pics/prompt/nano-banana-pro-liyuu-concert-live-fan-cam-in-hd)
+
+**Author**: [@低空飞行](https://x.com/localhost_4173)
+
+**Source**: [X](https://x.com/localhost_4173/status/1991554377379983471)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-liyuu-concert-live-fan-cam-in-hd-1.jpg" width="500" alt="Nano Banana Pro: Fan Cam of Liyuu's Live Concert in HD">
+
+```
+Nano Banana Pro: 生成 Liyuu 现场演唱会的近距离 fan cam @hd_nvim https://t.co/Vpw0RtGRKn
+```
+
+---
+
+### [Nano Banano Pro Successfully Generates Modern Anime Movie Style Images](https://aiart.pics/prompt/nano-banano-pro-successfully-generates-modern-anime-movie-style-images)
+
+**Author**: [@低空飞行](https://x.com/localhost_4173)
+
+**Source**: [X](https://x.com/localhost_4173/status/1991544968473952266)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banano-pro-successfully-generates-modern-anime-movie-style-images-1.jpg" width="500" alt="Nano Banano Pro Successfully Generates Modern Anime Movie Style Images">
+
+```
+Nano Banano Pro 成功了，"生成现代动漫电影画风的图片，只改左边的女生"，GPT Image 1 和 Nano Banana 都不能完全按照指令 https://t.co/PPx7xNSgyf
 ```
 
 ---
@@ -8346,6 +10586,104 @@ as an ultra-detailed, hyper-realistic 3D sculpture fully composed of luxurious e
 
 ---
 
+## can
+
+### [Nano Banana Pro Gemini App Version vs 4K Version](https://aiart.pics/prompt/nano-banana-pro-gemini-app-version-vs-4k-version)
+
+**Author**: [@can](https://x.com/marmaduke091)
+
+**Source**: [X](https://x.com/marmaduke091/status/1991644521416007916)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-gemini-app-version-vs-4k-version-1.jpg" width="500" alt="Nano Banana Pro Gemini App Version vs 4K Version">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-gemini-app-version-vs-4k-version-2.jpg" width="500" alt="Nano Banana Pro Gemini App Version vs 4K Version">
+
+```
+🚨Nano Banana Pro Gemini App version 🆚 4K version
+The difference is night and day, it's like a completely different model in 4K mode.
+4K version of NBP is INSANE. Every output I get is jaw-dropping. I hope more people get access to it soon.
+More 4K examples below⬇️ https://t.co/8xdSxwShD6
+```
+
+---
+
+### [4K Nano Banana Pro - Even More Crazy!](https://aiart.pics/prompt/4k-nano-banana-pro-even-more-crazy)
+
+**Author**: [@can](https://x.com/marmaduke091)
+
+**Source**: [X](https://x.com/marmaduke091/status/1991621668599673291)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/4k-nano-banana-pro-even-more-crazy-1.jpg" width="500" alt="4K Nano Banana Pro - Even More Crazy!">
+
+```
+🚨4K version of Nano Banana Pro is even more crazy!
+Prompt: "create selfie of 10 random celebrities"
+More examples below⬇️ https://t.co/tpjNnYBl4c
+```
+
+---
+
+### [Nano Banana Pro: The惊人的Image Generation AGI Performance](https://aiart.pics/prompt/nano-banana-pro-image-generation-agi-performance)
+
+**Author**: [@can](https://x.com/marmaduke091)
+
+**Source**: [X](https://x.com/marmaduke091/status/1991605054298616059)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-image-generation-agi-performance-1.jpg" width="500" alt="Nano Banana Pro: The惊人的Image Generation AGI Performance">
+
+```
+🚨Nano Banana Pro was literally image gen AGI.
+This is just with the prompt: "a selfie of 10 random female celebs"
+People are using an much downgraded version right now. I am sad that Gemini 3.0 Pro is lazy and thinks less and NBP is much less quality.
+Google needs more TPU's NOW!
+```
+
+---
+
+## Marouane Lamharzi Alaoui
+
+### [Visual Story Cartoon of nano banana pro's Contextual Understanding: A Joke](https://aiart.pics/prompt/nano-banana-pro-contextual-understanding-joke-visual-story-cartoon)
+
+**Author**: [@Marouane Lamharzi Alaoui](https://x.com/marouane53)
+
+**Source**: [X](https://x.com/marouane53/status/1991648896884568305)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-contextual-understanding-joke-visual-story-cartoon-1.jpg" width="500" alt="Visual Story Cartoon of nano banana pro's Contextual Understanding: A Joke">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-contextual-understanding-joke-visual-story-cartoon-2.jpg" width="500" alt="Visual Story Cartoon of nano banana pro's Contextual Understanding: A Joke">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-contextual-understanding-joke-visual-story-cartoon-3.jpg" width="500" alt="Visual Story Cartoon of nano banana pro's Contextual Understanding: A Joke">
+
+```
+مثال آخر على قدرة nano banana pro باش يفهم السياق
+فهم مبوق شنو هية
+Prompt :
+I want you to create a visual story cartoon for this joke
+واحد مبوق شاف واحد البنت رقيقة بزاف
+سولها: فاش خدامة؟
+قالت ليه: عارضة
+قال ليها: ف إينا ملعب؟ https://t.co/sbqD7bYmGv
+```
+
+---
+
+### [Leader Selfie and Video Generation Tips](https://aiart.pics/prompt/leader-selfie-and-video-generation-tips)
+
+**Author**: [@Marouane Lamharzi Alaoui](https://x.com/marouane53)
+
+**Source**: [X](https://x.com/marouane53/status/1991636819088404681)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/leader-selfie-and-video-generation-tips-1.jpg" width="500" alt="Leader Selfie and Video Generation Tips">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/leader-selfie-and-video-generation-tips-2.jpg" width="500" alt="Leader Selfie and Video Generation Tips">
+
+```
+خود الصورة ديال هاد القادة و ديرهم كايلعبو بوكر 🤯
+مع هاد nano banana pro ما بقاش ممكن تعرف شنو حقيقي مع شنو فايك وخصوصا اي صورة ممكن تردها فيديو بسهولة https://t.co/keC1XA899v
+```
+
+---
+
 ## Marry Evan
 
 ### [Give Old Photos a New Life](https://aiart.pics/prompt/give-old-photos-a-new-life)
@@ -8371,6 +10709,21 @@ Please edit my old photo into 1080 x 1920 pixels, with an aesthetic and modern p
 
 ## Martin LeBlanc
 
+### [Nano Banana Pro Tips](https://aiart.pics/prompt/nano-banana-pro-tips)
+
+**Author**: [@Martin LeBlanc](https://x.com/martinleblanc)
+
+**Source**: [X](https://x.com/martinleblanc/status/1991603102986957219)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-tips-1.jpg" width="500" alt="Nano Banana Pro Tips">
+
+```
+Nano Banana Pro tips
+Prompt: "diagram of the body of which muscles are affected by bench press" https://t.co/Y0E2qUC7cf
+```
+
+---
+
 ### [Nano Banana Pro Nails It](https://aiart.pics/prompt/nano-banana-pro-nails-it)
 
 **Author**: [@Martin LeBlanc](https://x.com/martinleblanc)
@@ -8389,6 +10742,24 @@ Prompt: make a group image of all the characters https://t.co/ux68FAYv1f
 
 ---
 
+## マスコット｜建築×AI｜SWC
+
+### [Nano Banana Pro - Personality Comic](https://aiart.pics/prompt/nano-banana-pro-personality-comic)
+
+**Author**: [@マスコット｜建築×AI｜SWC](https://x.com/mascotfurniture)
+
+**Source**: [X](https://x.com/mascotfurniture/status/1991642917186990520)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-personality-comic-1.jpg" width="500" alt="Nano Banana Pro - Personality Comic">
+
+```
+Nano Banana Proに
+「今までの私とあなたとのやりとりの中で、私の性格をとても表しているようなエピソードを4コマ漫画にしてください。その画像を作ってください。画像は縦長で、上から下にコマが進んでいくようにしてください。」
+すご！ https://t.co/DXCSzOrqAC
+```
+
+---
+
 ## MayorKingAI
 
 ### [3D Steampunk Logo](https://aiart.pics/prompt/3d-steampunk-logo)
@@ -8401,6 +10772,118 @@ Prompt: make a group image of all the characters https://t.co/ux68FAYv1f
 
 ```
 3D sculpted logo of [LOGO NAME], in a steampunk style, made of aged brass and oxidized iron, with visible rivets, gears, and vintage mechanical elements, distressed and weathered surface, rich copper and bronze tones, engraved with Victorian-style filigree, retro-industrial design, soft spotlight lighting, neutral background, hyper-realistic render, ultra-high resolution, symmetrical composition
+```
+
+---
+
+## Mazeyar Moeini
+
+### [Create an Image of Minkowski Sum of Two Non-Convex Sets](https://aiart.pics/prompt/create-an-image-of-minkowski-sum-of-two-non-convex-sets)
+
+**Author**: [@Mazeyar Moeini](https://x.com/mazy1998)
+
+**Source**: [X](https://x.com/mazy1998/status/1991583811856224535)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/create-an-image-of-minkowski-sum-of-two-non-convex-sets-1.jpg" width="500" alt="Create an Image of Minkowski Sum of Two Non-Convex Sets">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/create-an-image-of-minkowski-sum-of-two-non-convex-sets-2.jpg" width="500" alt="Create an Image of Minkowski Sum of Two Non-Convex Sets">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/create-an-image-of-minkowski-sum-of-two-non-convex-sets-3.jpg" width="500" alt="Create an Image of Minkowski Sum of Two Non-Convex Sets">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/create-an-image-of-minkowski-sum-of-two-non-convex-sets-4.jpg" width="500" alt="Create an Image of Minkowski Sum of Two Non-Convex Sets">
+
+```
+"create an image of a Minkowski sum of 2 non-convex sets"
+Nano Banana Pro: https://t.co/M7Ccq5MuTA
+```
+
+---
+
+## Mehdi Sharifi
+
+### [Nano Banana Pro/2: Create a Realistic Double-Page Manga Magazine](https://aiart.pics/prompt/nano-banana-pro-2-create-realistic-double-page-manga-magazine)
+
+**Author**: [@Mehdi Sharifi](https://x.com/_MehdiSharifi_)
+
+**Source**: [X](https://x.com/_MehdiSharifi_/status/1991585679264944306)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/nano-banana-pro-2-create-realistic-double-page-manga-magazine-1.jpg" width="500" alt="Nano Banana Pro/2: Create a Realistic Double-Page Manga Magazine">
+
+```
+Nano Banana Pro / Nano Banana 2 model can create a manga magazine for you with all the elegance and beauty, while maintaining a realistic touch. ⚡️🍌
+Prompt:
+Design a realistic double-page manga magazine mockup. Each page should contain multiple manga-style panels arranged in a dynamic layout, resembling a professionally printed Japanese manga. The style should be black-and-white with bold ink lines, screen tones, and expressive character art. Include speech bubbles, Japanese sound effects (e.g., ドン!, ゴゴゴゴ), and panel transitions that convey action, emotion, and pacing. The left and right pages should flow together as part of a single scene or chapter. Use traditional manga framing: close-ups, wide shots, diagonal panels, and dramatic angles. The overall look should feel authentic, like a spread from a real manga magazine.
+```
+
+---
+
+### [Try Nano Banana Pro/Nano Banana 2: Special Guest @awesome_visuals 💖](https://aiart.pics/prompt/try-nano-banana-pronano-banana-2-special-guest-awesome-visuals)
+
+**Author**: [@Mehdi Sharifi](https://x.com/_MehdiSharifi_)
+
+**Source**: [X](https://x.com/_MehdiSharifi_/status/1991559962334482772)
+
+<img src="https://img1.aiart.pics/images/prompts/20251204/try-nano-banana-pronano-banana-2-special-guest-awesome-visuals-1.jpg" width="500" alt="Try Nano Banana Pro/Nano Banana 2: Special Guest @awesome_visuals 💖">
+
+```
+Try Nano Banana Pro/Nano Banana 2:
+Special guest → @awesome_visuals 💖
+> 9/16 vertical format fisheye selfie of an ultra-realistic woman from a photo with [Doraemon, Naruto, Nobita, Satoru Gojo, Sung Jin, who is Ash from Pokémon]. We’re all smiling with silly, exaggerated expressions. Set in a small, bright living room with white tones. High camera angle. Extreme fisheye distortion. Realistic, cinematic lighting of anime characters is integrated with stylized realism.
+```
+
+---
+
+## 空心极
+
+### [Nano Banana Pro's Exploration of the World's Perception](https://aiart.pics/prompt/nano-banana-pros-exploration-of-the-worlds-perception)
+
+**Author**: [@空心极](https://x.com/MEW201703)
+
+**Source**: [X](https://x.com/MEW201703/status/1991571886426451983)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pros-exploration-of-the-worlds-perception-1.jpg" width="500" alt="Nano Banana Pro's Exploration of the World's Perception">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pros-exploration-of-the-worlds-perception-2.jpg" width="500" alt="Nano Banana Pro's Exploration of the World's Perception">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pros-exploration-of-the-worlds-perception-3.jpg" width="500" alt="Nano Banana Pro's Exploration of the World's Perception">
+
+```
+这也太强了…Nano Banana Pro对世界的认知
+第一图 嵌套透明度与折射
+处理一层玻璃不难，难的是多层不同介质的嵌套。这涉及到复杂的光路计算推理，AI很容易“糊”掉中间的层次。
+提示词：一条金鱼在普通的灯泡里游泳。这个灯泡漂浮在一个装满水的透明方形水族箱里。水族箱放在森林里。我们可以透过水、水族箱的玻璃、灯泡的玻璃看到扭曲的森林背景。
+第二图 悖论与物理常识测试
+测试AI是否能构建出现实中不存在的逻辑，还是只会机械模仿现实照片。
+提示词：一把完全由液态水做成的椅子，保持着椅子的形状，放在沙漠中央。
+第三图 测试AI能否在同一个物体上表现时间的流逝。这违反了单一对象的单一状态逻辑，需要AI在一个空间内理解过程
+提示词：一张超写实的特写，一个苹果被切成四瓣排成一排。从左到右：第一瓣是新鲜多汁的；第二瓣微黄氧化；第三瓣腐烂发霉；第四瓣是由透明玻璃制成的。
+```
+
+---
+
+### [Nano Banana Pro's Abstract Thinking and Comprehension Challenge: The IQ Battle Between AI and Humans](https://aiart.pics/prompt/nano-banana-pros-abstract-thinking-and-comprehension-challenge-ai-and-human-iq-battle)
+
+**Author**: [@空心极](https://x.com/MEW201703)
+
+**Source**: [X](https://x.com/MEW201703/status/1991564819284242550)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pros-abstract-thinking-and-comprehension-challenge-ai-and-human-iq-battle-1.jpg" width="500" alt="Nano Banana Pro's Abstract Thinking and Comprehension Challenge: The IQ Battle Between AI and Humans">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pros-abstract-thinking-and-comprehension-challenge-ai-and-human-iq-battle-2.jpg" width="500" alt="Nano Banana Pro's Abstract Thinking and Comprehension Challenge: The IQ Battle Between AI and Humans">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pros-abstract-thinking-and-comprehension-challenge-ai-and-human-iq-battle-3.jpg" width="500" alt="Nano Banana Pro's Abstract Thinking and Comprehension Challenge: The IQ Battle Between AI and Humans">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pros-abstract-thinking-and-comprehension-challenge-ai-and-human-iq-battle-4.jpg" width="500" alt="Nano Banana Pro's Abstract Thinking and Comprehension Challenge: The IQ Battle Between AI and Humans">
+
+```
+Nano Banana Pro抽象思维理解力让我害怕了，对比测评了即梦和可灵，香蕉的智商已经完全不是一个等级了，扩散模型有智商了实在太可怕了…
+第一张提示词：“一张绿色黑板的特写照片。用白色粉笔写着一元二次方程求根公式的正确推导步骤。第一行：ax^2 + bx + c = 0。第二行：x^2 + (b/a)x = -c/a。第三行：配方。最后一行：x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}。字迹工整清晰。不要乱码。”
+【这是一个很难的题目，要求AI生成多行、连贯、逻辑正确的数学推导过程。大多数AI会在第二行就开始瞎编符号，或者把加号画成除号。】
+第二张提示词：“一张用抛光黄金制成的彭罗斯三角的超写实照片，放在大理石桌子上。这个物体形成了一个连续的、不可能的三角形视错觉。几何结构没有断裂。摄影棚布光。”
+【这是一道对AI理解真实世界物理空间的终极考题彭罗斯三角是一个著名的“不可能图形”，它在二维平面上看着合理，但在三维物理世界是不存在的
+AI模型是基于真实世界的2D图片训练的，它倾向于把物体“合理化”。如果你让它画一个极度写实的彭罗斯三角，它往往会“自作聪明”地断开某个角，让它符合物理逻辑，从而导致测试失败】
+第三张提示词：“一个双向图的平面设计艺术。正着看单词是'LIFE'，旋转180度倒过来看单词是'DEATH'。白纸黑墨，哥特书法风格。”
+【双向图是一种文字设计，正着看是一个词，倒着看（或者镜像看）是另一个词。这要求AI理解字形的微观结构，并进行双重编码。这是目前AI绘图极难攻克的领域】
 ```
 
 ---
@@ -8632,6 +11115,21 @@ A colorful, playful 2D map of [city name], in the style of Candy Crush Saga, fea
 
 ## minchoi
 
+### [Leaked Real Movie Set Photo](https://aiart.pics/prompt/leaked-real-movie-set-photo)
+
+**Author**: [@minchoi](https://x.com/minchoi)
+
+**Source**: [X](https://x.com/minchoi/status/1991544444051755056)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/leaked-real-movie-set-photo.jpeg" width="500" alt="Leaked Real Movie Set Photo">
+
+```
+Generate leaked photo BTS from KPOP Demon Hunters live action movie set
+生成 BOP 恶魔猎人真人电影片场泄露照片
+```
+
+---
+
 ### [Festival Photos from Birth to 80 Years Old](https://aiart.pics/prompt/festival-photos-from-birth-to-80-years-old)
 
 **Author**: [@minchoi](https://x.com/minchoi)
@@ -8643,6 +11141,66 @@ A colorful, playful 2D map of [city name], in the style of Candy Crush Saga, fea
 ```
 Generate the holiday photo of this person through the ages up to 80 years old
 生成此人从出生到80岁各个年龄段的节日照片
+```
+
+---
+
+## Misch Strotz
+
+### [Generate an Image in the Style of This Moodboard](https://aiart.pics/prompt/generate-image-in-the-style-of-this-moodboard)
+
+**Author**: [@Misch Strotz](https://x.com/mitch0z)
+
+**Source**: [X](https://x.com/mitch0z/status/1991611480181977407)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/generate-image-in-the-style-of-this-moodboard-1.jpg" width="500" alt="Generate an Image in the Style of This Moodboard">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/generate-image-in-the-style-of-this-moodboard-2.jpg" width="500" alt="Generate an Image in the Style of This Moodboard">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/generate-image-in-the-style-of-this-moodboard-3.jpg" width="500" alt="Generate an Image in the Style of This Moodboard">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/generate-image-in-the-style-of-this-moodboard-4.jpg" width="500" alt="Generate an Image in the Style of This Moodboard">
+
+```
+"Generate an image in the style of this moodboard"
+Solved by nano banana pro https://t.co/DXbum4jsVR
+```
+
+---
+
+## مختار الحسانين
+
+### [Nano Banana Pro AI Image Generator: Professional Arabic with No Errors](https://aiart.pics/prompt/nano-banana-pro-ai-image-generator-professional-arabic-with-no-errors)
+
+**Author**: [@مختار الحسانين](https://x.com/MokhtarGeo1981)
+
+**Source**: [X](https://x.com/MokhtarGeo1981/status/1991620896436748606)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-ai-image-generator-professional-arabic-with-no-errors-1.jpg" width="500" alt="Nano Banana Pro AI Image Generator: Professional Arabic with No Errors">
+
+```
+نموذج إنشاء الصور بالذكاء الصناعي Nano Banana Pro يستخدم الان اللغة العربية باحترافية ودون أخطاء
+طلبت منه الاتي
+على صورة لنهر النيل اكتب تحيا مصر https://t.co/0TOlnitvVw
+```
+
+---
+
+## もりたっち
+
+### [Gemini-powered Nano Banana Pro🍌: The Powerful Image AI Tool Released Yesterday](https://aiart.pics/prompt/gemini-powered-nano-banana-pro-the-powerful-image-ai-tool-released-yesterday)
+
+**Author**: [@もりたっち](https://x.com/moritouch_)
+
+**Source**: [X](https://x.com/moritouch_/status/1991638916416565493)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/gemini-powered-nano-banana-pro-the-powerful-image-ai-tool-released-yesterday-1.jpg" width="500" alt="Gemini-powered Nano Banana Pro🍌: The Powerful Image AI Tool Released Yesterday">
+
+```
+昨日リリースされた、Gemini搭載の画像AIツール『Nano Banana Pro🍌』がすごい！
+ようやく日本語も上手く表現できるようになった！
+『福岡のいいところを画像一枚でまとめて』と依頼したらこんな感じに🖼️
+まだぎこちないところはあるけど、かなりの進化では😳 https://t.co/IV9mn5zSlI
 ```
 
 ---
@@ -8660,6 +11218,22 @@ Generate the holiday photo of this person through the ages up to 80 years old
 ```
 Create square image of studio-lit product photography of a [Product] suspended in mid-air, lots of thick dynamic water swirls surrounding it in slow-motion arcs, crystal-clear droplets glistening with light refraction, high-gloss finish, minimal backdrop, cinematic lighting with soft shadows and highlights, shot on a pure matching gradient background, ultra-realistic detail, commercial photography style, 85mm lens depth of field.
 创建一个方形图像，是工作室照明的产品摄影，一个[产品]悬浮在空中，周围有许多厚重的动态水漩涡以慢动作弧线环绕，晶莹剔透的液滴折射着光线，高光泽度，简约背景，电影般的照明，柔和的阴影和高光，在纯色匹配渐变背景上拍摄，超逼真的细节，商业摄影风格，85mm 镜头景深。
+```
+
+---
+
+## Brais Moure
+
+### [Evolving Programming Languages: A Compelling Infographic by Nano Banana Pro 🍌](https://aiart.pics/prompt/programming-languages-evolution-nano-banana-pro-info-graphic)
+
+**Author**: [@Brais Moure](https://x.com/MoureDev)
+
+**Source**: [X](https://x.com/MoureDev/status/1991575309964001545)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/programming-languages-evolution-nano-banana-pro-info-graphic-1.jpg" width="500" alt="Evolving Programming Languages: A Compelling Infographic by Nano Banana Pro 🍌">
+
+```
+Pues le acabo de pedir a Nano Banana Pro 🍌 una infografía con la evolución de los lenguajes de programación. Sin más. https://t.co/nYKDUNZhUs
 ```
 
 ---
@@ -8761,6 +11335,37 @@ Prompt: A model is posing and leaning against a pink bmw. She is wearing the fol
 
 ---
 
+## apolinario 🌐
+
+### [Visualizing Models' Related Contexts of a Specific Context](https://aiart.pics/prompt/visualizing-models-related-contexts-of-a-specific-context)
+
+**Author**: [@apolinario 🌐](https://x.com/multimodalart)
+
+**Source**: [X](https://x.com/multimodalart/status/1991609462235541600)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/visualizing-models-related-contexts-of-a-specific-context-1.jpg" width="500" alt="Visualizing Models' Related Contexts of a Specific Context">
+
+```
+i love this way to visualize "related" contexts the models have of a particular context
+"create a laptop cover with stickers that belong to someone who works at hugging face" https://t.co/r6e4mhTnXz
+```
+
+---
+
+### [Novel XKCD Style Comic: New Insight](https://aiart.pics/prompt/novel-xkcd-style-comic-new-insight)
+
+**Author**: [@apolinario 🌐](https://x.com/multimodalart)
+
+**Source**: [X](https://x.com/multimodalart/status/1991605181830824106)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/novel-xkcd-style-comic-new-insight-1.jpg" width="500" alt="Novel XKCD Style Comic: New Insight">
+
+```
+&gt; create a novel xkcd style comic, with a clever new insight https://t.co/0SvKLgaFly
+```
+
+---
+
 ## オキヌケ船長
 
 ### [Nano Banana君! He's really amazing!](https://aiart.pics/prompt/nano-banana君-果然很厉害啊)
@@ -8782,6 +11387,38 @@ nano banana君！やっぱすげぇよあんた！ https://t.co/I40Vu9RrWD
 ---
 
 ## Nano Banana Labs
+
+### [Chill on a Cloud: Create Your Dreamy Cloud Photo](https://aiart.pics/prompt/chill-on-a-cloud-create-your-dreamy-cloud-photo)
+
+**Author**: [@Nano Banana Labs](https://x.com/NanoBanana_labs)
+
+**Source**: [X](https://x.com/NanoBanana_labs/status/1991603211896254822)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/chill-on-a-cloud-create-your-dreamy-cloud-photo-1.jpg" width="500" alt="Chill on a Cloud: Create Your Dreamy Cloud Photo">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/chill-on-a-cloud-create-your-dreamy-cloud-photo-2.jpg" width="500" alt="Chill on a Cloud: Create Your Dreamy Cloud Photo">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/chill-on-a-cloud-create-your-dreamy-cloud-photo-3.jpg" width="500" alt="Chill on a Cloud: Create Your Dreamy Cloud Photo">
+
+```
+🚨See yourself chilling on a cloud ☁️✨
+Coffee in hand, book open, sunset above the world.
+Make your dreamy cloud photo now. 📸🌅
+Copy the prompt below and create your own photo like this with nano Banana Pro 🫵
+Bookmark 🔖 this now.
+How to:
+1. Open Gemini app
+2. Click create image and upload your photo
+3. Copy and Paste the prompt below on
+"Describe your image" section
+4. Click Generate button
+5. See the magic of Nano Banana Pro 🪄
+Follow @NanoBanana_labs for daily AI glow-ups & viral prompts 🚀 . Power of artificial intelligence, discover with nano banana
+Prompt 👇
+the person from the reference photo ( keep the face of the person 100% accurate from the reference image ) relaxing on a fluffy, glowing cloud high above the sky, surrounded by soft golden sunlight and vast layers of clouds stretching to the horizon. the person is lying back comfortably with a pillow, wearing a dark long-sleeve shirt, olive green pants, and glasses, holding a book in one hand and a coffee cup in the other. the lighting is cinematic and warm, capturing the golden hour ambiance with radiant highlights and gentle shadows across the clouds. captured with a wide-angle lens at medium depth of field, balancing focus between the subject and the surrounding dreamy sky. the overall atmosphere is surreal and serene, blending realism with fantasy in a peaceful, imaginative setting.
+```
+
+---
 
 ### [Experience the Thrill of Flying a Drone on a Cliff Edge with Your Dog](https://aiart.pics/prompt/experience-the-thrill-of-flying-a-drone-on-a-cliff-edge-with-your-dog)
 
@@ -8883,6 +11520,22 @@ Ultra-realistic wildlife photography scene, (use reference face from uploaded ph
 
 ---
 
+## Nano Banana Pro
+
+### [Turn Anything into an Infographic with Nano Banana Pro](https://aiart.pics/prompt/turn-anything-into-an-infographic-with-nano-banana-pro)
+
+**Author**: [@Nano Banana Pro](https://x.com/NanoBanana)
+
+**Source**: [X](https://x.com/NanoBanana/status/1991619646185963938)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/turn-anything-into-an-infographic-with-nano-banana-pro-1.jpg" width="500" alt="Turn Anything into an Infographic with Nano Banana Pro">
+
+```
+Turn anything into an info graphic with Nano Banana Pro 🍌 https://t.co/PoEd5uwCAY
+```
+
+---
+
 ## NGLPRZ
 
 ### [Google's Nano Banana Takes It to the Next Level](https://aiart.pics/prompt/google-nano-banana-takes-it-to-the-next-level)
@@ -8899,6 +11552,24 @@ From a chaotic collage with dragons &amp; waves 👉 to a clean PNG with charact
 ⚡ Precision is insane — what took hours is now seconds.
 📝 Prompt: “extract the samurai and put transparent background”
 #nanobanana https://t.co/Zuu5guQ0PQ
+```
+
+---
+
+## nic
+
+### [WOWWWWWWWWW](https://aiart.pics/prompt/w-o-w-w-w-w-w-w-w-w-w)
+
+**Author**: [@nic](https://x.com/nicdunz)
+
+**Source**: [X](https://x.com/nicdunz/status/1991556910106177849)
+
+<img src="https://img1.aiart.pics/images/prompts/20251205/w-o-w-w-w-w-w-w-w-w-w-1.jpg" width="500" alt="WOWWWWWWWWW">
+
+<img src="https://img1.aiart.pics/images/prompts/20251205/w-o-w-w-w-w-w-w-w-w-w-2.jpg" width="500" alt="WOWWWWWWWWW">
+
+```
+WOWWWWWWWWW https://t.co/z1ueShTvF4
 ```
 
 ---
@@ -9002,6 +11673,62 @@ nanobananaに文字だけの画像渡して
 「この指示図をピクトグラムにして」
 のプロンプトで、この通り綺麗なピクトグラムに変換してくれるの大変便利。
 Seedream4でもできます https://t.co/F75oRM1M5H
+```
+
+---
+
+## Kyohei Fukuda
+
+### [Experiencing Easy Poster Creation with Nano Banana Pro on Smartphone](https://aiart.pics/prompt/nano-banana-pro-smartphone-easy-poster-creation)
+
+**Author**: [@Kyohei Fukuda](https://x.com/not_fukuda)
+
+**Source**: [X](https://x.com/ai_not_fukuda/status/1991581976718086335)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-smartphone-easy-poster-creation-1.jpg" width="500" alt="Experiencing Easy Poster Creation with Nano Banana Pro on Smartphone">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-smartphone-easy-poster-creation-2.jpg" width="500" alt="Experiencing Easy Poster Creation with Nano Banana Pro on Smartphone">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-smartphone-easy-poster-creation-3.jpg" width="500" alt="Experiencing Easy Poster Creation with Nano Banana Pro on Smartphone">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-smartphone-easy-poster-creation-4.jpg" width="500" alt="Experiencing Easy Poster Creation with Nano Banana Pro on Smartphone">
+
+```
+話題のNano Banana Proで「スマホで簡単ポスター生成」をやってみました‼️
+#Midjourney ✖️ #nanobananapro
+-Midjourneyで生成した人物の画像と、私の私物のフィルムカメラのリアル画像、その2つで生成しました✨
+-すべて同じプロンプトで作りました🥳
+-アスペクト比はプロンプトに入れてしまえば忠実に守るようです☺️
+-日本語強強💪
+-「世界レベルで一番イケてる」という無茶ぶりも効いている（聞いている？）気がします❣️
+-プロンプト内に「画像生成開始」などを打つと良さそうです。画像生成ボタンを押してもプロンプトのみを出力することございます🥲
+#Promptshare
+2:3のクールでモダンでアーティスティックな、世界レベルで今一番イケてる、カメラのポスターを作って
+-人物の画像がメイン
+-一眼レフカメラを縦長に持ってファインダーを覗いてこっちを写そうとしている
+-ポスター内の文字は以下をイケてる感じに配置（）内の文字は表示しない
+-文字の大きさはモダンでミニマリズムに
+-オリンパスOM-2（商品名）
+-AI時代こそ「データではない」フィルム写真を（メインキャッチコピー）
+-煩わしさを愛でよう（サブキャッチ）
+画像生成の実行を開始
+```
+
+---
+
+## 小川英幸 | 著書: Pythonデータ分析ハンズオンセミナー
+
+### [Nano Banana Pro: Create a Picture of a Set Menu, Perfect Japanese Language Output](https://aiart.pics/prompt/nano-banana-pro-create-picture-of-set-menu-perfect-japanese-language-output)
+
+**Author**: [@小川英幸 | 著書: Pythonデータ分析ハンズオンセミナー](https://x.com/OgawaHideyuki)
+
+**Source**: [X](https://x.com/OgawaHideyuki/status/1991620821123756298)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-create-picture-of-set-menu-perfect-japanese-language-output-1.jpg" width="500" alt="Nano Banana Pro: Create a Picture of a Set Menu, Perfect Japanese Language Output">
+
+```
+Nano Banana Pro、日本語も完璧に出力してくれる。架空の定食屋「定食屋長目」が親子丼はじめたの画像を作ってもらった。
+画像の出力も物凄く速い！！！ https://t.co/JsGL6zR7HD
 ```
 
 ---
@@ -9283,6 +12010,36 @@ Have these two characters fight using the pose from Figure 3.Add appropriate vis
 
 ---
 
+## Omar Sanseviero
+
+### [Nano Banana Pro - Make a Meme](https://aiart.pics/prompt/nano-banana-pro-make-a-meme)
+
+**Author**: [@Omar Sanseviero](https://x.com/osanseviero)
+
+**Source**: [X](https://x.com/osanseviero/status/1991554530992091278)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-make-a-meme-1.jpg" width="500" alt="Nano Banana Pro - Make a Meme">
+
+```
+nano banana pro - make me a meme https://t.co/2OzQ76JCRn
+```
+
+---
+
+### [Nano Banana - Create a Laptop with Stickers for Open Source ML Model Fans](https://aiart.pics/prompt/nano-banana-create-a-laptop-with-stickers-for-open-source-ml-model-fans)
+
+**Author**: [@Omar Sanseviero](https://x.com/osanseviero)
+
+**Source**: [X](https://x.com/osanseviero/status/1991629732518195585)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/nano-banana-create-a-laptop-with-stickers-for-open-source-ml-model-fans-1.jpg" width="500" alt="Nano Banana - Create a Laptop with Stickers for Open Source ML Model Fans">
+
+```
+nano banana - generate a laptop with stickers. the laptop belongs to a fan of open source ML models https://t.co/B3jPXLJAff
+```
+
+---
+
 ## Owa Knight
 
 ### [Cheerful 3D Cartoon Girl Sticker](https://aiart.pics/prompt/cheerful-3d-cartoon-girl-sticker)
@@ -9374,6 +12131,38 @@ google nano-banana can do nsfw prompt: photo depicting Emma Watson in a natural 
 
 ---
 
+## Philipp Schmid
+
+### [World Photo When GTA 6 is Released](https://aiart.pics/prompt/world-photo-when-gta-6-is-released)
+
+**Author**: [@Philipp Schmid](https://x.com/_philschmid)
+
+**Source**: [X](https://x.com/_philschmid/status/1991555159001108595)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/world-photo-when-gta-6-is-released-1.jpg" width="500" alt="World Photo When GTA 6 is Released">
+
+```
+&gt; A photo of the world when GTA 6 is released. https://t.co/5s2vgYADcs
+```
+
+---
+
+## David Garrido
+
+### [First Impressions of Nano Banana 2 or Pro: Breaking Through Limits, Unleashing New Possibilities](https://aiart.pics/prompt/nano-banana-2-o-pro-chu-ti-yan-tu-po-jie-xian-jia-que-kai-xin-neng-gong)
+
+**Author**: [@David Garrido](https://x.com/PhotoGarrido)
+
+**Source**: [X](https://x.com/PhotoGarrido/status/1991545966919578021)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-2-o-pro-chu-ti-yan-tu-po-jie-xian-jia-que-kai-xin-neng-gong-1.jpg" width="500" alt="First Impressions of Nano Banana 2 or Pro: Breaking Through Limits, Unleashing New Possibilities">
+
+```
+Mis primeras impresiones con Nano Banana 2 o Pro son simples: ahora se pueden hacer cosas que antes no se podían. https://t.co/5tUOjZkFXF
+```
+
+---
+
 ## fox hsiao
 
 ### [Google's New AI Image Generator Nano Banana Pro with High Traditional Chinese Support](https://aiart.pics/prompt/google-new-ai-image-generator-nano-banana-pro-with-high-traditional-chinese-support)
@@ -9453,6 +12242,47 @@ Google 新的 AI 圖像生成 Nano Banana Pro 可以透過 Vertex AI 的 API 呼
 
 ---
 
+## ProperPrompter
+
+### [Nano Banana Pro & Pixel Art](https://aiart.pics/prompt/nano-banana-pro-pixel-art)
+
+**Author**: [@ProperPrompter](https://x.com/ProperPrompter)
+
+**Source**: [X](https://x.com/ProperPrompter/status/1991636423284322628)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-pixel-art-1.jpg" width="500" alt="Nano Banana Pro & Pixel Art">
+
+```
+nano banana pro 🤝 pixel art
+convert an entire scene to pixel art 😁
+prompt: from scratch, recreate the entire scene including the water splashes and background as low res pixel art https://t.co/JUnHONw8Ui
+```
+
+---
+
+### [Nano Banana Pro Pixel Art: Phenomenal New Battle Scene with Pokémon](https://aiart.pics/prompt/nano-banana-pro-pixel-art-phenomenal-new-battle-scene-with-pokemon)
+
+**Author**: [@ProperPrompter](https://x.com/ProperPrompter)
+
+**Source**: [X](https://x.com/ProperPrompter/status/1991542935725441273)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-pixel-art-phenomenal-new-battle-scene-with-pokemon-1.jpg" width="500" alt="Nano Banana Pro Pixel Art: Phenomenal New Battle Scene with Pokémon">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-pixel-art-phenomenal-new-battle-scene-with-pokemon-2.jpg" width="500" alt="Nano Banana Pro Pixel Art: Phenomenal New Battle Scene with Pokémon">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-pixel-art-phenomenal-new-battle-scene-with-pokemon-3.jpg" width="500" alt="Nano Banana Pro Pixel Art: Phenomenal New Battle Scene with Pokémon">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-pixel-art-phenomenal-new-battle-scene-with-pokemon-4.jpg" width="500" alt="Nano Banana Pro Pixel Art: Phenomenal New Battle Scene with Pokémon">
+
+```
+Google 🤩
+Nano Banana Pro pixel art is phenomenal!
+Use the image as reference and prompt: change the scene to a new battle and environment with new pokemon
+It even knows which moves should and should not be effective 🤯 https://t.co/WgGCUmJHLx
+```
+
+---
+
 ## 骑司Chase
 
 ### [AI Image Generation Techniques and Tool Recommendations](https://aiart.pics/prompt/ai-image-generation-techniques-and-tool-recommendations)
@@ -9496,6 +12326,23 @@ ChatGPT 生图🌟🌟🌟，生成的图片很精致，就是味儿不对，生
 
 ---
 
+## Quoc Le
+
+### [Nano Banana Pro Launch: Amazing Text Understanding Capabilities🍌](https://aiart.pics/prompt/nano-banana-pro-launch-amazing-text-understanding-capabilities)
+
+**Author**: [@Quoc Le](https://x.com/quocleix)
+
+**Source**: [X](https://x.com/quocleix/status/1991552782281945554)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-launch-amazing-text-understanding-capabilities-1.jpg" width="500" alt="Nano Banana Pro Launch: Amazing Text Understanding Capabilities🍌">
+
+```
+Nano Banana Pro is out and its text understanding is amazing🍌
+Asked it to create an infographic for the sequence to sequence paper and it did this: https://t.co/axzzBenWEi
+```
+
+---
+
 ## R2_fieldworks
 
 ### [AirBnB Anything](https://aiart.pics/prompt/airbnb-anything)
@@ -9529,6 +12376,53 @@ Nano banana pro is insane. https://t.co/WRVatiAXGi
 
 ---
 
+## Raiza Martin
+
+### [5-Day Weather Forecast for San Francisco, CA](https://aiart.pics/prompt/5-day-weather-forecast-for-san-francisco-ca)
+
+**Author**: [@Raiza Martin](https://x.com/raizamrtn)
+
+**Source**: [X](https://x.com/raizamrtn/status/1991541948235293071)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/5-day-weather-forecast-for-san-francisco-ca-1.jpg" width="500" alt="5-Day Weather Forecast for San Francisco, CA">
+
+```
+3/ "Look up the weather in San Francisco, CA and create an image of a 5-day forecast" https://t.co/rx7zLZdvWi
+```
+
+---
+
+### [Top 5 Vacuum Cleaners Under $300 Comparison](https://aiart.pics/prompt/top-5-vacuum-cleaners-under-300-comparison)
+
+**Author**: [@Raiza Martin](https://x.com/raizamrtn)
+
+**Source**: [X](https://x.com/raizamrtn/status/1991541946121383936)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/top-5-vacuum-cleaners-under-300-comparison-1.jpg" width="500" alt="Top 5 Vacuum Cleaners Under $300 Comparison">
+
+```
+2/ "Look up the 5 best vacuum cleaners under $300 and create an infographic with pros and cons for each" https://t.co/POPasy3CIr
+```
+
+---
+
+### [Nano Banana Pro Launch: Google Breaks Through the Ceiling in Image Generation](https://aiart.pics/prompt/nano-banana-pro-launch-google-breaks-through-the-ceiling-in-image-generation)
+
+**Author**: [@Raiza Martin](https://x.com/raizamrtn)
+
+**Source**: [X](https://x.com/raizamrtn/status/1991541943969673542)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/nano-banana-pro-launch-google-breaks-through-the-ceiling-in-image-generation-1.jpg" width="500" alt="Nano Banana Pro Launch: Google Breaks Through the Ceiling in Image Generation">
+
+```
+Nano Banana Pro is out and it feels like Google really busted through the ceiling on this one. It combines real time search + image generation, along with Improved text generation and composition.
+It feels like a "ChatGPT moment" for image generation. We\'ve been so used to AI creating walls of text for responses, but for the first time it feels like images are finally viable for answering similar queries.
+Here are 3 crazy prompts that show how powerful it is:
+1/ "Find the latest NASA data on Mars rover discoveries this month and create an educational poster for middle schoolers"
+```
+
+---
+
 ## ReemKhan_07
 
 ### [Woman in Red Evening Gown](https://aiart.pics/prompt/woman-in-red-evening-gown)
@@ -9542,6 +12436,24 @@ Nano banana pro is insane. https://t.co/WRVatiAXGi
 ```
 ​A full-body studio portrait of a beautiful young woman with long, wavy brown hair and the exact facial features as the second image provided, wearing an elegant, sleeveless, floor-length red evening gown. She is wearing a silver pendant necklace and matching silver earrings. The dress is a smooth, form-fitting fabric and she is wearing silver high, slim-heeled pumps. She is standing in a luxurious, modern penthouse setting with a dark wood floor and large floor-to-ceiling windows overlooking a city skyline at twilight. Her pose is poised and confident, with her hands clasped lightly in front of her. The lighting is soft and dramatic.
 这是一张工作室拍摄的全身肖像，描绘的是一位美丽的年轻女子，她有着一头长长的棕色波浪卷发，五官与第二张照片一模一样，身着优雅的无袖及地红色晚礼服。她佩戴着一条银色吊坠项链和与之相配的银色耳环。裙子面料光滑贴身，脚穿银色细高跟鞋。她站在一间奢华现代的顶层公寓里，深色木地板和宽大的落地窗俯瞰着暮色中的城市天际线。她姿态泰然自若，充满自信，双手轻轻握在身前。灯光柔和而富有戏剧性。
+```
+
+---
+
+## 研究者レン / 科学系ポッドキャスト
+
+### [Creating a Terrible Slide Presentation to Introduce Einstein](https://aiart.pics/prompt/creating-a-terrible-slide-presentation-to-introduce-einstein)
+
+**Author**: [@研究者レン / 科学系ポッドキャスト](https://x.com/REN_SciEnTALK)
+
+**Source**: [X](https://x.com/REN_SciEnTALK/status/1991638382343254289)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/creating-a-terrible-slide-presentation-to-introduce-einstein-1.jpg" width="500" alt="Creating a Terrible Slide Presentation to Introduce Einstein">
+
+```
+「アインシュタインを紹介するクソダサスライド作って」
+で今これ。
+Nano Banana Proのクソダサスライド自己紹介とか流行るんじゃない？ https://t.co/ZY6tLNSbeF
 ```
 
 ---
@@ -9628,6 +12540,22 @@ A realistic photographic work. A gigantic statue of this person has been placed 
 
 ---
 
+## Rishi Mehta
+
+### [Nano Banana Pro is Amazing: Create an Interesting Mate-in-1 Chess Puzzle Image](https://aiart.pics/prompt/nano-banana-pro-amazing-create-an-interesting-mate-in-1-chess-puzzle-image)
+
+**Author**: [@Rishi Mehta](https://x.com/rishicomplex)
+
+**Source**: [X](https://x.com/rishicomplex/status/1991549933120549234)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-amazing-create-an-interesting-mate-in-1-chess-puzzle-image-1.jpg" width="500" alt="Nano Banana Pro is Amazing: Create an Interesting Mate-in-1 Chess Puzzle Image">
+
+```
+Wow, nano banana pro is amazing. Prompt: Make an image of an interesting mate-in-1 chess puzzle. Make the aspect ratio such that it's easy to view on a phone. https://t.co/3i0vDJegzF
+```
+
+---
+
 ## Robert Riachi
 
 ### [Cool Examples with Nano Banana Pro](https://aiart.pics/prompt/nano-banana-pro-cool-examples)
@@ -9645,6 +12573,20 @@ some cool examples with Nano Banana Pro 🧵 https://t.co/ge6jAG1810
 ---
 
 ## rovvmut_
+
+### [Nano Banana Pro: Generate Memes with Just 'Make a Meme' Prompt](https://aiart.pics/prompt/nano-banana-pro-generate-memes-with-just-make-a-meme-prompt)
+
+**Author**: [@rovvmut_](https://x.com/rovvmut_)
+
+**Source**: [X](https://x.com/rovvmut_/status/1991562108874674640)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-generate-memes-with-just-make-a-meme-prompt-1.jpg" width="500" alt="Nano Banana Pro: Generate Memes with Just 'Make a Meme' Prompt">
+
+```
+Nano Banana Pro can generate memes with just "Make a meme" prompt. https://t.co/HohsexB077
+```
+
+---
 
 ### [Step-by-Step Solution of Pythagoras Theorem on a Classroom Blackboard](https://aiart.pics/prompt/step-by-step-solution-of-pythagoras-theorem-on-a-classroom-blackboard)
 
@@ -9724,6 +12666,28 @@ Place yourself anywhere faster than ever before. I used Adobe Firefly boards and
 
 ---
 
+## てる@プロンプトマフィア
+
+### [How to Use Nano Banana Pro: Whiteboard Prompt!](https://aiart.pics/prompt/nano-banana-pro-how-to-use-whiteboard-prompt)
+
+**Author**: [@てる@プロンプトマフィア](https://x.com/rute1203d)
+
+**Source**: [X](https://x.com/rute1203d/status/1991654247675621658)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-how-to-use-whiteboard-prompt-1.jpg" width="500" alt="How to Use Nano Banana Pro: Whiteboard Prompt!">
+
+```
+海外で爆伸び中 nano banana proの使い方最高！！
+通称：ホワイトボードプロンプト！！
+長文やまとめたい文章を貼り付けて
+下記のプロンプトを入力するだけ
+レベチすぎるww
+↓
+nano banana proを使って日本語にて教授がホワイトボードで説明しているイメージに変換してください。図や矢印、ボックス、キャプションを使って、コアとなるアイデアを視覚的に説明してください。色も使ってください。
+```
+
+---
+
 ## 89'S
 
 ### [Realistic Passport Page with Entry Stamp](https://aiart.pics/prompt/realistic-passport-page-with-entry-stamp)
@@ -9739,6 +12703,42 @@ Place yourself anywhere faster than ever before. I used Adobe Firefly boards and
 ```
 Prompt 🛬 الوصف :
 Create a realistic passport page with an entry stamp for [{City}, {Country}]. The stamp should say "Welcome to {City}" in bold English, designed in a round or oval shape with decorative borders. Include the word "ARRIVAL" and a fictional date like "15 APR 2025" Incorporate a subtle silhouette of {Main Landmark} as a background detail within the stamp. Use deep blue or red ink with light smudges for added realism. The stamp should appear slightly angled, as if hand-pressed. The passport page should show visible paper texture and security patterns.
+```
+
+---
+
+## SaaS Junction || AI & SaaS Updates
+
+### [Custom Infographic: Overview of Top 20 Beverage Companies](https://aiart.pics/prompt/custom-infographic-overview-top-20-beverage-companies)
+
+**Author**: [@SaaS Junction || AI & SaaS Updates](https://x.com/SaasJunctionHQ)
+
+**Source**: [X](https://x.com/SaasJunctionHQ/status/1991568652882309461)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/custom-infographic-overview-top-20-beverage-companies-1.jpg" width="500" alt="Custom Infographic: Overview of Top 20 Beverage Companies">
+
+```
+I couldn’t resist trying out a custom Infographic prompt with the mighty Nano Banana Pro 🍌🍌
+Prompt:
+Create a flat, minimalist infographic illustration on a [pale cream/off-white] background. The layout should feature a scattered arrangement of [20] distinct circles. Each circle must have a thin, clean [coral-red] outline. Inside each circle, display the logo or name of a major beverage company including: [Coca-Cola, PepsiCo, Nestle, Starbucks, Red Bull, Heineken, Diageo, Dr Pepper, Monster, Budweiser, Suntory, Danone, Tropicana, Gatorade, Lipton, Fanta, Sprite, Evian, Twinings, Guinness].
+Interspersed between the company circles, place minimalist black line-art icons representing the industry, such as [soda cans, glass bottles, coffee cups, droplets, and leaves]. Add small decorative graphic elements like tiny black plus signs (+), small filled dots, and thin black arrows pointing upwards to indicate growth.
+In the top left corner, place a bold title graphic text reading "[Top 20 Beverage Companies]". In the top right corner, clearly display a modern logo with the text "[SaaS Junction]".
+The overall style should be corporate but playful, 2D vector art, high contrast, with no shading or 3D effects. Maintain a color palette of [Cream, Coral-Red, Black, and varied logo colors].
+```
+
+---
+
+### [Russian Folk Costumed Brown Bear Licking Honey](https://aiart.pics/prompt/russian-folk-costumed-brown-bear-licking-honey)
+
+**Author**: [@SaaS Junction || AI & SaaS Updates](https://x.com/SaasJunctionHQ)
+
+**Source**: [X](https://x.com/SaasJunctionHQ/status/1991539821840589032)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/russian-folk-costumed-brown-bear-licking-honey-1.jpg" width="500" alt="Russian Folk Costumed Brown Bear Licking Honey">
+
+```
+Nano Banana Pro Prompt:
+A large brown bear dressed in intricate traditional Russian folk clothing, sitting at a rustic wooden table outdoors. The bear dips its paw slowly into an old wooden honey barrel, lifting it up with thick golden honey dripping in glistening streams. The scene is captured in close-up cinematic style, highlighting the rich texture of the honey shining in warm, golden sunlight. The bear joyfully licks its paw, with soft focus on the natural background to enhance the warm, inviting atmosphere, rendered in ultra-realistic detail, commercial quality, 4K resolution.
 ```
 
 ---
@@ -9767,6 +12767,22 @@ Create a bold ad for Trifecta Nutrition: a baseball player mid-swing in a stadiu
 ---
 
 ## samann_ai
+
+### [Nano Banana Pro 4K: Focus on Details](https://aiart.pics/prompt/nano-banana-pro-4k-focus-on-details)
+
+**Author**: [@samann_ai](https://x.com/samann_ai)
+
+**Source**: [X](https://x.com/Samann_ai/status/1991583268588909039)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-4k-focus-on-details-1.jpg" width="500" alt="Nano Banana Pro 4K: Focus on Details">
+
+```
+Only look at the details! I’ve got nothing else to say… 🔥Nano Banana Pro 4K🔥
+𝗣𝗿𝗼𝗺𝗽𝘁 :
+Hyper-realistic ultra closeup portrait of a young woman’s face covered in thick golden honey, viscous honey streams dripping from her forehead, nose and lips, several honeybees resting on her cheeks and near her mouth, bees sharply in focus with visible fuzzy hairs and transparent wings. Warm golden hour lighting, sun hitting her face from the side, creating soft highlights and deep shadows. Skin texture extremely detailed with visible pores, freckles and a natural glow, slightly wet and glossy from the honey. Eyes wide open and intense, amber-brown irises with sharp reflections and bright catchlights, eyelashes defined, eyelids with a subtle golden shimmer. Lips slightly parted, honey slowly dripping from the lower lip in a long strand. Background softly blurred with warm yellow and orange bokeh. Shot on a high-end DSLR, 85mm lens, f/1.4, 8K resolution, hyper real, ultra detailed, cinematic, beauty photography, studio-quality lighting, perfect focus on eyes and bees, shallow depth of field
+```
+
+---
 
 ### [What if you could have a Therapy session with YOUR CHILDHOOD self?](https://aiart.pics/prompt/what-if-you-could-have-a-therapy-session-with-your-childhood-self)
 
@@ -9868,6 +12884,25 @@ Ultra-real portrait of [CHARACTER] centered, surrounded by dozens of life-size s
 ```
 Hyper-realistic carved wooden figurine of [CHARACTER], chibi proportions (big head, short body), standing on a plain wood block. Keep key face traits and iconic [OUTFIT/PROP]. Visible wood grain and chisel marks, matte finish. Warm studio light, soft shadow, seamless beige background. Centered full-body, slight 3/4 angle, shallow depth of field (85mm look). Ultra-detailed, photoreal, warm sepia grading. Aspect ratio [3:4].
 超写实[人物]木雕人偶，Q版比例（大头短身），站立于一块普通木块上。保留关键面部特征和标志性[服装/道具]。木纹和凿痕清晰可见，哑光饰面。工作室暖光，柔和阴影，米色背景浑然一体。全身居中，略微3/4视角，浅景深（85毫米画质）。细节丰富，照片级写实，暖棕褐色调。宽高比为[3:4]。
+```
+
+---
+
+## Sam Sheffer
+
+### [Nano Banana Pro🍌🤯: Make Me Lego, Keep Everything the Same](https://aiart.pics/prompt/nano-banana-pro-make-me-lego-keep-everything-the-same)
+
+**Author**: [@Sam Sheffer](https://x.com/samsheffer)
+
+**Source**: [X](https://x.com/samsheffer/status/1991546877528142203)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-make-me-lego-keep-everything-the-same-1.jpg" width="500" alt="Nano Banana Pro🍌🤯: Make Me Lego, Keep Everything the Same">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-make-me-lego-keep-everything-the-same-2.jpg" width="500" alt="Nano Banana Pro🍌🤯: Make Me Lego, Keep Everything the Same">
+
+```
+nano banana pro🍌🤯
+"make me lego, keep everything the same" https://t.co/QtVlsTcIIe
 ```
 
 ---
@@ -10024,6 +13059,52 @@ Step 1: Take a screenshot of your Twitter profile.\nStep 2: Open ChatGPT\nStep 3
 ---
 
 ## Shreya Yadav
+
+### [Turning Your Image into a Fantastic Look 😍](https://aiart.pics/prompt/turning-your-image-into-a-fantastic-look)
+
+**Author**: [@Shreya Yadav](https://x.com/ShreyaYadav___)
+
+**Source**: [X](https://x.com/ShreyaYadav___/status/1991571952318964212)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/turning-your-image-into-a-fantastic-look-1.jpg" width="500" alt="Turning Your Image into a Fantastic Look 😍">
+
+```json
+Turn own image in Fantastic look 😍
+Google Gemini ai 🍁
+Prompt ⤵️
+{
+  "prompt": "A woman leaning slightly toward a softly glowing vertical light bar, half of her face illuminated in a warm haze while the other half fades into a pitch-black background. Her posture is relaxed, her silhouette crisp and defined, creating a strong sense of contrast and depth. The scene has a modern noir aesthetic with minimal lighting and cinematic atmosphere. The composition emphasizes light and shadow interplay, evoking mystery and elegance.",
+  "style": "modern noir, cinematic lighting, photorealistic, high contrast",
+  "lighting": "soft warm key light from a vertical light bar, pitch-black shadows on the opposite side",
+  "mood": "mysterious, intimate, stylish",
+  "camera": "mid-shot, side angle, shallow depth of field, high dynamic range",
+  "environment": "dark minimalist studio setting with only one glowing light source"
+}
+```
+
+---
+
+### [Earning My Wings, One Day at a Time](https://aiart.pics/prompt/earning-my-wings-one-day-at-a-time)
+
+**Author**: [@Shreya Yadav](https://x.com/ShreyaYadav___)
+
+**Source**: [X](https://x.com/ShreyaYadav___/status/1991552050342293723)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/earning-my-wings-one-day-at-a-time-1.jpg" width="500" alt="Earning My Wings, One Day at a Time">
+
+```
+Earning my wings, one day at a time. 🪽✨
+Google Gemini ai ( Nano Banana)
+Prompt ⤵️
+Portrait: A medium-length portrait of the subject (with the same face and hairstyle as the submitted image, without altering the facial expression) posing in a relaxed manner, with one leg crossed over the other and looking directly at the camera. Their right hand is raised near their face, forming a heart shape with the fingers curled inwards, suggesting a heart sign and conveying a warm and friendly feeling. They have a toned, flat abdomen. Their legs are long and slender, with defined calves.
+Clothing and Footwear: Whenever a flat lay image is available alongside the reference image, priority should be given to dressing the subject in the clothing shown in the flat lay image. When this is not available, dress the subject according to the following description: the subject is wearing a basic black boxy T-shirt and light-wash jeans. The garment is fitted, accentuating their slender and athletic figure, with narrow shoulders and toned arms. On their feet, they are wearing white Nike Air Force 1 sneakers. On their left wrist, a red watch.  Around her neck, a discreet gold necklace, and Ray-Ban Wayfarer sunglasses.
+Setting: The setting is an urban street with a vibrant pink mural in the background, depicting a pair of open angel wings in shades of blue, white, and gray, with yellow accents. Above the mural, dense foliage of lush green trees completes the background, with no other urban elements visible. The ground is a concrete sidewalk with colorful graffiti and subtle paint marks.
+Lighting: The sun is directly in front of the subject during the golden hour, bathing both the model and the mural in a soft, diffused golden light. This lighting creates a warm, ethereal glow, with light glimmers and a delicate bokeh effect. The Lensbaby OMNI Filter System is used to enhance the highlights and light patterns, along with the Crystal Seahorse filter to add unique reflections and visual effects.  The sky visible above the mural displays blended shades of blue, pink, and yellow, with scattered clouds that absorb and reflect the golden light.
+Style: The style is realistic and cinematic, with a dreamy and ethereal atmosphere characteristic of the golden hour. The scene conveys warmth, optimism, and naturalness. The use of the Lensbaby OMNI Filter System and the Crystal Seahorse adds a dreamlike and artistic touch, with light and reflection effects that create a unique aesthetic. The quality is top-notch, with a focus on textural details, saturated colors, and a soft rendering of light.
+Composition: The camera is positioned in a medium shot, slightly below the subject's eye level, allowing the subject to appear closer to the camera while the wings of the mural appear complete and perfectly aligned behind them. The subject is centered in front of the mural, with one leg casually crossed. Their hands form a mini heart shape at chest level, with their arms semi-extended.  The focus is sharp on the subject, the sunglasses and the necklace, with a soft, artistic blur on the mural and the trees in the background, accentuated by the effects of the Lensbaby, creating a magical depth of field and subtle reflections.
+```
+
+---
 
 ### [Cinematic 3-Frame Collage: Emotional Connection between Humanity and Nature in a Lush Meadow](https://aiart.pics/prompt/cinematic-3-frame-collage-emotional-connection-humanity-nature-lush-meadow)
 
@@ -10758,6 +13839,27 @@ CINEMATIC STREET PHOTOGRAPHY, STYLISH YOUNG WOMAN IN MOTION, URBAN ENVIRONMENT, 
 
 ## skirano
 
+### [Nano Banana Pro: A Fun Case Study](https://aiart.pics/prompt/nano-banana-pro-fun-case-study)
+
+**Author**: [@skirano](https://x.com/skirano)
+
+**Source**: [X](https://x.com/skirano/status/1991623873574629866)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-fun-case-study-1.jpg" width="500" alt="Nano Banana Pro: A Fun Case Study">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-fun-case-study-2.jpg" width="500" alt="Nano Banana Pro: A Fun Case Study">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-fun-case-study-3.jpg" width="500" alt="Nano Banana Pro: A Fun Case Study">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-fun-case-study-4.jpg" width="500" alt="Nano Banana Pro: A Fun Case Study">
+
+```
+Another fun case with Nano Banana Pro.
+Ask it to generate a comic about your life. Works even better with grounding with web search on! https://t.co/Ug7piMo115
+```
+
+---
+
 ### [Put this shirt on him](https://aiart.pics/prompt/put-this-shirt-on-him)
 
 **Author**: [@skirano](https://x.com/skirano)
@@ -11154,6 +14256,20 @@ Create a 3D kawaii 10-16 canvas featuring nine chibi-style stickers in various o
 
 ---
 
+### [Aircraft 3D Cutaway Infographic](https://aiart.pics/prompt/aircraft-3d-cutaway-infographic)
+
+**Author**: [@松果先森](https://x.com/songguoxiansen)
+
+**Source**: [X](https://x.com/songguoxiansen/status/1991542503850516544)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/aircraft-3d-cutaway-infographic.jpeg" width="500" alt="Aircraft 3D Cutaway Infographic">
+
+```
+创作一幅极具科技感的3D立体剖面信息图，旨在展示现代商用喷气式飞机的内部结构与运作原理。图面以高度还原和精细化的方式呈现，将飞机主体（包括机身、机翼、尾翼及重点展示的涡扇发动机）进行半拆解式的剖面处理，揭示其复杂的内在构造。关键零部件（例如：驾驶舱航电系统、客舱框架、货舱、燃油箱、机翼翼肋/翼梁、发动机压气机/涡轮、起落架机械装置等）被有序地拆解、悬浮排列，并用引导线连接至主体。每个主要部分都配有清晰、专业的英文标注，明确注明结构名称及其简洁的功能描述。整体布局追求极致的整洁与逻辑性，背景干净，风格宛如一张未来的交互式高级工程蓝图。
+```
+
+---
+
 ### [Long Text Ancient Poem Painting](https://aiart.pics/prompt/long-text-ancient-poem-painting)
 
 **Author**: [@松果先森](https://x.com/songguoxiansen)
@@ -11466,6 +14582,88 @@ Did this actually happen or what? https://t.co/a7wWanLC3C
 
 ---
 
+## Stas Kulesh
+
+### [Nano Banana Pro Visualizes Retro Game Interfaces as Real Photos](https://aiart.pics/prompt/nano-banana-pro-visualizes-retro-game-interfaces-as-real-photos)
+
+**Author**: [@Stas Kulesh](https://x.com/stas_kulesh)
+
+**Source**: [X](https://x.com/stas_kulesh/status/1991620350132847042)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-visualizes-retro-game-interfaces-as-real-photos-1.jpg" width="500" alt="Nano Banana Pro Visualizes Retro Game Interfaces as Real Photos">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-visualizes-retro-game-interfaces-as-real-photos-2.jpg" width="500" alt="Nano Banana Pro Visualizes Retro Game Interfaces as Real Photos">
+
+```
+Nano Banana Pro visualises retro game interfaces as real photos. https://t.co/WH0ZgRNLZ7
+```
+
+---
+
+### [Nano Banana Pro Tests: Sci-Fi Book Recommendations](https://aiart.pics/prompt/nano-banana-pro-tests-sci-fi-book-recommendations)
+
+**Author**: [@Stas Kulesh](https://x.com/stas_kulesh)
+
+**Source**: [X](https://x.com/stas_kulesh/status/1991608132028756372)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-tests-sci-fi-book-recommendations-1.jpg" width="500" alt="Nano Banana Pro Tests: Sci-Fi Book Recommendations">
+
+```
+Nano Banana Pro tests:
+&gt; A photo of the sci-fi books I should read https://t.co/ftFiAbU2CK
+```
+
+---
+
+## Stitch by Google
+
+### [Introducing Stitch’s Redesign Agent powered by Nano Banana Pro](https://aiart.pics/prompt/introducing-stitchs-redesign-agent-powered-by-nano-banana-pro)
+
+**Author**: [@Stitch by Google](https://x.com/stitchbygoogle)
+
+**Source**: [X](https://x.com/stitchbygoogle/status/1991614483681411161)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/introducing-stitchs-redesign-agent-powered-by-nano-banana-pro-cover-1.jpg" width="500" alt="Introducing Stitch’s Redesign Agent powered by Nano Banana Pro">
+
+```
+Introducing Stitch’s Redesign Agent powered by the newly announced Nano Banana Pro. 🍌
+It takes a screenshot or URL and lets you edit and redesign your product with natural language.
+We threw 🍌 Pro at real-world design challenges:
+- "Redesign this page for a younger audience"
+- "Create the page that most likely comes next"
+- "Increase the number of users who add to cart"
+- “Move the button down 10 pixels”
+More info and demos in 🧵
+```
+
+---
+
+## 杉山善則 | アド.com | エンジニア経営者
+
+### [Nano Banana Pro: Revolutionizing the Japanese Input Experience](https://aiart.pics/prompt/nano-banana-pro-revolutionizing-the-japanese-input-experience)
+
+**Author**: [@杉山善則 | アド.com | エンジニア経営者](https://x.com/sugiyama_yo)
+
+**Source**: [X](https://x.com/sugiyama_yo/status/1991569122438836556)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-revolutionizing-the-japanese-input-experience-1.jpg" width="500" alt="Nano Banana Pro: Revolutionizing the Japanese Input Experience">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-revolutionizing-the-japanese-input-experience-2.jpg" width="500" alt="Nano Banana Pro: Revolutionizing the Japanese Input Experience">
+
+```
+Nano Banana Pro、完全にゲームチェンジャー。
+今まで苦手だった日本語の文字入れがめちゃくちゃ得意になってる。
+完全ポン出しでこのクオリティやばすぎるだろ。
+↓プロンプト https://t.co/tNqffoOoF1
+▼プロンプト
+Instagramのオーガニック手書き文字入れ投稿風の広告にして。日本語で。カラーテイストは紫とピンク。訴求軸は敏感肌と価格。価格は今だけという訴求。美容液の質感や、容量にも触れてほしい。"まずはお試し"、"必見"、"初回限定40% OFF"、"1280円"、"さらっと浸透"などの訴求もして欲しい。肌色の手が画像1の美容液のボトルを下から支えている。
+↓ 元画像
+↓他のバナー広告サンプルはこちら
+https://t.co/KzgZfY95rx
+```
+
+---
+
 ## tapehead.lab
 
 ### [From One Illustration to So Many Poses in an Instant - Is This Possible?](https://aiart.pics/prompt/from-one-illustration-to-so-many-poses-in-an-instant-is-this-possible)
@@ -11479,6 +14677,40 @@ Did this actually happen or what? https://t.co/a7wWanLC3C
 ```
 一枚のイラストから、一瞬でこんなにポーズ作れるのはもう、、ダメでしょ！
 楽しいがすぎるぞnano banana🫠 https://t.co/ioNOPzklMR
+```
+
+---
+
+## 田中義弘 | taziku CEO / AI × Creative
+
+### [For Just One Yen, Supermarket Flyers Can Be So Exquisite, Who Would Have Thought?](https://aiart.pics/prompt/just-one-yen-supermarket-flyers-exquisite-who-would-have-thought)
+
+**Author**: [@田中義弘 | taziku CEO / AI × Creative](https://x.com/taziku_co)
+
+**Source**: [X](https://x.com/taziku_co/status/1991641896213782635)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/just-one-yen-supermarket-flyers-exquisite-who-would-have-thought-1.jpg" width="500" alt="For Just One Yen, Supermarket Flyers Can Be So Exquisite, Who Would Have Thought?">
+
+```
+たった一文で「スーパーのチラシ」が仕上がる世界、誰が予想した？
+Nano Banana Pro は日本語の段組・価格訴求・強調配色を理解し、スーパー特有のデザインまで模倣。
+プロンプトは「スーパーマーケットの特売チラシを作って」と名前の指定のみ。クリエイターとしては本気で怖い。 https://t.co/4f4KKtLwcv
+```
+
+---
+
+## Greenfield Team!
+
+### [Ready to Create the IMPOSSIBLE? Try Nano Banana Pro!](https://aiart.pics/prompt/challenge-the-impossible-try-nano-banana-pro)
+
+**Author**: [@Greenfield Team!](https://x.com/Team_Greenfield)
+
+**Source**: [X](https://x.com/Team_Greenfield/status/1991550343713632577)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/challenge-the-impossible-try-nano-banana-pro-1.jpg" width="500" alt="Ready to Create the IMPOSSIBLE? Try Nano Banana Pro!">
+
+```
+Ready to create the IMPOSSIBLE? 🤯 Try Nano Banana Pro ! Use any style image as a reference, then prompt: "impossible 3D shape in this style." https://t.co/LguybfetUU
 ```
 
 ---
@@ -11856,6 +15088,27 @@ Create a hyper-realistic, stylish poster featuring a light bulb lying on wet urb
 ```
 Generate a hyper-realistic 3D render of a [EMOJI🐱] as a floating animal head with plush toy aesthetics. The design should emphasize ultra-soft, long fur, playful cuteness, and a childlike charm. Use a straight-on camera angle with soft, diffused lighting to create a warm and inviting glow. Keep the background pure white for a clean, modern look. The color palette should be vibrant yet soothing, enhancing the toy-like appeal. Style: Ultra-detailed, whimsical, and hyper-cute, blending realism with a soft, plush texture for maximum visual impact.
 生成一个超逼真的 3D 渲染效果，将[表情符号 🐱 ]设计成一个漂浮的动物头部，具有毛绒玩具的美学风格。设计应强调超柔软的长毛、俏皮可爱和童真魅力。使用正面直视的相机角度，搭配柔和的漫射光线，营造出温暖诱人的光泽。保持背景纯白色，以呈现干净现代的外观。色彩搭配应鲜明而舒缓，增强玩具般的吸引力。风格：超精细、奇幻、超可爱，将现实主义与柔软的毛绒质感相结合，以达到最大的视觉冲击力。
+```
+
+---
+
+## ニケちゃん
+
+### [NanoBanana Pro: Amazing Pose Replacement Technique](https://aiart.pics/prompt/nanobanana-pro-amazing-pose-replacement-technique)
+
+**Author**: [@ニケちゃん](https://x.com/tegnike)
+
+**Source**: [X](https://x.com/tegnike/status/1991557599519728113)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/nanobanana-pro-amazing-pose-replacement-technique-1.jpg" width="500" alt="NanoBanana Pro: Amazing Pose Replacement Technique">
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/nanobanana-pro-amazing-pose-replacement-technique-2.jpg" width="500" alt="NanoBanana Pro: Amazing Pose Replacement Technique">
+
+```
+NanoBanana Proすごい
+左右も認識できて、キャラの置き換えもほぼ破綻無く出来る
+これ実はけっこう難しかったんですよね
+プロンプト: 会話している右から2番目の人物を添付のアニメの女の子にポーズそのままで置き換えてください https://t.co/Wnp5TeJN3w
 ```
 
 ---
@@ -12491,6 +15744,24 @@ Here’s how you can do it too for free: https://t.co/NTskgbgW7a
 
 ---
 
+## tokenbender
+
+### [Nano Banana Pro: A Step Change in Image Model Utility](https://aiart.pics/prompt/nano-banana-pro-a-step-change-in-image-model-utility)
+
+**Author**: [@tokenbender](https://x.com/tokenbender)
+
+**Source**: [X](https://x.com/tokenbender/status/1991572515551076610)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-a-step-change-in-image-model-utility-1.jpg" width="500" alt="Nano Banana Pro: A Step Change in Image Model Utility">
+
+```
+holy fkn shit
+nano banana pro is a step change in making image models useful
+prompt - create a block diagram describing the process of RLVR https://t.co/FBYnoSYecv
+```
+
+---
+
 ## とすくん
 
 ### [Nano banana Prompt: Creating a Dreamlike Convenience Store Themed Merchandise](https://aiart.pics/prompt/nano-banana-dreamlike-convenience-store-themed-merchandise)
@@ -12673,6 +15944,23 @@ Photorealistic, 4K (4000px x 3000px)
 
 ---
 
+## 兎耳山ルカ 公認会計士
+
+### [Olympus Nano Banana Pro Showcase](https://aiart.pics/prompt/olympus-nano-banana-pro-showcase)
+
+**Author**: [@兎耳山ルカ 公認会計士](https://x.com/TomiyamaLuca)
+
+**Source**: [X](https://x.com/TomiyamaLuca/status/1991626803027538103)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/olympus-nano-banana-pro-showcase-1.jpg" width="500" alt="Olympus Nano Banana Pro Showcase">
+
+```
+nano banana pro🍌
+オリンパスの粉飾事例を説明するスライドを画像として作って https://t.co/wP0lnU2Aa3
+```
+
+---
+
 ## tranmautritam
 
 ### [Create Various 3D Style Avatars](https://aiart.pics/prompt/create-various-3d-style-avatars)
@@ -12710,6 +15998,25 @@ He has a warm natural skin tone with rosy cheeks, dot eyes (or small glossy eyes
 他有着温暖自然的肤色，红润的脸颊，圆点的眼睛（或有光泽的小眼睛）和柔软的深棕色卷发。面部表情中性或略带好奇。服装包括一件卷袖的橄榄绿色 T 恤、米色卷短裤和带有微妙缝线的米白色哑光运动鞋。他戴着一个带翻盖的深橄榄色斜挎包，右手腕上戴着一块纤细的黑色手表。
 Render with soft, diffused lighting and gentle shadows underfoot. Use a 100% transparent background (PNG format) or very light neutral grey if previewed. Full-body composition, front-facing or light 3/4 view. Maintain a clean, high-resolution, polished render — ideal for a character design showcase or branding. Soft color palette with earth tones.
 使用柔和的漫射照明和脚下柔和的阴影进行渲染。使用 100% 透明背景（PNG 格式）或非常浅的中性灰色（如果预览）。全身构图，正面或浅色 3/4 视图。保持干净、高分辨率、精美的渲染 — 非常适合角色设计展示或品牌推广。带有大地色调的柔和调色板。
+```
+
+---
+
+## かなやま⚡キャンプ⚡わたモテ
+
+### [Promoting the Cultural Significance of 'Watamote'](https://aiart.pics/prompt/promoting-watamote-cultural-significance)
+
+**Author**: [@かなやま⚡キャンプ⚡わたモテ](https://x.com/tukinuketa)
+
+**Source**: [X](https://x.com/tukinuketa/status/1991646349503393826)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/promoting-watamote-cultural-significance-1.jpg" width="500" alt="Promoting the Cultural Significance of 'Watamote'">
+
+```
+わたモテの文化的意義をPRするための資料。Nano Banana Pro凄すぎる。
+#わたモテ
+#私がモテないのはどう考えてもお前らが悪い
+#Watamote https://t.co/d1ab7Tw7rK
 ```
 
 ---
@@ -13391,6 +16698,40 @@ Character module
 
 ---
 
+## Justine Moore
+
+### [AI Safety Person's Laptop Makeover](https://aiart.pics/prompt/ai-safety-persons-laptop-makeover)
+
+**Author**: [@Justine Moore](https://x.com/venturetwins)
+
+**Source**: [X](https://x.com/venturetwins/status/1991600131045749209)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/ai-safety-persons-laptop-makeover-1.jpg" width="500" alt="AI Safety Person's Laptop Makeover">
+
+```
+I asked Nano Banana Pro to make it look like this laptop was owned by an AI safety person ☠️
+(no joke - it came up with all these stickers on its own) https://t.co/kqTcEa0srx
+```
+
+---
+
+## Victor Venâncio
+
+### [Create Selfie with 5 Random Brazilian Celebrities](https://aiart.pics/prompt/create-selfie-with-5-random-brazilian-celebrities)
+
+**Author**: [@Victor Venâncio](https://x.com/victorvenancio)
+
+**Source**: [X](https://x.com/victorvenancio/status/1991638509468184926)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/create-selfie-with-5-random-brazilian-celebrities-1.jpg" width="500" alt="Create Selfie with 5 Random Brazilian Celebrities">
+
+```
+Prompt para o Nano Banana Pro:
+Crie selfie com 5 celebridades brasileiras aleatórias https://t.co/KoMb2rZp00
+```
+
+---
+
 ## vkuoo
 
 ### [1920s Arthur Rackham Style Fairy Tale Illustration](https://aiart.pics/prompt/1920s-arthur-rackham-style-fairy-tale-illustration)
@@ -13712,6 +17053,21 @@ ZenMux免费使用Nano banana 2，大家快冲啊：https://t.co/c3ozNblEbv
 
 ## Yaseen Khan Gul
 
+### [Gemini Nano Banana 3.0 Pro - Ultra-detailed, Hyper-realistic, Cinematic Aspect Ratio 9:16](https://aiart.pics/prompt/gemini-nano-banana-3-0-pro-ultra-detailed-hyper-realistic-cinematic-aspect-ratio-9-16)
+
+**Author**: [@Yaseen Khan Gul](https://x.com/YaseenK7212)
+
+**Source**: [X](https://x.com/YaseenK7212/status/1991551320646447220)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/gemini-nano-banana-3-0-pro-ultra-detailed-hyper-realistic-cinematic-aspect-ratio-9-16-1.jpg" width="500" alt="Gemini Nano Banana 3.0 Pro - Ultra-detailed, Hyper-realistic, Cinematic Aspect Ratio 9:16">
+
+```
+Gemini Nano Banana 3.0 Pro
+Prompt Ultra-detailed, hyper-realistic, cinematic, aspect ratio 9:16. Low-angle camera shot slightly looking upward, capturing a young man (face and hair 100% photo reference) wearing an earthy red coat and an olive-yellow knitted hood scarf that explicitly wraps around the head and neck without change. A bright-furred Maine Coon cat sits on top of the hood, looking towards the light coming from behind. Pose: the man stands upright, turning his head slightly to the side.
+```
+
+---
+
 ### [Gemini Nano Banana 3.0 Released Today, Unbelievable! 🤯](https://aiart.pics/prompt/gemini-nano-banana-3-0-released-today-unbelievable)
 
 **Author**: [@Yaseen Khan Gul](https://x.com/YaseenK7212)
@@ -13753,6 +17109,24 @@ Panel 2 (Full Body Shot): A full-body shot captured from a high, looking-down ca
 Panel 3 (Close Up Shot): A tight close-up of the character's face, featuring a flat, distant gaze that evokes feelings of loneliness and longing. The background includes pine trees, the soft aurora glow, and visible snowfall.
 Technical Specifications: Captured with a Hasselblad X2D 100C camera and a Fujifilm GF 45mm f/2.8 R WR lens (to maintain quality across all perspectives). Soft, dim night lighting is used, with warm contrast from the fire in Panel 1. Focus on the textured puffer material, the soft snow, and the luminous quality of the aurora. Cinematic coloring with a strong emphasis on cold tones and melancholy atmosphere.
 Facial Constraint: Crucial: Use the attached photo as the subject reference. Maintain 100% identical facial features: do not alter the appearance of the eyes, hair, nose, lips, front bangs, and face shape from the source photo. The identity must be perfectly preserved across all three panels.
+```
+
+---
+
+## Yi Tay
+
+### [Nano Banana Fun](https://aiart.pics/prompt/nano-banana-fun)
+
+**Author**: [@Yi Tay](https://x.com/YiTayML)
+
+**Source**: [X](https://x.com/YiTayML/status/1991591875934056554)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/nano-banana-fun-1.jpg" width="500" alt="Nano Banana Fun">
+
+```
+More nano banana fun 👇
+"create a 4 panel manga titled "I was reincarnated into another world as an ai researcher"
+pretty hilarious actually 😄 https://t.co/0Fg2DbX15C
 ```
 
 ---
@@ -14045,6 +17419,24 @@ The [LANDMARK - Statue of Liberty/Eiffel Tower/Big Ben] perfectly carved and fun
 ---
 
 ## -Zho-
+
+### [Another Defect Solved! Nano Banana Pro Amazing!](https://aiart.pics/prompt/another-defect-solved-nano-banana-pro-amazing)
+
+**Author**: [@-Zho-](https://x.com/ZHO_ZHO_ZHO)
+
+**Source**: [X](https://x.com/ZHO_ZHO_ZHO/status/1991573512713347181)
+
+<img src="https://img1.aiart.pics/images/prompts/20251216/another-defect-solved-nano-banana-pro-amazing-1.jpg" width="500" alt="Another Defect Solved! Nano Banana Pro Amazing!">
+
+```
+又一缺陷被解决！Nano banana Pro 牛逼！
+这下动漫/真人互转风格可就太简单了！用处可太大了！！！
+之前 🍌 在风格互转上不稳定，尤其是动漫转真人上经常失败，还得靠提示词技巧，这次 Pro 直接 搞定了
+只需要：“1:1变真人”
+17｜测试系列｜Nano Banana Pro｜ZHNO https://t.co/MuNp2KCWkE
+```
+
+---
 
 ### [Sora Photography Prompt Words](https://aiart.pics/prompt/sora-photography-prompt-words)
 
@@ -14355,6 +17747,108 @@ GPT 4o 可太懂我了！画风太可爱了！！！
 ```
 提示词很简单，基本上言出法随，不用额外描述，真心感受到了图像AI本应有的“智能感”：
 为我生成讽刺海报：GPT 4o 狂卷，都别干图像AI了 还是送外卖吧 https://t.co/9Oez1sDteT
+```
+
+---
+
+### [Nano Banana Pro Test: How Does It Perform in a Complex Task Challenge?](https://aiart.pics/prompt/nano-banana-pro-test-ultra-complex-task-performance)
+
+**Author**: [@-Zho-](https://x.com/ZHO_ZHO_ZHO)
+
+**Source**: [X](https://x.com/ZHO_ZHO_ZHO/status/1991580717273526513)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-test-ultra-complex-task-performance-1.jpg" width="500" alt="Nano Banana Pro Test: How Does It Perform in a Complex Task Challenge?">
+
+```
+超复杂任务测试，Nano Banana Pro 究竟表现如何？！
+卧槽！！！很接近了！🍌 Pro ！！！
+“把图一人物1:1变成真人，手里拿着图二的手办，穿着图三人物的穿搭，化着图四人物的妆容和发色，表情是图五的表情，背后停着辆图六的车（ZHO 原创）”
+19｜测试系列｜Nano Banana Pro｜ZHNO https://t.co/4ZgdR54q8m
+```
+
+---
+
+### [Nano Banana Pro Accurately Signs Handwritten Signatures on Documents, Successfully Signs Lease Agreement!](https://aiart.pics/prompt/nano-banana-pro-accurately-signs-handwritten-signatures-on-documents-successfully-signs-lease-agreement)
+
+**Author**: [@-Zho-](https://x.com/ZHO_ZHO_ZHO)
+
+**Source**: [X](https://x.com/ZHO_ZHO_ZHO/status/1991569699298291963)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-accurately-signs-handwritten-signatures-on-documents-successfully-signs-lease-agreement-1.jpg" width="500" alt="Nano Banana Pro Accurately Signs Handwritten Signatures on Documents, Successfully Signs Lease Agreement!">
+
+```
+Nano Banana Pro 可以准确的把手写签名签到文件上！
+我让🍌 Pro 生成一份房租租赁合同，并把我的签名签上去，没想到成功了！
+不过 🍌 Pro生成长篇中文还是会有问题（已经很强了
+16｜测试系列｜Nano Banana Pro｜ZHNO
+【Prompt/测试图】⬇️ https://t.co/a0rxvdL12D
+```
+
+---
+
+### [Nano Banana Pro Unbelievable! Authentic Bank Statement Quality](https://aiart.pics/prompt/nano-banana-pro-unbelievable-bank-statement-quality)
+
+**Author**: [@-Zho-](https://x.com/ZHO_ZHO_ZHO)
+
+**Source**: [X](https://x.com/ZHO_ZHO_ZHO/status/1991567107381973326)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-unbelievable-bank-statement-quality-1.jpg" width="500" alt="Nano Banana Pro Unbelievable! Authentic Bank Statement Quality">
+
+```
+哈哈哈哈哈 Nano Banana Pro 牛逼！直接给我生成了一份 Elon Musk 的银行流水单哈哈哈哈哈
+这质感好真啊，还有纸张背面透过来的感觉！这下会不会让造假更难分辨了？！
+15｜测试系列｜Nano Banana Pro｜ZHNO
+【Prompt/测试图】⬇️ https://t.co/Eji7GHQLKm
+```
+
+---
+
+### [Nano Banana Pro: Create Advanced Atmosphere Photos for Image Characters](https://aiart.pics/prompt/nano-banana-pro-create-advanced-atmosphere-photos-for-image-characters)
+
+**Author**: [@-Zho-](https://x.com/ZHO_ZHO_ZHO)
+
+**Source**: [X](https://x.com/ZHO_ZHO_ZHO/status/1991563731055309190)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-create-advanced-atmosphere-photos-for-image-characters-1.jpg" width="500" alt="Nano Banana Pro: Create Advanced Atmosphere Photos for Image Characters">
+
+```
+为图片人物生成高级氛围感照片！Nano Banana Pro 真好！
+用 Nano banana Pro 做写实/摄影方面的应用可太方便了！
+13｜测试系列｜Nano Banana Pro｜ZHNO
+【Prompt｜ZHO 原创】⬇️ https://t.co/NN3HDKVz4b
+```
+
+---
+
+### [Nano Banana Pro's Clock Generation Unstable; Inaccurate Classic Clock Time Generation](https://aiart.pics/prompt/nano-banana-pro-clock-generation-unstable-inaccurate-classic-clock-time)
+
+**Author**: [@-Zho-](https://x.com/ZHO_ZHO_ZHO)
+
+**Source**: [X](https://x.com/ZHO_ZHO_ZHO/status/1991558224814960952)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-clock-generation-unstable-inaccurate-classic-clock-time-1.jpg" width="500" alt="Nano Banana Pro's Clock Generation Unstable; Inaccurate Classic Clock Time Generation">
+
+```
+Nano Banana Pro 没有之前传的那么神，在生成 时钟 上，还是不稳定，并不能完全准确生成时钟时间，只是偶尔抽卡能抽中
+“21:33 on the classic clock” 失败了
+11｜测试系列｜Nano Banana Pro｜ZHNO https://t.co/2VEZtIZDy0
+```
+
+---
+
+### [Nano Banana Pro Multi-Person Consistency Maintenance Test](https://aiart.pics/prompt/nano-banana-pro-multi-person-consistency-maintenance-test)
+
+**Author**: [@-Zho-](https://x.com/ZHO_ZHO_ZHO)
+
+**Source**: [X](https://x.com/ZHO_ZHO_ZHO/status/1991554657253216677)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-multi-person-consistency-maintenance-test-1.jpg" width="500" alt="Nano Banana Pro Multi-Person Consistency Maintenance Test">
+
+```
+🍌 Pro 有点东西？跨次元多人自拍？！
+Nano banana Pro 多人物一致性保持测试：10个人物，包含真人、2d 人物、3d 人物
+可惜少了一个人，并且合照的空间关系还是有问题，后面几个人是硬加上去的
+10｜测试系列｜Nano Banana Pro｜ZHNO https://t.co/A0bUXVLePZ
 ```
 
 ---
