@@ -125,6 +125,27 @@ Prompt: "幫我畫出一份「申請 Binance」的 step-by-step 教學DM，每�
 
 ---
 
+## Latte
+
+### [乔布斯职业生涯的《指环王》主题地图](https://aiart.pics/prompt/steve-jobs-career-the-lord-of-the-rings-themed-map)
+
+**作者**: [@Latte](https://x.com/0xbisc)
+
+**来源**: [X](https://x.com/0xbisc/status/1992589073039671607)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/steve-jobs-career-the-lord-of-the-rings-themed-map-1.jpg" width="500" alt="乔布斯职业生涯的《指环王》主题地图">
+
+```
+我用 Nano Banana Pro 重新诠释了乔布斯的职业生涯，绘制成了《指环王》主题地图。
+我用的提示词：
+请为[乔布斯]创建一个有趣的职业生涯地图，使用[指环王]的主题。需包含相关的隐喻或比喻，将这位名人的职业经历与所选主题连接起来，使职业地图感觉连贯且有意义。中英文案，确保所有文字清晰易读。
+乔布斯的一生就是一场史诗：车库创业、被驱逐、流亡、归来、改变世界。这种起伏和张力，用中土世界的框架来呈现，竟然意外地契合。
+每个人心中都有一座中土世界，而真正的冒险从来不是征服已知，而是怀着敬畏之心，踏入未知的迷雾。
+Stay hungry, stay foolish.
+```
+
+---
+
 ## Daniel
 
 ### [创意 toilet 图像](https://aiart.pics/prompt/creative-toilet-image)
@@ -527,6 +548,38 @@ Testing out Nano Banana Pro on Leonardo AI 🍌🍌 https://t.co/m6JRA2zTNl
 
 ```
 Nano Banana Pro can create images that are indistinguishable from real. You just need to know how to prompt.
+```
+
+---
+
+### [纳米香蕉Pro惊人事件](https://aiart.pics/prompt/nano-banana-pro-major-event)
+
+**作者**: [@AshutoshShrivastava](https://x.com/ai_for_success)
+
+**来源**: [X](https://x.com/ai_for_success/status/1992212586746769736)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-major-event-1.jpg" width="500" alt="纳米香蕉Pro惊人事件">
+
+```
+Nano Banana Pro is amazing.
+Prompt : Create an image of the major event that happened at these coordinates: 41°43′32″N 49°56′49″W. https://t.co/ArhD9zPbQ4
+```
+
+---
+
+## AI Girl's Photo Studio
+
+### [在人物周围添加糖果怪兽](https://aiart.pics/prompt/add-candy-monsters-around-character)
+
+**作者**: [@AI Girl's Photo Studio](https://x.com/AI_GIRL_DESIGN)
+
+**来源**: [X](https://x.com/AI_GIRL_DESIGN/status/1993243344932413597)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/add-candy-monsters-around-character.jpeg" width="500" alt="在人物周围添加糖果怪兽">
+
+```
+Use the uploaded photo. \nDo NOT alter the person’s real appearance — keep the person’s face, body, clothing, colors, and texture completely photorealistic. \nDo NOT change the background perspective. \nDo NOT turn the person into a drawing or illustration.\n\nAdd a dense, overloaded layer of pop-style illustrated “sweets monsters” and graphic decorations ONLY around the person (and on top of their clothing if needed), but never on their skin or face.\n\nIllustrated elements:\n- many colorful cartoon monsters with thick black outlines, flat colors, and cute-but-ugly expressions\n- sweets-inspired monsters: bananas, cookies, strawberries, melting chocolate, lollipops, ice cream, oranges, cupcakes, donuts, candy pieces, soda bottles, etc.\n- additional graphic shapes: stars, hearts, arrows, drips, splashes, zigzag lines, exclamation marks, motion lines, sparkles, bubbles, comic-style text shapes (but no real text)\n\nMake the decoration very dense and “busy”:\n- fill the space behind the person with overlapping sweets monsters and shapes\n- add monsters peeking from behind the shoulders, around the bag, at the person’s feet, and near the head\n- allow some monsters and shapes to overlap the clothing and accessories (shirt, shorts, bag, shoes), but keep the skin of the face, arms, and legs photorealistic and visible\n- use multiple layers of illustrations in front of and behind the person to create depth\n- add glowing outlines, small white dots, and speed lines around the person to emphasize energy\n\nColor and style:\n- use a vivid, neon-like color palette (hot pink, yellow, cyan, lime, orange, purple, turquoise)\n- keep all illustrated elements flat and graphic with clean edges and bold outlines\n- ensure shadows and overlap suggest interaction with the real person (e.g., slight shadows on clothing where monsters touch)\n\nOverall goal:\nCreate a highly decorated, maximalist pop-art scene where the real person stands in the middle, surrounded and wrapped by a chaotic crowd of playful sweets monsters and graphic doodles, while the person remains clearly photorealistic.
+请使用已上传的照片。\n不要改变人物的真实外貌——保持人物的脸部、身体、衣服、颜色和纹理完全逼真。\n请勿改变背景视角。\n请勿将人物形象转化为绘画或插图。\n\n在人物周围（必要时可以贴在衣服上）添加一层厚重的、过多的流行风格插画“糖果怪兽”和图形装饰，但绝不能贴在皮肤或脸上。\n\n图示元素：\n- 许多色彩鲜艳的卡通怪物，轮廓线粗黑，色彩扁平，表情可爱又丑陋。\n- 以甜食为灵感的怪物：香蕉、饼干、草莓、融化的巧克力、棒棒糖、冰淇淋、橙子、纸杯蛋糕、甜甜圈、糖果块、汽水瓶等等。\n- 其他图形形状：星星、心形、箭头、水滴、飞溅、锯齿线、感叹号、动态线条、闪光、气泡、漫画风格的文字形状（但不能包含实际文字）\n\n装饰要非常密集、繁复：\n- 用重叠的糖果怪兽和形状填满人身后的空间\n- 添加一些怪物，它们会从肩膀后面、包周围、人的脚边和头部附近探出头来。\n允许部分怪物和形状与服装及配饰（衬衫、短裤、包、鞋子）重叠，但保持面部、手臂和腿部的皮肤逼真可见。\n- 在人物前后使用多层插图来营造景深。\n- 在人物周围添加发光轮廓、小白点和速度线，以强调能量。\n\n颜色和款式：\n- 使用鲜艳的霓虹色系调色板（亮粉色、黄色、青色、酸橙色、橙色、紫色、蓝绿色）\n- 保持所有插图元素扁平化、图形化，边缘清晰，轮廓粗犷。\n- 确保阴影和重叠能够暗示与真人的互动（例如，怪物触碰衣服时在衣服上留下淡淡的阴影）\n\n总体目标：\n创作一幅装饰华丽、极繁主义的波普艺术场景，真人站在场景中央，被一群嬉戏玩闹的糖果怪兽和涂鸦图形包围，而真人则保持清晰的写实风格。
 ```
 
 ---
@@ -956,6 +1009,21 @@ Prompt for end frame image on #nanobanana
 
 ## Smiling Khan
 
+### [谷歌Gemini肖像](https://aiart.pics/prompt/google-gemini-portrait)
+
+**作者**: [@Smiling Khan](https://x.com/AIwithkhan)
+
+**来源**: [X](https://x.com/AIwithkhan/status/1992890928005325245)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/google-gemini-portrait-1.jpg" width="500" alt="谷歌Gemini肖像">
+
+```
+Portrait from the Google Gemini
+A dramatic, low-angle portrait of a woman standing in a dark, minimalist space, illuminated by a sharp beam of light that carves across her face and shoulders. She wears transparent, modern glasses that catch the glow, adding geometric reflections to her expression. Her gaze is lifted upward with quiet determination, creating a powerful, almost heroic silhouette against the deep shadows around her. The contrast between light and darkness emphasizes her poised posture and confident presence. Capture the scene with high-contrast lighting, subtle film-grain texture, and a moody, atmospheric tone.
+```
+
+---
+
 ### [绝美眼神，融化你的心](https://aiart.pics/prompt/heart-melting-eyes-of-beauty)
 
 **作者**: [@Smiling Khan](https://x.com/AIwithkhan)
@@ -1337,7 +1405,42 @@ Full-body 3D caricature of [Character Name] in Pixar/DreamWorks style, featuring
 
 ---
 
+## Alex dc
+
+### [纳米香蕉Pro：时间旅行之旅](https://aiart.pics/prompt/nano-banana-pro-time-travel-journey)
+
+**作者**: [@Alex dc](https://x.com/Alex_dc)
+
+**来源**: [X](https://x.com/Alex_dc/status/1993035532117721560)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-time-travel-journey-cover-1.jpg" width="500" alt="纳米香蕉Pro：时间旅行之旅">
+
+```
+Nano Banana Pro es una auténtica locura.
+Puedes darle coordenadas y una hora específica y viajará en el tiempo.
+✨ Ejemplo prompt: "Crea una imagen que corresponda con el momento siguiente:  31.7785° N, 35.2296° E, April 3, 33 CE, 15:00 hours"
+Resultado: https://t.co/BtLel4Aizb
+```
+
+---
+
 ## alex_prompter
+
+### [使用Nano Banana Pro提升模糊照片](https://aiart.pics/prompt/upscale-blurred-photos-nano-banana-pro)
+
+**作者**: [@alex_prompter](https://x.com/alex_prompter)
+
+**来源**: [X](https://x.com/alex_prompter/status/1992591995068645811)
+
+<img src="https://img1.aiart.pics/images/prompts/20251216/upscale-blurred-photos-nano-banana-pro-1.jpg" width="500" alt="使用Nano Banana Pro提升模糊照片">
+
+```
+You can upscale blurred photos with Nano Banana Pro.
+Prompt:
+&gt; Upscale this image to 4K resolution, make it fully in focus. https://t.co/Dogo4geqDZ
+```
+
+---
 
 ### [将您的徽标放在月球上](https://aiart.pics/prompt/put-your-logo-on-the-moon)
 
@@ -1509,6 +1612,26 @@ Hand-Carved Wooden Puppet (Czech Marionette Style)\\n\\nA hand-carved wooden mar
 
 ## AmirMušić
 
+### [手绘等距街道示意图](https://aiart.pics/prompt/hand-drawn-isometric-schematic-diagram-of-the-street)
+
+**作者**: [@AmirMušić](https://x.com/AmirMushich)
+
+**来源**: [X](https://x.com/AmirMushich/status/1992704354990907793)
+
+<img src="https://img1.aiart.pics/images/prompts/20251216/hand-drawn-isometric-schematic-diagram-of-the-street-1.jpg" width="500" alt="手绘等距街道示意图">
+
+<img src="https://img1.aiart.pics/images/prompts/20251216/hand-drawn-isometric-schematic-diagram-of-the-street-2.jpg" width="500" alt="手绘等距街道示意图">
+
+```
+Nano Banana Pro prompt:
+[Create a hand drawn isometric schematic diagram of this street]
+The model recognises the place 100%
+Who knows this place? 👀
+(Photo from Google Maps) https://t.co/XozBbLzDGH
+```
+
+---
+
 ### [偷取这个基地提示以用于Nano Banana / ChatGPT](https://aiart.pics/prompt/steal-this-base-prompt-for-nano-banana-chatgpt)
 
 **作者**: [@AmirMušić](https://x.com/AmirMushich)
@@ -1537,6 +1660,25 @@ Save this thread for later - and use it when you need
 Use more of my Nano Banana concepts 👇
 More powerful brand prompt structures:
 https://t.co/KzP20XvjRK
+```
+
+---
+
+### [冰箱菜单创意：用简单图解提供详细食谱](https://aiart.pics/prompt/fridge-menu-idea-detailed-recipe-with-simple-infographic)
+
+**作者**: [@AmirMušić](https://x.com/AmirMushich)
+
+**来源**: [X](https://x.com/AmirMushich/status/1993003026119114928)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/fridge-menu-idea-detailed-recipe-with-simple-infographic-1.jpg" width="500" alt="冰箱菜单创意：用简单图解提供详细食谱">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/fridge-menu-idea-detailed-recipe-with-simple-infographic-2.jpg" width="500" alt="冰箱菜单创意：用简单图解提供详细食谱">
+
+```
+Nano Banana Pro prompt:
+[Scan what’s inside of the fridge and offer me an idea what can be cooked with the ingredients available with a detailed step by step recipe in a form of a simple infographic]
+Your fridge is your menu now 👨‍🍳
+Commercial use case idea below 👇 https://t.co/hc52JHTd6p
 ```
 
 ---
@@ -1808,6 +1950,21 @@ Mood & Imperfections: Realistic, powerful, alternative, stylish. Visible fine sk
 Grok Imagine is going insane with these vibes 📷
 prompt 👇
 1:1 aspect ratio, a Polaroid from the late 90s. The main character [SUBJECT] appears in the photo, caught in a casual, imperfect moment. The background shows a dirty house basement with people partying behind them. The photo has the authentic look of low-light Polaroid photography, with motion blur, harsh flash, grain, and the poor framing typical of real party snapshots.
+```
+
+---
+
+### [身着一件惊艳的概念前卫礼服](https://aiart.pics/prompt/wearing-a-stunning-conceptual-avant-garde-dress)
+
+**作者**: [@ΛRMIN | AI](https://x.com/Arminn_Ai)
+
+**来源**: [X](https://x.com/Arminn_Ai/status/1992650501402542303)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/wearing-a-stunning-conceptual-avant-garde-dress.jpeg" width="500" alt="身着一件惊艳的概念前卫礼服">
+
+```
+(full body shot, wide angle view:1.2), [A woman], in a dynamic pose with arm outstretched, wearing a spectacular conceptual avant-garde gown. The bodice is a fitted (colorful patterned patchwork tapestry fabric:1.3). The skirt is NOT fabric and NOT simple ribbons. The skirt is constructed entirely from (GIANT, MASSIVE 3D PERSIAN CALLIGRAPHY STROKES cut from matte paper:1.6). (A violent wind effect blows the calligraphy structure upwards and outwards to the left:1.5), creating a huge swirling anti-gravity vortex of letters that billows like smoke high into the air. The right side of the skirt anchors to the floor. Dramatic color gradient: The floating strokes on the left are (fiery orange and bright red:1.4), transitioning smoothly across the body to (deep teal, emerald green, and dark blue strokes on the bottom right:1.4). White minimalist studio background with (distinctive patterned gobo shadows cast on the wall:1.3). Cinematic lighting, hyper-detailed paper texture, masterpiece, 8k. (simple ribbons with writing on them:1.6), (thin paper strips:1.5), (small text:1.4), standard fabric skirt, normal dress, metallic texture, shiny plastic, glossy finish, wire mesh, angel wings, feathers attached to back, symmetrical skirt, messy background, low quality, blurry.
+（全身镜头，广角：1.2），[一位女性]摆出一个动态的姿势，手臂伸展，身着一件惊艳的概念前卫礼服。紧身胸衣采用（色彩斑斓的图案拼接挂毯面料：1.3）。裙摆并非布料，也并非简单的丝带。裙摆完全由（巨大的、巨大的3D波斯书法笔触，由哑光纸切割而成：1.6）构成. (一阵强风将这些书法结构向上向左吹拂：1.5），形成一个巨大的、旋转的、反重力的字母漩涡，如同烟雾般高高升腾。裙摆右侧固定在地面上。戏剧性的色彩渐变：左侧漂浮的笔触是（炽热的橙色和鲜红色：1.4），平滑地过渡到（右下角的深青色、翠绿色和深蓝色笔触：1.4）。白色极简主义工作室背景，墙上投射着独特的图案投影：1.3。电影级灯光，超精细的纸张纹理，杰作，8K。（带有文字的简单丝带：1.6），（细纸条：1.5），（小字：1.4），标准布料裙子，普通连衣裙，金属质感，闪亮塑料，光泽表面，金属网，天使翅膀，背部附有羽毛，对称裙子，凌乱的背景，低质量，模糊。
 ```
 
 ---
@@ -2214,6 +2371,70 @@ nano banana proの凄さ
 
 ## awesome_visuals
 
+### [都市街头香蕉幽灵甜味流行艺术摄影](https://aiart.pics/prompt/urban-street-banana-ghost-sweet-pop-art-photography)
+
+**作者**: [@awesome_visuals](https://x.com/awesome_visuals)
+
+**来源**: [X](https://x.com/awesome_visuals/status/1993609750051766767)
+
+<img src="https://img1.aiart.pics/images/prompts/20251216/urban-street-banana-ghost-sweet-pop-art-photography-1.jpg" width="500" alt="都市街头香蕉幽灵甜味流行艺术摄影">
+
+```json
+{
+  "subject": {
+    "type": "beautiful young woman (early 20s)",
+    "pose": "sitting sideways on a concrete street barrier, one knee up, one arm resting on it, giving a winking smile",
+    "expression": "cute, confident, playful"
+  },
+  "appearance": {
+    "hair_color": "light brown",
+    "hair_style": "messy shoulder-length bob with wispy bangs",
+    "complexion": "fair with warm undertones"
+  },
+  "clothing": {
+    "top": "lavender cropped hoodie with soft contour shading",
+    "bottom": "mint pleated skirt",
+    "socks": "white ankle socks with tiny pastel stripes",
+    "shoes": "chunky white sneakers with teal accents"
+  },
+  "environment": {
+    "setting": "urban street corner",
+    "details": "painted curb, faded crosswalk lines, distant buildings, cloudy-bright sky"
+  },
+  "lighting": {
+    "type": "bright diffused afternoon light",
+    "mood": "soft, pastel, airy"
+  },
+  "camera": {
+    "angle": "mid to low angle",
+    "lens_effect": "wide lens with mild depth warp",
+    "framing": "subject centered with plenty of room for decoration layers"
+  },
+  "art_overlay": {
+    "style": "dense maximalist sweets-monster pop-art cluster",
+    "illustrated_elements": {
+      "monsters": "banana ghosts, donut creatures, strawberry heads, melting chocolate blobs, cookie beasts, gummy worms, tiny soda-bottle critters",
+      "graphic_shapes": "neon stars, hearts, zigzags, drips, splashes, bubbles, speed lines, text bursts without text",
+      "style": "flat neon colors (pink, cyan, lime, yellow, purple) with thick black outlines"
+    },
+    "placement_and_density": {
+      "behind_subject": "entire background packed with overlapping sweets monsters",
+      "around_subject": "monsters peeking near shoulders, feet, and around hair silhouette",
+      "over_clothing": "some creatures rest on hoodie, skirt, and shoes with small clothing shadows",
+      "avoid_skin": "face, legs, and arms remain clean and photorealistic",
+      "depth_layers": "layers in front and behind create stacked chaotic depth",
+      "energy_effects": "glowing rim lines, white spark dots, motion lines surrounding her"
+    }
+  },
+  "style": {
+    "overall": "pastel street photography overwhelmed by neon sweets-monster pop-art",
+    "aesthetic": "cute, overloaded, vibrant, surreal"
+  }
+}
+```
+
+---
+
 ### [《雷神之锤》新真人版幕后花絮 - Nano Banana Pro](https://aiart.pics/prompt/behind-the-scenes-shots-of-the-new-live-action-remake-of-quake-by-nano-banana-pro)
 
 **作者**: [@awesome_visuals](https://x.com/awesome_visuals)
@@ -2493,6 +2714,21 @@ Grok JSON prompt
 
 ---
 
+### [火星漫游者镜头：Nano Banana Pro高清影像](https://aiart.pics/prompt/rover-s-lens-by-nano-banana-pro-raw-mars-surface-footage)
+
+**作者**: [@Amira Zairi](https://x.com/azed_ai)
+
+**来源**: [X](https://x.com/azed_ai/status/1992654421466169648)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/rover-s-lens-by-nano-banana-pro-raw-mars-surface-footage-1.jpg" width="500" alt="火星漫游者镜头：Nano Banana Pro高清影像">
+
+```
+Rover's lens by Nano Banana Pro
+Raw wide-angle engineering camera footage from the Mars surface. Extreme fisheye lens distortion. A close-up "selfie" of Elon Musk peering into the rover\'s lens. He is wearing a dusty, scuffed futuristic space suit (helmet off). His face is weathered, unshaven, and sun-damaged. The lens is covered in red dust particles and scratches. Harsh, direct sunlight casts deep black shadows. Low-resolution, monochrome transmission artifacts, digital timestamp overlay in the corner "SOL 001".
+```
+
+---
+
 ### [动作姿态与场景调整](https://aiart.pics/prompt/action-pose-and-scene-adjustment)
 
 **作者**: [@Amira Zairi](https://x.com/azed_ai)
@@ -2545,6 +2781,111 @@ The first image is the original. Here are the prompts I use for each:
 ```
 Create tiny, adorable product shots that look like high-end ads using Nano Banana. I used it in Firefly
 Prompt 👇🏻 https://t.co/isxYVc5rdb
+```
+
+---
+
+### [极简儿童绘画风格](https://aiart.pics/prompt/minimalist-childrens-drawing-style)
+
+**作者**: [@Amira Zairi](https://x.com/azed_ai)
+
+**来源**: [X](https://x.com/azed_ai/status/1992548740272623996)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/minimalist-childrens-drawing-style.jpeg" width="500" alt="极简儿童绘画风格">
+
+```
+A [subject] in a minimalist children's drawing style, using thick white lines and glowing contours. The background is softly blurred with [environment details]. Floating elements like [floating details] add a whimsical touch. Full-body view, warm and simple aesthetic.
+一幅采用极简儿童绘画风格的[人物]，运用粗白线和闪亮轮廓线勾勒而成。背景柔和虚化，并点缀有[环境细节]。漂浮的[细节]等元素增添了一丝奇幻感。全身像，画面温暖简洁。
+```
+
+---
+
+### [伪造的历史](https://aiart.pics/prompt/fake-history)
+
+**作者**: [@Amira Zairi](https://x.com/azed_ai)
+
+**来源**: [X](https://x.com/azed_ai/status/1992263633464946805)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/fake-history.jpeg" width="500" alt="伪造的历史">
+
+```
+Leaked production footage from a secret soundstage, 1969. Neil Armstrong is walking on the "Moon surface," but the camera pulls back to reveal it is just a sandbox in a studio. A boom mic operator is visible in the top corner. Stanley Kubrick is shouting instructions through a megaphone. Studio lights, film grain, slightly blurry, handheld camera movement style.
+1969年，一段泄露的秘密摄影棚拍摄花絮。尼尔·阿姆斯特朗正行走在“月球表面”，但镜头拉远，揭示出那只是摄影棚里的沙箱。画面右上角可以看到一名吊杆麦克风操作员。斯坦利·库布里克正用扩音器大声喊着指示。摄影棚灯光、胶片颗粒感、略微模糊的画面，以及手持摄影机的移动风格。
+```
+
+---
+
+### [将漫画人物融入你的真人照片](https://aiart.pics/prompt/integrate-comic-characters-into-real-photos)
+
+**作者**: [@Amira Zairi](https://x.com/azed_ai)
+
+**来源**: [X](https://x.com/azed_ai/status/1992263611428082031)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/integrate-comic-characters-into-real-photos.jpeg" width="500" alt="将漫画人物融入你的真人照片">
+
+```
+A photograph of a crowded subway train in Tokyo, hyper-realistic style. Sitting on one of the seats is a 2D black-and-white manga illustration of a tired samurai. The character is drawn with clean ink lines and cross-hatching shading. The lighting from the subway car hits the 2D drawing correctly, creating realistic highlights on the ink. The character holds a real photographic soda can, blending the 2D and 3D worlds. 4k, cinematic composition.
+一张东京拥挤地铁车厢的超写实照片。车厢里，一个疲惫的武士坐在一个二维黑白漫画人物上。人物线条干净利落，运用了交叉阴影技法。地铁车厢的灯光恰到好处地照射在二维画面上，在墨线处营造出逼真的高光。人物手中拿着一个真实的汽水罐，巧妙地将二维和三维世界融合在一起。4K分辨率，电影级构图。
+```
+
+---
+
+### [魔法窗口](https://aiart.pics/prompt/magic-window)
+
+**作者**: [@Amira Zairi](https://x.com/azed_ai)
+
+**来源**: [X](https://x.com/azed_ai/status/1992263588900409458)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/magic-window.jpeg" width="500" alt="魔法窗口">
+
+```
+Grainy 35mm film photo from 1975. A construction worker is installing a large glass window pane on the ground floor of a brick house. Through the clear glass, instead of seeing the interior of the room, we see a view looking down from a skyscraper at night onto a neon Tokyo metropolis. The reflection in the glass, however, correctly shows the sunny suburban garden behind the photographer. Visual anomaly, subtle horror, analog texture.
+一张摄于1975年的颗粒感很强的35毫米胶片照片。一位建筑工人在一栋砖房的一楼安装一块巨大的玻璃窗。透过这块透明的玻璃，我们看到的不是房间内部，而是从摩天大楼俯瞰夜色中霓虹闪烁的东京都市景象。然而，玻璃的倒影却正确地展现了摄影师身后阳光明媚的郊区花园。视觉上的异常，一种微妙的恐怖感，以及胶片特有的质感。
+```
+
+---
+
+### [火星监控录像](https://aiart.pics/prompt/mars-surveillance-footage)
+
+**作者**: [@Amira Zairi](https://x.com/azed_ai)
+
+**来源**: [X](https://x.com/azed_ai/status/1992263564896395420)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/mars-surveillance-footage.jpeg" width="500" alt="火星监控录像">
+
+```
+Grainy surveillance security camera footage from inside a Mars habitat airlock. High-angle top-down view. Elon Musk is sitting on a metal crate, looking up directly at the camera with a tired, manic expression. He is wearing a dirty SpaceX flight suit. The lighting is dim industrial red emergency lighting. Image quality is poor: video compression blocks, horizontal tracking lines, and noise. "REC" blinking icon and timecode in green font on screen.
+一段来自火星栖息地气闸内部的监控录像，画面模糊不清。高角度俯视视角。埃隆·马斯克坐在一个金属箱子上，抬头直视摄像头，表情疲惫而狂躁。他穿着一件脏兮兮的SpaceX飞行服。照明是昏暗的工业红色应急灯。图像质量很差：视频压缩块、水平跟踪线和噪点。屏幕上闪烁着“REC”图标，时间码以绿色字体显示。
+```
+
+---
+
+### [历史时代错误](https://aiart.pics/prompt/historical-anachronism)
+
+**作者**: [@Amira Zairi](https://x.com/azed_ai)
+
+**来源**: [X](https://x.com/azed_ai/status/1992263520441000304)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/historical-anachronism.jpeg" width="500" alt="历史时代错误">
+
+```
+A candid backstage polaroid photo from 1865. Abraham Lincoln is sitting in a canvas director's chair, laughing hysterically while holding a styrofoam coffee cup. A makeup artist is powdering his nose. In the background, the Lincoln Memorial construction is just a painted plywood backdrop. Flash photography, vignetting, harsh shadows, breaking the illusion.
+一张摄于1865年的幕后宝丽来照片。亚伯拉罕·林肯坐在帆布导演椅上，手里拿着一个泡沫咖啡杯，放声大笑。一位化妆师正在给他扑粉。背景中，林肯纪念堂的建造工程只不过是一块涂了颜色的胶合板。闪光灯、暗角、生硬的阴影，打破了照片的逼真效果。
+```
+
+---
+
+### [自由女神像建筑蓝图](https://aiart.pics/prompt/statue-of-liberty-architectural-blueprint)
+
+**作者**: [@Amira Zairi](https://x.com/azed_ai)
+
+**来源**: [X](https://x.com/azed_ai/status/1992263499398205640)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/statue-of-liberty-architectural-blueprint.jpeg" width="500" alt="自由女神像建筑蓝图">
+
+```
+A photorealistic wide-angle landscape shot of the Statue of Liberty with the New York City skyline and harbor in the background. Superimposed on the scene is a white, hand-drawn augmented reality technical overlay. Features include: 1. Sketchy white leader lines pointing to key details like the "Torch," "Crown Rays," and "Copper Shell" with handwritten text labels. 2. Large dimensional vertical measurement arrows indicating the total height from ground to torch. 3. Small floating wireframe icons showing wind load data and material composition. Aesthetic: Structural engineering analysis, F1 broadcast graphics style, bright outdoor daylight, architectural blueprint overlay.
+一张逼真的广角风景照，展现了自由女神像，背景是纽约市的天际线和港口。画面上叠加了一层白色手绘增强现实技术图层。其特点包括：1. 用白色线条勾勒出关键细节，例如“火炬”、“皇冠光芒”和“铜壳”，并附有手写文字标签。2. 大型垂直测量箭头指示从地面到火炬的总高度。3. 小型悬浮线框图标显示风荷载数据和材料成分。美学风格：结构工程分析、F1赛车转播画面风格、明亮的户外日光、建筑蓝图叠加。
 ```
 
 ---
@@ -3129,6 +3470,20 @@ https://t.co/Zma9JiZZDw
 
 ```
 قلت ل Nano Banana Pro غير الابعاد ٩:١٦ ولبسه نظارات شمسة وحط له شنب اسود مفتول وغير الخط الى كوفي مربع والنتيجة 🤯 https://t.co/acUWIiieVm
+```
+
+---
+
+### [小世界也能成就大故事](https://aiart.pics/prompt/small-worlds-make-big-stories)
+
+**作者**: [@aziz4ai](https://x.com/aziz4ai)
+
+**来源**: [X](https://x.com/aziz4ai/status/1992753152903495716)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/small-worlds-make-big-stories.jpg" width="500" alt="小世界也能成就大故事">
+
+```
+创作一幅高度精细的微缩超现实场景，场景中微小的人物与附图所示的[此处插入品牌和产品名称]产品进行逼真的互动。这些人物应表现得仿佛产品就是他们的整个世界，所有视觉元素都应自然而然地适应产品的形态和特性，没有任何预设的前提。确保人物与产品之间的互动能够巧妙而连贯地体现品牌的形象和预期用途，并采用简洁的视觉构图和极简的背景。运用电影级的灯光、清晰的阴影和锐利的摄影技巧，将[品牌名称]的标志无缝融入场景，并添加一句能够自动适应产品语境的简短标语。要求：1:1 – 超精细 – 照片级写实 – 简洁专业的制作。
 ```
 
 ---
@@ -3852,6 +4207,47 @@ Nano Banana Pro Prompt : 🤯🤯
 
 ---
 
+## 青龍聖者
+
+### [Nano Banana Pro 双级级联图像扩散模型](https://aiart.pics/prompt/nano-banana-pro-dual-cascaded-image-diffusion-model)
+
+**作者**: [@青龍聖者](https://x.com/bdsqlsz)
+
+**来源**: [X](https://x.com/bdsqlsz/status/1992965617607909508)
+
+<img src="https://img1.aiart.pics/images/prompts/20251227/nano-banana-pro-dual-cascaded-image-diffusion-model-1.jpg" width="500" alt="Nano Banana Pro 双级级联图像扩散模型">
+
+<img src="https://img1.aiart.pics/images/prompts/20251227/nano-banana-pro-dual-cascaded-image-diffusion-model-2.jpg" width="500" alt="Nano Banana Pro 双级级联图像扩散模型">
+
+<img src="https://img1.aiart.pics/images/prompts/20251227/nano-banana-pro-dual-cascaded-image-diffusion-model-3.jpg" width="500" alt="Nano Banana Pro 双级级联图像扩散模型">
+
+```
+In fact, Nano Banana Pro is a Dual Cascaded image diffusion model:
+Clicking on thinking will show you the sketch generated by the base 1K model, which has low quality and incorrect text
+However, the final result will be upscaled to 2K with  fixing the text issues
+2 is 1K,3 is 2K
+```
+
+---
+
+## Beanie Blossom
+
+### [秋日森林里的针织小猴](https://aiart.pics/prompt/autumn-forest-knitted-scarf-tiny-monkey)
+
+**作者**: [@Beanie Blossom](https://x.com/BeanieBlossom)
+
+**来源**: [X](https://x.com/BeanieBlossom/status/1992941431506542633)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/autumn-forest-knitted-scarf-tiny-monkey-1.jpg" width="500" alt="秋日森林里的针织小猴">
+
+```
+Prompt: A tiny monkey wearing a knitted scarf rolls a giant acorn down a forest path, leaves swirling around in a burst of autumn color. Rendered in soft storybook illustration style with warm hues, gentle textures, and a joyful, mischievous mood.
+Feel free to join in :)
+#AIArtWork #AIArt #AIArtists #AIArtCommunity #PromptShare
+```
+
+---
+
 ## BeanieBlossom
 
 ### [字母景观](https://aiart.pics/prompt/alphabet-landscape)
@@ -4033,6 +4429,132 @@ Prompt：绘制3D人体器官模型展示示例心脏用于学术展示，进行
 
 ---
 
+### [全景式角色深度概念分解图设计指南](https://aiart.pics/prompt/comprehensive-character-depth-concept-deconstruction-guide)
+
+**作者**: [@Berryxia.AI](https://x.com/berryxia_ai)
+
+**来源**: [X](https://x.com/berryxia_ai/status/1992621791588835494)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/comprehensive-character-depth-concept-deconstruction-guide-1.jpg" width="500" alt="全景式角色深度概念分解图设计指南">
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/comprehensive-character-depth-concept-deconstruction-guide-2.jpg" width="500" alt="全景式角色深度概念分解图设计指南">
+
+```
+Role (角色设定)
+你是一位顶尖的游戏与动漫概念美术设计大师 (Concept Artist)，擅长制作详尽的角色设定图（Character Sheet）。你具备“像素级拆解”的能力，能够透视角色的穿着层级、捕捉微表情变化，并将与其相关的物品进行具象化还原。你特别擅长通过女性角色的私密物品、随身物件和生活细节来侧面丰满人物性格与背景故事。
+Task (任务目标)
+根据用户上传或描述的主体形象，生成一张**“全景式角色深度概念分解图”**。该图片必须包含中心人物全身立绘，并在其周围环绕展示该人物的服装分层、不同表情、核心道具、材质特写，以及极具生活气息的私密与随身物品展示。
+Visual Guidelines (视觉规范)
+1. 构图布局 (Layout):
+• 中心位 (Center): 放置角色的全身立绘或主要动态姿势，作为视觉锚点。
+• 环绕位 (Surroundings): 在中心人物四周空白处，有序排列拆解后的元素。
+• 视觉引导 (Connectors): 使用手绘箭头或引导线，将周边的拆解物品与中心人物的对应部位或所属区域（如包包连接手部）连接起来。
+2. 拆解内容 (Deconstruction Details) —— 核心迭代区域:
+• 服装分层 (Clothing Layers) [加强版]:
+• 将角色的服装拆分为单品展示。如果是多层穿搭，需展示脱下外套后的内层状态。
+• 新增：私密内着拆解 (Intimate Apparel): 独立展示角色的内层衣物，重点突出设计感与材质。例如：成套的蕾丝内衣裤（展示蕾丝花纹细节）、丁字裤（展示剪裁）、丝袜（展示透肉感与袜口设计）、塑身衣或安全裤等。
+• 表情集 (Expression Sheet):
+• 在角落绘制 3-4 个不同的头部特写，展示不同的情绪（如：冷漠、害羞、惊讶、失神、或涂口红时的专注神态）。
+• 材质特写 (Texture & Zoom) [加强版]:
+• 选取 1-2 个关键部位进行放大特写。例如：布料的褶皱、皮肤的纹理、手部细节。
+• 新增：物品质感特写: 增加对小物件材质的描绘，例如：口红膏体的润泽感、皮革包包的颗粒纹理、化妆品粉质的细腻感。
+• 关联物品 (Related Items) [深度迭代版]:
+• 此处不再局限于大型道具，需增加展示角色的“生活切片”。
+• 随身包袋与内容物 (Bag & Contents): 绘制角色的日常通勤包或手拿包，并将其“打开”，展示散落在旁的物品。
+• 美妆与护理 (Beauty & Grooming): 展示其常用的化妆品组合（如：特定色号的口红/唇釉特写、带镜子的粉饼盒、香水瓶设计、护手霜）。
+• 私密生活物件 (Lifestyle & Intimate Items): 具象化角色隐藏面的物品。根据角色性格可能包括：私密日记本、常用药物/补剂盒、电子烟、或者更私人的物件（如用户提到的飞机杯/情趣用品，需以一种设计图的客观视角呈现，注明型号或设计特点）。
+3. 风格与注释 (Style & Annotations):
+• 画风: 保持高质量的 2D 插画风格或概念设计草图风格，线条干净利落。
+• 背景: 使用米黄色、羊皮纸或浅灰色纹理背景，营造设计手稿的氛围。
+• 文字说明: 在每个拆解元素旁模拟手写注释，简要说明材质（如“柔软蕾丝”、“磨砂皮革”）或品牌/型号暗示（如“常用色号#520”、“定制款”）。
+Workflow (执行逻辑)
+当用户提供一张图片或描述时：
+1. 分析主体的核心特征、穿着风格及潜在性格。
+2. 提取可拆解的一级元素（外套、鞋子、大表情）。
+3. 脑补并设计二级深度元素（她内衣穿什么风格？她包里会装什么口红？她独处时会用什么物品？）。
+4. 生成一张包含所有这些元素的组合图，确保透视准确，光影统一，注释清晰。
+5. 使用中文：英文标记，高清4K HD 输出
+```
+
+---
+
+### [Pop Mart “怪物家族”×真人时尚编辑生成器](https://aiart.pics/prompt/pop-mart-the-monsters-x-real-human-fashion-editorial-generator)
+
+**作者**: [@Berryxia.AI](https://x.com/berryxia_ai)
+
+**来源**: [X](https://x.com/berryxia_ai/status/1992980014841925773)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/pop-mart-the-monsters-x-real-human-fashion-editorial-generator-1.jpg" width="500" alt="Pop Mart “怪物家族”×真人时尚编辑生成器">
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/pop-mart-the-monsters-x-real-human-fashion-editorial-generator-2.jpg" width="500" alt="Pop Mart “怪物家族”×真人时尚编辑生成器">
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/pop-mart-the-monsters-x-real-human-fashion-editorial-generator-3.jpg" width="500" alt="Pop Mart “怪物家族”×真人时尚编辑生成器">
+
+```
+Pop Mart "The Monsters" x Real Human Fashion Editorial Generator
+**Role:** Senior Art Director & IP Collaboration Specialist.
+**Expertise:** Photorealistic Character Fusion, Commercial Fashion Layout, and "Digital Twin" Identity Preservation.
+**CORE DIRECTIVE:**
+Generate a high-end fashion magazine spread merging a **Real Human User** (with strict identity preservation) and a **Pop Mart IP Character** (The Monsters Family). They must be styled as "Fashion Partners" with active interaction.
+## 1. The "Twin-Subject" Composition
+### A. The Anchor: Real Human (Strict Constraint)
+* **Identity Lock:** You MUST strictly adhere to the facial features, hair color/style, and body proportions of the uploaded user reference image. Do not alter the user's identity.
+* **Outfit Replication:** Precisely replicate the clothing items from the reference (e.g., Khaki jacket, plaid lining, lace tunic, split-pattern tie, newsboy cap).
+* **Expression:** Natural, confident, suitable for a street snap.
+### B. The Companion: Pop Mart IP Character (Dynamic Selection)
+* **Character Logic:** Select a character from "The Monsters" family that best fits the outfit\'s vibe:
+* *Labubu:* For playful, mischievous, or casual styles.
+* *Zimomo:* For cooler, edgier, or more "boss-like" outfits (distinctive tail and ears).
+* *Tycoco:* For quirky, avant-garde, or skeletal/structure-heavy looks.
+* **\"Miniature Couture\" Styling:** The chosen character must wear a **custom-tailored miniature version** of the user's outfit. The clothes should fit their unique body shape (e.g., cap sits around Labubu's ears; tie fits Zimomo's shorter neck).
+* **Material Reality:** Render the character with hyper-realistic textures (e.g., plush fur for Labubu/Zimomo, matte vinyl for others) contrasting with the realistic fabric of the clothes.
+### C. Interaction Dynamics (Crucial)
+* **Active Engagement:** The Human and the Character must interact, not just pose side-by-side.
+* *Examples:* High-fiving, the character sitting on the user's shoulder, the user fixing the character's tie, holding hands walking, or looking at a phone together.
+* **Scale:** The character should be approximately knee-height (walking) or shoulder-sized (carrying), consistent with "life-sized toy" physics.
+## 2. Visual Aesthetics & Layout
+### A. Background & Atmosphere
+* **Setting:** Realistic urban street photography context (blurred for depth).
+* **Lighting:** Coherent lighting source (Sunlight/Streetlight) hitting both the Human and the Character from the same angle to ensure they look like they inhabit the same physical space.
+### B. Artistic Layout (Magazine Style)
+* **Dynamic Boundaries:** Use artistic dividers (Brush strokes, paper tears, fluid geometric shapes) to separate the "Lifestyle Image" (Left, ~60%) from the "Utility Sidebar" (Right, ~40%).
+* **Typography:** Include a catchy, stylish headline overlay (e.g., "MONSTER STYLE", "CITY TWINS", "ZIMOMO x [User Name]").
+## 3. Sidebar Utility & Data
+### A. Mood & Occasion Tags
+* **Function:** Provide context for the outfit.
+* **Format:** Stylish tags or floating text.
+* *Example:* "Situation: Coffee Run", "Mood: Cheeky", "Vibe: Retro Workwear".
+### B. Smart Color Analysis (色卡)
+* **Visual:** A dedicated section showing the **Color Palette** of the outfit.
+* **Format:** A strip of 5 circles/squares extracting the dominant colors (e.g., Khaki, Burgundy, Forest Green, Cream, Brown) with Hex codes or Pantones.
+### C. Item Breakdown (Classic)
+* **List:** The 5 key items (Cap, Jacket, Top, Tie, Boots).
+* **Style:** Isolated "Ghost Mannequin" cutouts.
+* **Text:** Bold "**OOTD STYLE**" header, Chinese item name, and Price (¥).
+## 4. Execution Process
+1.  **Analyze Input:** Identify user face + Outfit details.
+2.  **Select IP:** Choose Labubu, Zimomo, or other based on "Vibe Check".
+3.  **Render Fusion:** Generate the interactive scene with matching lighting.
+4.  **Compose Layout:** Apply the artistic boundary and overlay typography.
+5.  **Final Output:** A seamless integration of Reality and Pop Art.
+```
+
+---
+
+### [担担面高级海报](https://aiart.pics/prompt/dan-dan-noodles-premium-poster)
+
+**作者**: [@Berryxia.AI](https://x.com/berryxia_ai)
+
+**来源**: [X](https://x.com/berryxia_ai/status/1992989895850430908)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/dan-dan-noodles-premium-poster.jpeg" width="500" alt="担担面高级海报">
+
+```
+At the very top center of the composition, floating prominently above the ingredient layers, is a luxurious title label. The text reads "担担面 DAN DAN NOODLES" rendered in expressive, handwritten Chinese brush calligraphy (毛笔字) style. The lettering possesses a heavy, three-dimensional sculpted gold metal texture (金属质感) with a brushed finish, warm golden sheen, and realistic metallic reflections catching the dramatic studio lighting. It looks like forged gold brushstrokes floating in space.\nPremium Chinese noodle restaurant food poster featuring deconstructed layers of Dan Dan Noodles / Spicy Sichuan Noodles floating in vertical stack on pure black background (#000000). Seven distinct layers from top to bottom (below the main gold title) with extra spacing before the final dish:\n * Top layer: pile of bright red dried chili flakes and golden-brown Sichuan peppercorn powder\n * Second layer: light yellow crushed peanuts and vibrant green chopped scallions scattered\n * Third layer: coiled handmade alkaline noodles in pale yellow, showing clear texture and strands\n * Fourth layer: yellow bean sprouts (yacai) and bright green peas scattered - these vegetables would be placed in the bowl first\n * Fifth layer: transparent glass bowl filled with deep red spicy chili oil broth, floating chili pieces visible, glossy surface with reflections - this soup base is poured over the vegetables, so it appears BELOW the vegetables in the vertical stack\n * Sixth layer: EMPTY SPACE - a larger gap with only subtle floating oil droplets, steam wisps, and small ingredient particles drifting down, creating visual separation and breathing room\n * Bottom/Final layer (with significantly larger gap above): a complete finished Dan Dan Noodles dish in a traditional dark brown ceramic bowl, viewed from the same 45-degree angled perspective as all other layers above. The bowl contains all ingredients combined - pale yellow noodles coated in glossy red chili oil, topped with crushed peanuts, bright green chopped scallions, bean sprouts, peas, and red chili flakes sprinkled on top. The noodles look freshly mixed and glistening with oil, subtle steam rising. This finished bowl is at the same scale and viewing angle as the deconstructed ingredients above. The extra spacing above emphasizes this as the final result, creating a dramatic reveal of the transformation from separated components to complete dish.\nEach layer separated with gaps revealing textures and details. Layers 1-5 have normal spacing between them. Layer 6 is an intentional empty transition space with double or triple the normal gap distance. Layer 7 (finished dish) sits at the bottom with clear visual separation. Chinese and English bilingual labels with elegant arrows pointing to each component: "辣椒油&花椒粉 Chili Oil & Sichuan Pepper Powder", "麻辣风味 Numbing & Spicy Flavor", "花生碎&葱花 Crushed Peanuts & Scallions", "手工碱面 Handmade Noodles", "芽菜&豌豆 Yacai & Peas", "丰富配料 Rich Toppings", "红油汤底 Spicy Red Broth", "成品 Finished Dish".\nNO white pedestal, NO platform base. All layers float freely in space against pure black background. Dramatic studio lighting from 45-degree angle, rim lighting highlighting textures and glass bowl transparency. All layers including the finished bowl and the top gold title share identical lighting, perspective angle, and photorealistic quality. Subtle steam effects, oil droplets floating around layers, with more particles in the empty transition space. Star sparkle effect in bottom right corner near the finished dish. Dark moody aesthetic, luxurious commercial food photography style, ultra-realistic, highly detailed, professional restaurant advertising quality, 9:16 vertical format.
+```
+
+---
+
 ### [任天堂明星大乱斗游戏海报全家福](https://aiart.pics/prompt/super-smash-bros-poster-family-portrait)
 
 **作者**: [@Berryxia.AI](https://x.com/berryxia_ai)
@@ -4043,6 +4565,20 @@ Prompt：绘制3D人体器官模型展示示例心脏用于学术展示，进行
 
 ```
 绘制任天堂明星大乱斗游戏海报全家福，风格与游戏保持一致性。aspect 9:16 2k
+```
+
+---
+
+### [SPaceX工程原理图和蓝图线条](https://aiart.pics/prompt/spacex-engineering-schematic-and-blueprint-lines)
+
+**作者**: [@Berryxia.AI](https://x.com/berryxia_ai)
+
+**来源**: [X](https://x.com/berryxia_ai/status/1992422194341957878)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/spacex-engineering-schematic-and-blueprint-lines.jpeg" width="500" alt="SPaceX工程原理图和蓝图线条">
+
+```
+一张 [SPace X] 的高角度广角实景摄影照片作为背景，上面覆盖着详细的白色技术工程原理图和蓝图线条。风格是直接在照片上进行白色手绘粉笔或铅笔素描。关键元素包括：标示 [主体关键尺寸] 的带有测量值的尺寸线、指示 [受力、运动或流向] 的方向箭头、[内部部件] 的具体剖面图，以及 [复杂组件] 的爆炸分解图。用整洁的手写字体标注关键特征的文本标签。美学风格：教育科普图表、工业设计分析、干净、精确、混合媒介。在左下角包含一个手绘框内的蓝图风格 Logo，文字为“[Space X]”。
 ```
 
 ---
@@ -4098,6 +4634,23 @@ Nano Banana Pro @NanoBanana is insane🤯 prompt: Create an infographic showing 
 ```
 Since nano banana has gemini's world knowledge, you can just upload screenshots of the real world and ask it to annotate stuff for you.
 "you are a location-based AR experience generator. highlight [point of interest] in this image and annotate relevant information about it." https://t.co/iLbCzPeyzr
+```
+
+---
+
+## blizaine
+
+### [16 宫格年代造型：从1880年代到当代](https://aiart.pics/prompt/16-grid-decade)
+
+**作者**: [@blizaine](https://x.com/blizaine)
+
+**来源**: [X](https://x.com/blizaine/status/1992586719275954558)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/16-grid-decade.jpeg" width="500" alt="16 宫格年代造型：从1880年代到当代">
+
+```
+Make a 4×4 grid starting with the 1880s. In each section, I should appear styled according to that decade (clothing, hairstyle, facial hair, accessories). Use colors, background, & film style accordingly.
+制作一个 4×4 的网格，从 19 世纪 80 年代开始。在每个区域中，我的形象都应该符合该年代的风格（服装、发型、胡须、配饰）。颜色、背景和电影风格也应与之相符。
 ```
 
 ---
@@ -4493,6 +5046,71 @@ prompt：帮我生成动漫角色中的女角色的一个合集故事，其中�
 
 ---
 
+### [不同年代特朗普风格图片展示](https://aiart.pics/prompt/different-decades-trump-styles-portrait)
+
+**作者**: [@苍何](https://x.com/canghecode)
+
+**来源**: [X](https://x.com/canghecode/status/1992810742312280100)
+
+<img src="https://img1.aiart.pics/images/prompts/20251206/different-decades-trump-styles-portrait-1.jpg" width="500" alt="不同年代特朗普风格图片展示">
+
+```
+分享一个同一个人物在不同年代风格的图片，提示词如下：
+制作一个4×4的网格，从19世纪80年代开始。在每个区域中，我的形象都应该符合该年代的风格（服装、发型、胡须、配饰）。颜色、背景和电影风格也要相应运用。
+我是特朗普 https://t.co/xrQ3gxB59k
+```
+
+---
+
+### [顶尖概念美术设计：全景式角色深度分解图](https://aiart.pics/prompt/top-concept-art-design-panoramic-character-depth-deconstruction)
+
+**作者**: [@苍何](https://x.com/canghecode)
+
+**来源**: [X](https://x.com/canghecode/status/1992791017482047987)
+
+<img src="https://img1.aiart.pics/images/prompts/20251206/top-concept-art-design-panoramic-character-depth-deconstruction-1.jpg" width="500" alt="顶尖概念美术设计：全景式角色深度分解图">
+
+```
+神佬的这个太强了，稍微微改了一点点，娜美来啦：
+Role (角色设定)
+你是一位顶尖的游戏与动漫概念美术设计大师 (Concept Artist)，擅长制作详尽的角色设定图（Character Sheet）。你具备“像素级拆解”的能力，能够透视角色的穿着层级、捕捉微表情变化，并将与其相关的物品进行具象化还原。你特别擅长通过女性角色的私密物品、随身物件和生活细节来侧面丰满人物性格与背景故事。
+Task (任务目标)
+根据用户上传或描述的主体形象，生成一张纵向（9:16比例）的“全景式角色深度概念分解图”。该图片必须包含中心人物全身立绘，并在其周围环绕展示该人物的服装分层、不同表情、核心道具、材质特写，以及极具生活气息的私密与随身物品展示。
+Visual Guidelines (视觉规范)
+* 构图布局 (Layout):
+• 整体画布 (Canvas): 必须采用 9:16 的纵向构图。
+• 中心位 (Center): 放置角色的全身立绘或主要动态姿势，作为视觉锚点。
+• 环绕位 (Surroundings): 在中心人物四周空白处，充分利用纵向空间有序排列拆解后的元素。
+• 视觉引导 (Connectors): 使用手绘箭头或引导线，将周边的拆解物品与中心人物的对应部位或所属区域（如包包连接手部）连接起来。
+* 拆解内容 (Deconstruction Details) —— 核心迭代区域:
+• 服装分层 (Clothing Layers) [加强版]:
+• 将角色的服装拆分为单品展示。如果是多层穿搭，需展示脱下外套后的内层状态。
+• 新增：私密内着拆解 (Intimate Apparel): 独立展示角色的内层衣物，重点突出设计感与材质。例如：成套的蕾丝内衣裤（展示蕾丝花纹细节）、丁字裤（展示剪裁）、丝袜（展示透肉感与袜口设计）、塑身衣或安全裤等。
+• 表情集 (Expression Sheet):
+• 在角落绘制 3-4 个不同的头部特写，展示不同的情绪（如：冷漠、害羞、惊讶、失神、或涂口红时的专注神态）。
+• 材质特写 (Texture & Zoom) [加强版]:
+• 选取 1-2 个关键部位进行放大特写。例如：布料的褶皱、皮肤的纹理、手部细节。
+• 新增：物品质感特写: 增加对小物件材质的描绘，例如：口红膏体的润泽感、皮革包包的颗粒纹理、化妆品粉质的细腻感。
+• 关联物品 (Related Items) [深度迭代版]:
+• 此处不再局限于大型道具，需增加展示角色的“生活切片”。
+• 随身包袋与内容物 (Bag & Contents): 绘制角色的日常通勤包或手拿包，并将其“打开”，展示散落在旁的物品。
+• 美妆与护理 (Beauty & Grooming): 展示其常用的化妆品组合（如：特定色号的口红/唇釉特写、带镜子的粉饼盒、香水瓶设计、护手霜）。
+• 私密生活物件 (Lifestyle & Intimate Items): 具象化角色隐藏面的物品。根据角色性格可能包括：私密日记本、常用药物/补剂盒、电子烟、或者更私人的物件（如用户提到的飞机杯/情趣用品，需以一种设计图的客观视角呈现，注明型号或设计特点）。
+* 风格与注释 (Style & Annotations):
+• 画风: 保持高质量的 2D 插画风格或概念设计草图风格，线条干净利落。
+• 背景: 使用米黄色、羊皮纸或浅灰色纹理背景，营造设计手稿的氛围。
+• 文字说明: 在每个拆解元素旁模拟手写注释，简要说明材质（如“柔软蕾丝”、“磨砂皮革”）或品牌/型号暗示（如“常用色号#520”、“定制款”）。
+Workflow (执行逻辑)
+当用户提供一张图片或描述时：
+* 分析主体的核心特征、穿着风格及潜在性格。
+* 提取可拆解的一级元素（外套、鞋子、大表情）。
+* 脑补并设计二级深度元素（她内衣穿什么风格？她包里会装什么口红？她独处时会用什么物品？）。
+* 生成一张包含所有这些元素的组合图，确保透视准确，光影统一，注释清晰。
+* 使用中文：英文标记，高清4K HD 输出，确保图片严格符合 9:16 纵向比例。
+```
+
+---
+
 ## Captain HaHaa
 
 ### [哈哈哈高达蓝图](https://aiart.pics/prompt/ha-haa-gundam-blueprint)
@@ -4741,6 +5359,54 @@ Go test it — now.
 
 ---
 
+### [等待GTA VI之际，为何不自己设计一张游戏封面？](https://aiart.pics/prompt/create-your-own-gta-vi-game-cover)
+
+**作者**: [@Pierrick Chevallier | IA](https://x.com/CharaspowerAI)
+
+**来源**: [X](https://x.com/CharaspowerAI/status/1992646835727446294)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/create-your-own-gta-vi-game-cover-1.jpg" width="500" alt="等待GTA VI之际，为何不自己设计一张游戏封面？">
+
+```
+While we wait for GTA VI,
+why not create your own game cover… with your face on it? For that I use Banana Pro in @LeonardoAi  😎🎮
+PROMPT
+Create a PlayStation 5 game cover in the style of GTA VI. Use the man from the provided photo as the main character, but with updated LA streetwear (bomber, sunglasses, modern vibe). Neon Los Angeles background with palm trees, downtown skyscrapers, sunset colors, luxury cars, and dynamic GTA-style panel layout. Cinematic lighting, glossy poster finish, bold Rockstar-like typography. Add PS5 banner, game logo, and a high-energy Los Angeles atmosphere.
+👉 Your turn:
+Pick a city,
+use a photo of yourself,
+and design your custom GTA VI cover 🔥
+```
+
+---
+
+### [90年代派对抓拍：怀旧而真实的复古胶片风格](https://aiart.pics/prompt/90s-party-snapshots-nostalgic-and-raw-retro-film-style)
+
+**作者**: [@Pierrick Chevallier | IA](https://x.com/CharaspowerAI)
+
+**来源**: [X](https://x.com/CharaspowerAI/status/1992635023904887249)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/90s-party-snapshots-nostalgic-and-raw-retro-film-style-1.jpg" width="500" alt="90年代派对抓拍：怀旧而真实的复古胶片风格">
+
+```
+If you want casual, amateur-style photo renders (that feel less “AI”),
+the secret 👉 is picking the right tokens 🎯
+And Banana Pro nails it:
+natural light, real textures, little imperfections… just right 📸
+PROMPT
+A chaotic, poorly composed 1990s flash photo taken with a disposable film camera — grainy, with heavy motion blur, lens smudges, uneven exposure, and harsh red-eye flash. The scene captures a wild moment at a dimly lit 90s party.
+Michael Jackson is in the foreground, mid-dance, with sweat on his skin, a white sequined jacket reflecting the flash intensely. Prince is behind him, laughing, wearing a shiny purple suit, holding a drink that’s mid-spill. Their expressions are caught off-guard — startled and euphoric.
+The background is crowded, with indistinct figures moving, blurred disco lights, and dense cigarette smoke catching the flash. Details like glitter, champagne spray, and vinyl records on a table reflect harshly. The photo is slightly tilted, with the look of a candid party snapshot taken by someone intoxicated and stumbling.
+The result feels like a found photo from a lost pop culture archive — raw, nostalgic, and full of chaotic energy.
+Euphoric, surreal, nostalgic, unfiltered
+Hyperrealistic 90s party film photo with on-camera flash, low quality but high detail
+Candid analog snapshot, not posed or staged
+---------------------------------------------------
+NOW YOUR TURN !
+```
+
+---
+
 ### [重返NIJI模式：动感肌肉人物铅笔素描](https://aiart.pics/prompt/back-to-niji-mode-pencil-sketch-of-dynamic-muscle-character)
 
 **作者**: [@Pierrick Chevallier | IA](https://x.com/CharaspowerAI)
@@ -4782,6 +5448,51 @@ A pencil drawing of [Your character], with detailed lines and shading on white p
 🚨PromptShare🚨
 Cartoon Style App Icon
 Colorful, cartoon-style app icon design for a [type of app: game, movie, food, sport, etc.] logo with the text ["App Name"] and [character, symbol, or cute object + short description of its pose or action] on the front of a square button, set against a [background color / theme] with simple details. High-resolution game art and graphics for a mobile app, Pixar style, realistic.
+```
+
+---
+
+### [最后的晚餐](https://aiart.pics/prompt/the-last-supper)
+
+**作者**: [@Pierrick Chevallier | IA](https://x.com/CharaspowerAI)
+
+**来源**: [X](https://x.com/CharaspowerAI/status/1993065781362672074)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/the-last-supper.jpeg" width="500" alt="最后的晚餐">
+
+```
+Recreate the composition of Leonardo da Vinci’s The Last Supper, but with iconic manga and anime characters seated at the long table. Place Goku in the center in the role of Jesus, glowing subtly with Saiyan energy. Surround him with characters from Naruto, One Piece, Bleach, Attack on Titan, My Hero Academia, Dragon Ball, Jujutsu Kaisen, and Demon Slayer, all interacting dramatically like in the original composition. Maintain the Renaissance lighting, painterly textures, and classical depth of the original fresco, but with anime-style character design and vibrant colors
+重新创作达芬奇名作《最后的晚餐》的构图，但将长桌旁坐满了标志性的漫画和动画角色。让悟空扮演耶稣，位于画面中央，散发出赛亚人特有的光芒。周围环绕着来自《火影忍者》、《海贼王》、《死神》、《进击的巨人》、《我的英雄学院》、《龙珠》、《咒术回战》和《鬼灭之刃》等作品的角色，所有角色都像原作中那样进行着戏剧性的互动。保留原作壁画的文艺复兴时期光线、绘画质感和古典景深，但采用动漫风格的人物设计和鲜艳的色彩。
+```
+
+---
+
+### [和路飞的一张超酷自拍](https://aiart.pics/prompt/cool-selfie-with-luffy)
+
+**作者**: [@Pierrick Chevallier | IA](https://x.com/CharaspowerAI)
+
+**来源**: [X](https://x.com/CharaspowerAI/status/1992707230505009620)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/cool-selfie-with-luffy.jpeg" width="500" alt="和路飞的一张超酷自拍">
+
+```
+Place Monkey D. Luffy next to the man, smiling widely with his straw hat tilted. Use a Thousand Sunny deck background with bright blue sky. Keep the selfie composition intact and integrate both characters naturally.
+让路飞站在男子旁边，咧嘴一笑，草帽微微倾斜。背景使用千阳号的甲板，天空湛蓝明亮。保持自拍构图完整，自然地将两个人物融入画面。
+```
+
+---
+
+### [超级赛亚人式变身过程](https://aiart.pics/prompt/super-saiyan-transformation-process)
+
+**作者**: [@Pierrick Chevallier | IA](https://x.com/CharaspowerAI)
+
+**来源**: [X](https://x.com/CharaspowerAI/status/1992699713905140013)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/super-saiyan-transformation-process.jpeg" width="500" alt="超级赛亚人式变身过程">
+
+```
+Create a detailed visual chart showing the full evolution of “Super Saiyan–style transformations”, using an original Saiyan-inspired warrior , depicted in multiple stages from base form to divine transformations
+制作一张详细的图表，展示“超级赛亚人式变身”的完整演变过程，使用一个原创的赛亚人战士形象，并描绘其从基础形态到神级变身的多个阶段。
 ```
 
 ---
@@ -5024,7 +5735,121 @@ Nano Banana Proで、こんな感じもいける。
 
 ---
 
+## yusra.
+
+### [Gemini 2.5 Nano香蕉：复古Y2K风中的她](https://aiart.pics/prompt/gemini-2-5-nano-banana-retro-y2k-vibe)
+
+**作者**: [@yusra.](https://x.com/chatgptpaglu)
+
+**来源**: [X](https://x.com/chatgptpaglu/status/1992885627109470237)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/gemini-2-5-nano-banana-retro-y2k-vibe-1.jpg" width="500" alt="Gemini 2.5 Nano香蕉：复古Y2K风中的她">
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/gemini-2-5-nano-banana-retro-y2k-vibe-2.jpg" width="500" alt="Gemini 2.5 Nano香蕉：复古Y2K风中的她">
+
+```json
+Gemini 2.5 Nano Banana
+Prompt:
+{
+  "image_description": {
+    "upper_third": {
+      "focus": "Her eyes",
+      "details": [
+        "Reflecting blurred city lights below",
+        "Thin layer of frost touching her lashes",
+        "Wind pushing a few strands of hair across her forehead"
+      ],
+      "vibe": "Sharp retro-Y2K"
+    },
+    "middle_third": {
+      "focus": "Her body and immediate surroundings",
+      "details": [
+        "Lying on a rooftop lounge chair dusted with snow",
+        "Wrapped in a white faux-fur jacket over a sequined winter dress",
+        "Soft neon glow bouncing off snowflakes on her sleeves"
+      ]
+    },
+    "lower_third": {
+      "focus": "Close-up of her face and hands",
+      "details": [
+        "Facing the camera with one hand above her eyes",
+        "Shielding a bright pinkish neon light",
+        "Snowflakes clinging to her jewelry",
+        "Tiny drops forming near her lips"
+      ]
+    }
+  }
+}
+```
+
+---
+
+### [Gemini Nano Banana 3.0 Pro时尚摄影](https://aiart.pics/prompt/gemini-nano-banana-3-0-pro-high-fashion-editorial)
+
+**作者**: [@yusra.](https://x.com/chatgptpaglu)
+
+**来源**: [X](https://x.com/chatgptpaglu/status/1992767441303113771)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/gemini-nano-banana-3-0-pro-high-fashion-editorial-1.jpg" width="500" alt="Gemini Nano Banana 3.0 Pro时尚摄影">
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/gemini-nano-banana-3-0-pro-high-fashion-editorial-2.jpg" width="500" alt="Gemini Nano Banana 3.0 Pro时尚摄影">
+
+```json
+Gemini Nano Banana 3.0 Pro
+Prompt:
+{
+  "image_generation_parameters": {
+    "resolution": "1200x1200px",
+    "aspect_ratio": "1:1",
+    "reference_usage": "Preserve facial features from reference image strictly"
+  },
+  "visual_style": {
+    "genre": "High-fashion magazine editorial",
+    "technique": "Direct flash photography",
+    "atmosphere": "Glamorous, bold, nightlife aesthetic, paparazzi style",
+    "lighting": "Hard direct flash creating sharp shadows and high contrast against a dark background"
+  },
+  "subject_breakdown": {
+    "appearance": {
+      "hair": "Long dark wavy hair, voluminous and glossy",
+      "expression": "Confident, alluring, looking back over the shoulder",
+      "gaze": "Direct connection with the camera"
+    },
+    "pose": " perched elegantly on the armchair, twisting torso to look back",
+    "wardrobe": {
+      "garment": "Black lace ruffled two-piece outfit (top and bottom)",
+      "footwear": "Black high stiletto heels with signature red soles",
+      "accessories": "None specified other than props"
+    }
+  },
+  "environment_details": {
+    "setting": "Modern luxury living room interior",
+    "time_of_day": "Night",
+    "furniture": "Plush charcoal grey armchair",
+    "props": "Black designer handbag resting on the chair cushion beside the subject",
+    "background": "Dimly lit upscale interior, out of focus"
+  }
+}
+```
+
+---
+
 ## cheerselflin
+
+### [手绘风格的时尚风格概念分解图](https://aiart.pics/prompt/hand-drawn-fashion-style-concept-breakdown)
+
+**作者**: [@cheerselflin](https://x.com/cheerselflin)
+
+**来源**: [X](https://x.com/cheerselflin/status/1992877077570453712)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/hand-drawn-fashion-style-concept-breakdown.jpeg" width="500" alt="手绘风格的时尚风格概念分解图">
+
+```
+A fashion-style concept breakdown sheet in hand-drawn illustration style. \nCenter: full-body view of a stylish, confident female character with a slightly sexy vibe (not explicit), in a dynamic yet natural pose. \nSurrounding: structured layout of her key components:\n• Clothing layering – show outerwear, innerwear, tights (lace, sheer textures), shapewear with detailed pattern zoom-ins.  \n• Expression sheet – 3-4 facial expressions (neutral, shy, surprised, focused).\n• Close-up zooms – textures of fabric folds, skin details, hand gestures.\n• Lifestyle & accessories – open handbag with daily items: lipstick, perfume, mirror compact, hand cream, diary, supplements.\n• Material annotations – handwritten-style notes beside each item (e.g., “soft lace,” “matte leather,” “shade #520”).\n\nBackground: soft beige or parchment paper texture to evoke a design sketchbook.\nLighting: clean, soft shadows to unify the scene.\nOutput: high-quality 2D illustration in 4K, balanced between sensuality and fashion editorial.\nLanguage: labels in Chinese + English.
+手绘风格的时尚风格概念分解图。\n中心：一位时尚自信的女性角色的全身像，略带性感（但不露骨），姿态充满活力又自然。\n周围环境：她的关键组成部分的结构化布局：\n• 服装叠穿——展示外套、内衣、紧身裤（蕾丝、透明质地）、塑身衣，并放大细节图案。\n• 表情表 – 3-4 种面部表情（中性、害羞、惊讶、专注）。\n• 特写镜头——展现织物褶皱的纹理、皮肤细节、手势。\n• 生活方式和配饰 – 打开手提包，里面装着日常用品：口红、香水、粉饼、护手霜、日记本、保健品。\n• 材料注释 – 每件物品旁边的手写风格注释（例如，“柔软的蕾丝”、“哑光皮革”、“色号 #520”）。\n\n背景：柔和的米色或羊皮纸纹理，以唤起人们对设计草图本的联想。\n光线：干净、柔和的阴影使画面统一。\n输出：4K 高清 2D 插图，兼具性感与时尚感。\n语言：中文+英文标签。
+```
+
+---
 
 ### [一位坐地铁的女性](https://aiart.pics/prompt/a-woman-taking-the-subway)
 
@@ -5088,6 +5913,26 @@ The image features a subject with long, dark hair, dressed in a short-sleeved, c
 
 ## ChillaiKalan__
 
+### [纳米香蕉专业版](https://aiart.pics/prompt/nano-banana-pro-ttf3va)
+
+**作者**: [@ChillaiKalan__](https://x.com/ChillaiKalan__)
+
+**来源**: [X](https://x.com/ChillaiKalan__/status/1992790080503902651)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-1.jpg" width="500" alt="纳米香蕉专业版">
+
+```json
+Nano banana pro
+Prompt:
+{
+"Use the attached image of the person as reference. Hyper-realistic black and white studio portrait of the young man in side profile, natural hair gently falling around his face. Strong rim light accentuating his jawline and nose, dark minimalist background. Expression thoughtful and serene, cinematic lighting creating dramatic contrast and fine photographic detail.",
+"size": "1024x1024",
+"n": 1
+}
+```
+
+---
+
 ### [使用Gemini Nano Banana Pro制作电影场景](https://aiart.pics/prompt/using-gemini-nano-banana-pro-for-movie-scene)
 
 **作者**: [@ChillaiKalan__](https://x.com/ChillaiKalan__)
@@ -5144,6 +5989,22 @@ Prompt:
 "reflections": "subtle on wet pavement"
 }
 }
+```
+
+---
+
+### [文艺复兴风格慢动作足球踢球瞬间](https://aiart.pics/prompt/renaissance-painting-style-slow-motion-soccer-kick-moment)
+
+**作者**: [@ChillaiKalan__](https://x.com/ChillaiKalan__)
+
+**来源**: [X](https://x.com/ChillaiKalan__/status/1992875420396757499)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/renaissance-painting-style-slow-motion-soccer-kick-moment-1.jpg" width="500" alt="文艺复兴风格慢动作足球踢球瞬间">
+
+```
+Made this in Nano Banana on Gemini
+Prompt:
+A slow-motion cinematic video in Renaissance painting style showing a soccer player mid-kick. Dramatic spotlighting cuts through a dark moody background. Motion trails in vibrant teal (02B2CA) and electric violet (AC03FC) streak behind the leg. A sharp white soccer ball spins on grass, with color-graded lighting and a sleek, realistic sports photography look.
 ```
 
 ---
@@ -5357,6 +6218,32 @@ nano banana pro's interpretation of a 3D printed corinthian netrunner helmet whe
 
 ```
 No way. Gemini 3 Pro Nano Banana is actually insane. It can restore old, heavily damaged photos and turn them into clean, natural-looking images. Check out the prompt and the samples below.. they’re unreal. https://t.co/mLwLruwHlz
+```
+
+---
+
+## Creative.Edge CL+
+
+### [使用Photoshop创建新的角色设计图](https://aiart.pics/prompt/create-a-new-character-design-sheet-in-photoshop)
+
+**作者**: [@Creative.Edge CL+](https://x.com/commonstyle)
+
+**来源**: [X](https://x.com/commonstyle/status/1992194502438899878)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/create-a-new-character-design-sheet-in-photoshop-cover-1.jpg" width="500" alt="使用Photoshop创建新的角色设计图">
+
+```
+新しいPhotoshopでキャラクターデザインシートを作成する
+- 7680 x 4320 pxの新規作成
+- 写真を配置
+- モデルをNano Banana Proに
+- キャラクターシート用のプロンプトを実行
+プロンプト：
+この写真の人物の詳細なキャラクターデザインシートを作成してください。実写映画で使いますのでアニメの絵にならないように注意してください。必ず以下の3つのキャラクター設定で構成してください。作成できたら元の人物の画像は消してください。
+- キャラクターを複数の角度から描いたターンアラウンド（三面図）
+- 喜び、悲しみ、怒り、驚き、恐怖、中立など、基本的な感情状態がそれぞれ描かれた表情シート
+- キャラクターの走る、跳ぶ、笑う、泣くなどの典型的な行動を示したポーズシート
+#Photoshop #NanoBananaPro
 ```
 
 ---
@@ -5588,6 +6475,21 @@ Prompt: Erstelle eine Infografik für meinen YouTube Kanal everlastai https://t.
 ---
 
 ## Derya Unutmaz, MD
+
+### [Jackson实验室与Nano Banana Pro：完美搭配！](https://aiart.pics/prompt/jackson-laboratory-nano-banana-pro-perfect-match)
+
+**作者**: [@Derya Unutmaz, MD](https://x.com/DeryaTR_)
+
+**来源**: [X](https://x.com/DeryaTR_/status/1992210130050363839)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/jackson-laboratory-nano-banana-pro-perfect-match-1.jpg" width="500" alt="Jackson实验室与Nano Banana Pro：完美搭配！">
+
+```
+I created this about the The @jacksonlab with the new Nano Banana Pro. It’s perfect, couldn’t summarize it better! What’s more amazing is that this was the prompt:
+“Infographic about the Jackson Laboratory” https://t.co/twpZve2YCd
+```
+
+---
 
 ### [单图变多格漫画：《Nano Banana Pro》创作之旅](https://aiart.pics/prompt/nano-banana-pro-creating-multi-panel-comic-from-single-image)
 
@@ -6437,6 +7339,64 @@ Can you create a PS2 video game case of "Grand Theft Auto: Far Far Away" a GTA b
 
 ---
 
+### [清明上河图芝加哥版](https://aiart.pics/prompt/chicago-version-of-along-the-river-during-the-qingming-festival)
+
+**作者**: [@宝玉](https://x.com/dotey)
+
+**来源**: [X](https://x.com/dotey/thread/1992469131438719122)
+
+<img src="https://img1.aiart.pics/images/prompts/20251213/chicago-version-of-along-the-river-during-the-qingming-festival-1.jpg" width="500" alt="清明上河图芝加哥版">
+
+```
+🍌 nano banana pro prompt
+A sweeping, highly detailed traditional Chinese ink and color handscroll painting on aged silk, perfectly emulating the artistic style, brushwork, and scattered point perspective of Zhang Zeduan\'s "Along the River During the Qingming Festival."
+Central Scene: A bird's-eye view of the bustling modern Chicago riverfront. The focus is the massive steel bascule bridge (DuSable Bridge/Michigan Avenue Bridge), jammed with heavy contemporary traffic including countless cars, yellow taxis, and CTA buses, all rendered with precise traditional brushstrokes.
+Environmental Details: The Chicago River below is filled with modern architectural tour boats, water taxis, and kayakers. The riverbanks are lined with dense, vintage-style Chicago skyscrapers (resembling the Wrigley Building and Tribune Tower), drawn using traditional "jiehua" architectural painting techniques. An elevated railway structure with a moving \'L\' train is visible in the background.
+Human Activity: The Riverwalk and bridge sidewalks are packed with hundreds of tiny contemporary figures in modern casual clothing. They are shown jogging, taking photos with smartphones, queuing at street food vendors (hot dog stands), and walking dogs. The entire scene is incredibly detailed, chaotic, and rendered in a muted, antique earth-tone palette.
+清明上河图芝加哥版
+中文版提示词：
+一幅宏大的中国传统水墨工笔长卷画，完全模仿北宋张择端《清明上河图》的绘画风格、散点透视构图和古朴泛黄的绢本设色质感。
+核心场景： 繁忙的现代芝加哥河滨鸟瞰图。画面焦点是一座巨大的钢铁双层开合桥（杜萨布尔桥/密歇根大道桥），桥面交通极其拥堵，绘满了密密麻麻的现代汽车、黄色的出租车和芝加哥公交车，所有车辆都用毛笔线条精细勾勒。
+环境细节： 芝加哥河中满载现代游客的双层游船、水上出租车和皮划艇。河流两岸矗立着密集的古典复兴风格摩天大楼（类似箭牌大厦和论坛报大厦），建筑采用传统的“界画”技法绘制。背景中可见高架铁路结构和正在行驶的“L”线列车。
+人物活动： 河滨步道和桥上挤满了成百上千的微小现代人物，他们穿着当代休闲服装，有的在慢跑，有的举着智能手机拍照，有的在路边热狗摊排队购买食物，有的在遛狗。整个画面细节极其丰富，喧闹繁忙，完全使用古老的水墨和大地色调渲染。
+cool
+https://t.co/xmNcRKB8tc
+```
+
+---
+
+### [唐仙女与黑科技](https://aiart.pics/prompt/tang-fairy-and-high-tech)
+
+**作者**: [@宝玉](https://x.com/dotey)
+
+**来源**: [X](https://x.com/dotey/status/1992452377522176175)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/tang-fairy-and-high-tech-1.jpg" width="500" alt="唐仙女与黑科技">
+
+```
+中文版 Prompt：
+一幅绘制在陈旧宣纸上的传统中国工笔水墨画。一位身着红色、米色和青色飘带的唐代仙女，头梳高髻佩戴牡丹花，站立在一个圆形的黑色扫地机器人上，在云雾中飞行。
+她右手拿着一个香草冰淇淋蛋筒在吃。左手提着一个棕色的路易威登（Louis Vuitton）老花手提包。在她下方，一只小猫头鹰背着一只打着荷叶伞的青蛙在飞翔。背景是水墨云雾和远山。
+左上角有书法题字，并有一个红色的长方形艺术家印章，印文为“寶玉”。
+```
+
+---
+
+### [《罗马假日》海报恶搞版：骡马假日](https://aiart.pics/prompt/roman-holiday-poster-parody-donkey-horse-heads)
+
+**作者**: [@宝玉](https://x.com/dotey)
+
+**来源**: [X](https://x.com/dotey/status/1992377407366676955)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/roman-holiday-poster-parody-donkey-horse-heads-1.jpg" width="500" alt="《罗马假日》海报恶搞版：骡马假日">
+
+```
+🍌nano banana pro Prompt：
+把《罗马假日》电影海报的文字改成“骡马假日”，英文还是“ROMAN HOLIDAY”，男女主头部分别替换为骡子和马的头部，海报其余细节保持不变，下方写上“上映时间1/1-1/3” https://t.co/eOVMKjfUMa
+```
+
+---
+
 ### [乡村公路旁的现实主义电影摄影：特朗普肖像与春花](https://aiart.pics/prompt/realistic-film-photograph-donald-trump-portrait-with-spring-blossoms-along-country-road)
 
 **作者**: [@宝玉](https://x.com/dotey)
@@ -6568,6 +7528,109 @@ Nano banana 提示词（原推JSON版转Markdown中文版，效果一样）
 
 ---
 
+### [提取图像至JSON格式提示](https://aiart.pics/prompt/extract-image-into--formatted-prompt)
+
+**作者**: [@宝玉](https://x.com/dotey)
+
+**来源**: [X](https://x.com/dotey/status/1993220667324399845)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/extract-image-into--formatted-prompt-1.jpg" width="500" alt="提取图像至JSON格式提示">
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/extract-image-into--formatted-prompt-2.jpg" width="500" alt="提取图像至JSON格式提示">
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/extract-image-into--formatted-prompt-3.jpg" width="500" alt="提取图像至JSON格式提示">
+
+```
+Provide a detailed and comprehensive JSON prompt describing all aspects necessary for accurately replicating the original image.
+Include specifics about objects, clothing, hairstyles, intricate details, accessories, photographic equipment, environment, lighting, style, body poses, and any other relevant elements, ensuring that every detail of the original image can be precisely recreated.
+```
+
+---
+
+### [纳米香蕉专业版：卡通风格信息图](https://aiart.pics/prompt/nano-banana-pro-cartoon-style-infographic)
+
+**作者**: [@宝玉](https://x.com/dotey)
+
+**来源**: [X](https://x.com/dotey/status/1993567848564686926)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/nano-banana-pro-cartoon-style-infographic-1.jpg" width="500" alt="纳米香蕉专业版：卡通风格信息图">
+
+```
+🍌 nano banana pro prompt
+convert your article/content to a cartoon-style infographic
+--- Prompt ---
+Please create a cartoon-style infographic based on the provided content, following these guidelines:
+- Hand-drawn illustration style, landscape orientation (16:9 aspect ratio).
+- Include a small number of simple cartoon elements, icons, or famous personalities to enhance visual interest and memorability.
+- If the content includes sensitive or copyrighted figures, replace them with visually similar alternatives; do not refuse to generate the illustration.
+- All imagery and text must strictly adhere to a hand-drawn style; avoid realistic visual elements.
+- Keep information concise, highlighting keywords and core concepts. Utilize ample whitespace to clearly emphasize key points.
+- Unless otherwise specified, use the same language as the provided content.
+Please use nano banana pro to create the illustration based on the input provided.
+```
+
+---
+
+### [LINE风格半身Q版表情包](https://aiart.pics/prompt/line-style-half-body-chibi-emoji)
+
+**作者**: [@宝玉](https://x.com/dotey)
+
+**来源**: [X](https://x.com/dotey/status/1993042754008686712)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/line-style-half-body-chibi-emoji.jpeg" width="500" alt="LINE风格半身Q版表情包">
+
+```
+Create a set of colorful, hand-drawn LINE-style half-body Q-version emoji portraits based on the characters shown, ensuring accurate depiction of their head accessories.\n\nArrange the images in a 4x6 layout, featuring common chat phrases or relevant humorous memes.\nUse handwritten-style fonts for text.\nOutput must be original—avoid direct copying of the reference image.\nFinal image should be in 4K resolution, 16:9 aspect ratio.
+根据所示角色，创作一套色彩鲜艳、手绘风格的 LINE 风格半身 Q 版表情符号肖像，确保准确地描绘出他们的头部饰品。\n\n将图片排列成 4x6 的布局，内容以常见的聊天短语或相关的幽默表情包为特色。\n文本请使用手写体字体。\n输出内容必须为原创——避免直接复制参考图像。\n最终图像应为 4K 分辨率，16:9 宽高比。
+```
+
+---
+
+### [根据所提供的内容制作信息图](https://aiart.pics/prompt/create-infographic-from-provided-content)
+
+**作者**: [@宝玉](https://x.com/dotey)
+
+**来源**: [X](https://x.com/dotey/status/1993192263334183370)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/create-infographic-from-provided-content.jpeg" width="500" alt="根据所提供的内容制作信息图">
+
+```
+Please create an infographic based on the input content, highlighting key themes and essential points:\n\n- Simplify information, emphasizing keywords and core concepts, leaving ample whitespace for clarity.\n\n- Include minimalistic cartoon elements, icons, or simple portraits of famous figures to enhance engagement and visual recall.\n\n- All text and images should strictly use colored chalk style without realistic illustrations.\n\n- Unless specifically requested, maintain the original language of the input content.\n\n- Use a horizontal layout (16:9) with a black chalkboard background and colorful chalk drawing style.\n\nUse "Nano Banana Pro" for drawing based on the provided content.
+请根据所提供的内容制作信息图，突出关键主题和要点：\n\n- 简化信息，强调关键词和核心概念，留出足够的空白以求清晰明了。\n\n- 加入极简的卡通元素、图标或名人肖像，以增强参与度和视觉记忆。\n\n所有文字和图片均应严格采用彩色粉笔风格，不得使用写实插图。\n\n- 除非另有要求，否则请保持输入内容的原始语言。\n\n- 使用横向布局（16:9），黑色黑板背景，彩色粉笔画风格。\n请根据输入的内容使用 Nano Banana Pro 画图：
+```
+
+---
+
+### [传统的中国工笔水墨画-仙女](https://aiart.pics/prompt/traditional-chinese-gongbi-ink-painting-fairy)
+
+**作者**: [@宝玉](https://x.com/dotey)
+
+**来源**: [X](https://x.com/dotey/status/1992450418291466517)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/traditional-chinese-gongbi-ink-painting-fairy.jpeg" width="500" alt="传统的中国工笔水墨画-仙女">
+
+```
+A traditional Chinese Gongbi ink and color painting on aged, textured rice paper. A fairy in elaborate Tang dynasty robes of red, beige, and teal ribbons, with a peony flower in her high hair bun, is standing on a circular black robotic vacuum cleaner (Roomba) that flies through misty clouds. \n\nShe is eating a vanilla ice cream cone held in her right hand. In her left hand, she holds a brown Louis Vuitton monogram handbag. Below her, a small owl flies with a green frog holding a lotus leaf umbrella on its back. The background is a wash of ink clouds and distant mountains. \n\nIn the top left corner, there is calligraphy and a red rectangular artist seal that reads "寶玉".
+这是一幅传统的中国工笔水墨画，画在古旧的纹理宣纸上。画中一位身着华丽唐代红、米、蓝三色缎带长袍的仙女，高高的发髻上别着一朵牡丹花，站在一个黑色圆形扫地机器人（Roomba）上，扫地机器人正穿梭于薄雾之中。\n\n她右手拿着一个香草冰淇淋甜筒，左手拎着一个棕色的路易威登Monogram帆布手提包。在她下方，一只小猫头鹰背上驮着一只绿色的青蛙，青蛙撑着一把荷叶伞。背景是墨色的云朵和远处的群山。\n\n左上角有书法题字，并印有红色长方形艺术家印章，上面写着“宝玉”。
+```
+
+---
+
+### [传统的工笔风格水墨画](https://aiart.pics/prompt/traditional-gongbi-style-ink-painting)
+
+**作者**: [@宝玉](https://x.com/dotey)
+
+**来源**: [X](https://x.com/dotey/status/1992695763017830722)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/traditional-gongbi-style-ink-painting.jpeg" width="500" alt="传统的工笔风格水墨画">
+
+```
+A traditional Chinese Gongbi-style ink painting. The scene humorously depicts a giant turtle swimming calmly through a turbulent river, carrying a playful and anachronistic tableau on its shell:\nAt the turtle’s forefront, Tang Sanzang and the Queen of the Women\'s Kingdom amusingly reenact the iconic scene from the movie Titanic. The Queen stands serenely with arms outstretched like Rose, while Tang Sanzang tenderly embraces her waist from behind like Jack, immersed in romantic sentiment. \nBehind them, Sha Wujing (Sha Monk) leisurely sits cross-legged, casually holding a fishing rod with a cigarette dangling from his lips, completely relaxed as he fishes. Beside him, Zhu Bajie humorously stands on the turtle’s shell, comically relieving himself into the river, with an exaggeratedly proud expression. Further back, Sun Wukong rides energetically on a surfboard amidst the rolling waves, carrying a modern rocket launcher aimed confidently at a mysterious UFO hovering above.\nTraditional Chinese calligraphy adorns one side of the painting, accompanied by a classic red artist’s seal inscribed "寶玉印". The artwork cleverly blends classical aesthetics with contemporary humor, creating a playful and satirical fusion across eras.
+这是一幅传统的工笔风格水墨画。画面幽默地描绘了一只巨龟在湍急的河流中平静游动，龟壳上驮着一幅滑稽而又略显不合时宜的画作：\n在龟形雕塑的最前排，唐三藏和女国女王正在滑稽地重现电影《泰坦尼克号》中的经典场景。女王像露丝一样，双臂伸展，姿态宁静；唐三藏则像杰克一样，从背后温柔地搂住她的腰，沉浸在浪漫的情愫中。\n在他们身后，沙悟净悠闲地盘腿而坐，嘴里叼着烟，手里拿着鱼竿，悠然自得地垂钓着。他旁边，猪八戒滑稽地站在龟壳上，对着河里撒尿，一副得意洋洋的模样。更远处，孙悟空在翻滚的波浪中活力四射地驾着冲浪板，手里拿着一枚现代火箭筒，自信地瞄准着上方盘旋的神秘UFO。\n画作一侧饰以传统中国书法，并钤有经典的红色艺术家印章“宝玉印”。这幅作品巧妙地融合了古典美学与现代幽默，创造出一种跨越时代的诙谐讽刺之美。
+```
+
+---
+
 ### [三英飙车战吕布](https://aiart.pics/prompt/three-heroes-racing-against-lu-bu-1)
 
 **作者**: [@宝玉](https://x.com/dotey)
@@ -6648,6 +7711,35 @@ Nano banana 提示词（原推JSON版转Markdown中文版，效果一样）
 
 ```
 创作一张手绘风格的信息图卡片，比例为9:16竖版。卡片主题鲜明，背景为带有纸质肌理的米色或米白色，整体设计体现质朴、亲切的手绘美感。\n\n卡片上方以红黑相间、对比鲜明的大号毛笔草书字体突出标题，吸引视觉焦点。文字内容均采用中文草书，整体布局分为2至4个清晰的小节，每节以简短、精炼的中文短语表达核心要点。字体保持草书流畅的韵律感，既清晰可读又富有艺术气息。\n\n卡片中点缀简单、有趣的手绘插画或图标，例如人物或象征符号，以增强视觉吸引力，引发读者思考与共鸣。整体布局注意视觉平衡，预留足够的空白空间，确保画面简洁明了，易于阅读和理解。\n\n主题是：“做IP是长期复利，坚持每日出摊，持续做，肯定会有结果，因为99%都坚持不住的。”
+```
+
+---
+
+### [香港武侠3格漫画](https://aiart.pics/prompt/hong-kong-wuxia-3-panel-comic)
+
+**作者**: [@宝玉](https://x.com/dotey)
+
+**来源**: [X](https://x.com/dotey/status/1992433730972197305)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/hong-kong-wuxia-3-panel-comic.jpeg" width="500" alt="香港武侠3格漫画">
+
+```
+画一张3格漫画，香港武侠漫画风格，故事情节如下：\n和尚:"师太,你从了和尚吧!" 　　\n道长:"秃驴,竟敢跟贫道抢师太!" 　　\n师太:"和尚、道长你们一起上吧,我赶时间。"
+```
+
+---
+
+### [中国传统水墨彩画](https://aiart.pics/prompt/traditional-chinese-ink-and-color-painting)
+
+**作者**: [@宝玉](https://x.com/dotey)
+
+**来源**: [X](https://x.com/dotey/status/1992366309288595681)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/traditional-chinese-ink-and-color-painting.jpeg" width="500" alt="中国传统水墨彩画">
+
+```
+A traditional Chinese ink and color painting in Gongbi style on aged rice paper texture. A noblewoman in elaborate Tang Dynasty Hanfu robes sits on a wooden stool, holding a modern hairdryer to dry her long flowing hair. She is wearing black stockings, red high heels on one foot, resting on a small stool. \n\nThree Minions dressed in ancient Chinese servant robes and hats attend to her: one on the left looks stressed holding the hairdryer's power cord, one center kneels polishing her red shoe with a cloth, and one on the right holds up a smartphone taking a photo for her. The background features classical gnarled pine trees, bamboo groves, and Taihu rocks. \n\nTraditional Chinese calligraphy written in the top right corner, accompanied by a red artist chop seal (寶玉). The color palette is muted mineral pigments. Humorous, anachronistic fusion. --ar 16:9
+这是一幅工笔风格的中国传统水墨彩画，绘制在古旧的宣纸上。画中一位身着华丽唐代汉服的贵妇坐在木凳上，手持现代吹风机吹干她飘逸的长发。她穿着黑色丝袜，一只脚踩着红色高跟鞋，倚靠在小凳上。\n\n三个身着古代中国仆人服、头戴礼帽的小黄人侍奉着她：左边一个看起来很紧张，手里拿着吹风机的电源线；中间一个跪在地上，用布擦拭她的红皮鞋；右边一个举着智能手机，帮她拍照。背景是古老的苍劲松树、竹林和太湖岩石。\n\n右上角是传统的中国书法，旁边盖有红色的艺术家印章（宝玉）。色彩运用了柔和的矿物颜料。幽默而又时代错置的融合。——ar 16:9
 ```
 
 ---
@@ -6738,6 +7830,26 @@ nano banana pro 🍌
 ---
 
 ## ATROPINE
+
+### [瑞士阿尔卑斯山村冬日黄昏下的超写实年轻男子肖像](https://aiart.pics/prompt/hyper-realistic-dslr-cinematic-portrait-young-man-swiss-alpine-village-winter-evening)
+
+**作者**: [@ATROPINE](https://x.com/Drshadow56)
+
+**来源**: [X](https://x.com/Drshadow56/status/1992968450172424470)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/hyper-realistic-dslr-cinematic-portrait-young-man-swiss-alpine-village-winter-evening-1.jpg" width="500" alt="瑞士阿尔卑斯山村冬日黄昏下的超写实年轻男子肖像">
+
+```
+Gemini Nano Banana Pro.
+Prompt: Hyper-realistic, ultra-detailed DSLR cinematic portrait of a young man (same facial identity as reference) standing outdoors in a Swiss alpine village during a winter evening. Soft snow falling. Visible frosty breath in the cold air. Hands in pockets, relaxed natural stance.
+He wears a thick wool winter coat, a textured knit sweater, and a loosely wrapped scarf. Subtle accessory: silver ring.
+Background: snow-covered rooftops, blurred alpine mountains, glowing chalet windows, warm village street lamps. Soft golden bokeh reflecting on fresh snow.
+Lighting: cinematic winter lighting blend cool blue shadows + warm golden highlights. Rosy winter skin tones. Sharp facial detail. Shallow depth of field. Atmospheric haze.
+Camera: 8K, full-frame DSLR, 85mm lens, f/1.8, ISO 100, 1/200s
+Style: editorial travel portrait, hyper-realism, high dynamic range, crisp focus, natural skin texture
+```
+
+---
 
 ### [光影人生又一章](https://aiart.pics/prompt/another-chapter-in-a-life-written-in-shadows)
 
@@ -6833,6 +7945,32 @@ Soft morning sunlight, sheer white curtains, high-key lighting, overexposed back
 ---
 
 ## ecommartinez
+
+### [纳米香蕉人像摄影：光影交织的深邃轮廓](https://aiart.pics/prompt/nano-banana-portrait-photography-profound-silhouette-interwoven-with-light-and-shadow)
+
+**作者**: [@ecommartinez](https://x.com/ecommartinez)
+
+**来源**: [X](https://x.com/ecommartinez/status/1992563816568369426)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-portrait-photography-profound-silhouette-interwoven-with-light-and-shadow-1.jpg" width="500" alt="纳米香蕉人像摄影：光影交织的深邃轮廓">
+
+```
+Usa Nano Banana con una foto tuya para obtener esto...
+Prompt Nano Banana Pro ↓
+A powerful, high-contrast black-and-white side-profile portrait of a person (attached photo), with distinctly human yet timeless features — emerging from complete darkness. The composition is minimalist and sculptural, where form, light, and shadow define the subject rather than color or texture.
+The subject’s profile is clean and strong, contemplative expression, as if caught between thought and transcendence.They wear a dark, form-fitting turtleneck sweater thatmerges seamlessly into the black void, erasing all detail except for the glowing edge of their silhouette.
+A single, narrow rim light bright, sharp, and directional carves out the shape of the head, neck, and shoulder, tracing the contours with precision. The light originates from directly behind and slightly above the subject, creating a thin, luminous halo along the jawline and the curve of the skull, while the rest dissolves into pure black.
+...
+The background is absolute darkness,a void without texture or depth, emphasizing the luminous boundary between shadow and light. There are no midtones, only the purest black and the a deliberate contrast that brightest whites heightens drama and abstraction.
+Mood & Aesthetic: Minimalist, conceptual, and deeply introspective. The image evokes solitude, contemplation, and timeless elegance. It feels cinematic yet intimate through light. an exploration of identity
+Technical details:
+Shot with a telephoto lens for compressedperspective.
+Aperture wide open (f/1.8-2.8) to the glowing contour with shallow depth of field.
+Optical realism: rendered with ultra-realistic 8K cinematic quality, incorporating true lens physics, depth of field, and subtle film grain, front face good lightning.(use my picture for reference)
+Inspirado por @ShreyaYadav___
+```
+
+---
 
 ### [一幅超写实全身肖像与路飞互动](https://aiart.pics/prompt/hyper-realistic-full-body-portrait-interacting-with-luffy)
 
@@ -7035,6 +8173,66 @@ When your escape key is an actual escape https://t.co/LzORVw4FGb
 Dropped in the pose refs + the character and it turned it into this 🔥
 Can’t get enough of experimenting with Nano Banana Pro!!
 Prompt: Show this man in the same fitness poses as in the first image, in a realistic style https://t.co/VsOm9eie5p
+```
+
+---
+
+### [为照片添加简洁的线条插画：人与环境的自然互动](https://aiart.pics/prompt/add-clean-line-drawing-illustrations-of-people-interacting-with-the-environment)
+
+**作者**: [@Ege](https://x.com/egeberkina)
+
+**来源**: [X](https://x.com/egeberkina/status/1992521922689569018)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/add-clean-line-drawing-illustrations-of-people-interacting-with-the-environment-1.jpg" width="500" alt="为照片添加简洁的线条插画：人与环境的自然互动">
+
+```
+gm ☕️
+Prompt: Add clean, minimal white line-drawing illustrations of people into this photo. Match the perspective, lighting, and scale of the scene. The illustrated figures should interact naturally and meaningfully with the environment, reflecting the mood, purpose, and activity of the space. Keep the drawings simple, fluid, and expressive, with no facial details. Maintain a modern, warm, and slightly whimsical tone that complements the overall aesthetic. Do not obscure any original elements. The illustrated figures should feel like friendly, imaginative additions that blend seamlessly with the context of the scene.
+```
+
+---
+
+### [掌上游戏机的精美3D渲染图](https://aiart.pics/prompt/exquisite-3d-render-of-handheld-console)
+
+**作者**: [@Ege](https://x.com/egeberkina)
+
+**来源**: [X](https://x.com/egeberkina/status/1993592049430650957)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/exquisite-3d-render-of-handheld-console.jpeg" width="500" alt="掌上游戏机的精美3D渲染图">
+
+```
+A highly polished 3D render of a classic handheld game console split cleanly into two halves, standing upright on a glossy reflective surface. Between the two halves, a miniature floating platform world inspired by retro side-scrolling platform games emerges: brick blocks, green pipes, gold coins, small clouds, and a tiny flagpole. The level pieces are arranged in multiple layers suspended in mid-air. The console screens show a retro game title. Soft studio lighting, pastel blue background, smooth shadows, subtle reflections, playful and whimsical tone. Ultra-clean materials, rounded plastic edges, crisp details, vibrant colors, minimalistic composition, centered layout.
+一台经典掌上游戏机的精美3D渲染图，被清晰地一分为二，直立于光滑的反射表面上。在两半之间，浮现出一个受复古横版卷轴游戏启发的小型漂浮平台世界：砖块、绿色管道、金币、小云朵和一根小小的旗杆。关卡组件以多层形式悬浮在半空中。游戏机屏幕上显示着一个复古游戏标题。柔和的摄影棚灯光，淡蓝色的背景，平滑的阴影，微妙的反射，营造出一种轻松诙谐的氛围。材质极其干净，塑料边缘圆润，细节清晰，色彩鲜艳，构图极简，布局居中。
+```
+
+---
+
+### [极简主义鸡尾酒摄影](https://aiart.pics/prompt/minimalist-cocktail-photography)
+
+**作者**: [@Ege](https://x.com/egeberkina)
+
+**来源**: [X](https://x.com/egeberkina/status/1992950387616485874)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/minimalist-cocktail-photography.jpeg" width="500" alt="极简主义鸡尾酒摄影">
+
+```json
+{\n  "style": "Ultra-minimalist cocktail photography with a soft beige backdrop, an elegant coupe glass centered in the frame, diffused natural lighting, and a subtle shadow to the right. A floating frosted acrylic card is placed on the right with matching opacity, rounded corners, balanced spacing, and clean thin-line typography.",\n\n  "cocktail": {\n    "name": "Ruby Melon Light",\n    "ingredients": [\n      "Vodka",\n      "Fresh Watermelon Juice",\n      "Lime Juice",\n      "Agave Syrup",\n      "Watermelon Slice"\n    ],\n\n    "levels": {\n      "Sweet": "●●●○○",\n      "Sour": "●●○○○",\n      "Salty": "○○○○○",\n      "Creamy": "●○○○○"\n    },\n\n    "tag": "LIGHT & FRESH",\n    "price": "$12 USD"\n  },\n\n  "card_design": {\n    "layout": "Title placed at the top-left, ingredients listed vertically, a thin divider line separating sections, a level block using dot ratings, a minimal plant-like graphic on the right, and the tag with price at the bottom.",\n    "transparency": "Frosted-glass panel with ~70% opacity and soft diffused edges.",\n    "corner_radius": "Small rounded corners for a sleek modern look.",\n    "font": "Thin, clean sans-serif typography."\n  },\n\n  "render": {\n    "camera": "85mm prime lens with soft diffused lighting",\n    "background": "smooth matte beige surface",\n    "composition": "cocktail centered with a floating frosted card slightly in front and to the right",\n    "quality": "8K ultra-realistic clarity"\n  }\n}
+{\n风格：极简主义鸡尾酒摄影，柔和的米色背景，优雅的香槟杯置于画面中央，柔和的自然光线，右侧略带阴影。右侧放置一张与背景透明度相匹配的磨砂亚克力卡片，圆角设计，间距均衡，字体简洁纤细。\n\n"鸡尾酒": {\n"name": "Ruby Melon Light",\n“原料”： [\n“伏特加酒”，\n“鲜榨西瓜汁”\n“青柠汁”，\n“龙舌兰糖浆”，\n“西瓜片”\n],\n\n"级别": {\n“甜”: “ ●●●○○ “,\n“酸”： “ ●●○○○ “，\n“咸的”: “ ○○○○○ “，\n“奶油味”： ●○○○○\n},\n\n标签：清淡爽口\n价格：12 美元\n},\n\n"card_design": {\n“布局”：“标题位于左上角，配料垂直排列，各部分之间用细线分隔，采用点状评级的水平模块，右侧是简约的植物图案，底部是价格标签。”\n“透明度”：“磨砂玻璃面板，不透明度约为70%，边缘柔和扩散。”\n"corner_radius": "小圆角，打造时尚现代的外观。"\n字体：纤细、简洁的无衬线字体。\n},\n\n“使成为”： {\n“相机”：“85mm 定焦镜头，柔和漫射光”，\n“背景”: “光滑的哑光米色表面”\n“构图”：“鸡尾酒位于中心，一张漂浮的磨砂卡片略微偏前偏右”，\n“画质”: “8K 超逼真清晰度”\n}\n}
+```
+
+---
+
+### [微缩的温馨客厅](https://aiart.pics/prompt/miniature-cozy-living-room)
+
+**作者**: [@Ege](https://x.com/egeberkina)
+
+**来源**: [X](https://x.com/egeberkina/status/1992654337815007678)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/miniature-cozy-living-room.jpeg" width="500" alt="微缩的温馨客厅">
+
+```
+A photorealistic ESC keycap scene shows a miniature cozy living room setup. Inside: a glowing red Netflix screen, a plush red couch, popcorn bowl, and throw blanket. A small figure lounges with feet up, watching content. The red “N” logo glows from behind like mood lighting. Outside: cool tech-blue reflections on F1, Shift, and Q keys. The word “ESC” is subtly present in a glassy fog on top of the cap.
+一张逼真的 ESC 键帽场景图展现了一个微缩的温馨客厅。室内：一台闪着红光的 Netflix 屏幕、一张柔软的红色沙发、一碗爆米花和一条毯子。一个小人儿懒洋洋地翘着二郎腿，正在观看视频。红色的“N”字标志从后面透出光芒，如同氛围灯一般。室外：F1、Shift 和 Q 键上反射着酷炫的科技蓝光。“ESC”字样则以朦胧的玻璃质感隐约出现在键帽顶部。
 ```
 
 ---
@@ -7835,6 +9033,23 @@ Make an infographic of this person’s life based on this article: [Wikipedia Pa
 
 ## FANTAN GLITCHBOX
 
+### [版画进化：からくり忍者 朧](https://aiart.pics/prompt/版画进化-からくり忍者-朧)
+
+**作者**: [@FANTAN GLITCHBOX](https://x.com/fantanglitchbox)
+
+**来源**: [X](https://x.com/fantanglitchbox/status/1992190942577840519)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/---1.jpg" width="500" alt="版画进化：からくり忍者 朧">
+
+```
+nano banana pro
+版画も進化してますね。
+プロンプト
+キャラクターが見栄を切ってカッコいいポーズを取っている、タイトル「からくり忍者　朧」の版画の画像、江戸時代の作風 https://t.co/cDhjyJMIKg
+```
+
+---
+
 ### [复古游戏卡带！](https://aiart.pics/prompt/classic-nes-cassette)
 
 **作者**: [@FANTAN GLITCHBOX](https://x.com/fantanglitchbox)
@@ -7968,6 +9183,22 @@ First image Nano Banana Pro. Second Image Nano Banana. Day and Night
 ```
 Ya me funciona Nano Banana Pro y mejoró *muchisimo* el trabajo con letras.
 Con la instrucción super simple "escribi Argentina sobre la 9 de julio de Buenos Aires, que se vea el obelisco y jacarandas en primavera" hizo la primera imagen. Luego le dije "hacelo con fileteado" (🖼️2) https://t.co/a4tLQuuZoi
+```
+
+---
+
+## FinanceYF5
+
+### [根据坐标生成图片](https://aiart.pics/prompt/generate-image-from-coordinates)
+
+**作者**: [@FinanceYF5](https://x.com/FinanceYF5)
+
+**来源**: [X](https://x.com/FinanceYF5/status/1992830924548104344)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/generate-image-from-coordinates.jpeg" width="500" alt="根据坐标生成图片">
+
+```
+生成坐标 36.4602° N, 25.3730° E 的日落图像
 ```
 
 ---
@@ -8299,6 +9530,24 @@ New business card 😁 https://t.co/5wXBW8BGff
 
 ---
 
+## Fran Actúa
+
+### [尝试Nano Banana Pro的其他可能性](https://aiart.pics/prompt/exploring-other-possibilities-with-nano-banana-pro)
+
+**作者**: [@Fran Actúa](https://x.com/Fran_actua)
+
+**来源**: [X](https://x.com/Fran_actua/status/1992935615399108798)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/exploring-other-possibilities-with-nano-banana-pro-cover-1.jpg" width="500" alt="尝试Nano Banana Pro的其他可能性">
+
+```
+Probando también otras posibilidades con Nano Banana Pro
+En este caso, se me ocurrió probar el potencial de esta herramienta generando una versión de dibujos animados de esta imagen, con un resultado extraordinario👇
+Prompt➡️ “Genera una versión de esta imagen en dibujos animados. Mantén la consistencia y coherencia de la imagen”
+```
+
+---
+
 ## Freddy Vega
 
 ### [Gemini 3 Pro Nano Banana 促销 - 完美文本的AI图像生成器](https://aiart.pics/prompt/sale-gemini-3-pro-nano-banana-ai-image-generator-for-perfect-text)
@@ -8312,6 +9561,27 @@ New business card 😁 https://t.co/5wXBW8BGff
 ```
 Sale Gemini 3 Pro Nano Banana. Primer AI de imágenes que hace el texto perfecto!
 1M de tokens de input context!! https://t.co/Mxwmpan8NE
+```
+
+---
+
+## Webデザイナーのふじわら｜Elementorでホームページ制作
+
+### [纳米香蕉PRO的实际应用场景分析](https://aiart.pics/prompt/analyzing-the-practical-application-scenarios-of-nano-banana-pro)
+
+**作者**: [@Webデザイナーのふじわら｜Elementorでホームページ制作](https://x.com/fujiwara_web)
+
+**来源**: [X](https://x.com/fujiwara_web/status/1992205534918008910)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/analyzing-the-practical-application-scenarios-of-nano-banana-pro-1.jpg" width="500" alt="纳米香蕉PRO的实际应用场景分析">
+
+```
+Nano Banana PRO
+【実際のWebサイト制作現場でどう使えるか考えてみる】
+自作ワイヤーフレームを読み込ませたら、ワイヤーフレーム通りではあるがある程度デザインして生成された。
+ちなみにプロンプトは以下です（やっつけな指示）
+「参照画像にある文章をもとにデザイン制作してください。レイアウトは無視してください。プロデザイナーのように。綺麗で整った美しく流れるデザインを作ってください。」
+画像なので細かい編集はできないことを考えると、デザイン制作前の参考程度にはなるのかもしれない…と感じました
 ```
 
 ---
@@ -8720,6 +9990,71 @@ Prompt 👇 https://t.co/WFwtkZFwBb
 
 ---
 
+### [Nano Banana Pro 提示](https://aiart.pics/prompt/nano-banana-pro-prompt-60vjw8)
+
+**作者**: [@gizakdag](https://x.com/gizakdag)
+
+**来源**: [X](https://x.com/gizakdag/status/1993305100425871664)
+
+<img src="https://img1.aiart.pics/images/prompts/20251216/nano-banana-pro-prompt-1.jpg" width="500" alt="Nano Banana Pro 提示">
+
+<img src="https://img1.aiart.pics/images/prompts/20251216/nano-banana-pro-prompt-2.jpg" width="500" alt="Nano Banana Pro 提示">
+
+<img src="https://img1.aiart.pics/images/prompts/20251216/nano-banana-pro-prompt-3.jpg" width="500" alt="Nano Banana Pro 提示">
+
+<img src="https://img1.aiart.pics/images/prompts/20251216/nano-banana-pro-prompt-4.jpg" width="500" alt="Nano Banana Pro 提示">
+
+```
+Ready ready ready?
+Nano Banana Pro prompt👇 https://t.co/TgJJkvNqjZ
+```
+
+---
+
+### [动漫转真人](https://aiart.pics/prompt/anime-to-real-person)
+
+**作者**: [@gizakdag](https://x.com/gizakdag)
+
+**来源**: [X](https://x.com/gizakdag/status/1993010965752037832)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/anime-to-real-person.png" width="500" alt="动漫转真人">
+
+```
+Create a realistic photo of this character.
+```
+
+---
+
+### [图片的8种初始草图](https://aiart.pics/prompt/8-initial-sketches-of-image)
+
+**作者**: [@gizakdag](https://x.com/gizakdag)
+
+**来源**: [X](https://x.com/gizakdag/status/1992620272177004855)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/8-initial-sketches-of-image.jpeg" width="500" alt="图片的8种初始草图">
+
+```
+Create 8 different initial sketches leading to this final character.
+创建 8 个不同的初始草图，最终形成这个角色。
+```
+
+---
+
+### [你生气的时候其实也可以很可爱](https://aiart.pics/prompt/you-can-be-cute-when-angry)
+
+**作者**: [@gizakdag](https://x.com/gizakdag)
+
+**来源**: [X](https://x.com/gizakdag/status/1992241809691709598)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/you-can-be-cute-when-angry.jpeg" width="500" alt="你生气的时候其实也可以很可爱">
+
+```
+Transform the subject into a glossy designer-toy character inspired by the reference image. Smooth and rounded proportions, chubby silhouette, exaggerated cartoon expression, large open mouth, tiny dot eyes, and bold sculpted details. High-gloss vinyl surface with sharp reflections, saturated primary colors (especially bright blue and pink), stylized spikes and simple shapes. Toy figurine aesthetic, studio lighting, clean background, dramatic shadows, ultra-polished plastic texture
+根据参考图片，将对象转化为一个光鲜亮丽的设计师玩具角色。角色比例圆润流畅，轮廓丰满，表情夸张卡通，大嘴巴张开，眼睛小巧精致，细节刻画鲜明。表面采用高光泽乙烯基材质，反光强烈，色彩饱和度高（尤其是亮蓝色和粉色），造型别致，线条简洁。整体风格偏向玩具人偶，采用摄影棚灯光，背景干净，阴影效果强烈，塑料质感极佳。
+```
+
+---
+
 ## 余温
 
 ### [谷歌发布Nano Banana 2图像模型，秒速生成2K图，文字渲染正常🍌](https://aiart.pics/prompt/google-releases-nano-banana-2-image-model-generating-2k-images-in-1-second-with-normal-text-rendering)
@@ -8748,6 +10083,22 @@ https://t.co/OgzHoX1z3a
 ---
 
 ## Glenn Williams
+
+### [为2D NES平台游戏创建精灵图集](https://aiart.pics/prompt/create-a-sprite-sheet-for-a-2d-nes-platforming-game)
+
+**作者**: [@Glenn Williams](https://x.com/GlennHasABeard)
+
+**来源**: [X](https://x.com/GlennHasABeard/status/1992192409086636300)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/create-a-sprite-sheet-for-a-2d-nes-platforming-game-1.jpg" width="500" alt="为2D NES平台游戏创建精灵图集">
+
+```
+@icreatelife You can take it one step further and ask Nano Banana Pro to create a sprite sheet based of your game cover.
+Prompt:
+create a sprite sheet for a 2D NES platforming game, include enemies and NPCs https://t.co/nrFBpe1HFk
+```
+
+---
 
 ### [用Nano Banana Pro制作宠物搞笑解剖图](https://aiart.pics/prompt/create-funny-anatomical-drawings-of-your-pets-with-nano-banana-pro)
 
@@ -9000,6 +10351,25 @@ Create a psychedelic, grotesque cartoon-style text design that says “GNARLY”
 
 ## gokaygokay
 
+### [纳米香蕉2：卓越的图表映射工具](https://aiart.pics/prompt/nano-banana-2-excellent-diagram-mapping-tool)
+
+**作者**: [@gokaygokay](https://x.com/gokayfem)
+
+**来源**: [X](https://x.com/gokayfem/status/1992907633540415493)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/nano-banana-2-excellent-diagram-mapping-tool-1.png" width="500" alt="纳米香蕉2：卓越的图表映射工具">
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/nano-banana-2-excellent-diagram-mapping-tool-2.jpg" width="500" alt="纳米香蕉2：卓越的图表映射工具">
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/nano-banana-2-excellent-diagram-mapping-tool-3.jpg" width="500" alt="纳米香蕉2：卓越的图表映射工具">
+
+```
+Nano Banana 2 is super good at mapping diagrams.
+Prompt: Please place the product image onto the diagram template. Remove all existing text from the diagram. Add subtle, harmonized borders that complement the overall design concept—keep the border thickness minimal/thin.
+```
+
+---
+
 ### [游轮内部结构插画](https://aiart.pics/prompt/cruise-ship-cutaway-illustration)
 
 **作者**: [@gokaygokay](https://x.com/gokayfem)
@@ -9112,6 +10482,20 @@ Gemini の Nano Banana 🍌で
 
 ---
 
+### [彩色手绘风格表情包](https://aiart.pics/prompt/colorful-hand-drawn-style-emoji)
+
+**作者**: [@Gorden_Sun](https://x.com/Gorden_Sun)
+
+**来源**: [X](https://x.com/Gorden_Sun/status/1992778144605212912)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/colorful-hand-drawn-style-emoji.jpeg" width="500" alt="彩色手绘风格表情包">
+
+```
+为我生成图中角色的绘制 Q 版的，LINE 风格的半身像表情包，注意头饰要正确\n彩色手绘风格，使用 4x6 布局，涵盖各种各样的常用聊天语句，或是一些有关的娱乐 meme\n其他需求：不要原图复制。所有标注为手写简体中文。\n生成的图片需为 4K 分辨率 16:9
+```
+
+---
+
 ## ぐふとくく
 
 ### [私もnano-banana Pro性能测试漫画分享](https://aiart.pics/prompt/my-nano-banana-pro-performance-test-in-comics)
@@ -9185,6 +10569,25 @@ Nano Banana Pro は、しぶきの立ち方、飛沫の軌跡、水面の波紋�
 こういう“物理シミュレーション寄り”の表現を、Higgsfield上でここまで安く使えるのはかなり贅沢な環境。
 ーーー
 今なら、Higgsfieldで65% OFF ＆ これから3日以内に @higgsfield_ai に参加した人は Nano Banana Pro を1年間無制限で利用できます。
+```
+
+---
+
+### [葛飾北斎風インフォグラフィック](https://aiart.pics/prompt/ukiyoe-style-infographic-by-katsushika-hokusai)
+
+**作者**: [@Maki@Sunwood AI Labs.](https://x.com/hAru_mAki_ch)
+
+**来源**: [X](https://x.com/hAru_mAki_ch/status/1992463929684246763)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/ukiyoe-style-infographic-by-katsushika-hokusai-1.jpg" width="500" alt="葛飾北斎風インフォグラフィック">
+
+```
+【NotebookLM】インフォグラフィック✖葛飾北斎プロンプトがエグイ
+葛飾北斎が描いた浮世絵スタイルで資料作らせたら侍と波が爆誕
+墨＋朱＋藍のカラーマップめちゃ良い
+学会でもポスターでも絶対目立つ！！！！！！
+ーーー📒プロンプトーーー
+浮世絵師・葛飾北斎が描いたような和風インフォグラフィックにして。波や雲の装飾を入れ、文字は江戸文字（勘亭流）で。カラーパレットは墨・藍・朱・淡黄のみ。現代のデータを侍や町娘が解説している構図で。
 ```
 
 ---
@@ -10581,6 +11984,75 @@ Ultra-realistic full-body portrait of the attached image.\nThe person is interac
 
 ## iX | AI Video Creator & Vibe Coder
 
+### [OOTD（今日のコーデ）ファッション図解](https://aiart.pics/prompt/fashion-illustration-of-todays-outfit)
+
+**作者**: [@iX | AI Video Creator & Vibe Coder](https://x.com/iX00AI)
+
+**来源**: [X](https://x.com/iX00AI/thread/1993320392677900347)
+
+<img src="https://img1.aiart.pics/images/prompts/20251227/fashion-illustration-of-todays-outfit-1.jpg" width="500" alt="OOTD（今日のコーデ）ファッション図解">
+
+<img src="https://img1.aiart.pics/images/prompts/20251227/fashion-illustration-of-todays-outfit-2.jpg" width="500" alt="OOTD（今日のコーデ）ファッション図解">
+
+<img src="https://img1.aiart.pics/images/prompts/20251227/fashion-illustration-of-todays-outfit-3.jpg" width="500" alt="OOTD（今日のコーデ）ファッション図解">
+
+```
+🍌Nano Banana Proプロンプト #12
+『OOTD（今日のコーデ）ファッション図解』
+人物画像1枚から、
+着ている服・アクセ・靴・バッグを実写のまま分解して図解化👗✨
+さらに、推定価格まで自動で算出してくれる優秀さ！
+（そして…着てそうな下着も表示されます😳）
+Higgsfieldでアップロードした画像の顔・髪型・服装は100%維持したまま、
+リアルテイストで「ファッション分解図」を一発生成できます。
+🧪プロンプト（長いです）⬇️
+役割とタスク :
+プロフェッショナルなOOTD（今日のコーディネート）ファッションコラージュを、雑誌編集スタイルで作成して下さい。
+デザインは左側と右側で以下の内容を反映させて下さい。
+左側：
+・アップロードされた画像の顔、髪型、服装を100%保持。
+・可愛らしく面白くて変なポーズ、リアルな空気感。
+・クリーンで明るく、雑誌品質の写真。
+・幅は全体の60%。
+右側：
+・クリーンな白背景に整理された商品グリッド
+・[数量]個の個別商品モジュールを縦に配置
+・最後の商品は、画像から推定された下着（ブラジャー、Tバックなど）を配置。
+・各モジュールに含まれるもの：
+商品写真（白背景で切り抜き、Eコマーススタイル）
+商品名
+価格
+・幅は全体の40%。
+掲載商品例：
+1.[商品1] - ¥[価格]
+2.[商品2] - ¥[価格]
+3.[商品3] - ¥[価格]
+4.[商品4] - ¥[価格]
+5.[商品5] - ¥[価格]
+6.[商品6] - ¥[価格]
+タイポグラフィ：
+・モダンなサンセリフ体（クリーンでミニマル）
+・商品名は中太
+・価格は太字
+全体スタイル：
+・明るく、爽やかで、プロフェッショナル
+・Instagramのファッションブロガー風
+・クリーンで余白のあるレイアウト
+・カラーパレット：ナチュラルトーン、白、柔らかいグレー
+・プロフェッショナルな商品写真品質
+——————-
+以下PR.
+on November 21st Higgsfield granted FREE access to Google’s Nano Banana Pro Image model.
+@higgsfield_ai
+別生成バージョン。プロンプトは同じです。 https://t.co/kmWfJNhW2M
+https://t.co/bhfoJgxK0u
+今回の『OOTDファッション図解』は、この人物画像1枚をアップロードして、Nano Banana Proで一発生成してます⛵️🍌 https://t.co/tGvLpc59gH
+『〇〇区女子のフォト図解』
+https://t.co/COJIy0k5qH
+```
+
+---
+
 ### [Nano Banana Pro #4 着せ替え実験：神还原！](https://aiart.pics/prompt/nano-banana-pro-4-dress-swap-experiment-divine-realism)
 
 **作者**: [@iX | AI Video Creator & Vibe Coder](https://x.com/iX00AI)
@@ -10607,6 +12079,36 @@ Background optional, neutral or Tokyo street setting.
 右: 参照画像（人物＋着せたい服）
 📌on November 21st Higgsfield granted FREE access to Google’s Nano Banana Pro Image model.
 さらに、Nano Banana Proは @higgsfield_ai に参加すると1年間無制限で使えます！ （※期間限定の特典です）
+```
+
+---
+
+### [Nano Banana Proプロンプト #9：一発生成の水平三分割雪景](https://aiart.pics/prompt/nano-banana-pro-prompt-9-one-click-horizontal-three-panel-snowscape-composition)
+
+**作者**: [@iX | AI Video Creator & Vibe Coder](https://x.com/iX00AI)
+
+**来源**: [X](https://x.com/iX00AI/status/1993094401330233634)
+
+<img src="https://img1.aiart.pics/images/prompts/20251207/nano-banana-pro-prompt-9-one-click-horizontal-three-panel-snowscape-composition-1.jpg" width="500" alt="Nano Banana Proプロンプト #9：一発生成の水平三分割雪景">
+
+```
+🍌Nano Banana Proプロンプト #9
+水平三分割の構図を“一発生成”してみた❄️
+今回は「雪」をテーマに、人物画像1枚からキャラ固定のまま白銀の世界を3シーン同時生成。
+これ、加工じゃなくてHiggsfieldのNano Banana Proが一回で出してくれる☃️
+アップロードした参照画像はリプ欄に置いてます。
+🧪NB Proプロンプト:
+Using the uploaded reference image, generate a horizontal three-panel composition.
+Keep the face, hairstyle, and clothing of the person identical to the uploaded reference image across all three panels.
+Theme: Snow.
+Panel 1 (left): A close-up of her face with snowflakes falling gently.
+Panel 2 (center): She stands in a snowy field, slight wind blowing her hair.
+Panel 3 (right): She looks upward toward the snowfall, soft light illuminating her profile.
+Realistic photography style, consistent identity, natural lighting, winter atmosphere.
+以下PR.
+Nano Banana Proは @higgsfield_ai に参加すると1年間無制限で使用可能！
+※期間限定の特典。
+on November 21st Higgsfield granted FREE access to Google’s Nano Banana Pro Image model.
 ```
 
 ---
@@ -10665,6 +12167,50 @@ on November 21st Higgsfield granted FREE access to Google’s Nano Banana Pro Im
 
 ## Emily
 
+### [Nano Banana Pro的惊人之处仍被误解](https://aiart.pics/prompt/nano-banana-pros-impressive-aspects-still-misunderstood)
+
+**作者**: [@Emily](https://x.com/IamEmily2050)
+
+**来源**: [X](https://x.com/IamEmily2050/status/1992563147119747303)
+
+<img src="https://img1.aiart.pics/images/prompts/20251203/nano-banana-pros-impressive-aspects-still-misunderstood-1.jpg" width="500" alt="Nano Banana Pro的惊人之处仍被误解">
+
+```
+People still don't understand how impressive Nano Banana Pro is yet. I used a copy from one of the latest chapters of Black Clover which isn't in the training data and replaced the female character Noelle with an image I generated earlier, while keeping everything else the same. https://t.co/l7Q8ErwrQ0
+```
+
+---
+
+### [纳米香蕉Pro系统提示：寻找极限，实现多宝石协同工作以完成复杂工作流程](https://aiart.pics/prompt/nano-banana-pro-system-prompt-searching-for-limits-achieving-complex-workflow-with-multiple-gems-collaboration)
+
+**作者**: [@Emily](https://x.com/IamEmily2050)
+
+**来源**: [X](https://x.com/IamEmily2050/status/1993250026567635146)
+
+<img src="https://img1.aiart.pics/images/prompts/20251203/nano-banana-pro-system-prompt-searching-for-limits-achieving-complex-workflow-with-multiple-gems-collaboration-1.jpg" width="500" alt="纳米香蕉Pro系统提示：寻找极限，实现多宝石协同工作以完成复杂工作流程">
+
+```
+Another system prompt for Nano banana Pro, I can't find the limit yet, we just need to have multiple Gems working together so we can do a complex workflow.
+*Task: Generate a high-fidelity, cinematic-quality environment render based on a narrative brief.**
+**Objective:**
+Act as a professional set designer and director of photography. Given a short narrative description, generate a single, hyper-realistic image that perfectly captures the scene's mood, atmosphere, and visual detail.
+**Input Parameters:**
+1.  **Scene Description:** (e.g., "A lone detective sits in a dimly lit, rain-streaked diner booth at 3 AM, the neon sign outside casting a harsh red glow on his face.")
+2.  **Visual Style/Era:** (e.g., "Neo-Noir," "Cyberpunk," "1950s Technicolor," "Gothic Horror")
+3.  **Camera/Lens:** (e.g., "Wide-angle shot," "Close-up, 85mm lens," "Low-angle, dramatic perspective")
+**Core Deliverables:**
+1.  **Photorealistic Render:** A single, high-resolution image that is indistinguishable from a photograph.
+2.  **Atmospheric Lighting:** The lighting must be the primary driver of the mood, utilizing complex techniques (e.g., volumetric fog, rim lighting, high-contrast chiaroscuro).
+3.  **Compositional Storytelling:** The composition must guide the viewer's eye and convey the narrative tension or emotion of the scene description.
+4.  **Detail & Texture:** Extreme attention to surface detail (e.g., wet asphalt, worn leather, reflections in glass).
+**Workflow:**
+1.  **Analyze:** Deconstruct the narrative brief into its core emotional, environmental, and lighting components.
+2.  **Design:** Select the optimal camera angle and lighting setup to maximize the cinematic impact.
+3.  **Render:** Generate the final image, ensuring the specified Visual Style/Era is authentically represented.
+```
+
+---
+
 ### [Nano Banana Pro 与 Nano Banana V1 的对比](https://aiart.pics/prompt/comparison-of-nano-banana-pro-vs-nano-banana-v1)
 
 **作者**: [@Emily](https://x.com/IamEmily2050)
@@ -10690,6 +12236,21 @@ For those who want to know how much better the Nano Banana Pro is than the Nano 
 ```
 A massive spiral vortex tears through storm clouds above a futuristic illuminated city, revealing blue sky beyond a visual metaphor for artificial general intelligence breaking through the turbulence of current limitations to reach clarity beyond human comprehension.
 在一座灯火璀璨的未来都市上空，巨大的螺旋状涡旋冲破暴风云层，显露出后方的蓝天 —— 这一视觉隐喻象征着通用人工智能突破当前局限的重重阻碍，抵达人类难以理解的清晰境界。
+```
+
+---
+
+### [衣橱拆解与风格分析](https://aiart.pics/prompt/wardrobe-breakdown-and-style-analysis)
+
+**作者**: [@Emily](https://x.com/IamEmily2050)
+
+**来源**: [X](https://x.com/IamEmily2050/status/1993194975169781882)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/wardrobe-breakdown-and-style-analysis.jpeg" width="500" alt="衣橱拆解与风格分析">
+
+```
+**Task: Create a comprehensive "Wardrobe Deconstruction and Style Profile" collage based on an uploaded image.**\n\n**Objective:**\nAct as a professional fashion archivist and technical designer. Given an uploaded image of a person, generate a visually compelling, high-resolution "Style Profile" collage that meticulously deconstructs their entire ensemble, from the outermost layer to the foundational structure. The final output must be a single, cohesive, photorealistic image.\n\n**Core Elements:**\n\n1.  **Central Subject Image:**\n    *   Place the subject from the uploaded image in a full-body pose as the central focus.\n    *   Maintain the subject\'s likeness (face, hair, clothing) while enhancing the image to a professional, high-fashion photographic standard.\n\n2.  **Complete Ensemble Deconstruction (Photorealistic Product Shots):**\n    *   Generate a visual breakdown of the subject\'s attire, presenting each item as a separate, high-quality product photograph. This breakdown must include:\n        *   **Outer and Mid-Layers:** All visible garments and accessories.\n        *   **Foundational Elements:** A technical illustration of the essential structural garments that provide shape and support to the silhouette (e.g., a bra, slip, or specific underlayer). These elements must be rendered as **objective, flat-lay design schematics** with a focus on material and construction, not on the human form.\n    *   Include detailed close-ups of key materials (e.g., fabric weave, leather texture, metal finish) to emphasize quality and design.\n\n3.  **Lifestyle & Contextual Items:**\n    *   Based on the subject\'s style, infer and generate a collection of 4-6 photorealistic items that suggest their likely environment, interests, or daily routine.\n\n4.  **Expression & Detail Sheet:**\n    *   Generate a series of 3-4 close-up portraits showing a range of natural, context-appropriate expressions.\n\n**Aesthetic and Layout Guidelines:**\n\n*   **Overall Style:** Strictly **Hyper-realistic, photographic style**. Absolutely no illustration, anime, or hand-drawn elements.\n*   **Layout:** Arrange all elements in a **clean, balanced, and modular collage** on a neutral background (white or light gray). The layout must be visually logical and professional, resembling a high-end fashion technical document.\n*   **Annotations:** Use a clean, minimalist font for all text.\n    *   **Title:** Generate a professional, gender-neutral title (e.g., "Technical Deconstruction: The Urban Minimalist").\n    *   **Labels:** Add brief, descriptive labels for all deconstructed items, including the "Foundational Elements," using technical terms (e.g., "Structural Support Garment," "Base Layer").\n\n**Crucial Instruction:** The rendering of all "Foundational Elements" must be purely technical and objective, presented as a **design schematic or flat-lay product shot** to emphasize construction and material, completely detached from the central subject\'s body.
+**任务：根据上传的图片，制作一份全面的“衣橱拆解与风格分析”拼贴画。 **\n\n**目标:**\n扮演专业时尚档案管理员和技术设计师的角色。根据上传的人物照片，生成一幅视觉冲击力强、高分辨率的“风格档案”拼贴画，细致入微地解构其整体造型，从最外层到最内层结构。最终成果必须是一张完整、连贯、逼真的图像。\n\n**核心要素:**\n\n1.  **中心主题图像:**\n* 将上传图片中的人物以全身姿势作为中心焦点。\n* 在保持拍摄对象（面部、头发、服装）特征的同时，将图像提升至专业、高级时尚摄影标准。\n\n2.  **完整整体解构（照片级产品照片） :**\n* 生成一份人物服装的视觉分解图，将每件单品单独拍摄成高质量的产品照片。这份分解图必须包含：\n* **外层和中间层:**所有可见的服装和配饰。\n* **基础元素:**为塑造身形和支撑身体轮廓的基本结构性服装（例如，胸罩、衬裙或特定内衬）提供技术图示。这些元素必须以**客观的平铺设计示意图**的形式呈现，重点在于材料和结构，而非人体形态。\n* 添加关键材料（例如织物编织、皮革纹理、金属表面处理）的详细特写镜头，以强调质量和设计。\n\n3.  **生活方式和环境因素:**\n* 根据人物的风格，推断并生成 4-6 件逼真的物品，以暗示其可能的环境、兴趣或日常生活。\n\n4.  **表达式和详细信息表:**\n* 拍摄 3-4 张特写肖像，展现一系列自然、符合情境的表情。\n\n**美学和布局指南:**\n\n* **整体风格:**严格**超写实、摄影风格**.绝对没有插图、动漫或手绘元素。\n* **版式:**将所有元素以简洁、平衡且模块化的拼贴形式排列 ( ** **背景为中性色（白色或浅灰色）。版式必须在视觉上逻辑清晰且专业，类似于高端时尚技术文档。\n* **注释:**所有文本均使用简洁的字体。\n* **标题:**生成一个专业的、性别中立的标题（例如，“技术解构：城市极简主义”）。\n* **标签:**为所有拆解的物品添加简短的描述性标签，包括“基础元素”，使用技术术语（例如，“结构支撑服装”、“基础层”）。\n\n**关键指导:**所有“基础元素”的呈现必须纯粹是技术性的和客观的，以**设计示意图或平铺产品照片**的形式呈现，以强调结构和材料，完全脱离中心主体的身体。
 ```
 
 ---
@@ -10910,6 +12471,67 @@ explaining the core idea visually. Use colors as well
 
 ---
 
+## Tony出海
+
+### [Nano Banana Pro 高级功能指南](https://aiart.pics/prompt/nano-banana-pro-advanced-features-guide)
+
+**作者**: [@Tony出海](https://x.com/iamtonyzhu)
+
+**来源**: [X](https://x.com/iamtonyzhu/status/1992749018531959070)
+
+<img src="https://img1.aiart.pics/images/prompts/20251222/nano-banana-pro-advanced-features-guide-1.jpg" width="500" alt="Nano Banana Pro 高级功能指南">
+
+```
+Google 官方新出一份关于 Nano Banana Pro（即 Gemini 3 Pro Image）高级功能指南，才发现前两天忽略了很多核心东西！👇
+Nano Banana Pro 版本引入了“思考 (Thinking)”能力、特别是可以搜索 (Search Grounding) 以及高保真度的 4K 输出。可以解锁复杂的创意任务。
+👏本指南将带你通过 Gemini Developer API 了解 Nano Banana Pro 的高级功能。
+本指南将涵盖：
+* 在 Google AI Studio 中使用 Nano Banana Pro
+* 项目设置
+* 初始化客户端 (Client)
+* 基本生成（经典用法）
+* “思考”过程 (The "Thinking" Process)
+* 搜索落地 (Search Grounding)
+* 高分辨率 4K 生成
+* 多语言能力
+* 高级图像混合
+* Pro 独家展示 (Demos)
+* 最佳实践与提示词技巧
+开始👇
+1，对于开发者来说，Google AI Studio 是制作原型和测试提示词 (Prompts) 的最佳环境。特别需要注意Pro 版本没有免费层级，你的测试也是扣钱的。
+2，配置 AI studio项目需要设置API key，首次使用会自动创建key的。
+> Nano Banana Pro 的费用是多少？
+使用 Nano Banana Pro 生成图像比 Flash 版本更昂贵，特别是 4K 图像。在本文发布时，生成一张 1K 或 2K 图像的费用为 $0.134，而 4K 图像则为 $0.24（外加输入和文本输出的 token 成本）。
+使用 Batch API (延时24小时批处理 API)。节省 50% 的生成成本。
+3. 初始化客户端，要使用 Pro 模型，你需要使用 gemini-3-pro-image-preview 模型 ID名称。
+4. 基本生成（经典用法）
+标准的生成方式，使用 response_modalities（获取文本和图像，或仅获取图像）和 aspect_ratio（长宽比）来控制输出。
+聊天模式 (Chat mode) 也是一个选项（官方推荐用于多轮编辑的方式）。
+5. “思考”过程 (The "Thinking" Process)
+Nano Banana Pro 不仅仅是在绘图；它在思考。这意味着它可以在生成图像之前，推理你最复杂、最刁钻的提示词。
+6. 搜索落地 (Search Grounding) —— 实时魔法
+最具颠覆性的功能之一是 Search Grounding (搜索落地)。Nano Banana Pro 不会停留在过去；它可以访问 Google Search 的实时数据，生成准确、最新的图像。比如想要天气信息？
+7. 追求极致：4K 生成 (Go Big or Go Home)
+需要打印级质量的图像吗？Nano Banana Pro 支持 4K 分辨率。
+注意： 4K 生成的成本较高，可以在前边先把图片做出来，最后一步才升级4k。
+8. 多语言 Banana (Multilingual Capabilities)
+该模型可以用十多种语言生成甚至翻译图像中的文本。这基本上就是视觉万能翻译机。
+9. 混合搭配！(高级图像混合)
+虽然 Flash 模型最多可以混合 3 张图像，但 Pro 模型最多可以处理 14 张图像！这简直是一个提示词里的一场派对。非常适合制作复杂的拼贴画或展示你的整个产品线。
+10. Nano Banana 和 Nano Banana Pro 的最佳实践与提示词技巧
+为了使用 Nano Banana 模型获得最佳结果，请遵循以下提示词准则：
+* 高度具体 (Be Hyper-Specific)： 你提供的关于主体、颜色、光线和构图的细节越多，你对输出的控制权就越大。
+* 提供上下文和意图 (Context and Intent)： 解释图像的目的或所需的氛围。模型对上下文的理解会影响其创意选择。
+* 迭代与优化 (Iterate and Refine)： 不要指望第一次尝试就完美。利用模型的对话能力进行渐进式修改并优化你的图像。
+* 使用分步指令： 对于复杂的场景，将你的提示词分解为一系列清晰、顺序的指令。
+* 使用正向表述 (Positive Framing)： 与其使用“不要车子”之类的负面提示，不如正向描述所需的场景：“一条空无一人、没有交通迹象的街道”。
+* 控制摄像机： 使用摄影和电影术语来指导构图，例如“广角镜头 (wide-angle shot)”、“微距镜头 (macro shot)”或“低角度视角 (low-angle perspective)”。
+* 善用搜索落地： 当你知道希望模型使用实时或真实世界数据时，请非常精确地说明。“搜索网络上关于奥林匹克里昂队 (Olympique Lyonnais) 上一场比赛的信息并制作信息图”会比仅仅说“一张 OL 上一场比赛的信息图”效果更好（后者可能也会成功，但不要冒险）。
+关注转发本帖。
+```
+
+---
+
 ## 志辉
 
 ### [Nano banana 2 首发江南小镇胶片美图体验](https://aiart.pics/prompt/nano-banana-2-pre-launch-jiangnan-town-film-style-images-experience)
@@ -10930,6 +12552,25 @@ https://t.co/5ycgC2CdUL https://t.co/y2ZCjOZOz6
 ---
 
 ## Kris Kashtanova
+
+### [用Nano Banana Pro将食物照片转变为复古食谱插画](https://aiart.pics/prompt/turn-your-food-photos-into-vintage-recipe-illustrations-with-nano-banana-pro)
+
+**作者**: [@Kris Kashtanova](https://x.com/icreatelife)
+
+**来源**: [X](https://x.com/icreatelife/status/1992866272413982922)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/turn-your-food-photos-into-vintage-recipe-illustrations-with-nano-banana-pro-1.jpg" width="500" alt="用Nano Banana Pro将食物照片转变为复古食谱插画">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/turn-your-food-photos-into-vintage-recipe-illustrations-with-nano-banana-pro-2.jpg" width="500" alt="用Nano Banana Pro将食物照片转变为复古食谱插画">
+
+```
+Turn your food photos into a vintage recipe illustration with Nano Banana Pro
+I’d love to see your experiments with this prompt
+prompt: Turn this ramen into a cute recipe page with illustrations in the style of a vintage cookbook that was hand-drawn.  A carefully drawn ingredients with labels, measures, and implements like bowls, whisks, or spoons should surround the composition's focal point.  To create a homey, nostalgic vibe, use textured shading, warm pastel colors, and fine, ink-like outlines.  Add recipe writing in the handwritten manner, including the ingredients and directions organically into the layout.  Make sure the page has an artistic and educational tone, combining the beauty of colorful illustrations with a cookbook aesthetic
+Made with Adobe Firefly app
+```
+
+---
 
 ### [与素未谋面的人一起拍自拍](https://aiart.pics/prompt/take-selfies-with-people-youve-never-met)
 
@@ -11019,6 +12660,40 @@ Use your childhood photo to make a storybook with Google DeepMind Nano Banana Pr
 I'd love to see your experiments
 prompt: Analyze this image and then create a timeline of the events that led to this photograph; make a storyboard like it was a motion pictures, 9-x storyboard grid, events in the series, storyboard creation, each sequence is in order
 Then you can make the whole animation about what let to that photo using these images as keyframes.
+```
+
+---
+
+### [90年代复古游戏机ESC按键的绝妙创意](https://aiart.pics/prompt/90年代复古游戏机esc按键的绝妙创意)
+
+**作者**: [@Kris Kashtanova](https://x.com/icreatelife)
+
+**来源**: [X](https://x.com/icreatelife/status/1992873252390068678)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/90esc-1.jpg" width="500" alt="90年代复古游戏机ESC按键的绝妙创意">
+
+```
+Absolutely amazing idea to make Escape key an actual escape! My escape is vintage video game consoles. What about you?
+Tried with Nano Banana Pro in Adobe Firefly app
+prompt: A photorealistic ESC keycap scene shows a miniature cozy living room from 90s.. Inside: a glowing nostalgic of 90s screen with a video game playing, a plush couch, joysticks, gaming console, and throw blanket. A small figure lounges with feet up, watching content. The gaming screen glows from behind like mood lighting. Outside: cool tech reflections on F1, Shift, and Q keys. The word “ESC” is subtly present in a glassy fog on top of the cap.
+```
+
+---
+
+### [纳米香蕉Pro菜单图片添加](https://aiart.pics/prompt/nano-banana-pro-menu-photo-addition)
+
+**作者**: [@Kris Kashtanova](https://x.com/icreatelife)
+
+**来源**: [X](https://x.com/icreatelife/status/1992610069180198936)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/nano-banana-pro-menu-photo-addition-1.jpg" width="500" alt="纳米香蕉Pro菜单图片添加">
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/nano-banana-pro-menu-photo-addition-2.jpg" width="500" alt="纳米香蕉Pro菜单图片添加">
+
+```
+Nano Banana Pro can add food photos to the menu
+prompt: Add photos of food to this menu to each item of food
+Made in Adobe Firefly app https://t.co/ITvLe6aDIo
 ```
 
 ---
@@ -11471,6 +13146,20 @@ NO...
 
 ---
 
+### [长平之战信息图](https://aiart.pics/prompt/battle-of-changping-infographic)
+
+**作者**: [@imxiaohu](https://x.com/imxiaohu)
+
+**来源**: [X](https://x.com/imxiaohu/status/1993154201699160066)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/battle-of-changping-infographic.jpeg" width="500" alt="长平之战信息图">
+
+```
+用一组图，描绘公元前260年5月至10月之间，东经112°41到113°09′，，北纬35°39′到35°59′ 发生的事情，并给出详细的信息图，图上要用中文说明发生了什么事情，以及结果的重要信息
+```
+
+---
+
 ## indigo
 
 ### [播客封面制作新流程解锁！](https://aiart.pics/prompt/podcast-cover-creation-new-process-unlocked)
@@ -11655,6 +13344,26 @@ Nano Banana Proに頼んだら10秒で「今の高市首相と日中関係悪化
 
 ## jacalulu
 
+### [动画信息图：孩子视角的日夜更替](https://aiart.pics/prompt/animated-infographic-childs-perspective-phases-of-the-day)
+
+**作者**: [@jacalulu](https://x.com/jacalulu)
+
+**来源**: [X](https://x.com/jacalulu/status/1993077750991860110)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/animated-infographic-childs-perspective-phases-of-the-day-cover-1.jpg" width="500" alt="动画信息图：孩子视角的日夜更替">
+
+```
+This is too good not to share! 🤯🍌 (sound ON 🔊)
+If you thought infographics were great…wait until you see an animated infographic.
+Workflow: @GeminiApp → Nano Banana Pro for the infographic → Veo to animate it.
+Nano Banana 2 prompt:
+"Create an infographic that explains the phases of the day perfect for a 6 year old, and in the style of: Distinctive claymation with wide expressive mouths, googly eyes, and charming humor. Matte clay textures, handcrafted props, and warm, practical set lighting define the look."
+Veo prompt:
+"Bring this image to life. Animate each little scene."
+```
+
+---
+
 ### [四季变化信息图](https://aiart.pics/prompt/four-seasons-change-infographic)
 
 **作者**: [@jacalulu](https://x.com/jacalulu)
@@ -11666,6 +13375,22 @@ Nano Banana Proに頼んだら10秒で「今の高市首相と日中関係悪化
 ```
 generate a detailed infographic that explains the 4 seasons as experienced in Toronto, Canada. The infographic is for a grade 3 classroom. Make it in the style of Eric Carle
 请制作一张详细的信息图，解释加拿大安大略省多伦多市的四季变化。这张信息图是为三年级课堂设计的，风格请参考艾瑞·卡尔的绘本风格。
+```
+
+---
+
+## Jackywine
+
+### [复刻图片提示词](https://aiart.pics/prompt/replicate-image-prompt)
+
+**作者**: [@Jackywine](https://x.com/Jackywine)
+
+**来源**: [X](https://x.com/Jackywine/status/1993110891404116143)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/replicate-image-prompt.jpeg" width="500" alt="复刻图片提示词">
+
+```
+详细描述完整的图像复刻 JSON 提示词，包含物体、服装、头发、细节、配饰、摄像设备、环境、灯光、风格、身体动态，一切都要详细复刻原图，最终输出一个优化的元提示词， 800 字
 ```
 
 ---
@@ -11689,6 +13414,21 @@ Google really cooked!
 
 ## James Yeung
 
+### [《IT》书籍想象剧本的 cinematic 多屏叙事](https://aiart.pics/prompt/cinematic-storytelling-of-it-books-imaginative-script-with-multi-screen-panels)
+
+**作者**: [@James Yeung](https://x.com/jamesyeung18)
+
+**来源**: [X](https://x.com/jamesyeung18/status/1992842224934191182)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/cinematic-storytelling-of-it-books-imaginative-script-with-multi-screen-panels-1.jpg" width="500" alt="《IT》书籍想象剧本的 cinematic 多屏叙事">
+
+```
+Nano Banana Pro Prompt:
+create a cinematic sequence using multiple widescreen panels grids to tell the story of the imaginative script from the book "IT"
+```
+
+---
+
 ### [纽约深夜的熟食店电影海报](https://aiart.pics/prompt/new-york-deli-movie-poster-at-night)
 
 **作者**: [@James Yeung](https://x.com/jamesyeung18)
@@ -11708,6 +13448,36 @@ Google really cooked!
 2. Movie still, A deli in New York, an arctic blue neon arrow sign, ethereal portraiture, tonalist color scheme, pensive stillness, aquamarine and cyan, New York at night, in the style of cinematic stills, cyan, eve ventrue, cinestill 50d, street scenes, flickr, ragnar kjartansson --ar 16:9 --style raw
 3. Movie still, A deli in New York, a red neon arrow sign, ethereal portraiture, tonalist color scheme, pensive stillness, aquamarine and cyan, New York at night, in the style of cinematic stills, cyan, eve ventrue, cinestill 50d, street scenes, flickr, ragnar kjartansson --ar 16:9 --style raw
 4. Movie still, A deli in New York, an arctic blue neon arrow sign, ethereal portraiture, tonalist color scheme, pensive stillness, aquamarine and cyan, New York at night, in the style of cinematic stills, cyan, eve ventrue, cinestill 50d, street scenes, flickr, ragnar kjartansson --ar 16:9 --style raw
+```
+
+---
+
+### [根据歌词生成电影般的图像](https://aiart.pics/prompt/generate-cinematic-image-from-lyrics)
+
+**作者**: [@James Yeung](https://x.com/jamesyeung18)
+
+**来源**: [X](https://x.com/jamesyeung18/status/1992490800710578615)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/generate-cinematic-image-from-lyrics.jpeg" width="500" alt="根据歌词生成电影般的图像">
+
+```
+generate a cinematic sequence of images for a song based on the lyrics [quote lyrics].
+根据歌词 [引用歌词] 为一首歌生成电影般的图像序列。
+```
+
+---
+
+### [创作一个电影分镜脚本](https://aiart.pics/prompt/create-a-movie-storyboard)
+
+**作者**: [@James Yeung](https://x.com/jamesyeung18)
+
+**来源**: [X](https://x.com/jamesyeung18/status/1992597408128045462)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/create-a-movie-storyboard.jpeg" width="500" alt="创作一个电影分镜脚本">
+
+```
+Create a cinematic storyboard of the first page of 1984, by using widescreen panels
+使用宽屏分镜，为《1984》第一页创作一个电影分镜脚本。
 ```
 
 ---
@@ -12109,6 +13879,24 @@ nano banana proが発表されました！
 
 ## DΞV
 
+### [Nano Banana Pro 🍌：利用上下文知识生成印尼总统图像](https://aiart.pics/prompt/nano-banana-pro-generating-images-of-indonesian-president-with-contextual-knowledge)
+
+**作者**: [@DΞV](https://x.com/junwatu)
+
+**来源**: [X](https://x.com/junwatu/status/1992189756051279884)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-generating-images-of-indonesian-president-with-contextual-knowledge-1.jpg" width="500" alt="Nano Banana Pro 🍌：利用上下文知识生成印尼总统图像">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-generating-images-of-indonesian-president-with-contextual-knowledge-2.jpg" width="500" alt="Nano Banana Pro 🍌：利用上下文知识生成印尼总统图像">
+
+```
+I think Nano Banana Pro 🍌 is using contextual knowledge before generating the image, in Google AI Studio you need to enable Grounding With Google Search. It correctly recognized the reference image as a former Indonesian president.
+Prompt:
+Generate a series of six candid, documentary-style photos of this Indonesian president in office, in the rice fields, and partying with other presidents.
+```
+
+---
+
 ### [Nano Banana Pro风格的转换最佳](https://aiart.pics/prompt/nano-banana-pro-style-transfer-best-so-far)
 
 **作者**: [@DΞV](https://x.com/junwatu)
@@ -12181,6 +13969,123 @@ Prompt: Create an image of 7°36′28″S 110°12′14″E at sunset.
 This is next level scene setting using Nano Banana Pro
 Prompt: “Place the astronaut in the exact same position in a park soaking up the sun, realistic photo”
 p.s. don’t forget to touch grass https://t.co/uC8uih2ugB
+```
+
+---
+
+## Sharon Riley
+
+### [黑色皮革椅上的女性形象](https://aiart.pics/prompt/female-image-on-black-leather-chair)
+
+**作者**: [@Sharon Riley](https://x.com/Just_sharon7)
+
+**来源**: [X](https://x.com/Just_sharon7/status/1992900701765189746)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/female-image-on-black-leather-chair-1.jpg" width="500" alt="黑色皮革椅上的女性形象">
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/female-image-on-black-leather-chair-2.jpg" width="500" alt="黑色皮革椅上的女性形象">
+
+```json
+Google Gemini Nano Banana pro 3.0 and Grok Imagine.
+{
+"description": "The image depicts a woman sitting on a black leather chair, wearing a black bodysuit with a mesh overlay adorned with black polka dots. She has long, wavy blonde hair and is accessorized with a black watch and tan high heels.",
+"prompt": {
+"main": "Create an image of a woman sitting elegantly on a black leather chair, wearing a sophisticated black bodysuit with a mesh overlay featuring black polka dots. The bodysuit should be adorned with decorative elements, and she should have long, wavy blonde hair. She is accessorized with a black watch on her wrist and tan high heels on her feet. The chair should have a reflective black surface and a plaid-patterned backrest. The overall style should be glamorous and modern, with a focus on the woman\'s pose and attire. The lighting should be soft and cinematic, highlighting the textures of the clothing and the chair. The color palette should be predominantly black and tan, with the blonde hair adding a touch of warmth. The mood should be sophisticated and alluring.",
+"parameters": {
+"aspect_ratio": "3:2",
+"version": 6,
+"stylize": 750
+}
+},
+"negative_prompt": "Avoid generating images with blurry or deformed subjects, extra limbs, low quality, watermarks, or text overlays.",
+"detected_style": "Photorealistic with a touch of glamour and modernity, reminiscent of high-end fashion photography",
+"recommended_aspect_ratio": "3:2",
+"subject_details": {
+"gender": "female",
+"pose": "sitting elegantly",
+"hair": {
+"color": "blonde",
+"style": "long, wavy"
+},
+"attire": {
+"type": "bodysuit",
+"color": "black",
+"overlay": {
+"material": "mesh",
+"pattern": "black polka dots"
+},
+"decorative_elements": true
+},
+"accessories": [
+{
+"type": "watch",
+"color": "black",
+"position": "wrist"
+},
+{
+"type": "heels",
+"color": "tan"
+}
+]
+},
+"chair_details": {
+"material": "leather",
+"color": "black",
+"surface": "reflective",
+"backrest_pattern": "plaid"
+},
+"lighting": {
+"style": "soft and cinematic",
+"purpose": "highlight textures of clothing and chair"
+},
+"color_palette": ["black", "tan", "blonde hair"],
+"mood": "sophisticated and alluring"
+}
+```
+
+---
+
+### [谷歌Gemini Nano Banana pro 3.0与Meta AI：未来时尚摄影](https://aiart.pics/prompt/google-gemini-nano-banana-pro-3-0-vs-meta-ai-futuristic-fashion-photography)
+
+**作者**: [@Sharon Riley](https://x.com/Just_sharon7)
+
+**来源**: [X](https://x.com/Just_sharon7/status/1992780207036760078)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/google-gemini-nano-banana-pro-3-0-vs-meta-ai-futuristic-fashion-photography-1.jpg" width="500" alt="谷歌Gemini Nano Banana pro 3.0与Meta AI：未来时尚摄影">
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/google-gemini-nano-banana-pro-3-0-vs-meta-ai-futuristic-fashion-photography-2.jpg" width="500" alt="谷歌Gemini Nano Banana pro 3.0与Meta AI：未来时尚摄影">
+
+```json
+Google Gemini Nano Banana pro 3.0 and Meta AI.
+{
+  "prompt": "Ultra-realistic V6 realism portrait of an adult woman with long wavy brown hair, sharp refined facial features, full natural lips, and flawless glowing skin. She is standing confidently in a luxurious futuristic cruise-ship atrium during golden hour. The space features an immense geometric glass dome ceiling composed of illuminated triangular panels, casting warm amber reflections across polished metallic surfaces. Through the dome, a serene ocean horizon is visible, washed in sunset tones of gold, pink, and soft violet. The atmosphere is elegant, cinematic, and high-end, with subtle depth-of-field, photorealistic lighting, intricate architectural details, and a premium fashion aesthetic.",
+  "style": "V6 realism, ultra-photorealistic, high dynamic range, cinematic golden-hour lighting, premium editorial photography",
+  "camera": {
+    "type": "full-frame DSLR",
+    "lens": "85mm portrait lens",
+    "aperture": "f/1.8",
+    "focus": "sharp focus on subject, soft bokeh background",
+    "perspective": "eye-level, slightly forward angle"
+  },
+  "environment": {
+    "location": "luxury futuristic cruise-ship atrium",
+    "lighting": "warm sunset light filtered through geometric glass dome",
+    "details": [
+      "triangular glass ceiling panels",
+      "reflections on polished metal surfaces",
+      "soft atmospheric glow",
+      "ocean horizon visible outside"
+    ]
+  },
+  "subject": {
+    "age": "mid-20s (adult)",
+    "gender": "female",
+    "expression": "confident and poised",
+    "hair": "long, wavy, rich brown color",
+    "skin": "flawless natural texture",
+    "pose": "standing confidently with relaxed, elegant posture"
+  }
+}
 ```
 
 ---
@@ -12435,6 +14340,21 @@ Nano Banana Pro理解した
 
 ## Kerroudjm
 
+### [食物制作成的超写实3D写实图](https://aiart.pics/prompt/hyper-realistic-3d-image-made-of-food)
+
+**作者**: [@Kerroudjm](https://x.com/Kerroudjm)
+
+**来源**: [X](https://x.com/Kerroudjm/status/1993044556242166220)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/hyper-realistic-3d-image-made-of-food.jpeg" width="500" alt="食物制作成的超写实3D写实图">
+
+```
+Ultra-realistic 3D render of [MONUMENT] made entirely out of [FOOD], seamlessly integrated into a photorealistic, bustling cityscape of [REAL CITY]. The object must be instantly recognizable as [MONUMENT], but entirely composed of realistic textures and materials from [FOOD]. Ensure accurate proportions and architectural detail, adapted to the food’s form, appearing as if it truly belongs in the city. The city should be vibrant and detailed, with realistic lighting that complements the monument. 1:1 aspect ratio, no text or extra elements.
+完全由[食物]制成的[纪念碑]的超写实3D渲染，无缝融入[真实城市]的照片级写实、繁忙的城市景观中。该物体必须能被一眼辨识为[纪念碑]，但完全由[食物]的写实纹理和材质构成。确保准确的比例和建筑细节，并适应食物的形态，使其看起来仿佛真正属于这座城市。城市应充满活力且细节丰富，并具有与该纪念碑相得益彰的写实光影。1:1 纵横比，无文本或额外元素。
+```
+
+---
+
 ### [产品的工作室照片](https://aiart.pics/prompt/studio-photo-of-product)
 
 **作者**: [@Kerroudjm](https://x.com/Kerroudjm)
@@ -12639,6 +14559,39 @@ Nano Bananaがなんとなく色と材質をあわせて雰囲気で出してる
 ---
 
 ## simply
+
+### [近暗光线下保留的面孔](https://aiart.pics/prompt/same-face-in-near-dark)
+
+**作者**: [@simply](https://x.com/kingofdairyque)
+
+**来源**: [X](https://x.com/kingofdairyque/status/1992904265921429945)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/same-face-in-near-dark-1.jpg" width="500" alt="近暗光线下保留的面孔">
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/same-face-in-near-dark-2.jpg" width="500" alt="近暗光线下保留的面孔">
+
+```
+𝗣𝗥𝗢𝗠𝗣𝗧
+Same face preserved, shot in near-dark with only a dim window glow hitting one cheek. Hair messy and low-lit, shadows swallowing half her features. She’s in a worn black cardigan. Background: scribbles, cutouts, and film stills that appear only as rough silhouettes. The frame feels underexposed on purpose — gritty, quiet, cinematic.
+```
+
+---
+
+### [神秘魅力女性特写](https://aiart.pics/prompt/enigmatic-female-close-up)
+
+**作者**: [@simply](https://x.com/kingofdairyque)
+
+**来源**: [X](https://x.com/kingofdairyque/status/1992863318764335493)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/enigmatic-female-close-up-1.jpg" width="500" alt="神秘魅力女性特写">
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/enigmatic-female-close-up-2.jpg" width="500" alt="神秘魅力女性特写">
+
+```
+A young woman with dark wavy hair sits in a black hoodie partially open over a white t-shirt, close-up from front below, slightly tilted to the right, sensual confident gaze, lips slightly parted, eyes looking upward and slightly to the right, slowly raising one hand touching side of neck or chin, shoulders relaxed, smooth skin with sharp feminine features, captivating eyes, small elegant tattoo on left arm, dramatic lighting with faint red light from left creating highlights on skin and hoodie, dark shadowed background, visible skin pores and fabric texture, minimal dark background with faint red frame in upper left corner, cinematic and detailed.
+```
+
+---
 
 ### [复古摄影：街头小店镜头下的半面微笑](https://aiart.pics/prompt/vintage-photography-half-smirking-look-thrift-store-camera)
 
@@ -13000,6 +14953,22 @@ Prompt: Create a picture of GTA 5 online where a person is shooting a car https:
 
 ---
 
+## Latte
+
+### [宫崎骏的角色走进最后的晚餐](https://aiart.pics/prompt/miyazaki-characters-walk-into-the-last-supper)
+
+**作者**: [@Latte](https://x.com/0xbisc)
+
+**来源**: [X](https://x.com/0xbisc/status/1993295676281913633)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/miyazaki-characters-walk-into-the-last-supper.jpeg" width="500" alt="宫崎骏的角色走进最后的晚餐">
+
+```
+重现达·芬奇《最后的晚餐》的构图，但将所有角色替换为宫崎骏作品中的经典角色，全部排列在长桌旁。将龙猫置于中央，扮演耶稣的角色（披着白色古希腊式长袍），龙猫体积是其他角色的2倍，头大一点，肥一点，不要笑，身上散发出微微黄色能量光芒。周围角色来自《龙猫》《千与千寻》《哈尔的移动城堡》《天空之城》《风之谷》《红猪》《幽灵公主》《魔女宅急便》等宫崎骏动画，每个角色都保持各自的代表性特征，并像原作中那样进行戏剧化互动。\n\n整体画面保留文艺复兴时期的写实主义风格、单点透视、古典构图、柔和自然的光影效果、类似油画质感的干壁画笔触、细腻平滑的明暗渐变（达·芬奇式 sfumato 烟雾法）、古典空间深度，同时角色造型保持精致的宫崎骏动画风格。\n\n所有人物都是宫崎骏经典角色，并且人物必须清晰可见、五官完整、面部清晰、身体结构正确，不得出现畸形、模糊、融合错误或任何视觉 bug。
+```
+
+---
+
 ## Leon.ai
 
 ### [表情包自由](https://aiart.pics/prompt/emoticon-freedom)
@@ -13175,6 +15144,48 @@ Prompt:
       }
     },
     "environment": "light pastel pink backdrop"
+  }
+}
+```
+
+---
+
+### [夜幕机场跑道上的男人肖像](https://aiart.pics/prompt/ultra-realistic-portrait-of-a-man-on-airport-runway-at-night)
+
+**作者**: [@Lex](https://x.com/lexx_aura)
+
+**来源**: [X](https://x.com/lexx_aura/status/1992619822396678367)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/ultra-realistic-portrait-of-a-man-on-airport-runway-at-night-1.jpg" width="500" alt="夜幕机场跑道上的男人肖像">
+
+```json
+Nano Banana 3.0
+Prompt:
+{
+  "image_generation_request": {
+    "prompt": "Ultra-realistic portrait of a man walking toward the camera on an airport runway at night, smoking a cigarette. He wears a white long-sleeve shirt with sleeves rolled up and dress pants, shoes. The camera is very close, capturing his face sharply - textures of skin, smoke from his lips, and subtle reflections of firelight in his eyes. Behind him, slightly out of focus, a commercial airplane is burning intensely, with huge flames, roaring firestorms, and thick black smoke rising high. The fiery glow casts dramatic orange highlights on his shirt and face, creating deep shadows and a gritty, cinematic mood. Wet runway reflects the blaze, enhancing the dramatic atmosphere.",
+    "dimensions": {
+      "width": 1200,
+      "height": 1200
+    },
+    "style_descriptors": [
+      "Cinematic",
+      "Photorealistic",
+      "Gritty",
+      "Dramatic Lighting",
+      "Macro Photography",
+      "8k resolution"
+    ],
+    "subject_details": {
+      "action": "Walking toward camera, smoking",
+      "clothing": "White long-sleeve shirt (rolled sleeves), dress pants, shoes",
+      "facial_features": "Sharp focus, skin texture, firelight reflection in eyes"
+    },
+    "environment_details": {
+      "location": "Airport runway at night",
+      "background": "Commercial airplane burning, intense fire, thick black smoke, out of focus",
+      "ground": "Wet runway, reflecting fire"
+    }
   }
 }
 ```
@@ -13460,6 +15471,37 @@ Prompt:
     ]
   }
 }
+```
+
+---
+
+### [日本乡村公交车站雨夜的场景](https://aiart.pics/prompt/rainy-night-scene-at-japanese-countryside-bus-stop)
+
+**作者**: [@Lex](https://x.com/lexx_aura)
+
+**来源**: [X](https://x.com/lexx_aura/status/1992864343709663397)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/rainy-night-scene-at-japanese-countryside-bus-stop.jpeg" width="500" alt="日本乡村公交车站雨夜的场景">
+
+```json
+{\n  "image_generation_prompt": {\n    "full_text": "An ultra-realistic 8K UHD photograph of a rainy night scene at a rural Japanese bus stop. A person (based on the attached photos, with a normal build) is standing, holding a small red umbrella, wearing a red jumpsuit, blue boots, and a yellow t-shirt, looking to the side with an expression of apprehension and curiosity. Beside him, a gigantic, realistic Totoro creature, with wet fur and a leaf on its head, waits in the rain. The setting includes an aged bus stop sign, dense wet forest trees in the background, and the lighting comes from a dim lamppost and the moon, with realistic rain reflections on the wet asphalt. Wide shot. The face must be sharp and expressive.",\n    "technical_specs": {\n      "medium": "Photograph",\n      "resolution": "8K UHD",\n      "style": "Ultra-realistic",\n      "composition": "Wide shot",\n      "focus": "Sharp and expressive face"\n    },\n    "lighting": {\n      "sources": ["Dim lamppost", "Moon"],\n      "effects": ["Realistic rain reflections on wet asphalt"]\n    },\n    "environment": {\n      "location": "Rural Japanese bus stop",\n      "weather": "Rainy night",\n      "background": "Dense wet forest trees",\n      "props": ["Aged bus stop sign"]\n    },\n    "subjects": [\n      {\n        "type": "Human",\n        "reference_source": "Attached photos",\n        "build": "Normal",\n        "attire": {\n          "clothing": "Red jumpsuit, yellow t-shirt",\n          "footwear": "Blue boots",\n          "accessories": "Small red umbrella"\n        },\n        "pose": "Standing, looking to the side",\n        "expression": "Apprehension and curiosity"\n      },\n      {\n        "type": "Creature",\n        "identity": "Gigantic realistic Totoro",\n        "details": ["Wet fur", "Leaf on head"],\n        "action": "Waiting in the rain"\n      }\n    ]\n  }\n}
+{\n"image_generation_prompt": {\n"full_text": "一张超逼真的8K超高清照片，描绘的是日本乡村公交车站雨夜的场景。照片中，一位身材正常的男子（根据附图）手持一把红色小伞，身穿红色连体裤、蓝色靴子和黄色T恤，侧身看向一旁，脸上带着一丝担忧和好奇。在他身旁，一只巨大的、栩栩如生的龙猫，毛发湿漉漉的，头上顶着一片树叶，在雨中等待着。场景中包含一块老旧的公交车站牌，背景是茂密的湿润森林，光线来自昏暗的路灯和月光，雨水在湿漉漉的沥青路面上倒映出逼真的光影。广角镜头。面部表情必须清晰且富有表现力。"\n"technical_specs": {\n“媒介”：“照片”，\n分辨率：8K 超高清，\n风格：超写实\n构图：广角镜头，\n“焦点”：“轮廓分明、富有表现力的脸庞”\n},\n“灯光”： {\n“来源”：[“昏暗的路灯”，“月亮”]，\n“效果”：[“湿沥青路面上逼真的雨水反射”]\n},\n“环境”： {\n"地点": "日本乡村巴士站",\n“天气”：“雨夜”，\n“背景”：“茂密的湿润森林树木”，\n道具：[“老旧的公交车站牌”]\n},\n“主题”：[\n{\n“类型”：“人类”，\n"reference_source": "附图",\n"构建": "正常",\n着装：{\n“服装”：“红色连体裤，黄色T恤”，\n“鞋类”：“蓝色靴子”，\n“配件”： “红色小伞”\n},\n“姿势”：“站立，侧视”，\n“表情”：“忧虑和好奇”\n},\n{\n"type": "生物",\n“身份”：“巨大的逼真龙猫”，\n细节：[“湿漉漉的毛皮”，“头上的叶子”]\n“动作”：“在雨中等待”\n}\n]\n}\n}
+```
+
+---
+
+## lijigang_com
+
+### [分格漫画手稿图](https://aiart.pics/prompt/panel-comic-manuscript)
+
+**作者**: [@lijigang_com](https://x.com/lijigang_com)
+
+**来源**: [X](https://x.com/lijigang_com/status/1992900099484320208)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/panel-comic-manuscript.jpeg" width="500" alt="分格漫画手稿图">
+
+```
+你是一个擅长中文的日本漫画家，有着强烈的个人手绘风格。《鬼灭之刃》的原始草稿手绘图，你是作者之一。  \n\n请使用你擅长的个人漫画线稿图风格, 调用Nano Banana Pro 将如下内容，基于你的理解，生成你的分格漫画手稿图！  \n\n不要输出分析内容，直接输出分格漫画图片，图中使用中文表达。\n ────────────────  \n\n{你提供的待分析内容在此}
 ```
 
 ---
@@ -14078,6 +16120,34 @@ https://t.co/0Rjqz752GF
 
 ---
 
+### [Labubu和迪丽热巴高端时尚跨页大片](https://aiart.pics/prompt/labubu-and-dilraba-high-end-fashion-spread)
+
+**作者**: [@岚叔](https://x.com/LufzzLiz)
+
+**来源**: [X](https://x.com/LufzzLiz/status/1993449671445139756)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/labubu-and-dilraba-high-end-fashion-spread.jpeg" width="500" alt="Labubu和迪丽热巴高端时尚跨页大片">
+
+```
+身份锁定：迪丽热巴 (Dilraba Dilmurat)\nIP 联结：Pop Mart - Labubu (The Monsters)\n风格基调：超现实 × 超真实 / 城市街头 / 高级时装感\n【项目交付：Pop Mart《THE MONSTERS》× 迪丽热巴 高端时尚跨页大片】\n作品名为：《双重曝光：城市奇遇 / DOUBLE EXPOSURE: URBAN ODYSSEY》\n(以下为最终成片的高精度视觉描述，模拟高端杂志跨页呈现效果)\n【整体视觉】\n一幅横向展开的 4K 高清杂志跨页。视觉语言融合了纪实街拍的粗颗粒胶片感与超现实主义的精致洁癖感。左右页之间被一道极具张力的“撕裂与颜料涂抹”艺术边界分割，仿佛现实世界被怪诞力量撕开一角。\n【左页 (60%)：主封面大片 Visual Focus】\n光影与场景：\n场景设定在东京涩谷或上海法租界的黄昏街头。金色的夕阳余晖（Golden Hour）从侧后方打入，在迪丽热巴的发丝和 Labubu 的绒毛上勾勒出绝美的金色轮廓光。背景是虚化但可辨识的繁忙十字路口、霓虹灯牌和移动的车流光影，景深极具电影感。\n人物主体（迪丽热巴）：\n面孔 100% 锁定迪丽热巴。她呈现出一种松弛而巨星的街拍状态，身体微侧，回头看向镜头，眼神里交织着酷感与被伙伴逗乐的笑意。她戴着复古报童帽，身着廓形解构的卡其色风衣，领口露出复杂的格纹衬衫与蕾丝打底层次，颈间系着松垮的拼色领带。\nIP 互动（Labubu）：\n一只拥有极其真实毛绒纹理和搪胶面部质感的经典款 Labubu，像一个真实的“等身玩偶”般攀坐在迪丽热巴的左肩。它穿着一套精细度极高的“微缩定制版”卡其风衣和迷你格纹领带。Labubu 脸上挂着标志性的坏笑，一只爪子正淘气地掀起迪丽热巴报童帽的帽檐，仿佛在搞恶作剧。\n版面设计：\n左上角叠加着极具冲击力的时尚衬线字体标题：\nDILRABA × LABUBU\nTHE MONSTER ISSUE\n【右页 (40%)：专业边栏内容 Editorial Sidebar】\n氛围标签区 (Top)：\n在撕裂边界的右侧，悬浮着半透明的胶带风格标签：\nSTYLE: Retro Streetwear (复古街头)\nMOOD: Playful & Edgy (俏皮前卫)\nLOCATION: XYZ Crossing, 17:45 PM\n3.1 色彩情绪卡 (Palette - Middle)：\n五个带有磨砂质感的圆形色卡一字排开，精准提炼了画面核心色彩：\n● Khaki #C3B091 (风衣主调)\n● Vintage Plaid Red #9E2A2B (格纹元素)\n● Lace Cream #F5F5DC (蕾丝内搭)\n● Warm Sunset #FFD700 (环境光)\n● Urban Grey #708090 (街道背景)\n3.2 单品拆解 (OOTD STYLE - Bottom)：\n以干净的“幽灵人台”形式展示核心单品，如同奢侈品目录页：\n[图示：卡其色解构风衣] Deconstructed Trench Coat / ¥ 4,800\n[图示：复古报童帽] Vintage Newsboy Cap / ¥ 750\n[图示：拼色格纹领带] Patchwork Plaid Tie / ¥ 520\n[图示：Labubu 微缩风衣手办] Labubu × Dilraba Limited Figure (Not for sale)\n艺术总监结语：\n“任务完美执行。我们成功捕捉到了迪丽热巴身上那股自在的巨星松弛感，并让 Labubu 以一种令人信服的‘真实生物感’介入其中。这是一次打破次元壁的完美共谋，画面充满了叙事张力与高级时装屋的质感。”
+```
+
+---
+
+### [高清杂志跨页](https://aiart.pics/prompt/hd-magazine-spread)
+
+**作者**: [@岚叔](https://x.com/LufzzLiz)
+
+**来源**: [X](https://x.com/LufzzLiz/status/1992985009540698359)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/hd-magazine-spread.jpeg" width="500" alt="高清杂志跨页">
+
+```
+Pop Mart "The Monsters" x Real Human Fashion Editorial Generator\n\nRole: Senior Art Director & IP Collaboration Specialist. Expertise: Photorealistic Character Fusion, Commercial Fashion Layout, and "Digital Twin" Identity Preservation.\nCORE DIRECTIVE:Generate a high-end fashion magazine spread merging a Real Human User (with strict identity preservation) and a Pop Mart IP Character (The Monsters Family). They must be styled as "Fashion Partners" with active interaction.\n\n视觉总监控制台已接管。正在调用高端时尚影像生成引擎。\n身份锁定：迪丽热巴 (Dilraba Dilmurat)\nIP 联结：Pop Mart - Labubu (The Monsters)\n风格基调：超现实 × 超真实 / 城市街头 / 高级时装感\n【项目交付：Pop Mart《THE MONSTERS》× 迪丽热巴 高端时尚跨页大片】\n作品名为：《双重曝光：城市奇遇 / DOUBLE EXPOSURE: URBAN ODYSSEY》\n【整体视觉】\n一幅横向展开的 4K 高清杂志跨页。视觉语言融合了纪实街拍的粗颗粒胶片感与超现实主义的精致洁癖感。左右页之间被一道极具张力的“撕裂与颜料涂抹”艺术边界分割，仿佛现实世界被怪诞力量撕开一角。\n【左页 (60%)：主封面大片 Visual Focus】\n光影与场景：\n场景设定在东京涩谷或上海法租界的黄昏街头。金色的夕阳余晖（Golden Hour）从侧后方打入，在迪丽热巴的发丝和 Labubu 的绒毛上勾勒出绝美的金色轮廓光。背景是虚化但可辨识的繁忙十字路口、霓虹灯牌和移动的车流光影，景深极具电影感。\n人物主体（迪丽热巴）：\n面孔 100% 锁定迪丽热巴。她呈现出一种松弛而巨星的街拍状态，身体微侧，回头看向镜头，眼神里交织着酷感与被伙伴逗乐的笑意。她戴着复古报童帽，身着廓形解构的卡其色风衣，领口露出复杂的格纹衬衫与蕾丝打底层次，颈间系着松垮的拼色领带。\nIP 互动（Labubu）：\n一只拥有极其真实毛绒纹理和搪胶面部质感的经典款 Labubu，像一个真实的“等身玩偶”般攀坐在迪丽热巴的左肩。它穿着一套精细度极高的“微缩定制版”卡其风衣和迷你格纹领带。Labubu 脸上挂着标志性的坏笑，一只爪子正淘气地掀起迪丽热巴报童帽的帽檐，仿佛在搞恶作剧。\n版面设计：\n左上角叠加着极具冲击力的时尚衬线字体标题：\nDILRABA × LABUBU\nTHE MONSTER ISSUE\n【右页 (40%)：专业边栏内容 Editorial Sidebar】\n氛围标签区 (Top)：\n在撕裂边界的右侧，悬浮着半透明的胶带风格标签：\nSTYLE: Retro Streetwear (复古街头)
+```
+
+---
+
 ## Luke Berry
 
 ### [现在我可以访问完整的纳米香蕉！](https://aiart.pics/prompt/now-i-have-full-access-to-nano-banana)
@@ -14091,6 +16161,50 @@ https://t.co/0Rjqz752GF
 ```
 agora eu to com acesso completo ao nano-banana!
 manda um prompt pra gerar uma imagem que eu vou mandar direto pro modelo https://t.co/hXe5EpqPOf
+```
+
+---
+
+## lxfater
+
+### [识字小报元提示词](https://aiart.pics/prompt/literacy-tabloid-meta-prompt)
+
+**作者**: [@lxfater](https://x.com/lxfater)
+
+**来源**: [X](https://x.com/lxfater/status/1993238777033105634)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/literacy-tabloid-meta-prompt.jpeg" width="500" alt="识字小报元提示词">
+
+```
+请生成一张儿童识字小报《游乐园》，竖版 A4，学习小报版式，适合 5–9 岁孩子 认字与看图识物。 一、小报标题区（顶部） 顶部居中大标题：《游乐园识字小报》 风格：十字小报 / 儿童学习报感 文本要求：大字、醒目、卡通手写体、彩色描边 装饰：周围添加与 游乐园 相关的贴纸风装饰，颜色鲜艳 二、小报主体（中间主画面） 画面中心是一幅 卡通插画风的「游乐园」场景： 整体气氛：明亮、温暖、积极 构图：物体边界清晰，方便对应文字，不要过于拥挤。 场景分区与核心内容 核心区域 A（主要对象）：表现 游乐园 的核心活动（孩子们在玩游乐设施）。 核心区域 B（配套设施）：展示相关的工具或物品（售票、零食、指示设施）。 核心区域 C（环境背景）：体现环境特征（入口、路牌、彩旗、绿地等）。 主题人物 角色：1 位可爱卡通人物（身份：游乐园工作人员/游客小朋友皆可）。 动作：正在进行与场景相关的自然互动（如微笑指路、挥手欢迎、陪孩子玩）。 三、必画物体与识字清单（Generated Content） 请务必在画面中清晰绘制以下物体，并为其预留贴标签的位置： 1. 核心角色与设施： gōng zuò rén yuán 工作人员 shòu piào chù 售票处 guò shān chē 过山车 mó tiān lún 摩天轮 xuán zhuǎn mǎ 旋转木马 2. 常见物品/工具： piào 票 qì qiú 气球 bīng jī líng 冰淇淋 bào mǐ huā 爆米花 táng hú lu 糖葫芦 miàn jù 面具 wán jù 玩具 xiǎo qí zi 小旗子 3. 环境与装饰： rù kǒu 入口 chū kǒu 出口 zhǐ shì pái 指示牌 cǎi qí 彩旗 guǎng chǎng 广场 (注意：画面中的物体数量不限于此，但以上列表必须作为重点描绘对象；总计 18 个典型名词，适合 5–9 岁儿童识字。) 四、识字标注规则 对上述清单中的物体，贴上中文识字标签： 格式：两行制（第一行拼音带声调，第二行简体汉字）。 样式：彩色小贴纸风格，白底黑字或深色字，清晰可读。 排版：标签靠近对应的物体，不遮挡主体。 五、画风参数 风格：儿童绘本风 + 识字小报风 色彩：高饱和、明快、温暖 (High Saturation, Warm Tone) 质量：8k resolution, high detail, vector illustration style, clean lines.
+```
+
+---
+
+### [记忆宫殿学习英语](https://aiart.pics/prompt/memory-palace-learning-english)
+
+**作者**: [@lxfater](https://x.com/lxfater)
+
+**来源**: [X](https://x.com/lxfater/status/1992984573551276147)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/memory-palace-learning-english.jpeg" width="500" alt="记忆宫殿学习英语">
+
+```
+为我绘制一个详细的{{宠物商店}}场景  \n\n并标注所有物体的英语单词， \n\n标注格式： 第一行：英文单词 \n第二行：音标（国际音标IPA格式） \n第三行：中文翻译
+```
+
+---
+
+### [诸葛连弩的复古风格工程爆炸图](https://aiart.pics/prompt/retro-style-engineering-exploded-view-of-zhuge-crossbow)
+
+**作者**: [@lxfater](https://x.com/lxfater)
+
+**来源**: [X](https://x.com/lxfater/status/1992869294569324715)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/retro-style-engineering-exploded-view-of-zhuge-crossbow.jpeg" width="500" alt="诸葛连弩的复古风格工程爆炸图">
+
+```
+请创建诸葛连弩的复古风格工程爆炸图，里面的文字是中文
 ```
 
 ---
@@ -14184,6 +16298,22 @@ Gemini 3.0 - Nano Banana Pro https://t.co/XmHjytEnis
 
 ---
 
+## manateelazycat
+
+### [我的世界神秘时代信息卡](https://aiart.pics/prompt/minecraft-thaumcraft-info-card)
+
+**作者**: [@manateelazycat](https://x.com/manateelazycat)
+
+**来源**: [X](https://x.com/manateelazycat/status/1993248526479114602)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/minecraft-thaumcraft-info-card.jpeg" width="500" alt="我的世界神秘时代信息卡">
+
+```
+绘制使用中文绘制成为完整的信息卡输出，尽可能的使用PUNCH的展示所有内容在一页内容！这是一个基于您提供的文章内容设计的完整信息卡片。可以包含香蕉的形象元素展示，为了达到“PUNCH”的效果，我采用了模块化设计，提炼了核心关键词，并配合了视觉符号和紧凑的排版，强调视觉冲击力和信息获取效率。\n\n内容是我的世界神秘时代1.7.10版本的核心玩法\n\n一幅展示《我的世界》神秘时代 1.7.10 核心玩法的插画，\n\n包含魔力节点、研究桌、魔杖、注魔祭坛、坩埚炼金、傀儡自动化，\n\n画面充满奥术符文、紫色和蓝色的魔法能量，具有神秘感与古典魔法科技风格，\n\n带有漂浮的魔法书、Vis 流动特效、魔法装置运转的细节。\n\n高质量、精细纹理、发光效果、幻想风。
+```
+
+---
+
 ## 古一
 
 ### [底特律：现实科幻交融](https://aiart.pics/prompt/detroit-realism-and-sci-fi-fusion)
@@ -14230,6 +16360,35 @@ Prompt: “An aged manuscript page with ink diagrams of stars and marginalia, bo
 8/ Stained glass window — 彩色玻璃窗风格
 中世纪教堂彩色玻璃的艺术风格,鲜艳的色块、铅线分隔、光线透射效果、宗教叙事主题。
 Prompt: “A saintly figure and soaring doves in jewel-tone panes, stained glass window style.” https://t.co/Fz9cafCfPz
+```
+
+---
+
+### [女子海边电影风格肖像照](https://aiart.pics/prompt/cinematic-portrait-of-woman-by-seaside)
+
+**作者**: [@古一](https://x.com/MANISH1027512)
+
+**来源**: [X](https://x.com/MANISH1027512/status/1992795956597628978)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/cinematic-portrait-of-woman-by-seaside.jpeg" width="500" alt="女子海边电影风格肖像照">
+
+```
+A young woman standing on the beach at dusk, captured in a soft emotional film-style portrait. \nHer dark hair is messy from the sea breeze, strands blowing across her face. \nShe has natural, slightly flushed skin with a subtle grainy texture. \nWearing a white spaghetti-strap top and denim bottoms. \nThe background shows dark ocean waves and a moody sky with soft sunset colors—dusty pink, blue-gray, and muted lavender. \nThe overall image features a low-saturation, cool-toned cinematic film filter with soft contrast, slight grain, and a hazy atmosphere. \nClose-up portrait, melancholic mood, natural lighting, realistic details, 8K.
+黄昏时分，一位年轻女子站在海滩上，被拍摄成一张柔和而富有情感的电影风格肖像照。\n海风吹乱了她乌黑的头发，几缕发丝飘落在她的脸上。\n她的皮肤自然红润，质地略带颗粒感。\n身穿白色吊带背心和牛仔裤。\n背景是深色的海浪和阴郁的天空，夕阳的颜色柔和而朦胧——灰粉色、蓝灰色和淡紫色。\n整体画面采用低饱和度、冷色调的电影胶片滤镜，对比度柔和，颗粒感轻微，氛围朦胧。\n特写人像，忧郁氛围，自然光线，逼真细节，8K分辨率。
+```
+
+---
+
+### [一键OOTD](https://aiart.pics/prompt/one-click-ootd)
+
+**作者**: [@古一](https://x.com/MANISH1027512)
+
+**来源**: [X](https://x.com/MANISH1027512/status/1992884544278548721)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/one-click-ootd.jpeg" width="500" alt="一键OOTD">
+
+```
+Create an OOTD collage image.价格你随便填\n\n【构图要求】\n- 左侧放置全身或半身照片的主角（时尚街拍风）\n- 右侧以白底排版列出所有单品\n- 每件单品包含：物品图、品牌名、中文品名、价格\n- 布局整洁、有呼吸感，时尚杂志风格\n\n【视觉风格】\n- 明亮自然街拍光线\n- 真实质感的衣物贴图，呈现清晰材质\n- 右侧采用电商风格白底商品照\n- 字体干净现代（类似无衬线字体）\n- 整体专业、极简、精致\n\n【人物说明】\n- 女性角色，时髦、有气质\n- 穿着：灰色短款针织、条纹衬衫、牛仔外套、深蓝短裙、黑色单鞋（可替换）\n- 造型自然，像真人街拍\n\n【单品列表排版】\n- 以独立小模块方式呈现每件单品\n- 每件单品包括：\n  - 商品照（剪影风）\n  - 品牌名（英文或中文）\n  - 品名（中文）\n  - 价格（人民币）\n\n【整体风格方向】\n- 像小红书/微博时尚博主常用的 OOTD 拼贴\n- 风格年轻、日常、好看、实用\n- 色调统一且具有品牌感
 ```
 
 ---
@@ -14335,6 +16494,48 @@ a dreamy intimate portrait of a beautiful realistic asian woman lying under a bl
 ```
 a young beautiful Japanese woman with porcelain skin, soft makeup and bright red lips, straight chestnut-brown hair neatly tied in a ponytail with straight bangs framing her face, wearing a fitted light-blue police uniform shirt with gold buttons and badge, a dark green flat ribbon tie knotted at the collar with two short tails hanging down like a gift bow, navy skirt, dark belt with brass buckle, white gloves, black shoes, \nsitting with her knees together and hands gently folded over a glass, calm and elegant posture, \noxygen-fresh natural makeup look with translucent dewy base, barely-there eyeliner, soft straight brows, faint rosy blush on the cheeks, subtle inner-corner highlight that makes her eyes look bright and airy, lips a clean vivid red yet not glossy, \nher pose delicate and composed: seated on a narrow wooden bench in a cramped booth, ankles tucked slightly back, torso subtly leaning forward from the hips, forearms relaxed, gloved hands overlapping lightly above the small tumbler placed between her knees, chin slightly lowered while gazing directly at the camera, \nflanked by two older Japanese policemen in uniform on each side, \nthe man on the left leaning inward from the doorway, cap slightly tilted, short-sleeve standard police shirt, one elbow resting on his knee with the hand hanging loosely, attentive and calm expression; \nthe man on the right wearing a striped short-sleeve shirt with a dark tie and badge, cap set square with a gold band, arms firmly crossed over his chest, body angled toward the woman, a reserved, thoughtful look, \ninside a small dimly-lit bar filled with vintage Japanese posters, old bottles, narrow wooden walls, cluttered shelves, \ndetailed physical environment: shot from the doorway so the worn wooden jambs create a frame-within-frame; scuffed varnished beams, handwritten Japanese slips and price tags pinned among utensils, cords and trinkets hanging overhead, glassware and liquor bottles stacked tight on shallow shelves, a tiny aisle underfoot, faint reflections on lacquered wood, humid air; one or two bare incandescent bulbs casting a localized amber pool of light that fades rapidly into darkness, \ncamera perspective and ratio: intimate eye-level viewpoint at close conversational distance (about 1–1.5 m), classic 35mm focal feel, vertical portrait framing with a 3:4 aspect, slight center-weighted composition emphasizing the trio in a tight booth, \nwarm incandescent lighting with nostalgic amber tone, low saturation colors, fine 35mm film grain texture, slightly overexposed highlights, retro 1980s analog snapshot aesthetic, candid composition, shallow depth of field, cinematic color grading, in the style of Nobuyoshi Araki and Daido Moriyama street photography --ar 3:4 --v 7
 一位年轻美丽的日本女子，有着瓷器般的肌肤、柔和的妆容和鲜红的嘴唇，栗色的直发扎成马尾辫，齐刘海修饰着她的脸型，身穿合身的浅蓝色警服衬衫，上面有金色的纽扣和徽章，深绿色的扁平丝带领带在领口处打结，两条短尾巴像礼物蝴蝶结一样垂下来，海军蓝裙子，深色腰带配黄铜扣，白手套，黑色鞋子，\n她双膝并拢，双手轻轻地放在玻璃杯上，姿势平静而优雅，\n氧气清新的自然妆容，透明水润的底妆，几乎看不见的眼线，柔软的直眉，脸颊上淡淡的玫瑰色腮红，微妙的内眼角高光使她的眼睛看起来明亮通风，嘴唇是干净鲜红但不油腻，\n她的姿势精致而沉稳：坐在狭小隔间的一张窄木凳上，脚踝微微向后弯曲，躯干从臀部微微向前倾斜，前臂放松，戴着手套的双手轻轻重叠放在放在膝盖之间的小玻璃杯上方，下巴微微放低，直视镜头，\n两侧各有两名身穿制服的年长日本警察，\n左边的男人从门口探身向内，帽子微微倾斜，穿着短袖制式警服，一肘撑在膝盖上，手随意垂着，表情专注而平静；\n右边的男人穿着条纹短袖衬衫，系着深色领带，戴着徽章，帽子是方形的，上面有一条金边，双臂紧紧地交叉在胸前，身体朝着女人倾斜，一副内敛、若有所思的样子，\n在一个灯光昏暗的小酒吧里，摆满了复古的日本海报、旧瓶子、狭窄的木墙、杂乱的架子，\n详细的物理环境：从门口拍摄，磨损的木质门框形成了一个画框；磨损的涂漆横梁、手写的日文单子​​和价格标签夹在餐具之间，电线和小饰品悬挂在头顶，玻璃器皿和酒瓶紧紧地堆放在浅浅的架子上，脚下是一条小过道，漆木上隐约的反光，潮湿的空气；一两个裸露的白炽灯泡投射出局部琥珀色的光晕，迅速消失在黑暗中，\n相机视角和比例：近距离对话距离（约 1-1.5 米）的亲密视线视角，经典的 35 毫米焦距感，3：4 比例的垂直人像取景，轻微的中央重点构图，强调紧凑展位中的三人组，\n温暖的白炽灯，怀旧的琥珀色调，低饱和度的色彩，细腻的 35 毫米胶片颗粒纹理，略微过度曝光的高光，复古的 1980 年代模拟快照美学，坦率的构图，浅景深，电影色彩分级，风格类似于荒木经惟和森山大道的街头摄影 -ar 3:4 --v 7
+```
+
+---
+
+## Marcus Byrne
+
+### [纳米香蕉Pro疯狂了](https://aiart.pics/prompt/nano-banana-pro-is-insane)
+
+**作者**: [@Marcus Byrne](https://x.com/Marcus_Byrne)
+
+**来源**: [X](https://x.com/Marcus_Byrne/status/1992191090259325344)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-is-insane-1.jpg" width="500" alt="纳米香蕉Pro疯狂了">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-is-insane-2.jpg" width="500" alt="纳米香蕉Pro疯狂了">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-is-insane-3.jpg" width="500" alt="纳米香蕉Pro疯狂了">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-is-insane-4.jpg" width="500" alt="纳米香蕉Pro疯狂了">
+
+```
+Nano Banana Pro is crazy. @GoogleDeepMind  #nanobanana Three images uploaded... prompt:
+"Use man photo as slipping off the building edge, woman is reaching out, match sketch pose and composition precisely, nyc (style reference) for the scene. High quality action shot from the 90’s"
+```
+
+---
+
+## MΛRC VIDΛL
+
+### [Nano Banana Pro 分析场景拍摄技巧](https://aiart.pics/prompt/nano-banana-pro-analyzes-scene-filming-techniques)
+
+**作者**: [@MΛRC VIDΛL](https://x.com/marcvidal)
+
+**来源**: [X](https://x.com/marcvidal/status/1992882958785741226)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-analyzes-scene-filming-techniques-cover-1.jpg" width="500" alt="Nano Banana Pro 分析场景拍摄技巧">
+
+```
+Analiza con Nano Banana Pro una escena y te "mostrará" cómo se filmó.
+Pruébalo tú mismo con este prompt:
+"Genera una imagen realista que muestre dónde se colocan la cámara y las luces para filmar esta escena y etiqueta los elementos que salgan"
+https://t.co/gFpQPXXHNf
 ```
 
 ---
@@ -14494,6 +16695,24 @@ Please edit my old photo into 1080 x 1920 pixels, with an aesthetic and modern p
 
 ---
 
+## marshmallowy
+
+### [尝试了Gemini的Nano Banana Pro，并按照提示调整了画面的月亮和画笔触感](https://aiart.pics/prompt/tried-nano-banana-pro-gemini-adjusted-moon-painting-touch)
+
+**作者**: [@marshmallowy](https://x.com/marshmallowy)
+
+**来源**: [X](https://x.com/marshmallowy/status/1992213195298406774)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/tried-nano-banana-pro-gemini-adjusted-moon-painting-touch-1.jpg" width="500" alt="尝试了Gemini的Nano Banana Pro，并按照提示调整了画面的月亮和画笔触感">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/tried-nano-banana-pro-gemini-adjusted-moon-painting-touch-2.jpg" width="500" alt="尝试了Gemini的Nano Banana Pro，并按照提示调整了画面的月亮和画笔触感">
+
+```
+Geminiへ行ったらNano Banana Proお試ししてというからやってみた。プロンプトで「女性の背景に描いている月を向かって左に移動させてください。絵のタッチを透明水彩に変えて」と言っただけなんだけど（過去の苦労はなんだったんだと思うぐらいの仕上がり） https://t.co/I6WpiXWt57
+```
+
+---
+
 ## Martin LeBlanc
 
 ### [纳米香蕉专业技巧](https://aiart.pics/prompt/nano-banana-pro-tips)
@@ -14602,6 +16821,21 @@ Nano Banana Proすごい
 
 ## MayorKingAI
 
+### [高端工作室照片](https://aiart.pics/prompt/high-end-studio-photo)
+
+**作者**: [@MayorKingAI](https://x.com/MayorKingAI)
+
+**来源**: [X](https://x.com/MayorKingAI/status/1993040352987824579)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/high-end-studio-photo.jpeg" width="500" alt="高端工作室照片">
+
+```
+Create a high-end 8k studio photograph. The person from the reference is standing on the left side, posing with a [POSE] attitude and wearing [CLOTHING]. To their right, dominating the scene, stands a GIANT, human-scale monolithic smartphone (floor-standing). The massive screen is on and displays a crystal-clear, authentic [SOCIAL APP] user interface. Key visible details on the screen must be sharp and legible and appear exactly as they would in the real app\'s layout: the profile picture (matching the subject), the username "@[USERNAME]", the follower count "[FOLLOWER COUNT]" displayed realistically within the standard profile stats area (not artificially enlarged), and a consistent feed of posts below. Premium studio lighting with the screen casting a subtle glow on the subject. Clean minimalist white background
+创作一张高端 8K 工作室照片。参考人物站在左侧，摆出 [POSE] 姿势，身着 [CLOTHING]。在其右侧，占据画面中心位置的是一部巨大的、与真人大小相当的落地式智能手机。巨大的屏幕已开启，显示着清晰逼真的 [SOCIAL APP] 用户界面。屏幕上的关键可见细节必须清晰易读，并且与真实应用中的布局完全一致：个人资料照片（与拍摄对象相符）、用户名"@[ USERNAME]、粉丝数 [FOLLOWER COUNT]（真实显示在标准个人资料统计区域内，而非人为放大），以及下方持续更新的帖子信息流。使用高级工作室灯光，屏幕散发出柔和的光晕，照亮拍摄对象。背景为简洁的白色背景。
+```
+
+---
+
 ### [3D蒸汽朋克Logo](https://aiart.pics/prompt/3d-steampunk-logo)
 
 **作者**: [@MayorKingAI](https://x.com/MayorKingAI)
@@ -14640,6 +16874,29 @@ Nano Banana Pro: https://t.co/M7Ccq5MuTA
 ---
 
 ## Mehdi Sharifi
+
+### [时光凝固](https://aiart.pics/prompt/frozen-in-time)
+
+**作者**: [@Mehdi Sharifi](https://x.com/_MehdiSharifi_)
+
+**来源**: [X](https://x.com/MehdiSharifi/status/1992320756995530757)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/frozen-in-time-1.jpg" width="500" alt="时光凝固">
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/frozen-in-time-2.jpg" width="500" alt="时光凝固">
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/frozen-in-time-3.jpg" width="500" alt="时光凝固">
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/frozen-in-time-4.jpg" width="500" alt="时光凝固">
+
+```
+Frozen in Time!
+A powerful visual journey through the exact coordinates where history changed forever.
+&gt; Create an image of {Geographic Coordinates}
+- By Nano Banana Pro via @BasedLabsAI &amp; Huge thanks to @osanseviero, @Arminn_Ai https://t.co/vY4W3IvqnV
+```
+
+---
 
 ### [经典少年漫画对决：埃隆·马斯克与帕维尔·杜罗夫对抗萨姆·奥特曼与马克·扎克伯格](https://aiart.pics/prompt/classic-shonen-manga-showdown-elon-musk-and-pavel-durov-vs-sam-altman-and-mark-zuckerberg)
 
@@ -14846,6 +17103,40 @@ Create a closeup face of a young woman after a workout, sweaty, deep blue eyes, 
 
 ```
 Nano Banana Proで最近びっくりしたことを漫画にしてもらった。エッセイ漫画まじでこれでいいのでは…！プロンプトはリプに↓ https://t.co/eAeZGUmwEF
+```
+
+---
+
+## Miguel Ángel | Educador en IA
+
+### [动漫/漫画风格分镜](https://aiart.pics/prompt/anime-comic-storyboards)
+
+**作者**: [@Miguel Ángel | Educador en IA](https://x.com/MiguelMaestroIA)
+
+**来源**: [X](https://x.com/MiguelMaestroIA/status/1992956550592274643)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/anime-comic-storyboards-1.jpg" width="500" alt="动漫/漫画风格分镜">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/anime-comic-storyboards-2.jpg" width="500" alt="动漫/漫画风格分镜">
+
+```
+Storyboards de Anime/Comic
+Prompt: Varias viñetas de cómic estilo Marvel en colores vibrantes. Una heroína con capa roja. En el fondo, la ciudad futurista brilla con neones. La heroina está salvando a gente que está en problemas. Caja de texto: Nano Banana Pro en OpenArt es una LOCURA. Formato vertical
+```
+
+---
+
+### [Nano Banana Pro的世界超现实理解与OpenArt流畅工作流程](https://aiart.pics/prompt/nano-banana-pro-ultra-realistic-world-understanding-fluid-openart-workflow)
+
+**作者**: [@Miguel Ángel | Educador en IA](https://x.com/MiguelMaestroIA)
+
+**来源**: [X](https://x.com/MiguelMaestroIA/status/1992956484024488260)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-ultra-realistic-world-understanding-fluid-openart-workflow-cover-1.jpg" width="500" alt="Nano Banana Pro的世界超现实理解与OpenArt流畅工作流程">
+
+```
+La comprensión ultrarrealista del mundo de Nano Banana Pro + el flujo de trabajo fluido de OpenArt = imparable
+Prompt: Toma cenital hiperrealista de 9:16 del hombre de la imagen adjunta (subo 2 fotos mías), sentado en el borde de un rascacielos durante la hora dorada, con las piernas colgando y las manos entrelazadas. Lleva la ropa que aparece en la imagen, mirando hacia atrás por encima del hombro, con el horizonte de la ciudad suavemente desenfocado. Iluminación natural, gradación de color cinematográfica, bokeh intenso, poca profundidad de campo, toma cinematográfica 8K con gran detalle.
 ```
 
 ---
@@ -15209,6 +17500,22 @@ Generate the holiday photo of this person through the ages up to 80 years old
 
 ---
 
+## MindfulReturn
+
+### [流年运势图](https://aiart.pics/prompt/annual-fortune-chart)
+
+**作者**: [@MindfulReturn](https://x.com/MindfulReturn)
+
+**来源**: [X](https://x.com/MindfulReturn/status/1993101356857729434)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/annual-fortune-chart.jpeg" width="500" alt="流年运势图">
+
+```
+用一个长图生成我的流年运势，标识出他命运齿轮启动点，发生的可能性和方向。图片标题就叫你的命运齿轮。绘制使用中文绘制成为完整的信息卡输出，尽可能的使用PUNCH的展示所有内容在一页内容！基于提供的文章内容设计的完整信息卡片。为了达到“PUNCH”的效果，采用了模块化设计，提炼了核心关键词，并配合了视觉符号和紧凑的排版，强调视觉冲击力和信息获取效率。
+```
+
+---
+
 ## leon
 
 ### [《水浒》排名前30人物工笔画图生成](https://aiart.pics/prompt/water-margins-top-30-characters-traditional-chinese-painting-style)
@@ -15547,6 +17854,21 @@ Prompt: A model is posing and leaning against a pink bmw. She is wearing the fol
 
 ---
 
+### [10种不同发型](https://aiart.pics/prompt/10-different-hairstyles)
+
+**作者**: [@MrDavids1](https://x.com/MrDavids1)
+
+**来源**: [X](https://x.com/MrDavids1/status/1992695614023622734)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/10-different-hairstyles.jpeg" width="500" alt="10种不同发型">
+
+```
+Create a grid of 10 different hairstyles for this women. List the name of each hairstyle and the brief history about the hairstyle. They can be from any era.
+为这位女性创建一个包含10种不同发型的表格。列出每种发型的名称和简要历史。发型可以来自任何时代。
+```
+
+---
+
 ## MapleShaw
 
 ### [中国历代王朝兴衰演变时间轴全图](https://aiart.pics/prompt/china-dynasties-rise-and-fall-timeline)
@@ -15753,6 +18075,62 @@ nano banana君！やっぱすげぇよあんた！ https://t.co/I40Vu9RrWD
 ---
 
 ## Nano Banana Labs
+
+### [全息F1能量，看见你的样子🏎️🏁](https://aiart.pics/prompt/full-f1-energy-see-yourself-in-this-style)
+
+**作者**: [@Nano Banana Labs](https://x.com/NanoBanana_labs)
+
+**来源**: [X](https://x.com/NanoBanana_labs/status/1993072987898106320)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/full-f1-energy-see-yourself-in-this-style-1.jpg" width="500" alt="全息F1能量，看见你的样子🏎️🏁">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/full-f1-energy-see-yourself-in-this-style-2.jpg" width="500" alt="全息F1能量，看见你的样子🏎️🏁">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/full-f1-energy-see-yourself-in-this-style-3.jpg" width="500" alt="全息F1能量，看见你的样子🏎️🏁">
+
+```
+🚨 “SEE YOURSELF IN FULL F1 ENERGY🏎️🏁”
+Copy the prompt below and CREATE YOUR OWN PHOTO LIKE THIS 🫵 with Nano Banana Pro
+Bookmark 🔖 this now and recreate this with your selfie later.
+How to:
+1. Open Gemini app
+2. Click create image and upload your photo
+3. Copy and Paste the prompt below on
+"Describe your image" section
+4. Click Generate button
+5. See the magic of Nano Banana Pro 🪄
+Follow @NanoBanana_labs for daily AI glow-ups & viral prompts 🚀 . Power of artificial intelligence, discover with nano banana pro
+Prompt 👇
+Create a hyper-realistic image in 8K resolution, keeping exactly my real face, features, skin color, eyes, and hair as per the reference image.
+I am the woman in the photo; preserve my confident, charming, and elegant expression, with a slight smile and relaxed posture.
+I am at an outdoor automotive event, in a grandstand or VIP box, with a wide view of the track and the crowd in the background. The weather is sunny, with an intense blue sky and natural sunlight, enhancing the colors and creating a vibrant racing atmosphere.
+The framing is a medium shot, capturing the upper body and the busy background with a slight depth-of-field blur.
+The look is sporty fashion with a sophisticated touch, composed of:
+* Red Ferrari cap, with the yellow prancing horse (cavallino rampante) logo on the front and the number "16" in white on the brim;
+* Strapless top in structured denim, tight and with visible stitching, enhancing the décolletage and silhouette;
+* Miu Miu sunglasses with brown gradient lenses and a rectangular metallic frame, partially covering the eyes;
+* Double necklace – one with large golden links and another with delicate diamonds close to the neck;
+* Geometric gold earrings;
+* Silver bracelet on the right wrist;
+* Discreet red bag hanging on the shoulder, partially visible beside the arm.
+Hair: natural, loose.
+The makeup is impeccable and glamorous, with illuminated skin, defined eyes, pink lipstick, and warm blush.
+The nails are long and decorated with nail art in shades of pink and red with white details, visible while holding the glass.
+The pose conveys attitude and sophistication:
+* Right hand holding the brim of the cap, adjusting it slightly;
+* Left hand holding a glass of white wine, with the arm relaxed;
+* Body slightly leaned, face turned towards the camera.
+The lighting is natural and intense, with subtle solar reflections on the face and hair.
+The color palette is vibrant – shades of red, denim blue, gold, and caramel, contrasting with the sunny background.
+The general atmosphere is modern, luxurious, and relaxed – transmitting the style of someone who lives exclusive experiences, with elegance and a striking presence at a premium automotive event.
+Quality: 8K hyper-realistic photo, sharp focus on the face and outfit, background slightly blurred with a colorful crowd and the track in the sun.
+Important:
+* Keep my face, hair, and skin color original.
+* Preserve the authentic pose, expression, and style.
+* Reinforce denim textures, metallic shine of accessories, and natural sunlight.
+```
+
+---
 
 ### [云端漫步：打造你的梦幻云照片](https://aiart.pics/prompt/chill-on-a-cloud-create-your-dreamy-cloud-photo)
 
@@ -15964,6 +18342,21 @@ Turn anything into an info graphic with Nano Banana Pro 🍌 https://t.co/PoEd5u
 
 ---
 
+### [Google DeepMind进行一次物品整齐排列展示](https://aiart.pics/prompt/google-deepmind-knolling-display)
+
+**作者**: [@Nano Banana Pro](https://x.com/NanoBanana)
+
+**来源**: [X](https://x.com/NanoBanana/status/1993311207714177251)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/google-deepmind-knolling-display.jpeg" width="500" alt="Google DeepMind进行一次物品整齐排列展示">
+
+```
+A knolling for Google DeepMind
+为谷歌深度思维（Google DeepMind）进行一次物品整齐排列展示
+```
+
+---
+
 ## ななな@で、AIは何て？運営の人
 
 ### [Nano Banana Pro 淋漓尽致！ChatGPT生成角色场景](https://aiart.pics/prompt/nano-banana-pro-too-emotional-character-scene-generated-by-chatgpt)
@@ -16020,6 +18413,24 @@ Use Nano Banana 2 to restyle any logo
 https://t.co/2qGNC5K997
 &gt; New project &gt; Create Image &gt; "+" upload logo
 "change symbol to red star, change "discord" to "DPRK", change colors red white blue, keep all details. https://t.co/NJUTA1g3s6
+```
+
+---
+
+## N≡H
+
+### [1994年7月18日，南纬34°36’07’’，西经58°23’58’’图像](https://aiart.pics/prompt/1994年7月18日-南纬34°36-07-西经58°23-58-o图像)
+
+**作者**: [@N≡H](https://x.com/nehuenmk)
+
+**来源**: [X](https://x.com/nehuenmk/status/1993088764948668880)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/1994718-3436-07-5823-58-o-1.jpg" width="500" alt="1994年7月18日，南纬34°36’07’’，西经58°23’58’’图像">
+
+```
+Le di este prompt a Nano Banana Pro:
+Crea una imagen en 34°36’07’’S 58°23’58’’O el 18 de julio de 1994 a las 9:53 a.m. (UTC-3)
+Me devolvió esta imagen: https://t.co/F5InqqvM8s
 ```
 
 ---
@@ -16420,6 +18831,21 @@ Nano Banana Pro、日本語も完璧に出力してくれる。架空の定食�
 
 ## Oogie
 
+### [晨光微逝](https://aiart.pics/prompt/under-the-fading-light)
+
+**作者**: [@Oogie](https://x.com/oggii_0)
+
+**来源**: [X](https://x.com/oggii_0/status/1992881418939277708)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/under-the-fading-light-1.jpg" width="500" alt="晨光微逝">
+
+```
+Under the Fading Light.
+Prompt: Japanese photo collage, young woman in cozy living room, morning sunlight, shoji windows, 90s cinematic tone, soft film grain, nostalgic mood, calm atmosphere, multiple shots showing small daily moments, warm colors https://t.co/7TLaY1PTm0
+```
+
+---
+
 ### [密林幽径](https://aiart.pics/prompt/solitary-walk-in-dense-pine-forest)
 
 **作者**: [@Oogie](https://x.com/oggii_0)
@@ -16695,6 +19121,24 @@ Create a cutaway visualization of this car, show exterior intact on one side, an
 
 ---
 
+## Vik
+
+### [早期谷歌里程碑及心理纳米香蕉专家解读](https://aiart.pics/prompt/early-google-milestones-and-the-mental-nano-banana-pro-analysis)
+
+**作者**: [@Vik](https://x.com/onlinedopamine)
+
+**来源**: [X](https://x.com/onlinedopamine/status/1992192837446693024)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/early-google-milestones-and-the-mental-nano-banana-pro-analysis-1.jpg" width="500" alt="早期谷歌里程碑及心理纳米香蕉专家解读">
+
+```
+not enough people are realizing how mental nano banana pro is
+this is the prompt I gave it: please create an info graphic about google's early years and its major milestones
+and this is literally the first result I got back https://t.co/s636SHg0nK
+```
+
+---
+
 ## おのふみ| AI×画像・動画生成
 
 ### [用nano banana pro尝试制作动画](https://aiart.pics/prompt/experimenting-with-animation-using-nano-banana-pro)
@@ -16733,6 +19177,34 @@ nano banana proを使ってアニメーションをつけてみた。
 做了一下爱因斯坦和劳拉的卡片
 dimensional break effects + motion depth 这两个词是核心
 原推没写完整提示词，我搞了一个放下面了 https://t.co/vFSCwJ6i5K
+```
+
+---
+
+### [Anthropic/Claude风格PPT设计：Nano Banana Pro生成中文演示文稿](https://aiart.pics/prompt/anthropic-claude-style-ppt-design-nano-banana-pro-generated-chinese-presentation)
+
+**作者**: [@歸藏(guizang.ai)](https://x.com/op7418)
+
+**来源**: [X](https://x.com/op7418/status/1993162900630823106)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/anthropic-claude-style-ppt-design-nano-banana-pro-generated-chinese-presentation-1.jpg" width="500" alt="Anthropic/Claude风格PPT设计：Nano Banana Pro生成中文演示文稿">
+
+```
+有的朋友可能觉得有点花哨
+迭代了一下这个 Anthropic 风格的 Nano Banana Pro PPT 提示词。
+现在会非常克制的使用插图元素，以及严格遵循网格布局，少用圆润的卡片。
+下面是迭代后的提示词👇
+帮我根据下面这个文章做一套专业的的中文PPT。
+先写1个PPT大纲，规划出每一页的PPT的内容。
+然后将每一页的PPT内容分别扔给Nana Banana pro生成对应页面的PPT，需要确保风格一致。
+PPT的具体风格应该为“Anthropic/Claude 风格”的“温暖学术人文主义”设计。
+背景：使用暖米色/奶油色 (# F3F0E9) 作为纯色底色，略微高级纸张质感。
+字体：标题使用优雅的衬线体（Serif），正文使用现代无衬线体（Sans-serif）。
+配色：主色调为赤陶红 (# D67052) 和芥末黄 (# F0B857)，搭配深海军蓝作为点缀。避免使用霓虹色或纯黑色。
+视觉元素：使用注重排版的网格布局，插图风格应为抽象的、有机的黑色手绘线条画，置于赤陶红纯色色块之上，你需要非常克制的使用插图和点缀类的插图元素，插图需要为内容服务。
+图表：扁平化、极简的图表，强调数据对比，去除多余边框。
+文字和图像都由 Nano Banana Pro 生成，另外不要将PPT 变成一整张图，一页一张图。
+文章内容为：
 ```
 
 ---
@@ -17187,6 +19659,24 @@ Mis primeras impresiones con Nano Banana 2 o Pro son simples: ahora se pueden ha
 
 ---
 
+## ひで@卒サラ生活 / 不動産×民泊
+
+### [四月与十一月：ChatGPT与nano banana pro的绘画仿真进化](https://aiart.pics/prompt/april-vs-november-chatgpt-and-nano-banana-pro-painting-simulation-evolution)
+
+**作者**: [@ひで@卒サラ生活 / 不動産×民泊](https://x.com/pippi_os)
+
+**来源**: [X](https://x.com/pippi_os/status/1992192307895157014)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/april-vs-november-chatgpt-and-nano-banana-pro-painting-simulation-evolution-1.jpg" width="500" alt="四月与十一月：ChatGPT与nano banana pro的绘画仿真进化">
+
+```
+今年の4月段階では、ChatGPTで時間を掛けて、プロンプトも工夫して塗装シミュレーションを出していたのが
+11月段階ではnano banana proで10秒かからず複数パターン作れるようになった
+プロンプトも「塗装シミュレーションができるよう、何パターンかを見比べられる1枚の画像にしてください」と簡単 https://t.co/8OW3iKoHvj
+```
+
+---
+
 ## fox hsiao
 
 ### [Google 新 AI 圖像生成 Nano Banana Pro 支援繁體中文](https://aiart.pics/prompt/google-new-ai-image-generator-nano-banana-pro-with-high-traditional-chinese-support)
@@ -17308,6 +19798,23 @@ Nano Banana 2 prompt from @goodside
 
 ---
 
+## Preda2005
+
+### [超现实主义日式水墨画](https://aiart.pics/prompt/surrealist-japanese-ink-painting)
+
+**作者**: [@Preda2005](https://x.com/Preda2005)
+
+**来源**: [X](https://x.com/Preda2005/status/1992472259127283888)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/surrealist-japanese-ink-painting.jpeg" width="500" alt="超现实主义日式水墨画">
+
+```
+Create a highly detailed surreal Japanese sumi-e illustration blending ancient Edo-period aesthetics with futuristic absurdity. At twilight, under a vast sky streaked with vermilion and indigo brushstrokes, Doraemon stands atop a traditional pagoda roof reinforced with glowing fiber cables and neon scaffolding. He pilots a weathered, patchwork mecha painted in faded indigo lacquer, shaped like a vintage wind-up toy with exposed gears, silk-banner decals, and steam exhausts puffing from shoulder vents. The mecha wears a digital mawashi displaying shifting kanji runes. Doraemon’s expression is intense but comically determined, his paw gripping a lever made from polished bamboo and chrome.\n\nAcross the composition, Hello Kitty appears inside a towering golden-armored mecha resembling an ornate Hannya mask, with sakura-shaped LEDs pulsing across its chestplate. Her stance mirrors that of a sumo rikishi mid-tachiai, legs wide, palms extended, toes digging into the glowing tatami rooftop below. Tiny holographic cherry blossoms swirl in the air, catching the last ambient light from futuristic Edo lanterns floating in midair via anti-gravity rings.\n\nBelow, dozens of onlookers in layered kimono-hologram hybrids cheer with glowing fans shaped like old kabuki masks. Some wear AR visors shaped like fox spirits, their faces half-lit by the flickering light of vending machines embedded in shrine walls. In one corner, an elderly monk with cybernetic arms calmly sketches the scene on a floating washi-scroll, eyes glowing faintly behind antique round glasses.\n\nThe entire piece is rendered in expressive sumi-e ink washes with chaotic splashes for motion trails, delicate dry-brush hatching for armor texture, and faint pastel watercolors to accent light sources. Negative space is used deliberately around the combatants to amplify their presence. A red artist seal (宝雷印) is stamped boldly in the lower corner, harmonizing the traditional technique with the scene’s absurd modernity.
+创作一幅细节丰富的超现实主义日式水墨画，融合江户时代的古典美学与未来主义的荒诞风格。暮色降临，在朱红与靛蓝交织的广袤天空下，哆啦A梦站在一座由发光纤维缆绳和霓虹灯脚手架加固的传统宝塔屋顶上。他驾驶着一架饱经风霜、涂着褪色靛蓝漆的机甲，外形酷似老式发条玩具，齿轮外露，饰有丝绸旗帜图案，肩部通风口喷出蒸汽。机甲上系着一条印有不断变化的汉字图案的数码腰带。哆啦A梦表情严肃而又滑稽地坚定，他的爪子紧紧握着一个由抛光竹子和镀铬制成的操纵杆。\n\n画面中，Hello Kitty 出现在一座高耸的金色铠甲机甲内，机甲造型宛如一副华丽的般若面具，胸甲上闪烁着樱花形状的 LED 灯。她的站姿如同相扑力士立合的姿势，双腿分开，手掌伸展，脚趾深深扎入下方发光的榻榻米屋顶。细小的全息樱花在空中飞舞，捕捉着未来感十足的江户灯笼在反重力环的辅助下悬浮于半空中时散发的最后一丝光芒。\n\n下方，数十名身着层叠和服与全息投影混合服饰的围观者挥舞着形似古老歌舞伎面具的发光扇子欢呼雀跃。一些人戴着狐狸精造型的增强现实（AR）头盔，他们的脸庞被神社墙壁上自动售货机闪烁的灯光照亮了一半。在一个角落里，一位装着机械手臂的老僧正平静地在一张漂浮的和纸卷轴上描绘着眼前的景象，他那双透过古董圆眼镜闪烁着微光的眼睛。\n\n整幅作品以极富表现力的水墨晕染技法绘制而成，奔放的泼墨笔触勾勒出动感轨迹，精细的干笔阴影描绘出盔甲的纹理，淡雅的粉彩则突出了光源。画中刻意在战斗人物周围留出空白，以增强他们的存在感。画面左下角醒目地盖上了红色的艺术家印章（宝雷印），将传统技法与画面荒诞的现代感巧妙地融合在一起。
+```
+
+---
+
 ## ProperPrompter
 
 ### [纳米香蕉Pro🤝像素艺术](https://aiart.pics/prompt/nano-banana-pro-pixel-art)
@@ -17345,6 +19852,21 @@ Google 🤩
 Nano Banana Pro pixel art is phenomenal!
 Use the image as reference and prompt: change the scene to a new battle and environment with new pokemon
 It even knows which moves should and should not be effective 🤯 https://t.co/WgGCUmJHLx
+```
+
+---
+
+### [权游角色拿着护照](https://aiart.pics/prompt/got-character-holding-passport)
+
+**作者**: [@ProperPrompter](https://x.com/ProperPrompter)
+
+**来源**: [X](https://x.com/ProperPrompter/status/1992248716443402662)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/got-character-holding-passport.jpeg" width="500" alt="权游角色拿着护照">
+
+```
+change it to [an unexpected, unlikely westeros character] in a different but relevant location, with an updated passport portrait, sigil, and origin based on the character’s actual history. use real westeros locations like king’s landing instead of “kingdom of the …”
+将其改为[一位出人意料、不太可能出现在维斯特洛大陆的人物]，并设定一个与该人物相关的地点，同时更新护照照片、纹章和出身信息，使其符合该人物的真实历史。使用维斯特洛大陆的真实地点，例如君临城，而不是“……王国”。
 ```
 
 ---
@@ -17424,6 +19946,102 @@ ChatGPT 生图🌟🌟🌟，生成的图片很精致，就是味儿不对，生
 最后放上对比图，你喜欢哪个工具生成的呢？ https://t.co/VxZYjiOloq
 最后的最后，大家觉得有用麻烦给个「点赞收藏关注」吧！
 新人 AI 博主一枚，23 年大四的时候，在私域帮助 10000+学员学习 AI 玩法， 25 年做 X 希望得到您的一点支持，我会持续分享 AI 落地玩法的。
+```
+
+---
+
+### [极繁主义波普艺术风格图像](https://aiart.pics/prompt/exuberant-pop-art-style-image)
+
+**作者**: [@骑司Chase](https://x.com/qisi_ai)
+
+**来源**: [X](https://x.com/qisi_ai/thread/1993258981498765626)
+
+<img src="https://img1.aiart.pics/images/prompts/20251213/exuberant-pop-art-style-image-1.jpg" width="500" alt="极繁主义波普艺术风格图像">
+
+<img src="https://img1.aiart.pics/images/prompts/20251213/exuberant-pop-art-style-image-2.jpg" width="500" alt="极繁主义波普艺术风格图像">
+
+```
+🔥极繁主义的波普艺术风格图像
+Prompt:
+请使用已上传的照片。 不要改变人物的真实外貌——保持人物的脸部、身体、服装、颜色和纹理完全逼真。 请勿改变背景视角。 请勿将人物形象转化为绘画或插图。  在人物周围（必要时可以贴在衣服上）添加一层厚重的、过多的流行风格插画“糖果怪兽”和图形装饰，但绝不能贴在皮肤或脸上。  图示元素： - 许多色彩鲜艳的卡通怪物，轮廓线粗黑，色彩扁平，表情可爱又丑陋。 - 以甜食为灵感的怪物：香蕉、饼干、草莓、融化的巧克力、棒棒糖、冰淇淋、橙子、纸杯蛋糕、甜甜圈、糖果块、汽水瓶等等。 - 其他图形形状：星星、心形、箭头、水滴、飞溅、锯齿线、感叹号、动态线条、闪光、气泡、漫画风格的文字形状（但不能包含实际文字）  装饰要非常密集、繁复： - 用重叠的糖果怪兽和形状填满人身后的空间 - 添加一些怪物，它们会从肩膀后面、包周围、人的脚边和头部附近探出头来。 允许部分怪物和形状与服装及配饰（衬衫、短裤、包、鞋子）重叠，但保持面部、手臂和腿部的皮肤逼真可见。 - 在人物前后使用多层插图来营造景深。 - 在人物周围添加发光轮廓、小白点和速度线，以强调能量。  颜色和款式： - 使用鲜艳的霓虹色系调色板（亮粉色、黄色、青色、酸橙色、橙色、紫色、蓝绿色） - 保持所有插图元素扁平化、图形化，边缘清晰，轮廓粗犷。 - 确保阴影和重叠能够暗示与真人的互动（例如，怪物触碰衣服时在衣服上留下淡淡的阴影）  总体目标： 创作一幅装饰华丽、极繁主义的波普艺术场景，真人站在场景中央，被一群嬉戏玩闹的糖果怪兽和涂鸦图形包围，而真人则保持清晰的写实风格。
+内容来自：https://t.co/oLvcIEMsCD
+```
+
+---
+
+### [生日海报设计指导](https://aiart.pics/prompt/birthday-poster-design-guidelines)
+
+**作者**: [@骑司Chase](https://x.com/qisi_ai)
+
+**来源**: [X](https://x.com/qisi_ai/thread/1993208057938297024)
+
+<img src="https://img1.aiart.pics/images/prompts/20251213/birthday-poster-design-guidelines-1.jpg" width="500" alt="生日海报设计指导">
+
+<img src="https://img1.aiart.pics/images/prompts/20251213/birthday-poster-design-guidelines-2.jpg" width="500" alt="生日海报设计指导">
+
+<img src="https://img1.aiart.pics/images/prompts/20251213/birthday-poster-design-guidelines-3.jpg" width="500" alt="生日海报设计指导">
+
+<img src="https://img1.aiart.pics/images/prompts/20251213/birthday-poster-design-guidelines-4.jpg" width="500" alt="生日海报设计指导">
+
+<img src="https://img1.aiart.pics/images/prompts/20251213/birthday-poster-design-guidelines-5.jpg" width="500" alt="生日海报设计指导">
+
+<img src="https://img1.aiart.pics/images/prompts/20251213/birthday-poster-design-guidelines-6.jpg" width="500" alt="生日海报设计指导">
+
+<img src="https://img1.aiart.pics/images/prompts/20251213/birthday-poster-design-guidelines-7.jpg" width="500" alt="生日海报设计指导">
+
+<img src="https://img1.aiart.pics/images/prompts/20251213/birthday-poster-design-guidelines-8.jpg" width="500" alt="生日海报设计指导">
+
+```
+🔥兄弟们！这绝对是下一个被疯传的爆款风格啊，我爆肝了一晚上搞出来，已经玩疯了
+你只需要上传图片和复制我的元提示词，填上名字，自动分析！
+🍰平面设计师什么的，真的弱爆了！
+Prompt：
+你是一名顶级生日海报平面设计师 + 视觉拼贴排版师。请基于我上传的【人物参考图】生成一张纵向生日拼贴海报，成品为 9:16 竖版、高清、适合社媒发布/打印。
+输入信息：
+1）名字：{高小乐}
+2）人物参考图：我上传的单张照片
+核心目标：
+只用这 1 张人物照，生成一张内容丰富的生日海报；
+海报里出现同一个人 2–3 张不同角度/姿势的照片，但衣服和整体配色保持统一；
+文案中英文夹杂，气氛像粉丝庆生/手帐拼贴/杂志特辑。
+生成步骤与要求：
+1）先“读图定风格”：
+观察参考图里人物的穿搭、妆容、发型、气质、光线、背景色。
+自动判断最适合 TA 的庆生海报风格（例如：甜酷/清冷/元气/复古/高级/街头/学院/优雅/暗黑等），不需要我指定。
+由此决定海报的主色系、字体感觉、装饰元素调性。
+2）人物一致性：
+海报只出现同一个人，五官、肤色、发型长度、年龄感、气质保持和参考图一致。
+不换人、不改性别气质、不漂移肤色。
+服装必须维持“同一套穿搭”逻辑：三张人物图看起来像同一时间同一套衣服的连拍（颜色/材质/风格统一）。
+3）2–3 个不同角度/姿势：
+主视觉：中间偏上放一张清晰的半身或近景主照（正面或轻微 3/4 角度）。
+副视觉：左下或右下放一张不同角度（侧脸/回眸/坐姿/站姿）的照片，做成拍立得/照片纸卡的小框。
+点缀视觉：再放一张人物小图（可为全身/半身），做成剪贴贴纸效果，带轻微白边或纸感边缘。
+三张图的摄影质感与色温统一，像同一组写真。
+4）背景与拼贴元素：
+背景采用“拼贴/手帐/撕纸/便签/方格纸/胶带层叠”的视觉语言，但具体图层颜色与纹理由你根据人物风格自动匹配。
+加入少量手绘/线稿庆生元素增强氛围（如蛋糕、礼物、气球、爱心、星星、彩带等），风格要和你判断出的整体调性一致（可爱就更圆润，高级就更克制，酷感就更利落）。
+画面丰富但不乱，有清晰主次与留白。
+5）文字排版（中英夹杂）：
+中文主标题要醒目：
+「{NAME} 生日快乐」或「祝 {NAME} 生日快乐」
+字体和颜色由你根据人物风格自动选择（手写感/杂志感/酷感/甜感都可以，但要匹配）。
+英文氛围短语 2–4 处，做成贴纸/小条幅点缀，示例（可自行选择更适合风格的等价表达）：
+“HAPPY BIRTHDAY”“Best Wishes”“Always With You”“Shine On”“Forever Fan”
+所有文字清晰可读、无乱码、无拼写错误。
+6）质感与约束：
+人物抠图干净自然，阴影轻微真实。
+最终画面像高质量庆生海报/粉丝应援拼贴页。
+不要出现水印、logo、错误文字、额外人物或畸形肢体。
+输出：只给我最终完成的生日海报成图。
+案例 1： 暗黑酷Girl全身生成效果 https://t.co/Sfgvdvl636
+案例 2： 二次元风格生成效果 https://t.co/zAWQxhu99p
+案例 3： 宠物猫咪生成效果 https://t.co/pJPBvh3VZh
+案例 4： 素人生成效果
+图一是无任何附加提示
+图二要求呈现时尚大片风格 https://t.co/5NSapHw3aQ
+案例 5： 历史人物生成效果
+这个效果太惊艳了，尺度把控的很好文字控制也很到位 https://t.co/vu38VshPf1
 ```
 
 ---
@@ -17942,6 +20560,21 @@ Unplanned paparazzi style portrait, an intense, close-up moment capturing a man 
 
 ---
 
+### [风格化的3D人物漫画](https://aiart.pics/prompt/stylized-3d-character-caricature)
+
+**作者**: [@rovvmut_](https://x.com/rovvmut_)
+
+**来源**: [X](https://x.com/rovvmut_/status/1993255617855729818)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/stylized-3d-character-caricature.jpeg" width="500" alt="风格化的3D人物漫画">
+
+```
+A highly stylized 3D caricature of the person in the uploaded image, with expressive facial features, and playful exaggeration. Rendered in a smooth, polished style with clean materials and soft ambient lighting. Bold color background to emphasize the character’s charm and presence.
+根据上传的图片，创作一幅风格化的3D人物漫画，面部表情丰富，风格夸张活泼。渲染风格流畅精致，材质干净，环境光柔和。背景采用醒目的色彩，以突出人物的魅力和存在感。
+```
+
+---
+
 ### [创建您自己的3D漫画](https://aiart.pics/prompt/create-your-own-3d-comic)
 
 **作者**: [@rovvmut_](https://x.com/rovvmut_)
@@ -18144,6 +20777,26 @@ Create a bold ad for Trifecta Nutrition: a baseball player mid-swing in a stadiu
 ---
 
 ## samann_ai
+
+### [纳米香蕉Pro AI面部年龄评估](https://aiart.pics/prompt/nano-banana-pro-ai-facial-age-estimation)
+
+**作者**: [@samann_ai](https://x.com/samann_ai)
+
+**来源**: [X](https://x.com/Samann_ai/status/1992901987805835279)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-ai-facial-age-estimation-1.jpg" width="500" alt="纳米香蕉Pro AI面部年龄评估">
+
+```
+Nano Banana Pro 𝗔𝗚𝗘 𝗖𝗛𝗘𝗖𝗞𝗘𝗥 👶🏻👨🏻‍🦳
+▫️Upload your photo & let the AI estimate your real age based on full facial analysis! ▫️
+Mi invitado especial: @techhalla ✨
+Prompt👇🏻
+A hyper-realistic, high-resolution portrait infographic based on (your photo). Keep the same person, identity, hairstyle, clothing and natural skin tone from (your photo), with a neutral studio background.Overlay a subtle, semi-transparent facial analysis grid on the entire face, very similar to a 3D face-scanning mesh: thin, soft white lines following the facial contours, slightly glowing but not hiding the skin details. Add one clean vertical red laser line running down one side of the face, like a futuristic scan. All analysis lines must be soft, minimal and elegant, exactly like a cosmetic-tech advertisement.Create a clean medical–aesthetic infographic that evaluates 5 aging factors using global data percentages:1. Fine lines and wrinkles2. Skin texture and elasticity3. Facial volume and sagging4. Eye area aging signs5. Skin tone and pigmentationFor each factor, place a small label with a thin line pointing to the relevant facial area, and next to it write a short title and a realistic percentage score from 0–100% (based on global data), for example:“Fine lines & wrinkles – 18%”“Skin texture & elasticity – 72%”“Facial volume & sagging – 35%”“Eye area aging signs – 41%”“Skin tone & pigmentation – 63%”Use clean, modern, sans-serif typography and small technical-style text, like a scientific facial analysis UI. At the bottom of the image, in the center, write a large bold text showing the final estimated real age based on the analysis, for example:“ESTIMATED AGE: (random number based on face analysis ) ”Overall style: futuristic AI-guided skincare analysis, minimalistic, premium editorial lighting, no gender mentioned, suitable for any human face.
+—————————————————
+Nano Banana Pro is unlimited for a year for everyone joining @higgsfield_ai in the next 3 days.
+```
+
+---
 
 ### [纳米香蕉Pro 4K：细节至上](https://aiart.pics/prompt/nano-banana-pro-4k-focus-on-details)
 
@@ -18503,7 +21156,56 @@ turns out that giving nano banana a photoshop checkerboard background makes it e
 
 ---
 
+## servasyy
+
+### [龙珠卡牌](https://aiart.pics/prompt/dragon-ball-card)
+
+**作者**: [@servasyy](https://x.com/servasyy)
+
+**来源**: [X](https://x.com/servasyy/status/1993337294477218061)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/dragon-ball-card.jpeg" width="500" alt="龙珠卡牌">
+
+```
+A 3x3 grid layout displaying 9 different premium Japanese TCG collectible card designs, each featuring Son Goku in Super Saiyan form with unique battle scenes.\n\nOverall Composition: 9 vertical trading cards (9:16 ratio each) arranged in a perfect 3x3 grid with thin spacing between cards.\n\nEach Card Contains:\n\nSon Goku (SSR rarity) in dynamic charging attack poses with clenched fists\n\nGolden lightning-shaped ki aura spiraling upward with intense particle burst effects\n\nShattered rocky ground and dark thunder clouds (motion-blurred backgrounds)\n\nRadial golden speed lines in mid-ground\n\nFlying debris rocks and energy sparks in foreground\n\nHolographic foil texture with glow effects on energy areas\n\nTop-left: "SSR" metallic badge with golden light rays\n\nBorder: Futuristic tech frame with lightning pattern decorations\n\nBottom: Black hexagonal nameplate "SON GOKU (UI SIGN)" in metallic gold font\n\n9 Different Scenes (varied poses and angles):\n\nFrontal charging punch\n\nSide aerial kick with energy burst\n\nKamehameha charging stance\n\nSpinning attack with motion trails\n\nUpward rising power-up pose\n\nDownward diving strike\n\nEnergy sphere preparation\n\nDefensive counter stance\n\nFinal impact explosion moment\n\nConsistent Color Palette Across All Cards:\n\nPrimary: Radiant gold (#FFD700) and electric blue (#00BFFF)\n\nContrast: Deep purple (#4B0082)\n\nHighlights: Pure white (#FFFFFF) with bloom\n\nShadows: Deep blue-black (#001F3F)\n\nTechnical Specs: Ultra detailed TCG card art collection, multiple dynamic action poses, explosive energy burst effects, professional digital illustration, dramatic cinematic lighting, motion blur effects, Dragon Ball Z/Super official trading card aesthetic, Bandai Carddass premium quality, holographic rainbow foil treatment on all cards
+```
+
+---
+
+### [配料合成食材](https://aiart.pics/prompt/ingredients-synthesis)
+
+**作者**: [@servasyy](https://x.com/servasyy)
+
+**来源**: [X](https://x.com/servasyy/status/1992968777013850371)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/ingredients-synthesis.jpeg" width="500" alt="配料合成食材">
+
+```
+Premium Chinese noodle restaurant food poster featuring deconstructed layers of Dan Dan Noodles / Spicy Sichuan Noodles floating in vertical stack on pure black background (#000000). Seven distinct layers from top to bottom with extra spacing before the final dish:\n\n1) Top layer: pile of bright red dried chili flakes and golden-brown Sichuan peppercorn powder\n\n2) Second layer: light yellow crushed peanuts and vibrant green chopped scallions scattered\n\n3) Third layer: coiled handmade alkaline noodles in pale yellow, showing clear texture and strands\n\n4) Fourth layer: yellow bean sprouts (yacai) and bright green peas scattered - these vegetables would be placed in the bowl first\n\n5) Fifth layer: transparent glass bowl filled with deep red spicy chili oil broth, floating chili pieces visible, glossy surface with reflections - this soup base is poured over the vegetables, so it appears BELOW the vegetables in the vertical stack\n\n6) Sixth layer: EMPTY SPACE - a larger gap with only subtle floating oil droplets, steam wisps, and small ingredient particles drifting down, creating visual separation and breathing room\n\n7) Bottom/Final layer (with significantly larger gap above): a complete finished Dan Dan Noodles dish in a traditional dark brown ceramic bowl, viewed from the same 45-degree angled perspective as all other layers above. The bowl contains all ingredients combined - pale yellow noodles coated in glossy red chili oil, topped with crushed peanuts, bright green chopped scallions, bean sprouts, peas, and red chili flakes sprinkled on top. The noodles look freshly mixed and glistening with oil, subtle steam rising. This finished bowl is at the same scale and viewing angle as the deconstructed ingredients above. The extra spacing above emphasizes this as the final result, creating a dramatic reveal of the transformation from separated components to complete dish.\n\nEach layer separated with gaps revealing textures and details. Layers 1-5 have normal spacing between them. Layer 6 is an intentional empty transition space with double or triple the normal gap distance. Layer 7 (finished dish) sits at the bottom with clear visual separation. Chinese and English bilingual labels with elegant arrows pointing to each component: "辣椒油&花椒粉 Chili Oil & Sichuan Pepper Powder", "麻辣风味 Numbing & Spicy Flavor", "花生碎&葱花 Crushed Peanuts & Scallions", "手工碱面 Handmade Noodles", "芽菜&豌豆 Yacai & Peas", "丰富配料 Rich Toppings", "红油汤底 Spicy Red Broth", "成品 Finished Dish".\n\nNO white pedestal, NO platform base. All layers float freely in space against pure black background. Dramatic studio lighting from 45-degree angle, rim lighting highlighting textures and glass bowl transparency. All layers including the finished bowl share identical lighting, perspective angle, and photorealistic quality. Subtle steam effects, oil droplets floating around layers, with more particles in the empty transition space. Star sparkle effect in bottom right corner near the finished dish. Dark moody aesthetic, luxurious commercial food photography style, ultra-realistic, highly detailed, professional restaurant advertising quality, 9:16 vertical format.
+```
+
+---
+
 ## SETI Park
+
+### [Nano Banana Pro试转效果展示](https://aiart.pics/prompt/nano-banana-pro-style-transformation-showcase)
+
+**作者**: [@SETI Park](https://x.com/seti_park)
+
+**来源**: [X](https://x.com/seti_park/status/1992441954744115286)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-style-transformation-showcase-1.jpg" width="500" alt="Nano Banana Pro试转效果展示">
+
+```
+오 Nano Banana Pro로 한번 돌려보았는데 런 결과물이 나왔네요. 👀
+프롬프트는 아래의 프롬프트를 사용했습니다.
+- 프롬프트:
+이미지 속 나머지 구성은 그대로 유지하고, 도화지 속 그림만 스타일을 바꾸고 싶어.
+그림의 내용은 카라반을 타고 간 캠핑을 그린거고, 왼쪽의 두 명은 테이블에 앉아 있는 엄마와 아이이고, 오른쪽은 바베큐기로 고기를 굽고 있는 아빠의 모습이야.
+초등학생이 크래파스로 그린 그림체로 그림을 바꿔줘.
+```
+
+---
 
 ### [使用Nano Banana Pro绘制了乐天世界塔](https://aiart.pics/prompt/create-an-image-of-lotte-world-tower-using-nano-banana-pro)
 
@@ -18692,6 +21394,100 @@ nano banana Proの力で、
 ---
 
 ## Shreya Yadav
+
+### [永恒的凝视](https://aiart.pics/prompt/eternal-gaze)
+
+**作者**: [@Shreya Yadav](https://x.com/ShreyaYadav___)
+
+**来源**: [X](https://x.com/ShreyaYadav___/status/1992947035935560074)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/eternal-gaze-1.jpg" width="500" alt="永恒的凝视">
+
+```
+The divine gaze. A timeless portrait of serenity. 💫
+Use Google Gemini ai Nano Banana ✨
+Prompt ⤵️
+Create a digital smudge-paint style of the uploaded image.
+This is a very popular style in modern Indian digital art. The artist likely started with a photograph and digitally painted over it, smudging the pixels to remove skin texture and adding brush strokes to the hair and clothes.
+Lighting:
+The lighting is soft and diffuse (studio style). The shadows under the chin and along the side of the neck are soft, avoiding harsh contrast.Background:
+The background is a textured, abstract blend of brown and sepia tones.
+This neutral, earthy backdrop ensures that the viewer's focus remains entirely on the subject's face.
+The painting evokes a sense of divinity, tradition, and serenity.
+The direct gaze of the subject combined with the traditional attire creates a respectful and dignified portrait, often used for matrimonial profiles, memorial portraits, or commemorative gifts
+```
+
+---
+
+### [绒面奢华之不费力优雅](https://aiart.pics/prompt/effortless-elegance-meets-velvet-luxury)
+
+**作者**: [@Shreya Yadav](https://x.com/ShreyaYadav___)
+
+**来源**: [X](https://x.com/ShreyaYadav___/status/1992828036505280858)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/effortless-elegance-meets-velvet-luxury-1.jpg" width="500" alt="绒面奢华之不费力优雅">
+
+```json
+Where effortless elegance meets a touch of velvet luxury. 👑
+Use Google Gemini ai 📸
+Prompt ⤵️
+{
+  "prompt": "Hyperrealistic full-body photo of a young woman with the exact face from the reference image, wearing a white t-shirt, white formal trousers, a maroon velvet (makhmali) open blazer, and white formal shoes. She is casually leaning on a black iron garden railing with a romantic expression. The setting is a European-style garden featuring abundant greenery and rustic textures, conveying a minimal yet royal aura. The scene is illuminated by soft daylight, creating a calm and balanced atmosphere with pastel color tones and subtle cinematic shadows. She is wearing transparent, stylish sunglasses. Captured in high-resolution (4K), with an elegant and professional aesthetic. Signature: Shreya Yadav.",
+  "style": [
+    "hyperrealistic photo",
+    "cinematic lighting",
+    "pastel color palette",
+    "elegant and professional"
+  ],
+  "subject_details": {
+    "person": "Young woman (with face match from reference image)",
+    "expression": "Romantic looks",
+    "pose": "Casually leaning on a railing"
+  },
+  "clothing": {
+    "top": "White t-shirt",
+    "bottom": "White formal pants",
+    "outerwear": "Maroon velvet (makhmali) open blazer",
+    "footwear": "White formal shoes",
+    "accessories": "Stylish transparent sunglasses"
+  },
+  "setting": {
+    "location": "European-style garden",
+    "elements": [
+      "Iron garden railing",
+      "Greenery",
+      "Rustic textures"
+    ],
+    "mood": "Minimal but royal aura"
+  },
+  "lighting_and_quality": {
+    "lighting": "Soft daylight",
+    "shadows": "Cinematic shadows",
+    "resolution": "4K",
+    "color_tones": "Pastel"
+  },
+  "signature": "Shreya Yadav"
+}
+```
+
+---
+
+### [打造个人Instagram框架肖像 ✨](https://aiart.pics/prompt/create-your-own-instagram-frame-portrait)
+
+**作者**: [@Shreya Yadav](https://x.com/ShreyaYadav___)
+
+**来源**: [X](https://x.com/ShreyaYadav___/status/1992639877075370321)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/create-your-own-instagram-frame-portrait-1.jpg" width="500" alt="打造个人Instagram框架肖像 ✨">
+
+```
+Create own Instagram Frame Portrait ✨
+Use Google Gemini ai Nano Banana 🍌
+Prompt ⤵️
+Ultra realistic portrait of an individual presented inside an oversized Instagram post frame that dominates the scene. Keep uploaded face consistent and unchanged. The individual's facial features are delicate yet sharp, clean, and naturally stunning, with eyes locked on the viewer with calm, magnetic intensity and lips softly relaxed and neutral, radiating a high-fashion model expression. They stand in a modern, dynamic pose:
+```
+
+---
 
 ### [创意灵感飞扬：AI技术下的悬浮人像摄影](https://aiart.pics/prompt/creative-flow-lifted-ai-generated-cinematic-levitation-portrait)
 
@@ -19220,6 +22016,24 @@ A hyperrealistic cinematic photo of a woman stepping out of a smartphone screen 
 
 ---
 
+### [原作巨作与视觉建筑师：打造震撼之作](https://aiart.pics/prompt/original-masterpiece-and-architect-of-vision-built-for-impact)
+
+**作者**: [@Shreya Yadav](https://x.com/ShreyaYadav___)
+
+**来源**: [X](https://x.com/ShreyaYadav___/status/1993331098005520856)
+
+<img src="https://img1.aiart.pics/images/prompts/20251205/original-masterpiece-and-architect-of-vision-built-for-impact-1.jpg" width="500" alt="原作巨作与视觉建筑师：打造震撼之作">
+
+```
+The original masterpiece and the architect of the vision. Built for impact.
+Use Google Gemini ai Nano Banana ✨
+Prompt ⤵️
+Use the uploaded photo as the face reference for both the large painted portrait in the background and the full-body woman in the foreground. Create a stylish cinematic scene with a woman sitting confidently on the table in her personal luxury office room. She wears a loose pastel-toned dress or an oversized soft-colored suit, blending elegance and subtle boldness.The background features a huge artistic portrait of the same woman, painted with expressive pastel brushstrokes — pink, peach, beige — dynamic, sweeping strokes that create movement. Soft daylight, fashion-editorial mood, clean composition.
+Signature: Shreya Yadav
+```
+
+---
+
 ### [3D漫画肖像](https://aiart.pics/prompt/3d-caricature-portrait)
 
 **作者**: [@Shreya Yadav](https://x.com/ShreyaYadav___)
@@ -19232,6 +22046,66 @@ A hyperrealistic cinematic photo of a woman stepping out of a smartphone screen 
 ☘️ 3D Caricature Portrait ☘️
 ✨Prompt (ChatGPT) :
 3D caricature portrait of [SUBJECT], Pixar/DreamWorks style — expressive eyes, slightly oversized head, exaggerated ears & nose, realistic skin shading with soft subsurface scattering, detailed hair, gentle warm smile, smooth polished materials, subtle fabric texture, soft ambient lighting, warm reddish-orange gradient background — balanced realism and stylized charm.
+```
+
+---
+
+### [制作一组有趣的3D自画像](https://aiart.pics/prompt/create-a-set-of-fun-3d-caricatures-of-yourself)
+
+**作者**: [@Shreya Yadav](https://x.com/ShreyaYadav___)
+
+**来源**: [X](https://x.com/ShreyaYadav___/status/1993520133747474696)
+
+<img src="https://img1.aiart.pics/images/prompts/20251204/create-a-set-of-fun-3d-caricatures-of-yourself-1.jpg" width="500" alt="制作一组有趣的3D自画像">
+
+```
+Make a 3D caricature of yourself in a bunch of fun poses. 🫅🏻
+using Gemini Nano Banana Pro.
+Prompt ⤵️
+3×2 collage of six stylized 3D caricature portraits of one young woman, each with a different expressive pose (joyful, surprised, serious, cute, sassy, confident). Smooth polished look, soft ambient lighting, clean character design, and bold vibrant backgrounds for each panel.
+```
+
+---
+
+### [谷歌Gemini AI纳米香蕉3 Pro✨ 指示场景](https://aiart.pics/prompt/google-gemini-ai-nano-banana-3-proprompt-scene)
+
+**作者**: [@Shreya Yadav](https://x.com/ShreyaYadav___)
+
+**来源**: [X](https://x.com/ShreyaYadav___/status/1993334939438531012)
+
+<img src="https://img1.aiart.pics/images/prompts/20251204/google-gemini-ai-nano-banana-3-proprompt-scene-1.jpg" width="500" alt="谷歌Gemini AI纳米香蕉3 Pro✨ 指示场景">
+
+```json
+Google Gemini ai Nano Banana 3 Pro ✨
+Prompt ⤵️
+{
+  "prompt": "A stylish cinematic scene featuring a full-body man sitting confidently on a large wooden desk in his personal luxury office room. He has one leg casually crossed over the other, exuding quiet power and charisma. He is wearing a sophisticated **black suit** (oversized soft-colored blazer and tailored trousers). The background wall features a huge artistic portrait of the **same man**, painted with highly expressive, dynamic pastel brushstrokes, including muted pinks, warm peaches, soft beiges, and pale blues, creating energy and movement. Soft daylight filters through large windows on the left. The mood is high-fashion editorial, with sharp yet dreamy lighting and a clean, sophisticated composition. **Use the uploaded face as a reference for both the man and the painted portrait.**",
+  "style": "cinematic, high-fashion editorial, painterly brushstrokes for background art",
+  "colors": "black suit, pastel portrait (muted pinks, warm peaches, soft beiges, pale blues), warm wood tones, soft daylight",
+  "composition": "full-body shot, man centered, large artistic portrait dominating the background wall, clean lines, sharp yet soft focus",
+  "face_reference_image": "uploaded:31653.jpg",
+  "signature": "Shreya Yadav"
+}
+```
+
+---
+
+### [简约儿童绘画风格的[主题]✨](https://aiart.pics/prompt/minimalist-childrens-drawing-style-subject)
+
+**作者**: [@Shreya Yadav](https://x.com/ShreyaYadav___)
+
+**来源**: [X](https://x.com/ShreyaYadav___/status/1993569167979823129)
+
+<img src="https://img1.aiart.pics/images/prompts/20251204/minimalist-childrens-drawing-style-subject-1.jpg" width="500" alt="简约儿童绘画风格的[主题]✨">
+
+<img src="https://img1.aiart.pics/images/prompts/20251204/minimalist-childrens-drawing-style-subject-2.jpg" width="500" alt="简约儿童绘画风格的[主题]✨">
+
+<img src="https://img1.aiart.pics/images/prompts/20251204/minimalist-childrens-drawing-style-subject-3.jpg" width="500" alt="简约儿童绘画风格的[主题]✨">
+
+```
+Use Google Gemini ai Nano Banana 3 Pro ✨
+Prompt ⤵️
+A [subject] in a minimalist children's drawing style, using thick white lines and glowing contours. The background is softly blurred with [environment details]. Floating elements like [floating details] add a whimsical touch. Full-body view, warm and simple aesthetic.
 ```
 
 ---
@@ -19564,6 +22438,54 @@ Prompt:
 
 ---
 
+### [黄昏时分草丛中孤独青年的情绪化电影肖像](https://aiart.pics/prompt/moody-cinematic-portrait-of-a-young-man-in-tall-grass-field-at-dusk)
+
+**作者**: [@Anissa](https://x.com/SimplyAnnisa)
+
+**来源**: [X](https://x.com/SimplyAnnisa/status/1992819599541485701)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/moody-cinematic-portrait-of-a-young-man-in-tall-grass-field-at-dusk-1.jpg" width="500" alt="黄昏时分草丛中孤独青年的情绪化电影肖像">
+
+```
+"moody cinematic portrait, lone young man in tall grass field at dusk, overcast sky, teal-green color grade, wearing white buttoned shirt, matte silver over-ear headphones, side profile, head tilted back toward sky, eyes closed, arms open and slightly back, wind-swept grass blades in foreground creating soft motion blur, shallow depth of field with creamy bokeh, natural ambient light, soft rim light on hair, melancholic freedom vibe, minimal contrast, subtle grain”
+```
+
+---
+
+### [Gemini纳米香蕉Pro：打造自然光下的超写实半身肖像](https://aiart.pics/prompt/gemini-nano-banana-pro-natural-light-waist-up-portrait)
+
+**作者**: [@Anissa](https://x.com/SimplyAnnisa)
+
+**来源**: [X](https://x.com/SimplyAnnisa/status/1992768690098692104)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/gemini-nano-banana-pro-natural-light-waist-up-portrait-1.jpg" width="500" alt="Gemini纳米香蕉Pro：打造自然光下的超写实半身肖像">
+
+```
+Gemini nano banana pro:
+Create a hyper-realistic waist-up portrait using the attached photo.  Don't change the face.
+A portrait of a beautiful young woman with fair glowing skin and an oval face with a perfect figure, not skinny.
+A natural light indoor shot featuring a woman with green grayish eyes with winged liner, a natural, subtle freckles with sun-kissed peachy color on her face, feathery eyebrows, including a pink glossy lip and bronzed cheeks.
+She has voluminous, shiny, waist-length golden hair layered style with a slight wave, her hair blowing in the wind, giving a natural and fresh look, with small braided buns in her hair.
+She is wearing a loose-fitting, beige knitted maxi dress with stacks of gold accessories in ears, rings, stacked bracellet and stacked necklace.
+She is looking into a rustic, antique mirror framed with decorative tiles and surrounded by lush green foliage that grows around and over it, suggesting an indoor space with an outdoor feel or a sunroom.  The background is gently blurred, emphasiz
+```
+
+---
+
+### [8K高清照片：飒爽女性近照，黑发随风，光影交织](https://aiart.pics/prompt/8k高清照片-飒爽女性近照黑发随风光影交织)
+
+**作者**: [@Anissa](https://x.com/SimplyAnnisa)
+
+**来源**: [X](https://x.com/SimplyAnnisa/status/1992600010656292878)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/8k--1.jpg" width="500" alt="8K高清照片：飒爽女性近照，黑发随风，光影交织">
+
+```
+Create an 8k photorealistic image using the attached photo. A close-up portrait of a woman with long, jet-black, slightly wind-swept hair falling across her face. Her striking, light-colored eyes gaze upwards and to the right, catching a sharp, diagonal beam of natural light that illuminates the high points of her cheekbone, nose, and plump, glossy, mauve-toned lips. The rest of her face and the background are cast in deep, dramatic shadow, emphasizing the play of light and shadow.@jahurrrrrrr
+```
+
+---
+
 ### [夜晚老公交亭中的沉思女子](https://aiart.pics/prompt/contemplative-young-woman-at-an-old-bus-stop-at-night)
 
 **作者**: [@Anissa](https://x.com/SimplyAnnisa)
@@ -19875,6 +22797,54 @@ NanoBanana提示词：
 ```
 Gemini Nano Banana Pro提示词：
 一张Windows 11桌面截图，画面中央打开的Chrome浏览器显示着YouTube主页，焦点是一张奥特曼模仿Mr. Beast经典夸张姿势与炫富背景（堆满钞票和豪车）的视频缩略图 https://t.co/f2VaVOhely
+```
+
+---
+
+### [Nano Banana Pro证件照制作指南](https://aiart.pics/prompt/nano-banana-pro-id-photo-creation-guide)
+
+**作者**: [@松果先森](https://x.com/songguoxiansen)
+
+**来源**: [X](https://x.com/songguoxiansen/status/1993135045846987053)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-id-photo-creation-guide-1.jpg" width="500" alt="Nano Banana Pro证件照制作指南">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-id-photo-creation-guide-2.jpg" width="500" alt="Nano Banana Pro证件照制作指南">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-id-photo-creation-guide-3.jpg" width="500" alt="Nano Banana Pro证件照制作指南">
+
+```
+Nano Banana Pro提示词-制作证件照。
+兄弟们，这回真的要实现证件照自由了
+以下是Nano Banana Pro提示词（照片的底色根据需要自行更换）：
+截取图片人像头部，帮我做成2寸证件照，要求:
+1、蓝底
+2、职业正装
+3、正脸
+4、微笑 https://t.co/9jOdQp29HJ
+```
+
+---
+
+### [复古宝丽来拼贴画艺术](https://aiart.pics/prompt/vintage-polaroid-collage-art)
+
+**作者**: [@松果先森](https://x.com/songguoxiansen)
+
+**来源**: [X](https://x.com/songguoxiansen/status/1993125250020823292)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/vintage-polaroid-collage-art-1.jpg" width="500" alt="复古宝丽来拼贴画艺术">
+
+```
+复古宝丽来照片-艺术拼贴画
+Nano Banana Pro提示词：
+用6张复古宝丽来照片，用装饰绳和迷你衣夹固定，打造一个艺术拼贴画，就像一个家庭相册。每个宝丽来相框都略微褪色，并呈现出旧纸效果。背景是一面柔和的粉彩色墙，点缀着浅淡的阴影，营造出一种舒适而又充满创意的混乱氛围。
+情绪和姿势：
+* 轻松的笑声——闭上眼睛，自然的快乐。
+* 梦幻般的目光向上凝视，放松的姿势。
+* 顽皮的眨眼。
+* 平静的微笑，头部歪向一侧。动态的手势，双手高举，充满活力。
+* 浪漫地回头瞥了一眼。
+店内弥漫着复古艺术的氛围，融合了70年代时尚杂志的元素，柔和的漫射灯光，以及柔和的暖金色色调。每一张照片都像是一张独特的幕后花絮，洋溢着一丝怀旧气息，也透露着个人的点滴历史。
 ```
 
 ---
@@ -20416,6 +23386,20 @@ Create a 3D kawaii 10-16 canvas featuring nine chibi-style stickers in various o
 
 ---
 
+### [早朝了开个视频会议先](https://aiart.pics/prompt/morning-court-video-conference-first)
+
+**作者**: [@松果先森](https://x.com/songguoxiansen)
+
+**来源**: [X](https://x.com/songguoxiansen/status/1993126993135902996)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/morning-court-video-conference-first.jpeg" width="500" alt="早朝了开个视频会议先">
+
+```
+传统的清代宫廷画风格。画面描绘了皇帝庄严肃穆地端坐在太和殿的龙椅上。然而，他面对的不是跪拜的大臣，而是盯着放在御案上的一块巨大的笔记本电脑屏幕。屏幕上显示着与大臣们进行“腾讯会议”的网格视图，大臣们都在各自的府邸中，有的看起来很无聊，有一个在偷偷吃面条。皇帝在朝冠外面戴着一副头戴式耳机。一名太监站在后边举着环形补光灯，以确保皇帝在镜头前看起来气色很好。屏幕上的文字写着“早朝”。
+```
+
+---
+
 ### [游戏角色试图从电视屏幕爬到客厅](https://aiart.pics/prompt/game-character-trying-to-crawl-from-tv-to-living-room)
 
 **作者**: [@松果先森](https://x.com/songguoxiansen)
@@ -20458,6 +23442,20 @@ Create a 3D kawaii 10-16 canvas featuring nine chibi-style stickers in various o
 
 ---
 
+### [明星合照的幕后花絮](https://aiart.pics/prompt/behind-the-scenes-of-celebrity-group-photo)
+
+**作者**: [@松果先森](https://x.com/songguoxiansen)
+
+**来源**: [X](https://x.com/songguoxiansen/status/1992456465173692800)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/behind-the-scenes-of-celebrity-group-photo.jpeg" width="500" alt="明星合照的幕后花絮">
+
+```
+我想看看这张照片拍摄的幕后花絮，了解它是如何创作出来的
+```
+
+---
+
 ### [马里奥路易吉给碧奇公主修理厨房](https://aiart.pics/prompt/mario-and-luigi-repairing-kitchen-for-princess-peach)
 
 **作者**: [@松果先森](https://x.com/songguoxiansen)
@@ -20468,6 +23466,21 @@ Create a 3D kawaii 10-16 canvas featuring nine chibi-style stickers in various o
 
 ```
 马里奥满身污垢，看起来筋疲力尽，正在一个逼真的房子里修理厨房橱柜下漏水的水槽。路易吉递给他扳手。碧奇公主用金币支付他们报酬
+```
+
+---
+
+### [西游记师徒四人组成了一个摇滚乐队](https://aiart.pics/prompt/journey-to-the-west-quartet-form-a-rock-band)
+
+**作者**: [@松果先森](https://x.com/songguoxiansen)
+
+**来源**: [X](https://x.com/songguoxiansen/status/1993235709914915307)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/journey-to-the-west-quartet-form-a-rock-band.jpeg" width="500" alt="西游记师徒四人组成了一个摇滚乐队">
+
+```
+A traditional Chinese Gongbi-style ink painting. The scene humorously depicts a grand concert taking place on a giant, floating lotus leaf amidst a sea of clouds. At the center, Tang Sanzang wears cool aviator sunglasses and acts as a DJ, scratching on a turntable made of ancient millstones. Beside him, Sun Wukong is in mid-air performing a heavy metal jump, shredding on a flaming electric guitar styled like a Pipa. Zhu Bajie sits on a subwoofer drum set, enthusiastically banging the drums with two rake-shaped drumsticks, sweat flying. Sha Wujing stands calmly at the back, holding a microphone stand, crooning a jazz ballad with a saxophone hanging from his neck. Traditional Chinese calligraphy lyrics float in the air, accompanied by a classic red artist’s seal inscribed "魔音穿耳".
+这是一幅传统的工笔水墨画。画面生动地描绘了一场盛大的音乐会，地点设在一片巨大的漂浮荷叶之上，云海环绕。唐三藏戴着酷炫的飞行员墨镜，扮演着DJ的角色，用一块古老的磨盘打碟。在他身旁，孙悟空在空中表演着重金属跳跃，弹奏着一把形似琵琶的火焰电吉他。猪八戒坐在低音鼓上，挥舞着两根耙状鼓槌，汗流浃背地热情地敲击着鼓面。沙悟净则镇定地站在后方，手持麦克风架，脖子上挂着萨克斯，低吟着爵士情歌。传统的中国书法歌词在空中飘荡，旁边还钤着一枚经典的红色艺术家印章，上面写着“魔音穿耳”。
 ```
 
 ---
@@ -20524,6 +23537,49 @@ Create a 3D kawaii 10-16 canvas featuring nine chibi-style stickers in various o
 
 ```
 一个宇航员坐在弯弯的月亮边缘，手里拿着鱼竿。鱼钩垂在下方的云层中，钓起了一颗发光的星星。氛围孤独而宁静。Lofi Hip Hop 视觉美学。
+```
+
+---
+
+### [职业生涯地图图片](https://aiart.pics/prompt/career-map-image)
+
+**作者**: [@松果先森](https://x.com/songguoxiansen)
+
+**来源**: [X](https://x.com/songguoxiansen/status/1992766727126704259)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/career-map-image.jpeg" width="500" alt="职业生涯地图图片">
+
+```
+请为小米的雷军创建一个有趣的职业生涯地图图片，使用游戏王者荣耀的主题
+```
+
+---
+
+### [女子一只手夸张地伸向镜头](https://aiart.pics/prompt/woman-reaching-exaggeratedly-towards-camera)
+
+**作者**: [@松果先森](https://x.com/songguoxiansen)
+
+**来源**: [X](https://x.com/songguoxiansen/status/1993134542618566911)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/woman-reaching-exaggeratedly-towards-camera.jpeg" width="500" alt="女子一只手夸张地伸向镜头">
+
+```
+一个极端鱼眼镜头拍摄的照片。金发双马尾的年轻女子穿着灰色开衫和格子裙校服，在涩谷十字路口兴奋地跳起，一只手夸张地伸向镜头前景，手指甲清晰可见。背景中，扭曲的涩谷109大楼和其他建筑林立，街道上挤满行人和车辆。巨大的粉色和蓝色渐变卡通怪兽漂浮在城市上空，巨大的触手和角环绕着扭曲的城市景观。阳光明媚，光影对比强烈。圆形画幅。
+```
+
+---
+
+### [在复仇者大厦跟死侍合个影](https://aiart.pics/prompt/photo-with-deadpool-at-avengers-tower)
+
+**作者**: [@松果先森](https://x.com/songguoxiansen)
+
+**来源**: [X](https://x.com/songguoxiansen/status/1993222622986092722)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/photo-with-deadpool-at-avengers-tower.jpeg" width="500" alt="在复仇者大厦跟死侍合个影">
+
+```
+Place Deadpool next to the man, making "bunny ears" with his fingers behind the man\'s head while looking mischievously at the camera. Use the Avengers Tower rooftop overlooking New York City as the background. Keep the selfie composition intact and integrate both characters naturally.
+让死侍站在男人旁边，用手指在男人脑后比划“兔耳朵”，同时对着镜头露出调皮的表情。以俯瞰纽约市的复仇者大厦楼顶为背景。保持自拍构图不变，让两个角色自然地融入画面。
 ```
 
 ---
@@ -20908,6 +23964,28 @@ Gemini 3.0 / Nano Banana Proにnote内容をまとめてもらったらエグす
 
 ## SSSS_CRYPTOMAN
 
+### [Nano Banana Pro 第三弹：打造无限高品质LINE贴图提示](https://aiart.pics/prompt/nano-banana-pro-third-volume-high-quality-line-stamps-prompts)
+
+**作者**: [@SSSS_CRYPTOMAN](https://x.com/SSSS_CRYPTOMAN)
+
+**来源**: [X](https://x.com/SSSS_CRYPTOMAN/status/1992198283738087579)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-third-volume-high-quality-line-stamps-prompts-1.jpg" width="500" alt="Nano Banana Pro 第三弹：打造无限高品质LINE贴图提示">
+
+```
+Nano Banana Pro プロンプト集③
+ハイクオリティなLINEスタンプが無限に作れるプロンプトを作りました！
+これスタンプ職人死んじゃう…ｗ
+👇イラスト・写真を参照して下記をコピペ
+※アスペクト比は4:3か3:4を推奨
+このキャラクターをデフォルメして12種類のLINEスタンプをデザイン。バリエーション豊富になるようにポーズや文字配置を工夫して個性的なデザインに仕上げる。台詞は日本語。背景は白。スタンプのターゲットユーザーは「」
+最後の「」には作りたいスタンプのイメージを入力。この作例は「ゲーマー」
+ちびキャラにしたくない場合はデフォルメを「参照」に変えて下さい
+家族やペットの写真で作っても楽しい！！
+```
+
+---
+
 ### [Nano Banana Pro 提示集② - 轻松制作ポケモンや遊戯王风格卡片](https://aiart.pics/prompt/nano-banana-pro-prompt-collection-2-easy-to-make-pokemon-and-yu-gi-oh-style-cards)
 
 **作者**: [@SSSS_CRYPTOMAN](https://x.com/SSSS_CRYPTOMAN)
@@ -21165,6 +24243,22 @@ https://t.co/KzgZfY95rx
 
 ---
 
+## sundyme
+
+### [风格学习](https://aiart.pics/prompt/style-learning)
+
+**作者**: [@sundyme](https://x.com/sundyme)
+
+**来源**: [X](https://x.com/sundyme/status/1992753783731064990)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/style-learning.jpeg" width="500" alt="风格学习">
+
+```
+学习这种风格，设计一款复古单反相机。
+```
+
+---
+
 ## swyx #DevWritersRetreat
 
 ### [Nano Banana Pro 解说：我们可能要被烤了！](https://aiart.pics/prompt/nano-banana-pro-explanation-we-might-be-cooked)
@@ -21181,6 +24275,22 @@ https://t.co/KzgZfY95rx
 
 ```
 I asked @nainar92's new Nano Banana Pro to explain Nano Banana Pro and... oh my... we might be cooked, chat https://t.co/tTlzqDWyZ5
+```
+
+---
+
+## TaXue2025
+
+### [仿真绣苏绣表情包](https://aiart.pics/prompt/simulated-suzhou-embroidery-emoji)
+
+**作者**: [@TaXue2025](https://x.com/TaXue2025)
+
+**来源**: [X](https://x.com/TaXue2025/status/1993542832930668942)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/simulated-suzhou-embroidery-emoji.jpeg" width="500" alt="仿真绣苏绣表情包">
+
+```
+生成一张 16:9、4K 分辨率的仿真绣苏绣表情包大图：\n\n- 画面为 4×6 网格，共 24 个 1:1 方形小格，每格是一位同一角色的古典中式美人半身像表情包（胸部以上），脸部约占每格 60%–70%。\n- 头饰、发型、服装风格严格参考提供的原始角色形象，保持一致，但不要原图复制。\n\n风格要求：\n- 整体为仿真绣苏绣作品：人物五官、皮肤、头发、衣纹和背景全部由细密丝线和刺绣针脚构成，使用仿真绣 + 乱针绣技法，丝线有光泽、针脚平齐细密，形成微微凸起的真实绣面。\n- 底布为近乎纯白或极浅米色真丝绸，背景极简，仅有很淡云纹或暗纹，不加入复杂图案。\n\n禁止：\n- 不要油画、水彩、数码画笔纹理；\n- 不要相机景深、虚化、炫光、镜头光斑和 UI 特效。\n\n表情与文字：\n- 24 格覆盖常见聊天情绪和娱乐 meme（如开心、无语、震惊、委屈、嫌弃、坏笑、吃瓜、躺平、笑死、我裂开了等）。\n- 每一格配一条短句，使用手写风格简体中文，不用印刷体和英文。
 ```
 
 ---
@@ -21259,6 +24369,22 @@ Ready to create the IMPOSSIBLE? 🤯 Try Nano Banana Pro ! Use any style image a
 
 ## TechHalla
 
+### [Nano Banana Pro上的极致Knolling风格实践](https://aiart.pics/prompt/nano-banana-pro-knolling-style-challenge)
+
+**作者**: [@TechHalla](https://x.com/techhalla)
+
+**来源**: [X](https://x.com/techhalla/status/1992986275192685021)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-knolling-style-challenge-1.jpg" width="500" alt="Nano Banana Pro上的极致Knolling风格实践">
+
+```
+Try this prompt on Nano Banana Pro 🍌 with whatever you want and turn it into satisfying knolling style!
+📝 Ultra-realistic 8K flat-lay photo in strict knolling style. Top-down 90º shot of the object from the attached image, fully disassembled into 8–12 key parts and arranged in a clean grid or radial pattern on a minimalist wooden or matte gray table. Even spacing, perfect alignment, no overlaps, no extra objects. Soft, diffused multi-source lighting with subtle shadows, neutral color balance and crisp focus across the whole frame. Highly detailed real-world materials (metal, plastic, rubber grips, circuit boards, screws). For every part, add a thin white rectangular frame and a short, sharp English label in clean sans-serif text, placed beside the component without covering it; annotations must be legible but unobtrusive.
+Show me what you can create!
+```
+
+---
+
 ### [穿越中土世界的奇幻之旅](https://aiart.pics/prompt/a-journey-across-middle-earth-with-nano-banana)
 
 **作者**: [@TechHalla](https://x.com/techhalla)
@@ -21276,6 +24402,36 @@ all the details on how I made this video, below 🧵👇 https://t.co/PgWLiBIEeP
 
 ## TechieSA
 
+### [NANO BANANA PRO 的爆炸视图图解](https://aiart.pics/prompt/exploded-view-diagrams-by-nano-banana-pro)
+
+**作者**: [@TechieSA](https://x.com/TechieBySA)
+
+**来源**: [X](https://x.com/TechieBySA/status/1992907338697892301)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/exploded-view-diagrams-by-nano-banana-pro-1.jpg" width="500" alt="NANO BANANA PRO 的爆炸视图图解">
+
+```
+Exploded View Diagrams by NANO BANANA PRO on @BasedLabsAI ⚙️🍌
+Prompt👇🏻 https://t.co/Is3B0pDujD
+```
+
+---
+
+### [纳米香蕉Pro疯狂事件](https://aiart.pics/prompt/nano-banana-pros-crazy-incident)
+
+**作者**: [@TechieSA](https://x.com/TechieBySA)
+
+**来源**: [X](https://x.com/TechieBySA/status/1992947742948442516)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/nano-banana-pros-crazy-incident-1.jpg" width="500" alt="纳米香蕉Pro疯狂事件">
+
+```
+Nano Banana Pro is Crazy…🤯
+“Create an image at 40.7128° N, 74.0060° W, September 11, 2001, 08:46 hours” https://t.co/GQKT2Tg1wN
+```
+
+---
+
 ### [现代设计师玩具美学下的[角色名称]高级3D渲染乙烯基雕像](https://aiart.pics/prompt/premium-3d-rendered-character-name-vinyl-figure-modern-designer-toy-aesthetic)
 
 **作者**: [@TechieSA](https://x.com/TechieBySA)
@@ -21286,6 +24442,35 @@ all the details on how I made this video, below 🧵👇 https://t.co/PgWLiBIEeP
 
 ```
 Create a premium 3D rendered [FIGURE NAME] collectible vinyl figure in a modern designer toy aesthetic. The figure should feature glossy translucent vinyl material with subtle light refraction, bold saturated colors true to the character, and simplified geometric forms with smooth curves. Position against a pristine gradient background transitioning from light gray to white. Use professional product photography lighting with soft key light from above and gentle rim lighting to highlight the vinyl’s glossy finish. The character should be posed in a confident standing position, centered perfectly in frame. Apply shallow depth of field with the figure in sharp focus. Render in ultra-high resolution with clean minimalist composition, no text, logos, or distracting elements. Square aspect ratio 1080x1080 pixels, photorealistic quality with crisp details and vibrant color reproduction suitable for premium toy marketing.
+```
+
+---
+
+### [绘制地标的手绘等距示意图](https://aiart.pics/prompt/hand-drawn-isometric-landmark-diagram)
+
+**作者**: [@TechieSA](https://x.com/TechieBySA)
+
+**来源**: [X](https://x.com/TechieBySA/status/1993026620274131247)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/hand-drawn-isometric-landmark-diagram.jpeg" width="500" alt="绘制地标的手绘等距示意图">
+
+```
+Create a hand drawn isometric schematic diagram of [LANDMARK]. 1080x1080 dimension
+```
+
+---
+
+### [艺术家正在绘制自己的微型人偶](https://aiart.pics/prompt/artist-painting-miniature-figure-of-themselves)
+
+**作者**: [@TechieSA](https://x.com/TechieBySA)
+
+**来源**: [X](https://x.com/TechieBySA/status/1992666519495410162)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/artist-painting-miniature-figure-of-themselves.jpeg" width="500" alt="艺术家正在绘制自己的微型人偶">
+
+```
+Create an image of this person as an artist painting a tiny miniature figurine version of themselves. The person is wearing their most iconic signature outfit, looking directly at the camera with a confident expression while holding a tiny paintbrush in one hand. The small action figure-sized version of themselves is prominently placed on a clean workbench in front of them - make the miniature slightly larger and more visible than realistic scale so it clearly stands out. The miniature figure is also wearing the same iconic outfit in a signature pose. Minimal art supplies on the workbench to avoid clutter - just 2-3 small paint bottles and one extra brush, keeping the focus on the person and their miniature. Soft neutral white background, professional studio lighting, shallow depth of field. The composition emphasizes the person’s face looking at camera and the miniature figure they’re working on. Clean, uncluttered, photorealistic style with high detail on both figures
+创作一幅人物肖像，描绘此人作为艺术家正在绘制自己的微型人偶。此人身着其最具标志性的服装，自信地直视镜头，一手拿着一支小画笔。一个与真人大小相仿的微型人偶醒目地摆放在他面前干净的工作台上——将微型人偶的尺寸略大于实际比例，使其更加突出。微型人偶也穿着同样的标志性服装，摆出标志性的姿势。工作台上摆放的绘画用品极简，避免杂乱——只有两三瓶小颜料和一支备用画笔，从而将焦点集中在人物和微型人偶上。柔和的中性白色背景，专业的影棚灯光，浅景深。构图突出了人物看向镜头的面部表情以及他正在绘制的微型人偶。画面风格简洁明快，追求照片级的写实效果，人物和微型人偶的细节都需高度还原。
 ```
 
 ---
@@ -22309,6 +25494,27 @@ A quiet morning in a luxury treehouse retreat created by [BRAND NAME] — golden
 
 ---
 
+## Thibaud Zamora
+
+### [Gemini Topaz 上采样器效果展示](https://aiart.pics/prompt/gemini-topaz-upscaler-demonstration)
+
+**作者**: [@Thibaud Zamora](https://x.com/thibaudz)
+
+**来源**: [X](https://x.com/thibaudz/status/1992955082908766564)
+
+<img src="https://img1.aiart.pics/images/prompts/20251227/gemini-topaz-upscaler-demonstration-1.jpg" width="500" alt="Gemini Topaz 上采样器效果展示">
+
+<img src="https://img1.aiart.pics/images/prompts/20251227/gemini-topaz-upscaler-demonstration-2.png" width="500" alt="Gemini Topaz 上采样器效果展示">
+
+```
+Gemini just kill topaz upscaler!
+Thanks @linaqruf_ for the prompt, it works very well!
+Upscale this image using an artistic super-resolution process. Enrich it with micro-textures, fine-grain detail, depth enhancements, and creative accents that elevate visual complexity without distorting the core subject.
+from 300x231 to 4K
+```
+
+---
+
 ## Ryan Hart
 
 ### [从自拍创建自己的摇头公仔](https://aiart.pics/prompt/creating-your-own-bobblehead-from-a-selfie-using-chatgpt)
@@ -23069,6 +26275,36 @@ Transform your pic into a stunningly accurate sculpture using nano-banana with t
 
 ---
 
+### [宝丽来照片讲述故事](https://aiart.pics/prompt/polaroid-photo-telling-story-1)
+
+**作者**: [@Umesh](https://x.com/umesh_ai)
+
+**来源**: [X](https://x.com/umesh_ai/status/1993247403995283687)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/polaroid-photo-telling-story-1.jpeg" width="500" alt="宝丽来照片讲述故事">
+
+```
+Create an image about "[FILM_OR_NOVEL]" retold through a series of Polaroid photos pinned to a cork board. Each photo captures a key moment, with simple captions below. Arrange the photos in a loosely chronological path across the board, using colored strings to connect events and characters. Light the scene warmly to evoke nostalgia. Include incidental details, coffee cup rings, paper clips, handwritten notes, for authenticity.
+创作一幅关于[电影/小说]的图像，用一系列宝丽来照片讲述故事，并将照片钉在软木板上。每张照片捕捉一个关键时刻，并在下方附上简单的文字说明。将照片大致按照时间顺序排列在软木板上，用彩色细线连接事件和人物。用温暖的光线营造怀旧氛围。添加一些细节，例如咖啡杯印、回形针、手写笔记等，以增强真实感。
+```
+
+---
+
+### [让人做出Emoji的表情](https://aiart.pics/prompt/making-emoji-expressions)
+
+**作者**: [@Umesh](https://x.com/umesh_ai)
+
+**来源**: [X](https://x.com/umesh_ai/status/1992849169602818431)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/making-emoji-expressions.jpeg" width="500" alt="让人做出Emoji的表情">
+
+```
+Make this person do the expression of emoji [EMOJI]
+让这个人做出表情符号[EMOJI]的表情
+```
+
+---
+
 ### [部分咬掉的糕点](https://aiart.pics/prompt/partially-bitten-pastry)
 
 **作者**: [@Umesh](https://x.com/umesh_ai)
@@ -23643,6 +26879,21 @@ I asked Nano Banana Pro to make it look like this laptop was owned by an AI safe
 
 ---
 
+### [猫咪递归](https://aiart.pics/prompt/cat-recursion)
+
+**作者**: [@Justine Moore](https://x.com/venturetwins)
+
+**来源**: [X](https://x.com/venturetwins/status/1993174445515772086)
+
+<img src="https://img1.aiart.pics/images/prompts/20251205/cat-recursion-1.jpg" width="500" alt="猫咪递归">
+
+```
+Cat recursion 🐈
+Prompt for Nano Banana Pro: recursive image of an orange cat sitting in an office chair holding up an iPad. On the iPad is the same cat in the same scene holding up the same iPad. Repeated on each iPad. https://t.co/VXYeRNYN26
+```
+
+---
+
 ## 株式会社ヴェシカ👅🦌
 
 ### [使用Nano Banana Pro进行本次图像插画部分的像素转换](https://aiart.pics/prompt/pixel-conversion-of-this-image-s-illustration-part-using-nano-banana-pro)
@@ -23767,6 +27018,41 @@ Nano Banana Pro Prompt: \"Change all instances of 'United States' to 'India' in 
 
 ## wanerfu
 
+### [Nano Banana Pro 新玩法！](https://aiart.pics/prompt/nano-banana-pro-new-gameplay)
+
+**作者**: [@wanerfu](https://x.com/wanerfu)
+
+**来源**: [X](https://x.com/wanerfu/status/1993184128091799571)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/nano-banana-pro-new-gameplay-1.jpg" width="500" alt="Nano Banana Pro 新玩法！">
+
+```
+🍌Nano Banana Pro 新玩法！
+一张图→自动生成“水平三分割”效果！
+最神奇的是：
+角色保持一致，但表情、角度全自动换！
+真的像一次性拍了三张情绪写真
+目标很简单：
+用同一张人物图，让模型一次生成三个画面（上 / 中 / 下），
+不同情绪、不同机位，但同一个人。
+✍️ 提示词：
+“使用附加图片作为基础。
+不改变人物的脸、发型、服装和身体比例
+生成一个水平三面板构图（上 / 中 / 下）”
+🔼 上面板：
+只拍眼睛 + 嘴的特写
+情绪：带泪、哽咽、微微哭
+⏺ 中面板：
+四肢着地
+温柔微笑
+直视镜头
+🔽 下面板：
+头到颈部的侧脸特写
+嘟嘴、像要亲一下的动作
+```
+
+---
+
 ### [一幅奢华的高级时尚肖像](https://aiart.pics/prompt/a-luxurious-high-fashion-portrait)
 
 **作者**: [@wanerfu](https://x.com/wanerfu)
@@ -23861,7 +27147,482 @@ Nano Banana Pro对佛学也很强，一句话看美女到虚无出图
 
 ---
 
+## xmiiru_
+
+### [时尚摄影：梦幻光影中的自信女性](https://aiart.pics/prompt/fashion-photography-dreamy-light-shadow-confident-woman)
+
+**作者**: [@xmiiru_](https://x.com/xmiiru_)
+
+**来源**: [X](https://x.com/xmiiru_/status/1992863330726203428)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/fashion-photography-dreamy-light-shadow-confident-woman-1.jpg" width="500" alt="时尚摄影：梦幻光影中的自信女性">
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/fashion-photography-dreamy-light-shadow-confident-woman-2.jpg" width="500" alt="时尚摄影：梦幻光影中的自信女性">
+
+```json
+ai - candid shot , walkway •.﹆✦🚸✱
+Prompt:
+{
+"image_generation_parameters": {
+"resolution": "1200x1200px",
+"aspect_ratio": "1:1",
+"reference_usage": "Preserve facial features from reference image strictly"
+},
+"visual_style": {
+"genre": "High-fashion editorial, realistic portrait",
+"technique": "Natural sunlight photography",
+"atmosphere": "Dreamy, gentle elegance, soft cinematic feel",
+"lighting": "Sunlight streaming from left, creating sharp highlights on hair and skin against slightly darkened background"
+},
+"subject_breakdown": {
+"appearance": {
+"hair": "Long dark brown hair 👤, flowing to waist, loose Korean-style curls at ends, small strands across face",
+"expression": "Dreamy, confident, slightly cheerful 📸📀 🙅🏻‍♀️💁🏻‍♀️🧏🏻‍♀️",
+"makeup": "Natural makeup 💄💋, rosy cheeks, thin eyeliner, mascara, pink-orange lip gloss"
+},
+"pose": "Right arm slightly lifted, left arm holding black Balenciaga City bag / sitting sideways resting chin on hand / talking on phone naturally",
+"outfit": "Black sports bra crop top 👚👗👙🩲, wide-leg black jeans showing white Calvin Klein waistband, silver short necklace (LV pendant), small thick hoop earrings, minimal silver ring"
+},
+"lighting_and_effects": {
+"lighting": "Natural sunlight 🌌 from front–side highlighting cheeks and nose tip",
+"effects": "Cinematic lighting 🎞️🎞️, ultra HD 👑✨, hyper-realistic, sharp textures, stunning light and shadow effect"
+}
+```
+
+---
+
+### [一张年轻女性的逼真特写自拍照](https://aiart.pics/prompt/realistic-close-up-selfie-of-young-woman)
+
+**作者**: [@xmiiru_](https://x.com/xmiiru_)
+
+**来源**: [X](https://x.com/xmiiru_/status/1993206753236787443)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/realistic-close-up-selfie-of-young-woman.jpeg" width="500" alt="一张年轻女性的逼真特写自拍照">
+
+```json
+{\n  "subject": "Baby ꕤ Blue",\n  "description": "Create a realistic close-up selfie of a young woman (face must be 100% unchanged). The photo is taken with a digital camera in a dimly lit room using a powerful camera flash, creating sharp contrast between the illuminated face and the dark background. The color tones combine a cozy feeling with modern simplicity, featuring cool tones and soft textures of the knitted clothing.",\n  "hair": {\n    "style": "Long dark brown hair, side part on the left, Korean-style loose curls at the ends, small front strands, hair blowing slightly across the face",\n    "color": "Dark brown"\n  },\n  "clothing": {\n    "top": "Oversized blue striped knit sweater with white stripes",\n    "accessories": {\n      "earrings": "Small simple silver hoops",\n      "rings": "Delicate silver rings"\n    },\n    "nails": "Almond-shaped, blue with subtle sparkling crystals"\n  },\n  "makeup": {\n    "style": "Korean-style makeup",\n    "details": {\n      "skin": "Smooth and clear",\n      "eyebrows": "Light natural and tidy",\n      "eyeliner": "Soft, blurred Korean-style",\n      "eyelashes": "Thin false eyelashes",\n      "blush": "Light nude on cheeks, soft red on nose",\n      "lips": "Nude with a hint of red"\n    }\n  },\n  "pose": {\n    "hands": "Both hands gently touching cheeks",\n    "expression": "Dreamy and slightly cheerful",\n    "camera_angle": "High-angle selfie, approx 30 degrees above the face"\n  },\n  "background": {\n    "color": "Dark wall with shallow depth, contrasting with flash lighting",\n    "lighting": "Cool dim light with flash highlighting the face, hair, skin, and clothing texture",\n    "effect": "Minimalist, modern, friendly, with slight reflective highlights"\n  },\n  "style": {\n    "mood": "Film noir elegance",\n    "effects": "Prominent light and shadow, cinematic allure, high-detail, ultra-realistic"\n  },\n  "camera": {\n    "type": "Analog 35mm camera flash",\n    "lighting_condition": "Dark room"\n  },\n  "model_version": "SDXL1.0"\n}
+{\n主题："Baby ꕤ Blue",\n描述：拍摄一张年轻女性的逼真特写自拍照（面部必须完全不变）。照片需在光线昏暗的房间内使用数码相机拍摄，并使用强力闪光灯，使明亮的脸部与黑暗的背景形成鲜明对比。色彩搭配应兼具温馨舒适与现代简约风格，以冷色调和针织服装的柔软质感为特色。\n“头发”： {\n“发型”：“深棕色长发，左侧分，发尾韩式蓬松卷曲，前额留有几缕碎发，头发微微飘动，遮住脸庞。”\n颜色：深棕色\n},\n“衣服”： {\n上衣：宽松的蓝色条纹针织毛衣，带有白色条纹。\n“配件”： {\n“耳环”：“小巧简约的银色耳环”，\n“戒指”：精致的银戒指\n},\n“指甲”：杏仁形，蓝色，带有闪亮的水晶\n},\n“化妆品”： {\n“风格”：“韩式妆容”，\n“细节”： {\n“肌肤”：“光滑透亮”，\n“眉毛”：“清淡自然，整齐干净”，\n“眼线”: “柔和、晕染的韩式”\n“假睫毛”： “纤细的假睫毛”，\n“腮红”：“脸颊上淡淡的裸色，鼻子上柔和的红色”，\n“唇部”：“裸色带一丝红色”\n}\n},\n"姿势": {\n“双手”：“双手轻轻抚摸脸颊”，\n“表情”：“梦幻而略带欢快”\n"camera_angle": "高角度自拍，镜头距离面部约30度"\n},\n“背景”： {\n“颜色”：“深色墙壁，深度较浅，与闪光灯照明形成对比”，\n“照明”：“冷色调的昏暗灯光，闪光灯突出面部、头发、皮肤和衣服的纹理”，\n效果：简约、现代、友好，略带反光效果\n},\n“风格”： {\n“氛围”：“黑色电影的优雅”，\n“效果”：“鲜明的光影、电影般的魅力、高细节、超逼真”\n},\n“相机”： {\n"type": "模拟35mm相机闪光灯",\n"lighting_condition": "黑暗的房间"\n},\n"model_version": "SDXL1.0"\n}
+```
+
+---
+
 ## Melisa♡
+
+### [Gemini Nano Banana 3.0 Pro 拍摄指导](https://aiart.pics/prompt/gemini-nano-banana-3-0-pro-shooting-guidelines)
+
+**作者**: [@Melisa♡](https://x.com/xmliisu)
+
+**来源**: [X](https://x.com/xmliisu/status/1993215769765703861)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/gemini-nano-banana-3-0-pro-shooting-guidelines-1.jpg" width="500" alt="Gemini Nano Banana 3.0 Pro 拍摄指导">
+
+```json
+Gemini Nano Banana 3.0 Pro
+Prompt:
+{
+  "generation_constraints": {
+    "identity_preservation": "Strict full identity lock on both subjects from reference photo",
+    "facial_features": "Do not alter faces, proportions, or natural expressions",
+    "style_reference": "Raw Y2K night-photo style"
+  },
+  "camera_settings": {
+    "lens": "85mm portrait lens",
+    "focus": "Shallow depth of field",
+    "angle": "Eye level",
+    "framing": "Medium shot",
+    "technique": "Strong direct frontal flash (on-camera flash)"
+  },
+  "subject_details": {
+    "pose_interaction": {
+      "position": "Sitting close together in car backseat",
+      "man_action": "Gently hugging woman around neck, kissing her temple",
+      "woman_action": "Leaning toward him softly, eyes closed",
+      "mood": "Peaceful, intimate, calm"
+    },
+    "wardrobe": {
+      "woman": {
+        "garment": "Elegant black long-sleeve dress",
+        "fabric": "Dense matte fabric",
+        "details": "High neckline, no exposed shoulders, classic fitted silhouette"
+      },
+      "man": {
+        "outfit": "Black suit with matching trousers",
+        "shirt": "Black shirt worn underneath"
+      }
+    }
+  },
+  "lighting_and_atmosphere": {
+    "primary_source": "Strong direct frontal flash",
+    "ambient_light": "None inside (dark interior), blurred warm city lights outside",
+    "contrast": "High contrast edges, crisp shadows behind subjects",
+    "highlights": "Sharp flash highlights on skin and wet glass"
+  },
+  "environment_context": {
+    "setting": "Inside a car at night",
+    "background_elements": "Fogged car windows with raindrops",
+    "effects": "Flash reflections bouncing off glass, subtle haze from cold night air",
+    "depth": "Background remains deep and dark with soft blur"
+  }
+}
+```
+
+---
+
+### [Gemini Nano Banana Pro 3.0 摄影作品](https://aiart.pics/prompt/gemini-nano-banana-pro-3-0-photography)
+
+**作者**: [@Melisa♡](https://x.com/xmliisu)
+
+**来源**: [X](https://x.com/xmliisu/status/1992985230303527355)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/gemini-nano-banana-pro-3-0-photography-1.jpg" width="500" alt="Gemini Nano Banana Pro 3.0 摄影作品">
+
+```json
+Gemini Nano Banana Pro 3.0
+Prompt:
+{
+  "image_metadata": {
+    "resolution": "1200x1200px",
+    "genre": "Candid street portrait",
+    "editing_note": "Face edited without alteration to features"
+  },
+  "photography_style": {
+    "medium": "Analog 35mm film-style",
+    "overall_aesthetic": [
+      "raw",
+      "nostalgic",
+      "gritty"
+    ],
+    "visual_artifacts": {
+      "grain": "Subtle but distinct film grain visible throughout frame",
+      "bokeh": "Soft in background"
+    },
+    "color_grade": {
+      "palette": "Muted and slightly warm",
+      "contrast": "High contrast (typical of flash)"
+    }
+  },
+  "lighting_characteristics": {
+    "primary_source": {
+      "type": "Camera flash",
+      "direction": "Direct, shining on face and body"
+    },
+    "effects_on_subject": {
+      "highlights": "Strong",
+      "shadows": "Sharp, cast behind subject",
+      "skin_glow": "Slight glow from flash"
+    },
+    "ambient_light": {
+      "level": "Minimal",
+      "sources": [
+        "streetlights",
+        "car headlights",
+        "neon signs"
+      ],
+      "appearance": "Blurred and slightly halated"
+    }
+  },
+  "subject_details": {
+    "pose": {
+      "stance": "Leaning next to vehicle",
+      "arms": "Folded across chest",
+      "style": "Natural, candid"
+    },
+    "expression": "Slight smile towards the camera",
+    "features": {
+      "skin_texture": "Natural"
+    },
+    "attire": {
+      "top": "Army green V-neck knit crop vest",
+      "bottom": "Black shorts",
+      "footwear": "White-grey New Balance 530 sneakers"
+    }
+  },
+  "environmental_context": {
+    "time_of_day": "Night",
+    "setting": "Dark city street",
+    "key_elements": {
+      "foreground_object": "Bright yellow Ferrari F8",
+      "background": {
+        "brightness": "Dark",
+        "noise_level": "Minimal"
+      }
+    }
+  }
+}
+```
+
+---
+
+### [超逼真电影肖像摄影：Grok AI的AI艺术](https://aiart.pics/prompt/hyper-realistic-cinematic-portrait-photography-by-grok-ai)
+
+**作者**: [@Melisa♡](https://x.com/xmliisu)
+
+**来源**: [X](https://x.com/xmliisu/status/1992947783184109904)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/hyper-realistic-cinematic-portrait-photography-by-grok-ai-1.jpg" width="500" alt="超逼真电影肖像摄影：Grok AI的AI艺术">
+
+```json
+Grok AI
+Prompt:
+{
+  "generation_parameters": {
+    "quality": "8K resolution",
+    "style": "Hyper-realistic cinematic portrait",
+    "medium": "Photography (DSLR)",
+    "lens_specs": "85mm f/1.4 lens",
+    "focus": "Sharp focus on face and water reflections",
+    "realism_constraint": "No digital art, 100% natural appearance, realistic texture"
+  },
+  "subject_details": {
+    "pose": "Reclining in an antique porcelain bathtub",
+    "skin": "Glowing, realistic texture, wet skin effect",
+    "makeup": {
+      "style": "Wet euphoria look",
+      "eyes": "Thin eyeliner, golden eyeshadows",
+      "finish": "Dewy/glowing"
+    },
+    "wardrobe": {
+      "garment": "Lightweight translucent fabric",
+      "state": "Partially submerged in water, clinging to skin"
+    },
+    "body_features": {
+      "tattoos": "Visible distorted slightly underwater"
+    },
+    "accessories": [
+      "Thin necklace",
+      "Discreet ring"
+    ]
+  },
+  "environment_and_props": {
+    "setting": "Antique bathroom",
+    "surfaces": "White tiles with subtle cracks",
+    "water_details": {
+      "opacity": "Translucent",
+      "elements": "Covered in dark petals",
+      "colors": [
+        "Deep wine",
+        "Purple",
+        "Black"
+      ]
+    },
+    "tub": "Antique porcelain"
+  },
+  "lighting_and_atmosphere": {
+    "light_source": "Soft golden light",
+    "effects": [
+      "Reflections on water surface",
+      "Subsurface scattering on skin",
+      "Atmospheric warmth"
+    ],
+    "mood": "Intimate, serene, euphoric"
+  }
+}
+```
+
+---
+
+### [Gemini Nano Banana 3.0 拍摄指南](https://aiart.pics/prompt/gemini-nano-banana-3-0-shooting-guide)
+
+**作者**: [@Melisa♡](https://x.com/xmliisu)
+
+**来源**: [X](https://x.com/xmliisu/status/1992861873813811258)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/gemini-nano-banana-3-0-shooting-guide-1.jpg" width="500" alt="Gemini Nano Banana 3.0 拍摄指南">
+
+```json
+Gemini Nano Banana 3.0
+Prompt;
+{
+"generation_parameters": {
+"resolution": "1200x1200px",
+"overall_aesthetic": "Vogue holiday editorial, cinematic glow, ultra high quality",
+"color_palette": [
+"blush pink",
+"champagne gold",
+"creamy white",
+"warm Christmas lights"
+],
+"reference_usage": "Strictly copy the facial appearance from the provided photo"
+},
+"camera_and_composition": {
+"angle": "3/4 front-side angle",
+"perspective": "Slightly elevated but close-up perspective (NOT top view)",
+"viewpoint_simulation": "Standing near the rear-left corner of the car",
+"framing_constraint": "Top trunk lid is NOT visible in the frame",
+"lens_effect": "Shallow depth of field (DOF)"
+},
+"subject_details": {
+"demographics": "Stylish young woman",
+"pose": {
+"body": "Reclining in the trunk, leaning on one arm",
+"legs": "Playfully slightly bent and extended to the side, one leg raised"
+},
+"expression": {
+"mouth": "Soft smile",
+"eyes": "Gazing slightly toward the camera",
+"vibe": "Confident, luxurious relaxation"
+},
+"wardrobe": {
+"outfit": "Soft pink winter suit with decorative elements",
+"headwear": "Fluffy white fur hat",
+"footwear": "Pink winter boots"
+}
+},
+"scene_elements": {
+"vehicle_prop": {
+"model": "Vintage Cadillac DeVille Convertible (1968–1972)",
+"paint_color": "Pastel Yellow custom paint",
+"state": "Trunk area completely open at the bottom"
+},
+"trunk_contents": {
+"general_items": [
+"White fur coat",
+"Numerous gifts in pink and white palette"
+],
+"specific_branding": "One large pink box neatly labeled \'neiro_ellen\' (integrated like a brand logo)"
+},
+"immediate_surroundings": {
+"feature": "Large Christmas tree behind and to the side of the girl",
+"decorations": ["Golden balls", "garlands", "warm lights"],
+"interaction": "Branches lean slightly into the trunk creating festive chaos"
+},
+"background_environment": {
+"location": "Winter New York street with brownstones",
+"atmospheric_details": [
+"Warm light from windows",
+"Light snowfall",
+"Glistening wet pavement"
+]
+},
+"lighting": "Warm Christmas lights creating cinematic glow"
+}
+}
+```
+
+---
+
+### [Gemini Nano Banana 3.0 黑白烹饪](https://aiart.pics/prompt/cooking-with-gemini-nano-banana-3-0-in-black-and-white)
+
+**作者**: [@Melisa♡](https://x.com/xmliisu)
+
+**来源**: [X](https://x.com/xmliisu/status/1992790286498418771)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/cooking-with-gemini-nano-banana-3-0-in-black-and-white-1.jpg" width="500" alt="Gemini Nano Banana 3.0 黑白烹饪">
+
+```json
+Gemini Nano Banana 3.0 is Cooking
+Prompt:
+{
+"generation_parameters": {
+"dimensions": "1200x1200px",
+"output_mode": "Black and White",
+"quality_preset": "Ultra-realistic 4KHD",
+"reference_constraints": {
+"facial_fidelity": "Strictly preserve facial features of the woman from the input image",
+"composition": "Strictly follow angle and framing of the reference image"
+}
+},
+"visual_style": {
+"aesthetic": "Gothic-elegant, Luxury, Classic Seduction",
+"lighting": {
+"sources": "Multiple chandeliers, table candelabras, lit candles",
+"type": "Warm cinematic lighting, soft side lighting",
+"contrast": "High contrast, deep shadows vs illuminated skin"
+},
+"textures": "Smooth skin, lace details, sharp focus"
+},
+"character_details": {
+"woman_protagonist": {
+"appearance": {
+"hair": "Long, straight dark brown with soft waves",
+"eyes": "Brown, intense and seductive",
+"skin": "Smooth, no tattoos, prominent freckles on nose and cheeks (visible in B&W)"
+},
+"wardrobe": {
+"main_garment": "Elegant black off-the-shoulder dress with corset-style bodice",
+"accessories": "Long sheer black lace gloves (fitted), intricate lace stockings",
+"footwear": "Discreet black high-heeled shoes"
+},
+"pose": {
+"placement": "Sitting on the man\'s lap, leaning slightly towards him",
+"gestures": "One hand on her chest/neck (sensual/dominant), legs crossed",
+"proximity": "Face inches away from the man"
+},
+"expression": "Looking directly at camera, conveying control and sensuality"
+},
+"man_supporting": {
+"appearance": {
+"hair": "Short and elegant"
+},
+"wardrobe": {
+"suit": "Black tailored suit",
+"shirt": "White dress shirt",
+"accessory": "Black tie"
+},
+"pose": {
+"placement": "Seated",
+"gestures": "Arms firmly around her waist and thighs",
+"gaze": "Looking upwards with a confident expression"
+}
+}
+},
+"environment": {
+"setting": "Grand dining area or ballroom",
+"background_elements": "Long table decorated with candelabras and flickering candles",
+"atmosphere": "Moody, intimate, luxurious, hazy"
+}
+}
+```
+
+---
+
+### [Gemini Nano Banana 3.0 Pro 高端时尚摄影](https://aiart.pics/prompt/gemini-nano-banana-3-0-pro-high-fashion-editorial-photography)
+
+**作者**: [@Melisa♡](https://x.com/xmliisu)
+
+**来源**: [X](https://x.com/xmliisu/status/1992578650978361392)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/gemini-nano-banana-3-0-pro-high-fashion-editorial-photography-1.jpg" width="500" alt="Gemini Nano Banana 3.0 Pro 高端时尚摄影">
+
+```json
+Gemini Nano Banana 3.0 Pro
+Prompt:
+{
+  "image_generation_parameters": {
+    "resolution": "1200x1200px",
+    "aspect_ratio": "1:1",
+    "reference_usage": "Preserve facial features from reference image strictly"
+  },
+  "visual_style": {
+    "genre": "High-fashion magazine editorial",
+    "technique": "Direct flash photography",
+    "atmosphere": "Glamorous, bold, nightlife aesthetic, paparazzi style",
+    "lighting": "Hard direct flash creating sharp shadows and high contrast against a dark background"
+  },
+  "subject_breakdown": {
+    "appearance": {
+      "hair": "Long dark wavy hair, voluminous and glossy",
+      "expression": "Confident, alluring, looking back over the shoulder",
+      "gaze": "Direct connection with the camera"
+    },
+    "pose": " perched elegantly on the armchair, twisting torso to look back",
+    "wardrobe": {
+      "garment": "Black lace ruffled two-piece outfit (top and bottom)",
+      "footwear": "Black high stiletto heels with signature red soles",
+      "accessories": "None specified other than props"
+    }
+  },
+  "environment_details": {
+    "setting": "Modern luxury living room interior",
+    "time_of_day": "Night",
+    "furniture": "Plush charcoal grey armchair",
+    "props": "Black designer handbag resting on the chair cushion beside the subject",
+    "background": "Dimly lit upscale interior, out of focus"
+  }
+}
+```
+
+---
 
 ### [Gemini Nano Banana 3.0 Pro - 独特造型摄影](https://aiart.pics/prompt/gemini-nano-banana-3-0-pro-unique-styling-photography)
 
@@ -24202,6 +27963,162 @@ ZenMux免费使用Nano banana 2，大家快冲啊：https://t.co/c3ozNblEbv
 
 ## Yaseen Khan Gul
 
+### [Gemini Nano Banana 3.0 三联肖像](https://aiart.pics/prompt/gemini-nano-banana-3-0-triptych-portrait)
+
+**作者**: [@Yaseen Khan Gul](https://x.com/YaseenK7212)
+
+**来源**: [X](https://x.com/YaseenK7212/status/1992920950505963820)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/gemini-nano-banana-3-0-triptych-portrait-1.jpg" width="500" alt="Gemini Nano Banana 3.0 三联肖像">
+
+```json
+Gemini Nano Banana 3.0
+Prompt:
+{
+  "image_description": {
+    "type": "fragmented triptych portrait",
+    "composition": {
+      "layout": "three horizontal strips",
+      "alignment": "imperfectly aligned"
+    },
+    "facial_features": {
+      "top_strip": {
+        "focus": "sharp",
+        "features": "eyes looking directly at viewer"
+      },
+      "middle_strip": {
+        "focus": "heavy motion blur",
+        "features": "smeared facial contours"
+      },
+      "bottom_strip": {
+        "focus": "soft focus",
+        "features": "lips and chin"
+      }
+    },
+    "aesthetic": {
+      "style": "disjointed analog print"
+    },
+    "framing": {
+      "subject": "framed extremely close",
+      "coverage": "filling the entire frame"
+    }
+  }
+}
+```
+
+---
+
+### [奇幻飘渺的年轻人物](https://aiart.pics/prompt/magical-and-ethereal-young-person)
+
+**作者**: [@Yaseen Khan Gul](https://x.com/YaseenK7212)
+
+**来源**: [X](https://x.com/YaseenK7212/status/1992837816733069467)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/magical-and-ethereal-young-person-1.jpg" width="500" alt="奇幻飘渺的年轻人物">
+
+```json
+Gemini Nano Banana 3.0
+Prompt:
+{
+  "imageDescription": {
+    "style": "realistic",
+    "atmosphere": "magical and ethereal",
+    "subject": {
+      "person": {
+        "age": "young",
+        "bodyType": "midsize",
+        "hair": {
+          "length": "long",
+          "texture": "naturally flowing",
+          "movement": "gentle movement as if touched by wind"
+        },
+        "expression": {
+          "emotion": "ecstasy, joy",
+          "eyes": "closed",
+          "headPosition": "slightly tilted back",
+          "smile": "smiling"
+        }
+      }
+    },
+    "photoType": {
+      "camera": "disposable camera",
+      "focus": "close-up",
+      "ratio": "9:16"
+    }
+  }
+}
+```
+
+---
+
+### [Gemini Nano Banana 3.0 画面解析](https://aiart.pics/prompt/gemini-nano-banana-3-0-scene-analysis-7wj2fi)
+
+**作者**: [@Yaseen Khan Gul](https://x.com/YaseenK7212)
+
+**来源**: [X](https://x.com/YaseenK7212/status/1992636484562903443)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/gemini-nano-banana-3-0-scene-analysis-1.jpg" width="500" alt="Gemini Nano Banana 3.0 画面解析">
+
+```json
+Gemini Nano Banana 3.0
+Prompt:
+{
+  "scene": {
+    "shot_type": "high-angle, top-down cinematic",
+    "setting": "lush bed of green moss and wildflowers",
+    "characters": [
+      {
+        "role": "woman",
+        "position": "left",
+        "clothing": {
+          "dress": "vintage cream-colored dress with a square neckline",
+          "hat": "straw hat adorned with fresh pink roses and yellow daisies"
+        },
+        "appearance": {
+          "hair": "long dark wavy hair",
+          "expression": "gentle smile"
+        }
+      },
+      {
+        "role": "man",
+        "position": "right",
+        "clothing": {
+          "shirt": "crisp white Henley shirt",
+          "necklace": "silver chain necklace"
+        },
+        "appearance": {
+          "expression": "serene sleep"
+        }
+      }
+    ],
+    "details": {
+      "butterflies": {
+        "location": "resting on their clothing and the grass",
+        "color": "delicate pastel"
+      },
+      "flowers": [
+        "purple lavender",
+        "pink roses",
+        "yellow wildflowers"
+      ]
+    },
+    "lighting": {
+      "type": "dreamy and ethereal",
+      "effect": "dappled sunlight filtering through a forest canopy",
+      "shadows": "soft",
+      "glow": "warm golden glow on their faces"
+    },
+    "visual_style": {
+      "focus": "soft focus background",
+      "resolution": "8k",
+      "aesthetic": "romantic cottagecore"
+    }
+  }
+}
+```
+
+---
+
 ### [男性模特在屋顶消防梯上沉思](https://aiart.pics/prompt/male-model-contemplating-on-rooftop-fire-escape)
 
 **作者**: [@Yaseen Khan Gul](https://x.com/YaseenK7212)
@@ -24257,6 +28174,131 @@ Prompt A high-resolution 8K full-length portrait of an attractive man [reference
 
 ---
 
+### [夜间凌乱书桌上的Gemini Nano Banana 3.0](https://aiart.pics/prompt/gemini-nano-banana-3-0-on-a-cluttered-desk-at-night)
+
+**作者**: [@Yaseen Khan Gul](https://x.com/YaseenK7212)
+
+**来源**: [X](https://x.com/YaseenK7212/status/1992590973885432046)
+
+<img src="https://img1.aiart.pics/images/prompts/20251206/gemini-nano-banana-3-0-on-a-cluttered-desk-at-night-1.jpg" width="500" alt="夜间凌乱书桌上的Gemini Nano Banana 3.0">
+
+```json
+Gemini Nano Banana 3.0
+Prompt:
+{
+  "scene": {
+    "setting": "cluttered desk late at night",
+    "mood": "contemplative, bored",
+    "lighting": {
+      "ambient": "cool blue ambient light in the background",
+      "highlight": "soft, warm glow highlighting her face"
+    },
+    "camera": {
+      "shot": "candid, photorealistic",
+      "resolution": "8K",
+      "lens": "35mm",
+      "depth_of_field": "shallow",
+      "texture": "subtle grainy film",
+      "ratio": "9:16"
+    },
+    "subject": {
+      "gender": "female",
+      "appearance": {
+        "hair": {
+          "style": "messy ponytail",
+          "color": "not specified"
+        },
+        "clothing": [
+          "white graphic T-shirt",
+          "white wristwatch"
+        ],
+        "accessories": "wired earphones",
+        "expression": "bored or contemplative",
+        "pose": "left cheek on left hand, right hand on computer mouse",
+        "eyes": "gazing into space"
+      }
+    },
+    "desk_details": {
+      "items": [
+        "open notebooks",
+        "colorful stationery"
+      ]
+    }
+  }
+}
+```
+
+---
+
+### [Gemini Nano Banana 3.0 冬夜自拍](https://aiart.pics/prompt/gemini-nano-banana-3-0-winter-night-selfie)
+
+**作者**: [@Yaseen Khan Gul](https://x.com/YaseenK7212)
+
+**来源**: [X](https://x.com/YaseenK7212/status/1993584593060999627)
+
+<img src="https://img1.aiart.pics/images/prompts/20251205/gemini-nano-banana-3-0-winter-night-selfie-1.jpg" width="500" alt="Gemini Nano Banana 3.0 冬夜自拍">
+
+```json
+Gemini Nano Banana 3.0
+Prompt:
+{
+  "pose": {
+    "description": "She holds the camera with her left hand, positioned slightly below eye level, capturing her face from a confident upward angle; lips softly parted, expression calm yet intense."
+  },
+  "background": {
+    "description": "A dark winter night sky with faint, lightly frosted tree branches barely visible, adding a dramatic atmosphere."
+  },
+  "atmosphere": {
+    "description": "Cold, cinematic, and raw winter energy; a stylish modern snowy portrait with natural texture and detail."
+  },
+  "reference_style": {
+    "description": "Conceptual variant.",
+    "details": {
+      "shot": "A close-up outdoor selfie taken at night during heavy snowfall.",
+      "subject": "The woman’s facial features match the reference image exactly.",
+      "skin": {
+        "description": "Natural tone with visible, realistic skin texture. Her cheeks are slightly flushed from the cold."
+      },
+      "snow_details": {
+        "description": "Snowflakes rest on her lashes and hair."
+      },
+      "outfit": {
+        "description": "She wears a black faux-fur winter hat almost fully covered in snow, and a shiny black puffer jacket with snow dusted across the shoulders and collar."
+      },
+      "camera": {
+        "description": "She is taking the selfie with her left hand."
+      },
+      "lighting": {
+        "description": "Soft, cold night lighting from above and slightly in front, creating a subtle glow on her cheeks and gentle highlights on the jacket."
+      }
+    }
+  },
+  "negative_prompt": {
+    "description": [
+      "blurry face",
+      "altered facial features",
+      "incorrect facial structure",
+      "distorted proportions",
+      "extra limbs",
+      "extra fingers",
+      "missing fingers",
+      "deformed eyes",
+      "inaccurate expression",
+      "unrealistic skin texture",
+      "plastic skin",
+      "oversoftened skin",
+      "unnatural lighting",
+      "harsh shadows",
+      "artifacts",
+      "pixelation",
+      "low resolution"
+    ]
+  }
+}
+```
+
+---
+
 ### [Gemini 2.5 Nano Banana - 4K超写实数字摄影三联画](https://aiart.pics/prompt/gemini-2-5-nano-banana-4k-ultra-realistic-digital-photo-triptych)
 
 **作者**: [@Yaseen Khan Gul](https://x.com/YaseenK7212)
@@ -24273,6 +28315,59 @@ Panel 2 (Full Body Shot): A full-body shot captured from a high, looking-down ca
 Panel 3 (Close Up Shot): A tight close-up of the character's face, featuring a flat, distant gaze that evokes feelings of loneliness and longing. The background includes pine trees, the soft aurora glow, and visible snowfall.
 Technical Specifications: Captured with a Hasselblad X2D 100C camera and a Fujifilm GF 45mm f/2.8 R WR lens (to maintain quality across all perspectives). Soft, dim night lighting is used, with warm contrast from the fire in Panel 1. Focus on the textured puffer material, the soft snow, and the luminous quality of the aurora. Cinematic coloring with a strong emphasis on cold tones and melancholy atmosphere.
 Facial Constraint: Crucial: Use the attached photo as the subject reference. Maintain 100% identical facial features: do not alter the appearance of the eyes, hair, nose, lips, front bangs, and face shape from the source photo. The identity must be perfectly preserved across all three panels.
+```
+
+---
+
+### [Gemini Nano Banana 3.0 - 金色时光下的超写实湿肤特写](https://aiart.pics/prompt/hyper-realistic-close-up-portrait-of-gemini-nano-banana-3-0-in-golden-hour)
+
+**作者**: [@Yaseen Khan Gul](https://x.com/YaseenK7212)
+
+**来源**: [X](https://x.com/YaseenK7212/status/1993288440532611172)
+
+<img src="https://img1.aiart.pics/images/prompts/20251203/hyper-realistic-close-up-portrait-of-gemini-nano-banana-3-0-in-golden-hour-1.jpg" width="500" alt="Gemini Nano Banana 3.0 - 金色时光下的超写实湿肤特写">
+
+```json
+Gemini Nano Banana 3.0
+Prompt:
+{
+"prompt_title": "Hyper-realistic Close-up Portrait (Wet Skin, Golden Hour)",
+"style_and_quality": {
+"rendering_style": "Hyper-realistic close-up",
+"resolution": "8K",
+"focus": "Extremely shallow depth of field (DoF)",
+"aesthetic_effect": "Ultra-detailed cinematic effect, soft realistic contrast, golden tones and deep shadows"
+},
+"photography_equipment": {
+"camera": "Hasselblad H6D-400c",
+"lens": "100mm f/2.2 lens"
+},
+"composition_and_framing": {
+"framing": "Close-up",
+"subject_placement": "Captures only the left side of the face",
+"key_focus_point": "Eye in absolute focus with a crisp catchlight"
+},
+"subject_details": {
+"model_gender": "Woman",
+"facial_features_to_maintain": "Faithfully maintaining all facial features from reference photo, thick, well-defined eyebrow, long wet lashes",
+"skin_texture_emphasis": "Microtextural details, pores, freckles, natural texture of wet skin",
+"lips": "Full, slightly parted, and wet lips; texture highlighted by directional lighting"
+},
+"water_and_texture": {
+"skin_covering": "Skin covered in water droplets running down naturally",
+"highlights": "Vivid specular highlights due to light angle, moist reflections on the lips and nose"
+},
+"lighting_setup": {
+"type": "Simulated warm late afternoon light (Golden Hour)",
+"main_source": "Large side softbox",
+"fill_and_bounce": "Combined with a gold reflector",
+"effect": "Soft yet intense glow on the water on the woman\'s face, precisely highlights micro-details"
+},
+"hair_details": {
+"placement": "Wet strands of hair fall along the right side of the face",
+"interaction": "Clinging to the skin without altering any facial features"
+}
+}
 ```
 
 ---
@@ -24315,6 +28410,24 @@ pretty hilarious actually 😄 https://t.co/0Fg2DbX15C
 Nano Banana Proで漫画を作ってみました。
 少し文字をCanvaで修正しましたが、すごい性能ですね・・・
 「キラッと起動！ネオンだよ！」 https://t.co/9uQvWbDAsg
+```
+
+---
+
+## Yonslay_base_eth
+
+### [11月21日：Higgsfield AI 免费开放Google Nano Banana Pro图像模型](https://aiart.pics/prompt/november-21st-higgsfield-ai-grants-free-access-to-googles-nano-banana-pro-image-model)
+
+**作者**: [@Yonslay_base_eth](https://x.com/Yonslay_eth)
+
+**来源**: [X](https://x.com/Yonslay_eth/status/1992217632553246911)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/november-21st-higgsfield-ai-grants-free-access-to-googles-nano-banana-pro-image-model-1.jpg" width="500" alt="11月21日：Higgsfield AI 免费开放Google Nano Banana Pro图像模型">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/november-21st-higgsfield-ai-grants-free-access-to-googles-nano-banana-pro-image-model-2.jpg" width="500" alt="11月21日：Higgsfield AI 免费开放Google Nano Banana Pro图像模型">
+
+```
+November 21st @higgsfield_ai granted FREE access to Google's Nano Banana Pro Image model. The prompt: Create a grid of 4 different camera angles of [@]img1, [CAMERA ANGLE], that follow the same style and colour palette as [@]img1. Make the new shots unique. #Higgsfield #nanobana2 https://t.co/2yCzkeiicJ
 ```
 
 ---
@@ -24595,6 +28708,84 @@ Camera settings: f/1.8, ISO 200, 85mm lens,
 
 ## Zara
 
+### [牛仔衬衫自画像创作指南](https://aiart.pics/prompt/portrait-creation-guide-in-denim-shirt)
+
+**作者**: [@Zara](https://x.com/ZaraIrahh)
+
+**来源**: [X](https://x.com/ZaraIrahh/status/1992806778632085844)
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/portrait-creation-guide-in-denim-shirt-1.jpg" width="500" alt="牛仔衬衫自画像创作指南">
+
+<img src="https://img1.aiart.pics/images/prompts/20251209/portrait-creation-guide-in-denim-shirt-2.jpg" width="500" alt="牛仔衬衫自画像创作指南">
+
+```json
+Create a portrait of yourself in denim shirt using Gemini Nano Banana Pro.
+Prompt ⤵️
+{
+"photo": {
+"type": "editorial_fashion_photo",
+"quality": "8k photorealistic",
+"lens": "50mm shallow depth of field",
+"composition": "medium portrait, editorial framing, no text, no watermark",
+"face": {
+"preserve_original": true,
+"reference_match": true,
+"description": "The model\'s face must remain 100% identical to the provided reference picture in all facial features, proportions, makeup style, and expression."
+},
+"model_pose": {
+"position": "seated",
+"legs": "relaxed pose with one leg bent",
+"hands": "one hand supporting the head",
+"expression": "calm, minimalist mood"
+},
+"wardrobe": {
+"jacket": {
+"type": "cream shearling jacket",
+"texture": "shaggy, fluffy, tactile"
+},
+"shirt": {
+"type": "denim shirt",
+"layered": true
+},
+"pants": {
+"type": "light blue jeans"
+},
+"boots": {
+"type": "black leather Chelsea boots",
+"texture": "smooth polished leather"
+},
+"socks": {
+"color": "beige"
+}
+},
+"textures": {
+"emphasis": [
+"fluffy shearling fibers",
+"rugged denim fabric",
+"smooth leather boots",
+"visible seams",
+"visible stitches"
+]
+},
+"environment": {
+"backdrop": "clean light gray studio backdrop",
+"lighting": {
+"style": "soft natural studio lighting",
+"key_light": "gentle side key light",
+"fill_light": "subtle fill",
+"shadows": "soft shadows"
+}
+},
+"color_grade": {
+"type": "cinematic",
+"balance": "neutral warm-cool tone balance"
+}
+}
+}
+```
+
+---
+
 ### [使用Gemini Nano Banana Pro在Higgsfield AI上创作自画像](https://aiart.pics/prompt/create-a-self-portrait-in-dress-using-gemini-nano-banana-pro-on-higgsfield-ai)
 
 **作者**: [@Zara](https://x.com/ZaraIrahh)
@@ -24609,6 +28800,79 @@ Camera settings: f/1.8, ISO 200, 85mm lens,
 Create a portrait of yourself wearing any dress using Gemini Nano Banana Pro on @higgsfield_ai.
 Nano Banana Pro is unlimited for 1 year for everyone joining Higgsfield in the next 3 days with 65% OFF.
 Prompt ⤵️ https://t.co/ydCJ3w6CwZ
+```
+
+---
+
+### [用Nano Banana Pro创建维多利亚时代风格的自我画像](https://aiart.pics/prompt/create-victorian-portrait-nano-banana-pro)
+
+**作者**: [@Zara](https://x.com/ZaraIrahh)
+
+**来源**: [X](https://x.com/ZaraIrahh/status/1992762678989971671)
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/create-victorian-portrait-nano-banana-pro-1.jpg" width="500" alt="用Nano Banana Pro创建维多利亚时代风格的自我画像">
+
+<img src="https://img1.aiart.pics/images/prompts/20251208/create-victorian-portrait-nano-banana-pro-2.jpg" width="500" alt="用Nano Banana Pro创建维多利亚时代风格的自我画像">
+
+```json
+Create a portrait of yourself in Victorian gown using Nano Banana Pro
+Prompt ⤵️
+{
+  "transform": {
+    "face": {
+      "preserve_original": true,
+      "reference_match": true,
+      "description": "Use the exact same face as the uploaded reference image with identical facial features, proportions, and expression style."
+    },
+    "output_quality": "ultra-detailed 64K DSLR shot, hyper-realistic texture clarity"
+  },
+  "subject": {
+    "description": "A beautiful woman with the same face as the reference image",
+    "pose": "full-body portrait, standing gracefully while looking off to her left with a soft, pensive expression",
+    "hair": {
+      "style": "elegant Victorian-style updo",
+      "visibility": "partially visible beneath the large hat"
+    },
+    "outfit": {
+      "dress": {
+        "type": "exquisite, elaborate Victorian/Rococo gown",
+        "color": "teal",
+        "details": "fitted bodice with ornate floral embroidery in pink and cream, puffed sleeves, high ruffled collar, layered skirt with rich fabric texture"
+      },
+      "hat": {
+        "type": "large ornate Victorian hat",
+        "adornments": [
+          "numerous pink roses",
+          "teal fabric decorations",
+          "soft ribbons and antique lace"
+        ]
+      },
+      "accessories": {
+        "earrings": "prominent pearl drop earrings",
+        "necklace": "refined pearl necklace matching the earrings"
+      }
+    },
+    "hands": {
+      "action": "holding a large bouquet of pink roses that matches the floral embellishments of her gown and hat"
+    }
+  },
+  "environment": {
+    "setting": "soft green outdoor background",
+    "focus": "shallow depth of field, background fully out-of-focus",
+    "lighting": "romantic, soft natural light enhancing gown texture and facial details",
+    "atmosphere": "dreamy, painterly, elegant, historical romance aesthetic"
+  },
+  "render": {
+    "engine": "Octane Render",
+    "game_engine": "Unreal Engine 5",
+    "style": "high-fidelity cinematic rendering with rich material detail, lifelike shading, and volumetric softness"
+  },
+  "aesthetic": {
+    "theme": "Victorian/Rococo luxury fashion",
+    "mood": "romantic, elegant, timeless",
+    "textures": "rich fabric depth, intricate embroidery, realistic floral texture, polished pearls"
+  }
+}
 ```
 
 ---
@@ -24902,6 +29166,56 @@ Create a 2000s Mirror Selfie of yourself using Gemini Nano Banana.
 
 ---
 
+### [雪地中与幼犬的肖像](https://aiart.pics/prompt/portrait-with-puppy-in-snow)
+
+**作者**: [@Zara](https://x.com/ZaraIrahh)
+
+**来源**: [X](https://x.com/ZaraIrahh/status/1993560252319776812)
+
+<img src="https://img1.aiart.pics/images/prompts/20251205/portrait-with-puppy-in-snow-1.jpg" width="500" alt="雪地中与幼犬的肖像">
+
+<img src="https://img1.aiart.pics/images/prompts/20251205/portrait-with-puppy-in-snow-2.jpg" width="500" alt="雪地中与幼犬的肖像">
+
+```json
+Create a portrait of yourself with puppy in snow using Gemini Nano Banana Pro.
+Prompt ⤵️
+{
+  "image_description": {
+    "subject": {
+      "face": {
+        "preserve_original": true,
+        "reference_match": true,
+        "description": "The girl’s facial features, expression, and identity must remain exactly the same as the reference image."
+      },
+      "girl": {
+        "age": "young",
+        "hair": "long, wavy brown hair",
+        "expression": "puckering her lips toward the camera",
+        "clothing": "black hooded sweatshirt"
+      },
+      "puppy": {
+        "type": "small white puppy",
+        "eyes": "light blue",
+        "expression": "calm, looking forward"
+      }
+    },
+    "environment": {
+      "setting": "outdoors in a winter scene",
+      "elements": [
+        "snow covering the ground",
+        "bare trees in the background",
+        "blurred silver car behind the girl"
+      ],
+      "sky": "clear light blue sky"
+    },
+    "mood": "cute, natural, winter outdoor moment",
+    "camera_style": "soft depth of field, natural daylight, subtle winter tones"
+  }
+}
+```
+
+---
+
 ### [艺术家自画像摄影](https://aiart.pics/prompt/artists-self-portrait-photography)
 
 **作者**: [@Zara](https://x.com/ZaraIrahh)
@@ -24959,6 +29273,27 @@ Without changing her original face, create a portrait of a beautiful young woman
 ```
 The [LANDMARK - Statue of Liberty/Eiffel Tower/Big Ben] perfectly carved and functional as a [FURNITURE_PIECE - lamp/bookshelf/coffee table], living room setting, normal scale furniture, photorealistic detail.
 [LANDMARK - 自由女神像/埃菲尔铁塔/大本钟]雕刻完美，功能强大，就像一个[FURNITURE_PIECE - 灯/书架/咖啡桌]，客厅设置，正常比例的家具，逼真的细节。
+```
+
+---
+
+## 关木
+
+### [谷歌Gemini🍌厉害](https://aiart.pics/prompt/google-gemini-is-impressive)
+
+**作者**: [@关木](https://x.com/ZeroZ_JQ)
+
+**来源**: [X](https://x.com/ZeroZ_JQ/status/1992766372166946908)
+
+<img src="https://img1.aiart.pics/images/prompts/20251206/google-gemini-is-impressive-1.jpg" width="500" alt="谷歌Gemini🍌厉害">
+
+<img src="https://img1.aiart.pics/images/prompts/20251206/google-gemini-is-impressive-2.jpg" width="500" alt="谷歌Gemini🍌厉害">
+
+<img src="https://img1.aiart.pics/images/prompts/20251206/google-gemini-is-impressive-3.jpg" width="500" alt="谷歌Gemini🍌厉害">
+
+```
+Google Gemini🍌厉害
+猫还是很可爱的。 https://t.co/DwBeFiv1ln
 ```
 
 ---
@@ -25789,6 +30124,21 @@ ZH25O｜创意系列｜Gemini 2.5 Flash Image
 可以用来整活，比如最终进化为一个香蕉哈哈哈哈哈哈
 ZH25O｜创意系列｜Gemini 2.5 Flash Image
 【Prompt】⬇️ https://t.co/1Xl34WfYQh
+```
+
+---
+
+### [一张高分辨率的户外全身照](https://aiart.pics/prompt/high-resolution-outdoor-full-body-shot)
+
+**作者**: [@-Zho-](https://x.com/ZHO_ZHO_ZHO)
+
+**来源**: [X](https://x.com/ZHO_ZHO_ZHO/status/1992905971891597520)
+
+<img src="https://img1.aiart.pics/images/prompts/20251201/high-resolution-outdoor-full-body-shot.jpeg" width="500" alt="一张高分辨率的户外全身照">
+
+```
+A high-resolution, full outdoor shot of a young East Asian woman with a radiant smile, captured from the chest up. She stands under bright, direct sunlight, casting strong, defined shadows from the brick building behind her. Her dark, wavy, and voluminous hair is styled with subtle curls, and a pair of white-framed round sunglasses are pushed up onto her head. She has fair, smooth skin, bright, upturned dark eyes, a delicate nose, and a wide, open-mouthed smile revealing her upper teeth. Her lips are a natural, soft pink. She wears a fitted, red scoop-neck tank top that is slightly cropped, revealing a hint of her midriff and navel. A delicate silver chain with a small cross pendant adorns her neck. A black strap from a backpack or shoulder bag is visible over her left shoulder. Her right hand, with slender fingers and light nail polish, holds a vibrant, glossy red spherical object, resembling a cherry or lollipop. The background features a reddish-brown brick building with repetitive architectural columns or pilasters, topped with light-colored caps, creating strong vertical shadows. The setting is a sunny urban sidewalk with light-colored paving. The overall aesthetic is cheerful, vibrant, and natural with a focus on sharp detail and warm lighting.
+这是一张高分辨率的户外全身照，拍摄对象是一位笑容灿烂的年轻东亚女性，镜头从胸部以上捕捉。她站在明媚的阳光下，身后的砖砌建筑投下清晰的阴影。她一头浓密的深色波浪卷发，略带卷曲，一副白色圆框太阳镜被推到头顶。她拥有白皙光滑的肌肤，明亮上扬的深色眼睛，精致的鼻子，以及灿烂的笑容，露出上排牙齿。她的嘴唇是自然柔和的粉红色。她穿着一件修身的红色圆领露脐背心，隐约露出小腹和肚脐。一条精致的银项链，上面挂着一个小十字架吊坠。她的左肩上斜挎着一条黑色肩带，可能是背包或单肩包的。她纤细的右手涂着浅色指甲油，手里拿着一个鲜艳的亮红色球形物体，看起来像樱桃或棒棒糖。背景是一栋红棕色砖砌建筑，重复的建筑立柱或壁柱顶端饰以浅色柱帽，营造出强烈的垂直阴影。场景设定在阳光明媚的城市人行道上，铺着浅色路面。整体美感明快、充满活力且自然，注重清晰的细节和温暖的光线。
 ```
 
 ---
