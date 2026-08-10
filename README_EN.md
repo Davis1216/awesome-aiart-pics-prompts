@@ -18912,6 +18912,86 @@ Prompt 👇
 
 ---
 
+### [Raw Candid Flash-style Mirror Photograph of a Young Woman](https://aiart.pics/prompt/raw-candid-flash-style-mirror-photograph-young-woman)
+
+**Author**: [@ΛRMIN | AI](https://x.com/Arminn_Ai)
+
+**Source**: [X](https://x.com/Arminn_Ai/status/1999784969363681297/photo/1)
+
+<img src="https://img1.aiart.pics/images/prompts/20251217/raw-candid-flash-style-mirror-photograph-young-woman-1.jpg" width="500" alt="Raw Candid Flash-style Mirror Photograph of a Young Woman">
+
+<img src="https://img1.aiart.pics/images/prompts/20251217/raw-candid-flash-style-mirror-photograph-young-woman-2.jpg" width="500" alt="Raw Candid Flash-style Mirror Photograph of a Young Woman">
+
+```json
+Nano Banana Pro 📸
+prompt:
+{
+  "intent": "a raw candid flash-style mirror photograph of a young woman.",
+  "frame": {
+    "aspect_ratio": "4:5 vertical",
+    "composition": "mirror reflection, subject framed thighs-up on vanity counter, foreground clutter for depth",
+    "style_mode": [
+      "snapshot_aesthetic",
+      "raw_flash_photography",
+      "analog_film_emulation"
+    ]
+  },
+  "subject": {
+    "identity": "young woman, early 20s, slender, messy loose-updo hair",
+    "wardrobe": "vintage silk slip dress with lace trim",
+    "pose": "seated casually on bathroom counter, leaning forward toward mirror, legs relaxed or crossed",
+    "expression": "detached cool look, lips slightly parted, gaze at reflection or camera"
+  },
+  "environment": {
+    "location": "compact tiled residential bathroom with vanity mirror",
+    "atmosphere": "intimate late-night private moment",
+    "details": "cluttered counter with cosmetics, brushes, toiletries",
+    "mirror_elements": "smudges, water spots, optional lipstick writing"
+  },
+  "camera": {
+    "sensor_format": "35mm film emulation (Kodak Gold 400 or Cinestill 800T)",
+    "lens": "35mm wide-angle point-and-shoot with slight distortion",
+    "aperture_depth_of_field": "f/5.6–f/8 for sharp subject and background",
+    "shutter_speed": "1/60s flash sync",
+    "iso": 800,
+    "camera_position": "eye-level toward mirror reflection"
+  },
+  "lighting": {
+    "type": "direct on-camera flash + ambient tungsten",
+    "key_light": "hard frontal flash with harsh shadows and specular highlights",
+    "fill_light": "warm dim tungsten cast",
+    "contrast": "high contrast with strong fall-off",
+    "color_temperature": "5500K flash + 3200K ambient"
+  },
+  "post_process": {
+    "color_grade": "vintage film, lifted blacks, green-tinted shadows, saturated reds",
+    "sharpness": "moderate with film grain and flash softness",
+    "vignette": "natural flash fall-off at edges"
+  },
+  "negative": {
+    "style": [
+      "no studio lighting",
+      "no softbox",
+      "no 3D render",
+      "no cartoon",
+      "no anime",
+      "no illustration",
+      "no painting",
+      "no airbrushed skin"
+    ],
+    "content": [
+      "no clean minimalist spaces",
+      "no perfect posture",
+      "no happy expressions",
+      "no daylight",
+      "no LED aesthetics"
+    ]
+  }
+}
+```
+
+---
+
 ### [Vintage Found-Footage Photograph in 1870s Style](https://aiart.pics/prompt/vintage-found-footage-photograph-1870s-style)
 
 **Author**: [@ΛRMIN | AI](https://x.com/Arminn_Ai)
@@ -81514,6 +81594,59 @@ Prompt:
 
 ---
 
+### [Gemini Nano Banana Pro - Young Woman Portrait](https://aiart.pics/prompt/gemini-nano-banana-pro-young-woman-portrait)
+
+**Author**: [@Lex](https://x.com/lexx_aura)
+
+**Source**: [X](https://x.com/lexx_aura/status/2003044060680892497)
+
+<img src="https://img1.aiart.pics/images/prompts/20251223/gemini-nano-banana-pro-young-woman-portrait-1.jpg" width="500" alt="Gemini Nano Banana Pro - Young Woman Portrait">
+
+```json
+Gemini Nano Banana Pro
+Prompt:
+{
+"prompt_structure": {
+"subject": {
+"description": "Young woman with light skin tone",
+"hair": "Long, voluminous dark brunette hair, styled in loose waves, center part, reaching past shoulders",
+"face": "Oval face shape, light-colored eyes (appearing green or grey), soft makeup with defined eyeliner and neutral glossy lips",
+"expression": "Neutral, alluring gaze, direct eye contact with the camera"
+},
+"clothing": {
+"type": "Slip dress / Chemise",
+"color": "Vibrant red",
+"material": "Satin or silk finish with a glossy sheen",
+"details": "Spaghetti straps, V-neckline with scalloped lace trim, lace detailing near the hem, mini length",
+"accessories": "Small silver pendant necklace, ring on ring finger of left hand"
+},
+"pose": {
+"stance": "Leaning backward against a bathroom vanity counter",
+"arms": "Arms extended downward, hands gripping or resting on the edge of the marble countertop",
+"orientation": "Front-facing"
+},
+"environment": {
+"setting": "Modern luxury bathroom",
+"elements": [
+"White marble countertop",
+"Dark wood vanity cabinetry",
+"Large wall mirror behind subject",
+"Circular magnifying mirror on a gold/brass stand",
+"Glass shower door/enclosure in background"
+],
+"reflections": "Subject\'s back and hair visible in the large mirror behind her"
+},
+"lighting_and_style": {
+"lighting": "Direct flash photography, bright front illumination with slight shadows behind the subject",
+"aesthetic": "Influencer lifestyle, candid snapshot, high-fidelity, \'night out\' preparation vibe",
+"color_palette": "Red, warm skin tones, cool whites and dark browns in background"
+}
+}
+}
+```
+
+---
+
 ### [Gemini Nano Banana Pro - Young Woman](https://aiart.pics/prompt/gemini-nano-banana-pro-young-woman)
 
 **Author**: [@Lex](https://x.com/lexx_aura)
@@ -81557,6 +81690,54 @@ Prompt:
 "focus": "Sharp focus on the face with a shallow depth of field; feet in the foreground are heavily blurred (bokeh effect)",
 "aesthetic": "Candid, casual, cozy, warm tones"
 }
+}
+```
+
+---
+
+### [Gemini Nano Banana Pro - Young Woman Selfie](https://aiart.pics/prompt/gemini-nano-banana-pro-young-woman-selfie)
+
+**Author**: [@Lex](https://x.com/lexx_aura)
+
+**Source**: [X](https://x.com/lexx_aura/status/2002985274352230574)
+
+<img src="https://img1.aiart.pics/images/prompts/20251223/gemini-nano-banana-pro-young-woman-selfie-1.jpg" width="500" alt="Gemini Nano Banana Pro - Young Woman Selfie">
+
+```json
+Gemini Nano Banana Pro
+Prompt:
+{
+  "image_prompt_data": {
+    "subject": {
+      "demographics": "Young woman, fair complexion, roughly 20s",
+      "hair": "Long, dark brown hair with loose waves, center part, draping over shoulders",
+      "eyes": "Blue-grey eyes, direct gaze into camera",
+      "face": "Soft facial features, hand resting gently on left cheek, slight smile",
+      "makeup": "Rosy pink blush on cheeks and nose, soft pink lip color, small pearl or rhinestone accents placed under the center of each eye"
+    },
+    "apparel": {
+      "top": "White semi-sheer floral lace top, scoop neckline, ribbon tie front detail, scalloped lace edges, cottagecore/coquette aesthetic",
+      "jewelry": "Gold chain necklace with a puffed heart pendant, simple silver ring on left hand ring finger"
+    },
+    "pose_and_framing": {
+      "type": "High-angle selfie",
+      "composition": "Medium shot, looking up at the camera, angled slightly downwards",
+      "gesture": "Left hand resting against jawline/cheek"
+    },
+    "environment": {
+      "setting": "Indoor casual living space",
+      "background_elements": [
+        "Light wood acoustic guitar hanging on a white wall",
+        "Wicker side table or furniture structure",
+        "Black television remote control resting on wicker surface",
+        "Dark grey textured curtain on the right side"
+      ]
+    },
+    "lighting_and_style": {
+      "lighting": "Soft, diffused natural daylight coming from the front/side",
+      "aesthetic": "Soft girl, coquette, casual, candid, social media snapshot style"
+    }
+  }
 }
 ```
 
@@ -82444,6 +82625,102 @@ Prompt:
 ]
 }
 }
+}
+```
+
+---
+
+### [Gemini Nano Banana Pro - Young Woman Portrait](https://aiart.pics/prompt/gemini-nano-banana-pro-young-woman-portrait)
+
+**Author**: [@Lex](https://x.com/lexx_aura)
+
+**Source**: [X](https://x.com/lexx_aura/status/1998404835138564143)
+
+<img src="https://img1.aiart.pics/images/prompts/20251213/gemini-nano-banana-pro-young-woman-portrait-1.jpg" width="500" alt="Gemini Nano Banana Pro - Young Woman Portrait">
+
+```json
+Gemini Nano Banana Pro
+Prompt:
+{
+  "subject": {
+    "type": "Young woman",
+    "appearance": {
+      "hair": {
+        "color": "Auburn / Copper red",
+        "texture": "Thick, wavy, slightly frizzy natural texture",
+        "style": "Loose, voluminous, side-parted, backlit with a golden halo effect"
+      },
+      "skin": {
+        "tone": "Pale with pink/warm undertones",
+        "details": "Prominent natural freckles across nose and cheeks, visible beauty marks/moles on the neck and left forearm, realistic skin pores"
+      },
+      "facial_features": {
+        "eyes": "Piercing blue-green, almond-shaped",
+        "eyebrows": "Thick, natural, brushed-up texture, reddish-brown",
+        "nose": "Button nose, slightly upturned",
+        "lips": "Full, natural rose color, slightly parted mouth"
+      },
+      "makeup": {
+        "eyes": "Heavy shimmering copper/bronze glitter eyeshadow, mascara on top and bottom lashes",
+        "face": "Dewy finish, natural blush",
+        "lips": "Clear glossy balm"
+      }
+    },
+    "pose": {
+      "type": "Intimate Portrait",
+      "hands": {
+        "position": "Framing face; Right hand (top) curled against cheek, Left hand (bottom) resting under chin/neck",
+        "nails": "Short, manicured, clear/nude polish"
+      },
+      "expression": "Vulnerable, intense, alluring, direct eye contact"
+    }
+  },
+  "styling": {
+    "clothing": {
+      "type": "Black sleeveless top or dress",
+      "details": "Barely visible, straps blending into shadow"
+    },
+    "accessories": {
+      "right_hand": {
+        "rings": "Stack of two distinct silver bands with inset stones on ring finger",
+        "bracelet": "Delicate diamond tennis bracelet"
+      },
+      "left_hand": {
+        "rings": "Wide, statement pave-set diamond/crystal band on ring finger",
+        "wrist": "Black leather strap watch with silver casing"
+      }
+    }
+  },
+  "setting": {
+    "environment": "Dimly lit indoor space, possibly a bedroom or lounge",
+    "background_objects": " blurred warm lamp shade visible in bottom right corner",
+    "tones": "Dark warm browns, ambers, and deep blacks"
+  },
+  "technical_details": {
+    "camera_gear": {
+      "camera": "Sony A7R IV or Canon R5",
+      "lens": "85mm f/1.2 prime lens (Portrait focal length)",
+      "filter": "Tiffen Glimmerglass 1 (to bloom highlights and soften skin details)"
+    },
+    "lighting_setup": {
+      "style": "Cinematic Warm Tungsten",
+      "key_light": "Soft warm light source from front-left (creating highlights on face/hair)",
+      "fill": "Negative fill on right side (creating deep contrast/shadows)",
+      "backlight": "Subtle hair light creating a glow on the loose curls",
+      "pattern": "Rembrandt-style lighting on the face"
+    },
+    "composition": {
+      "framing": "Close-up",
+      "angle": "Eye-level",
+      "aspect_ratio": "3:4 (Portrait)",
+      "focus": "Sharp focus on eyes, soft fall-off on hands and hair"
+    },
+    "post_processing": {
+      "color_grade": "Golden Hour / Tungsten interior warmth",
+      "contrast": "High contrast with crushed shadows",
+      "grain": "ISO 800 film grain added for texture"
+    }
+  }
 }
 ```
 
@@ -133114,6 +133391,21 @@ A candid, raw smartphone selfie photo of a 「uploaded woman」, sitting at an o
 
 ## Sidona
 
+### [So cute](https://aiart.pics/prompt/so-cute)
+
+**Author**: [@Sidona](https://x.com/sidona)
+
+**Source**: [X](https://x.com/sidona/status/2006544736082104447)
+
+<img src="https://img1.aiart.pics/images/prompts/20260101/so-cute-1.jpg" width="500" alt="So cute">
+
+```
+这张好可爱！！！！
+soooooooooooo cute
+```
+
+---
+
 ### [OpenAI Logo](https://aiart.pics/prompt/openai-logo)
 
 **Author**: [@Sidona](https://x.com/sidona)
@@ -165991,6 +166283,71 @@ Prompt:
 
 ---
 
+### [Gemini Nano Banana Pro - Young Woman Selfie](https://aiart.pics/prompt/gemini-nano-banana-pro-young-woman-selfie)
+
+**Author**: [@Melisa♡](https://x.com/xmliisu)
+
+**Source**: [X](https://x.com/xmliisu/status/2004839475080315342)
+
+<img src="https://img1.aiart.pics/images/prompts/20251227/gemini-nano-banana-pro-young-woman-selfie-1.jpg" width="500" alt="Gemini Nano Banana Pro - Young Woman Selfie">
+
+```json
+Gemini Nano Banana Pro
+Prompt:
+{
+  "prompt_data": {
+    "subject": {
+      "appearance": "Young woman with light skin tone, blonde hair pulled back into a high ponytail with loose strands framing the face, rosy cheeks, visible small tattoo on the side of the neck/behind ear.",
+      "body_type": "Fit, curvy physique.",
+      "accessories": "Gold ring on ring finger, gold anklet."
+    },
+    "clothing": {
+      "top": "Black long-sleeved tight-fitting compression top or bodysuit.",
+      "bottom": "Black tight-fitting mini shorts (booty shorts).",
+      "footwear": "Barefoot (pink Crocs visible on the floor nearby)."
+    },
+    "pose_and_action": {
+      "posture": "Kneeling on a white fluffy rug, body turned in profile to the mirror, back arched fully.",
+      "action": "Taking a mirror selfie with a smartphone, right hand holding the phone, left hand resting gently on chest/collarbone.",
+      "gaze": "Looking at the phone screen/mirror reflection."
+    },
+    "environment": {
+      "setting": "Modern bedroom or dressing room.",
+      "furniture": "White modern shelving unit/drawers on the left, white vanity chair with gold legs in background.",
+      "decor": "White fluffy area rug (shag carpet), pink artwork/poster on the wall.",
+      "objects": "Pink Crocs on the rug, clutter on dresser (cups, toiletries), smartphone with a black case covered in planet/space stickers."
+    },
+    "lighting": {
+      "type": "Soft indoor diffused lighting.",
+      "source": "Natural light mix with room ambience.",
+      "quality": "Even illumination, soft shadows, flattering skin tones."
+    },
+    "styling_and_mood": {
+      "aesthetic": "Influencer lifestyle, casual at-home aesthetic, Gen Z style.",
+      "mood": "Relaxed, confident, candid, selfie mode."
+    },
+    "technical_specs": {
+      "camera_simulation": "iPhone rear camera or high-end mirrorless mimicking a mirror selfie.",
+      "focal_length": "24mm (wide angle)",
+      "aperture": "f/2.0",
+      "quality_tags": [
+        "Ultra Photorealistic",
+        "8k resolution",
+        "Raw photo",
+        "Hyper-detailed skin texture",
+        "Masterpiece",
+        "Sharp focus",
+        "Nano Banana Pro optimized",
+        "High fidelity",
+        "Depth of field"
+      ]
+    }
+  }
+}
+```
+
+---
+
 ### [Gemini Nano Banana Pro - Young Woman's Casual Home Photo](https://aiart.pics/prompt/gemini-nano-banana-pro-young-woman-casual-home)
 
 **Author**: [@Melisa♡](https://x.com/xmliisu)
@@ -166451,6 +166808,56 @@ Prompt:
     "shadows": "soft shadows behind subjects"
   },
   "atmosphere": "festive, energetic, joyous, celebratory, humorous"
+}
+```
+
+---
+
+### [Gemini Nano Banana Pro - Young Woman Portrait](https://aiart.pics/prompt/gemini-nano-banana-pro-young-woman-portrait)
+
+**Author**: [@Melisa♡](https://x.com/xmliisu)
+
+**Source**: [X](https://x.com/xmliisu/status/2003364918125355227)
+
+<img src="https://img1.aiart.pics/images/prompts/20251224/gemini-nano-banana-pro-young-woman-portrait-1.jpg" width="500" alt="Gemini Nano Banana Pro - Young Woman Portrait">
+
+```json
+Gemini Nano Banana Pro
+Prompt:
+{
+"image_prompt": {
+"subject": {
+"type": "Young woman",
+"appearance": {
+"hair": "Sleek blonde hair pulled back into a tight bun",
+"skin": "Glowing, tanned complexion",
+"expression": "Playful \'kissy face\' with puckered lips"
+}
+},
+"attire": {
+"dress": {
+"color": "Nude / Beige",
+"style": "Halter neck with a central keyhole cutout at the chest",
+"texture": "Embellished with small sparkling rhinestones or crystals throughout"
+},
+"outerwear": "White plush faux-fur coat or stole, draped loosely around the elbows and forearms"
+},
+"accessories": {
+"eyewear": "Small, sleek rectangular black sunglasses",
+"jewelry": "Thick gold hoop earrings"
+},
+"action": {
+"pose": "Sitting relaxed on a sofa",
+"interaction": "Holding a coupe cocktail glass filled with amber liquid in the right hand, raised slightly"
+},
+"setting": {
+"location": "Indoors, likely a lounge or club",
+"background": "Grey curtain drapes",
+"furniture": "White textured sofa",
+"lighting": "Direct flash photography style with hard shadows behind the subject"
+},
+"mood": "Glamorous, chic, night-luxe, confident"
+}
 }
 ```
 
